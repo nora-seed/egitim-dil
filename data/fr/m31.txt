@@ -1,0 +1,584 @@
+Modül 31 — Subjonctif Şüphe ve Olasılık
+Seviye: B1. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+Subjonctif Şüphe ve Olasılık konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt
+etmeye yardım eder.
+
+Konunun mantığı
+Şüphe, imkânsızlık ve öznel olasılık + que + subjonctif; olumlu kesinlik bildiren penser/croire genellikle
+indicatif alır.
+
+Türkçe ile karşılaştırma
+Türkçe “sanmıyorum” anlamı kip seçimini değiştirir.
+
+Formül / Kural
+Temel şema: Şüphe, imkânsızlık ve öznel olasılık + que + subjonctif; olumlu kesinlik bildiren penser/croire
+genellikle indicatif alır.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+Je pense qu'il vient [jı pans kil vyen] — Sanırım geliyor
+
+2. örüntü
+
+bağlam
+
+Je ne pense pas qu'il vienne [jı nı pans pa kil vyen] — Geleceğini sanmıyorum
+
+3. örüntü
+
+telaffuz
+
+Il est possible qu'elle soit là [il e posibl kel swa la] — Orada olması mümkün
+
+Ayrıntılı konu anlatımı
+Kesinlik ve olumsuzluk
+Je pense qu'il vient [ʒə pɑ̃ s kil vjɛ̃] — Geldiğini düşünüyorum, çoğu kez indicatif; je ne pense pas qu'il
+vienne [ʒə nə pɑ̃ s pa kil vjɛn] — Geldiğini sanmıyorum, sıklıkla subjonctif. Il est possible qu'il vienne [il ɛ
+pɔsibl kil vjɛn] — Gelmesi mümkün; il est probable qu'il viendra [il ɛ pʁɔbabl kil vjɛ̃dʁa] — Gelmesi
+muhtemel: probable çoğu zaman indicatif alır.
+Kip seçimi sadece “eminim/emin değilim” ikiliğine indirgenmez; ifade ve bağlam önemlidir. J'espère qu'il
+viendra [ʒɛspɛʁ kil vjɛ̃dʁa] — Umarım gelecek, normalde indicatif futur alır.
+
+On örnek
+1. Je pense qu'il vient [jı pans kil vyen] — Sanırım geliyor
+2. Je ne pense pas qu'il vienne [jı nı pans pa kil vyen] — Geleceğini sanmıyorum
+3. Il est possible qu'elle soit là [il e posibl kel swa la] — Orada olması mümkün
+4. Il est impossible qu'il ait raison [il e enposibl kil e rezon] — Haklı olması imkânsız
+5. Je doute qu'il sache [jı dut kil saş] — Bildiğinden şüpheliyim
+6. Il se peut qu'elle arrive [il sı pö kel ariv] — Gelebilir
+
+1
+
+7. Je suis surpris que tu sois ici [jı süi sürpri kı tü swa isi] — Burada olmana şaşırdım
+8. Je regrette qu'il parte [jı rıgret kil part] — Gitmesine üzülüyorum
+9. Je crois qu'elle travaille [jı krwa kel travay] — Sanırım çalışıyor
+10. Je ne crois pas qu'elle travaille [jı nı krwa pa kel travay] — Çalıştığını sanmıyorum.
+
+Yaygın hatalar
+Probable ile possible ifadelerinin kip seçimini eşitleme; tetikleyiciyi kontrol et.
+
+Ezber tekniği
+Bir iddiayı emin, şüpheli ve imkânsız biçimde üç ayrı cümlede anlat.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 41. Spiral tekrar: 26. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+je doute que [ʒə dut kə]
+
+...dığından şüpheliyim
+
+je ne crois pas que [ʒə nɔʁɛst kʁwa pa kə]
+
+...dığına inanmıyorum
+
+je ne pense pas que [ʒə nɔʁɛst pɑ̃ s pa kə]
+
+...dığını sanmıyorum
+
+il se peut que [il sə pøt kə]
+
+...olabilir
+
+il est impossible que [il ɛt ɛ̃pɔsibl kə]
+
+...olması imkânsız
+
+je suis surpris que [ʒə sɥiz syʁpʁi kə]
+
+...olmasına şaşırdım
+
+je regrette que [ʒə ʁəɡʁɛt kə]
+
+...olmasına üzgünüm
+
+la certitude [la sɛʁtityd]
+
+kesinlik
+
+l'impossibilité [lɛ̃pɔsibilite]
+
+imkânsızlık
+
+la croyance [la kʁwajɑ̃ s]
+
+inanç
+
+certain [sɛʁtɛ̃]
+
+kesin (eril)
+
+certaine [sɛʁtɛn]
+
+kesin (dişil)
+
+probable [pʁɔbablə]
+
+muhtemel
+
+douteux [dutø]
+
+şüpheli (eril)
+
+douteuse [dutøz]
+
+şüpheli (dişil)
+
+douter [dute]
+
+şüphe etmek
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+espérer [ɛspeʁe]
+
+umut etmek
+
+regretter [ʁəɡʁete]
+
+üzülmek
+
+surprendre [syʁpʁɑ̃ dʁ]
+
+şaşırtmak
+
+sembler [sɑ̃ ble]
+
+görünmek
+
+la présomption [la pʁezɔ̃ psjɔ̃ ]
+
+varsayım
+
+l'affirmation [lafiʁmasjɔ̃ ]
+
+iddia
+
+la réfutation [la ʁefytasjɔ̃ ]
+
+çürütme
+
+la réserve [la ʁezɛʁv]
+
+çekince
+
+le scepticisme [lə sɛptisism]
+
+şüphecilik
+
+l'évidence [levidɑ̃ s]
+
+açıklık/kanıt
+
+la preuve [la pʁœv]
+
+kanıt
+
+le témoignage [lə temwaɲaʒ]
+
+tanıklık
+
+la vraisemblance [la vʁɛsɑ̃ blɑ̃ s]
+
+olabilirlik
+
+l'appréciation personnelle [lapʁesjasjɔ̃ pɛʁsɔnɛl]
+
+kişisel değerlendirme
+
+la réaction [la ʁeaksjɔ̃ ]
+
+tepki
+
+l'étonnement [letɔnmɑ̃ ]
+
+şaşkınlık
+
+l'hésitation [lezitasjɔ̃ ]
+
+tereddüt
+
+la méfiance [la mefjɑ̃ s]
+
+güvensizlik
+
+la déception [la desɛpsjɔ̃ ]
+
+hayal kırıklığı
+
+la satisfaction [la satisfaksjɔ̃ ]
+
+memnuniyet
+
+la perplexité [la pɛʁplɛksite]
+
+şaşkınlık/kararsızlık
+
+vraisemblable [vʁɛsɑ̃ blabl]
+
+olası/güvenilir görünen
+
+contestable [kɔ̃ tɛstabl]
+
+tartışılabilir
+
+incertain [ɛ̃sɛʁtɛ̃]
+
+belirsiz
+
+plausible [plozibl]
+
+makul/olası
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+il est possible que [il ɛt pɔsibl kə]
+
+...olması mümkün
+
+le doute [lə dut]
+
+şüphe
+
+la possibilité [la pɔsibilite]
+
+olasılık
+
+la probabilité [la pʁɔbabilite]
+
+olasılık
+
+l'incertitude [lɛ̃sɛʁtityd]
+
+belirsizlik
+
+l'opinion [lɔpinjɔ̃ ]
+
+görüş
+
+le sentiment [lə sɑ̃ timɑ̃ ]
+
+duygu
+
+la surprise [la syʁpʁiz]
+
+şaşkınlık
+
+le regret [lə ʁəɡʁɛ]
+
+pişmanlık
+
+la joie [la ʒwa]
+
+sevinç
+
+la peur [la pœʁ]
+
+korku
+
+3
+
+Fransızca [IPA]
+
+Türkçe
+
+possible [pɔsibl]
+
+mümkün
+
+impossible [ɛ̃pɔsibl]
+
+imkânsız
+
+penser [pɑ̃ se]
+
+düşünmek
+
+croire [kʁwaʁ]
+
+inanmak
+
+savoir [savwaʁ]
+
+bilmek
+
+venir [vəniʁ]
+
+gelmek
+
+partir [paʁtiʁ]
+
+ayrılmak
+
+travailler [tʁavaje]
+
+çalışmak
+
+être [ɛtʁ]
+
+olmak
+
+avoir [avwaʁ]
+
+sahip olmak
+
+faire [fɛʁ]
+
+yapmak
+
+pouvoir [puvwaʁ]
+
+yapabilmek
+
+vouloir [vulwaʁ]
+
+istemek
+
+la négation [la neɡasjɔ̃ ]
+
+olumsuzlama
+
+la confiance [la kɔ̃ fjɑ̃ s]
+
+güven
+
+Mini alıştırma — 10 soru
+1. Sanırım geliyor anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Geleceğini sanmıyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Orada olması mümkün anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Haklı olması imkânsız anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Bildiğinden şüpheliyim anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Gelebilir anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Burada olmana şaşırdım anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. Gitmesine üzülüyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Sanırım çalışıyor anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Çalıştığını sanmıyorum. anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: Şüphe, imkânsızlık ve öznel olasılık + que + subjonctif; olumlu kesinlik bildiren penser/
+croire genellikle indicatif alır.
+• Türkçe karşılaştırması: Türkçe “sanmıyorum” anlamı kip seçimini değiştirir.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. Je pense qu'il vient
+2. Je ne pense pas qu'il vienne
+3. Il est possible qu'elle soit là
+
+4
+
+4. Il est impossible qu'il ait raison
+5. Je doute qu'il sache
+6. Il se peut qu'elle arrive
+7. Je suis surpris que tu sois ici
+8. Je regrette qu'il parte
+9. Je crois qu'elle travaille
+10. Je ne crois pas qu'elle travaille
+11. Sanırım geliyor
+12. Geleceğini sanmıyorum
+13. Orada olması mümkün
+14. Haklı olması imkânsız
+15. Bildiğinden şüpheliyim
+16. Gelebilir
+17. Burada olmana şaşırdım
+18. Gitmesine üzülüyorum
+19. Sanırım çalışıyor
+20. Çalıştığını sanmıyorum.
+21. Je pense qu'il vient: A) Sanırım geliyor B) Haklı olması imkânsız C) Burada olmana şaşırdım
+22. Je ne pense pas qu'il vienne: A) Bildiğinden şüpheliyim B) Gitmesine üzülüyorum C) Geleceğini
+sanmıyorum
+23. Il est possible qu'elle soit là: A) Sanırım çalışıyor B) Orada olması mümkün C) Gelebilir
+24. Il est impossible qu'il ait raison: A) Haklı olması imkânsız B) Burada olmana şaşırdım C) Çalıştığını
+sanmıyorum.
+25. Je doute qu'il sache: A) Gitmesine üzülüyorum B) Sanırım geliyor C) Bildiğinden şüpheliyim
+
+25 alıştırmanın çözümleri
+1. Sanırım geliyor — Fransızca kaynak ifade: Je pense qu'il vient [jı pans kil vyen] — Sanırım geliyor
+2. Geleceğini sanmıyorum — Fransızca kaynak ifade: Je ne pense pas qu'il vienne [jı nı pans pa kil vyen]
+— Geleceğini sanmıyorum
+3. Orada olması mümkün — Fransızca kaynak ifade: Il est possible qu'elle soit là [il e posibl kel swa la] —
+Orada olması mümkün
+4. Haklı olması imkânsız — Fransızca kaynak ifade: Il est impossible qu'il ait raison [il e enposibl kil e
+rezon] — Haklı olması imkânsız
+5. Bildiğinden şüpheliyim — Fransızca kaynak ifade: Je doute qu'il sache [jı dut kil saş] — Bildiğinden
+şüpheliyim
+6. Gelebilir — Fransızca kaynak ifade: Il se peut qu'elle arrive [il sı pö kel ariv] — Gelebilir
+7. Burada olmana şaşırdım — Fransızca kaynak ifade: Je suis surpris que tu sois ici [jı süi sürpri kı tü swa
+isi] — Burada olmana şaşırdım
+8. Gitmesine üzülüyorum — Fransızca kaynak ifade: Je regrette qu'il parte [jı rıgret kil part] — Gitmesine
+üzülüyorum
+9. Sanırım çalışıyor — Fransızca kaynak ifade: Je crois qu'elle travaille [jı krwa kel travay] — Sanırım
+çalışıyor
+10. Çalıştığını sanmıyorum. — Fransızca kaynak ifade: Je ne crois pas qu'elle travaille [jı nı krwa pa kel
+travay] — Çalıştığını sanmıyorum.
+
+5
+
+11. Je pense qu'il vient [jı pans kil vyen] — Sanırım geliyor — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+12. Je ne pense pas qu'il vienne [jı nı pans pa kil vyen] — Geleceğini sanmıyorum — Bu çeviride sözcük
+sırası ve varsa artikel örnekteki gibidir.
+13. Il est possible qu'elle soit là [il e posibl kel swa la] — Orada olması mümkün — Bu çeviride sözcük
+sırası ve varsa artikel örnekteki gibidir.
+14. Il est impossible qu'il ait raison [il e enposibl kil e rezon] — Haklı olması imkânsız — Bu çeviride
+sözcük sırası ve varsa artikel örnekteki gibidir.
+15. Je doute qu'il sache [jı dut kil saş] — Bildiğinden şüpheliyim — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+16. Il se peut qu'elle arrive [il sı pö kel ariv] — Gelebilir — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+17. Je suis surpris que tu sois ici [jı süi sürpri kı tü swa isi] — Burada olmana şaşırdım — Bu çeviride
+sözcük sırası ve varsa artikel örnekteki gibidir.
+18. Je regrette qu'il parte [jı rıgret kil part] — Gitmesine üzülüyorum — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+19. Je crois qu'elle travaille [jı krwa kel travay] — Sanırım çalışıyor — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+20. Je ne crois pas qu'elle travaille [jı nı krwa pa kel travay] — Çalıştığını sanmıyorum. — Bu çeviride
+sözcük sırası ve varsa artikel örnekteki gibidir.
+21. A — Je pense qu'il vient [jı pans kil vyen] — Sanırım geliyor
+22. C — Je ne pense pas qu'il vienne [jı nı pans pa kil vyen] — Geleceğini sanmıyorum
+23. B — Il est possible qu'elle soit là [il e posibl kel swa la] — Orada olması mümkün
+24. A — Il est impossible qu'il ait raison [il e enposibl kil e rezon] — Haklı olması imkânsız
+25. C — Je doute qu'il sache [jı dut kil saş] — Bildiğinden şüpheliyim
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. Je pense qu'il vient ne anlama gelir? A) Sanırım geliyor B) Orada olması mümkün C) Gelebilir
+2. Je ne pense pas qu'il vienne ne anlama gelir? A) Haklı olması imkânsız B) Burada olmana şaşırdım C)
+Geleceğini sanmıyorum
+3. Il est possible qu'elle soit là ne anlama gelir? A) Gitmesine üzülüyorum B) Orada olması mümkün C)
+Bildiğinden şüpheliyim
+4. Il est impossible qu'il ait raison ne anlama gelir? A) Haklı olması imkânsız B) Gelebilir C) Sanırım
+çalışıyor
+5. Je doute qu'il sache ne anlama gelir? A) Burada olmana şaşırdım B) Çalıştığını sanmıyorum. C)
+Bildiğinden şüpheliyim
+6. Boşluğu doldur: Il se ____ qu'elle arrive — Gelebilir
+7. Boşluğu doldur: Je suis surpris ____ tu sois ici — Burada olmana şaşırdım
+8. Boşluğu doldur: Je regrette ____ parte — Gitmesine üzülüyorum
+9. Boşluğu doldur: Je crois ____ travaille — Sanırım çalışıyor
+10. Boşluğu doldur: Je ne crois ____ qu'elle travaille — Çalıştığını sanmıyorum.
+11. Fransızcaya çevir: Sanırım geliyor
+12. Fransızcaya çevir: Geleceğini sanmıyorum
+
+6
+
+13. Fransızcaya çevir: Orada olması mümkün
+14. Şu anlam için verilen bozuk sıralamayı düzelt: raison / ait / qu'il / impossible / est / Il — Haklı olması
+imkânsız
+15. Şu anlam için verilen bozuk sıralamayı düzelt: sache / qu'il / doute / Je — Bildiğinden şüpheliyim
+
+Test cevap anahtarı
+1. A — Je pense qu'il vient [jı pans kil vyen] — Sanırım geliyor
+2. C — Je ne pense pas qu'il vienne [jı nı pans pa kil vyen] — Geleceğini sanmıyorum
+3. B — Il est possible qu'elle soit là [il e posibl kel swa la] — Orada olması mümkün
+4. A — Il est impossible qu'il ait raison [il e enposibl kil e rezon] — Haklı olması imkânsız
+5. C — Je doute qu'il sache [jı dut kil saş] — Bildiğinden şüpheliyim
+6. peut — Il se peut qu'elle arrive [il sı pö kel ariv] — Gelebilir
+7. que — Je suis surpris que tu sois ici [jı süi sürpri kı tü swa isi] — Burada olmana şaşırdım
+8. qu'il — Je regrette qu'il parte [jı rıgret kil part] — Gitmesine üzülüyorum
+9. qu'elle — Je crois qu'elle travaille [jı krwa kel travay] — Sanırım çalışıyor
+10. pas — Je ne crois pas qu'elle travaille [jı nı krwa pa kel travay] — Çalıştığını sanmıyorum.
+11. Je pense qu'il vient [jı pans kil vyen] — Sanırım geliyor
+12. Je ne pense pas qu'il vienne [jı nı pans pa kil vyen] — Geleceğini sanmıyorum
+13. Il est possible qu'elle soit là [il e posibl kel swa la] — Orada olması mümkün
+14. Il est impossible qu'il ait raison [il e enposibl kil e rezon] — Haklı olması imkânsız
+15. Je doute qu'il sache [jı dut kil saş] — Bildiğinden şüpheliyim
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: Je pense qu'il vient [jı pans kil vyen] — Sanırım geliyor
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: Je ne pense pas qu'il vienne [jı nı pans pa kil vyen] — Geleceğini sanmıyorum
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: Il est possible qu'elle soit là [il e posibl kel swa la] — Orada olması mümkün
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Il est impossible qu'il ait raison [il e enposibl kil e rezon] — Haklı olması imkânsız
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+7
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+8
+

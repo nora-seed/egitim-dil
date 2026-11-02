@@ -1,0 +1,477 @@
+Modül 11 — Şehirde Yön Bulma
+Seviye: A1. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+Şehirde Yön Bulma konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt etmeye
+yardım eder.
+
+Konunun mantığı
+Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile gidilir.
+
+Türkçe ile karşılaştırma
+Türkçe yönelme eki çoğu kez à ile karşılanır, ama yerin artikeli birleşir.
+
+Formül / Kural
+Temel şema: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile gidilir.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+Où est la gare ? [u e la gar] — Gar nerede?
+
+2. örüntü
+
+bağlam
+
+Tournez à gauche [turne a goş] — Sola dönün
+
+3. örüntü
+
+telaffuz
+
+Allez tout droit [ale tu drwa] — Düz gidin
+
+Ayrıntılı konu anlatımı
+Yol tarifi ve birleşmeler
+À + le = au [o] — -e/-a; à + les = aux [o] — çoğula yönelme. Je vais au musée [ʒə vɛ o myze] — Müzeye
+gidiyorum; je vais à la gare [ʒə vɛ a la gaʁ] — Gara gidiyorum. Où se trouve la gare ? [u sə tʁuv la gaʁ]
+— Gar nerede? (nötr/kibar). Tournez à droite [tuʁne a dʁwat] — Sağa dönün; continuez tout droit
+[kɔ̃ tinɥe tu dʁwa] — Düz devam edin.
+Bir bilet için Un billet pour Lyon, s'il vous plaît [œ̃ bijɛ puʁ ljɔ̃ sil vu plɛ] — Lyon'a bir bilet lütfen. Aller
+[ale] — gitmek fiilinin şimdiki zamanı düzensizdir: je vais [ʒə vɛ] — gidiyorum, tu vas [ty va] — gidiyorsun,
+il va [il va] — gidiyor, nous allons [nuzalɔ̃ ] — gidiyoruz, vous allez [vuzale] — gidiyorsunuz, ils vont [il
+vɔ̃ ] — gidiyorlar.
+
+On örnek
+1. Où est la gare ? [u e la gar] — Gar nerede?
+2. Tournez à gauche [turne a goş] — Sola dönün
+3. Allez tout droit [ale tu drwa] — Düz gidin
+4. Traversez la rue [traverse la rü] — Sokağı geçin
+5. C'est loin d'ici ? [se lwen disi] — Buradan uzak mı?
+6. Je vais au musée [jı ve o müze] — Müzeye gidiyorum
+
+1
+
+7. Le métro est près de la banque [lı metro e pre dı la bank] — Metro bankanın yakınında
+8. Un billet pour Paris [en biye pur pari] — Paris'e bir bilet
+9. Quelle ligne dois-je prendre ? [kel liyn dwa jı prandr] — Hangi hatta binmeliyim?
+10. Montrez-moi sur la carte [montre mwa sür la kart] — Haritada gösterin.
+
+Yaygın hatalar
+À le musée yazma; au musée kullan. Yön tarifinde resmî emir kipini tanı.
+
+Ezber tekniği
+Telefon haritasında evinden bir yere beş adımlık rota çizip Fransızca söyle.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 42. Spiral tekrar: 3. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+l'avenue [lavny]
+
+cadde
+
+la place [la plas]
+
+meydan
+
+le pont [lə pɔ̃ ]
+
+köprü
+
+le parc [lə paʁk]
+
+park
+
+le musée [lə myze]
+
+müze
+
+le théâtre [lə teatʁ]
+
+tiyatro
+
+le cinéma [lə sinema]
+
+sinema
+
+la banque [la bɑ̃ k]
+
+banka
+
+la poste [la pɔst]
+
+postane
+
+la gare [la ɡaʁ]
+
+gar
+
+l'aéroport [laeʁopɔʁ]
+
+havaalanı
+
+l'hôtel [lotɛl]
+
+otel
+
+l'hôpital [lɔpital]
+
+hastane
+
+la mairie [la meʁi]
+
+belediye binası
+
+l'église [leɡliz]
+
+kilise
+
+la cathédrale [la katedʁal]
+
+katedral
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+la station [la stasjɔ̃ ]
+
+istasyon
+
+l'arrêt [laʁɛ]
+
+durak
+
+le métro [lə metʁo]
+
+metro
+
+le bus [lə by]
+
+otobüs
+
+le train [lə tʁɛ̃]
+
+tren
+
+le tramway [lə tʁamwɛ]
+
+tramvay
+
+le taxi [lə taksi]
+
+taksi
+
+le billet [lə bijɛ]
+
+bilet
+
+le ticket [lə tikɛ]
+
+bilet
+
+la ligne [la liɲ]
+
+hat
+
+le quai [lə ke]
+
+peron
+
+la sortie [la sɔʁti]
+
+çıkış
+
+la carte [la kaʁt]
+
+harita
+
+à gauche [a ɡoʃ]
+
+sola
+
+à droite [a dʁwat]
+
+sağa
+
+tout droit [tu dʁwa]
+
+dümdüz
+
+en arrière [ɑ̃ n aʁjɛʁ]
+
+geriye
+
+près [pʁɛ]
+
+yakın
+
+loin [lwɛ̃]
+
+uzak
+
+tourner [tuʁne]
+
+dönmek
+
+aller [ale]
+
+gitmek
+
+traverser [tʁavɛʁse]
+
+karşıya geçmek
+
+monter [mɔ̃ te]
+
+binmek/çıkmak
+
+descendre [desɑ̃ dʁ]
+
+inmek
+
+arriver [aʁive]
+
+varmak
+
+partir [paʁtiʁ]
+
+ayrılmak
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+la rue [la ʁy]
+
+sokak
+
+l'entrée [lɑ̃ tʁe]
+
+giriş
+
+demander [dəmɑ̃ de]
+
+sormak
+
+Mini alıştırma — 10 soru
+1. Gar nerede? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Sola dönün anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Düz gidin anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Sokağı geçin anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Buradan uzak mı? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+3
+
+6. Müzeye gidiyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Metro bankanın yakınında anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. Paris'e bir bilet anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Hangi hatta binmeliyim? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Haritada gösterin. anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile gidilir.
+• Türkçe karşılaştırması: Türkçe yönelme eki çoğu kez à ile karşılanır, ama yerin artikeli birleşir.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. Où est la gare ?
+2. Tournez à gauche
+3. Allez tout droit
+4. Traversez la rue
+5. C'est loin d'ici ?
+6. Je vais au musée
+7. Le métro est près de la banque
+8. Un billet pour Paris
+9. Quelle ligne dois-je prendre ?
+10. Montrez-moi sur la carte
+11. Gar nerede?
+12. Sola dönün
+13. Düz gidin
+14. Sokağı geçin
+15. Buradan uzak mı?
+16. Müzeye gidiyorum
+17. Metro bankanın yakınında
+18. Paris'e bir bilet
+19. Hangi hatta binmeliyim?
+20. Haritada gösterin.
+21. Où est la gare ?: A) Gar nerede? B) Sokağı geçin C) Metro bankanın yakınında
+22. Tournez à gauche: A) Buradan uzak mı? B) Paris'e bir bilet C) Sola dönün
+23. Allez tout droit: A) Hangi hatta binmeliyim? B) Düz gidin C) Müzeye gidiyorum
+24. Traversez la rue: A) Sokağı geçin B) Metro bankanın yakınında C) Haritada gösterin.
+25. C'est loin d'ici ?: A) Paris'e bir bilet B) Gar nerede? C) Buradan uzak mı?
+
+4
+
+25 alıştırmanın çözümleri
+1. Gar nerede? — Fransızca kaynak ifade: Où est la gare ? [u e la gar] — Gar nerede?
+2. Sola dönün — Fransızca kaynak ifade: Tournez à gauche [turne a goş] — Sola dönün
+3. Düz gidin — Fransızca kaynak ifade: Allez tout droit [ale tu drwa] — Düz gidin
+4. Sokağı geçin — Fransızca kaynak ifade: Traversez la rue [traverse la rü] — Sokağı geçin
+5. Buradan uzak mı? — Fransızca kaynak ifade: C'est loin d'ici ? [se lwen disi] — Buradan uzak mı?
+6. Müzeye gidiyorum — Fransızca kaynak ifade: Je vais au musée [jı ve o müze] — Müzeye gidiyorum
+7. Metro bankanın yakınında — Fransızca kaynak ifade: Le métro est près de la banque [lı metro e pre dı
+la bank] — Metro bankanın yakınında
+8. Paris'e bir bilet — Fransızca kaynak ifade: Un billet pour Paris [en biye pur pari] — Paris'e bir bilet
+9. Hangi hatta binmeliyim? — Fransızca kaynak ifade: Quelle ligne dois-je prendre ? [kel liyn dwa jı
+prandr] — Hangi hatta binmeliyim?
+10. Haritada gösterin. — Fransızca kaynak ifade: Montrez-moi sur la carte [montre mwa sür la kart] —
+Haritada gösterin.
+11. Où est la gare ? [u e la gar] — Gar nerede? — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+12. Tournez à gauche [turne a goş] — Sola dönün — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+13. Allez tout droit [ale tu drwa] — Düz gidin — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+14. Traversez la rue [traverse la rü] — Sokağı geçin — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+15. C'est loin d'ici ? [se lwen disi] — Buradan uzak mı? — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+16. Je vais au musée [jı ve o müze] — Müzeye gidiyorum — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+17. Le métro est près de la banque [lı metro e pre dı la bank] — Metro bankanın yakınında — Bu çeviride
+sözcük sırası ve varsa artikel örnekteki gibidir.
+18. Un billet pour Paris [en biye pur pari] — Paris'e bir bilet — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+19. Quelle ligne dois-je prendre ? [kel liyn dwa jı prandr] — Hangi hatta binmeliyim? — Bu çeviride sözcük
+sırası ve varsa artikel örnekteki gibidir.
+20. Montrez-moi sur la carte [montre mwa sür la kart] — Haritada gösterin. — Bu çeviride sözcük sırası ve
+varsa artikel örnekteki gibidir.
+21. A — Où est la gare ? [u e la gar] — Gar nerede?
+22. C — Tournez à gauche [turne a goş] — Sola dönün
+23. B — Allez tout droit [ale tu drwa] — Düz gidin
+24. A — Traversez la rue [traverse la rü] — Sokağı geçin
+25. C — C'est loin d'ici ? [se lwen disi] — Buradan uzak mı?
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. Où est la gare ? ne anlama gelir? A) Gar nerede? B) Düz gidin C) Müzeye gidiyorum
+2. Tournez à gauche ne anlama gelir? A) Sokağı geçin B) Metro bankanın yakınında C) Sola dönün
+
+5
+
+3. Allez tout droit ne anlama gelir? A) Paris'e bir bilet B) Düz gidin C) Buradan uzak mı?
+4. Traversez la rue ne anlama gelir? A) Sokağı geçin B) Müzeye gidiyorum C) Hangi hatta binmeliyim?
+5. C'est loin d'ici ? ne anlama gelir? A) Metro bankanın yakınında B) Haritada gösterin. C) Buradan uzak
+mı?
+6. Boşluğu doldur: Je vais ____ musée — Müzeye gidiyorum
+7. Boşluğu doldur: Le métro est ____ de la banque — Metro bankanın yakınında
+8. Boşluğu doldur: Un billet ____ Paris — Paris'e bir bilet
+9. Boşluğu doldur: Quelle ligne ____ prendre ? — Hangi hatta binmeliyim?
+10. Boşluğu doldur: Montrez-moi sur ____ carte — Haritada gösterin.
+11. Fransızcaya çevir: Gar nerede?
+12. Fransızcaya çevir: Sola dönün
+13. Fransızcaya çevir: Düz gidin
+14. Şu anlam için verilen bozuk sıralamayı düzelt: rue / la / Traversez — Sokağı geçin
+15. Şu anlam için verilen bozuk sıralamayı düzelt: ? / d'ici / loin / C'est — Buradan uzak mı?
+
+Test cevap anahtarı
+1. A — Où est la gare ? [u e la gar] — Gar nerede?
+2. C — Tournez à gauche [turne a goş] — Sola dönün
+3. B — Allez tout droit [ale tu drwa] — Düz gidin
+4. A — Traversez la rue [traverse la rü] — Sokağı geçin
+5. C — C'est loin d'ici ? [se lwen disi] — Buradan uzak mı?
+6. au — Je vais au musée [jı ve o müze] — Müzeye gidiyorum
+7. près — Le métro est près de la banque [lı metro e pre dı la bank] — Metro bankanın yakınında
+8. pour — Un billet pour Paris [en biye pur pari] — Paris'e bir bilet
+9. dois-je — Quelle ligne dois-je prendre ? [kel liyn dwa jı prandr] — Hangi hatta binmeliyim?
+10. la — Montrez-moi sur la carte [montre mwa sür la kart] — Haritada gösterin.
+11. Où est la gare ? [u e la gar] — Gar nerede?
+12. Tournez à gauche [turne a goş] — Sola dönün
+13. Allez tout droit [ale tu drwa] — Düz gidin
+14. Traversez la rue [traverse la rü] — Sokağı geçin
+15. C'est loin d'ici ? [se lwen disi] — Buradan uzak mı?
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: Où est la gare ? [u e la gar] — Gar nerede?
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: Tournez à gauche [turne a goş] — Sola dönün
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: Allez tout droit [ale tu drwa] — Düz gidin
+
+6
+
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Traversez la rue [traverse la rü] — Sokağı geçin
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+7
+

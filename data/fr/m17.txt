@@ -1,0 +1,534 @@
+Modül 17 — COD COI En ve Y
+Seviye: A2. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+COD COI En ve Y konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt etmeye
+yardım eder.
+
+Konunun mantığı
+Doğrudan nesne le/la/les; à + kişi dolaylı nesne lui/leur; en çoğunlukla de öbeğini, y çoğunlukla à veya yer
+öbeğini karşılar.
+
+Türkçe ile karşılaştırma
+Türkçedeki -i/-e durumu fiile göre Fransızcada farklı zamire dönüşür.
+
+Formül / Kural
+Temel şema: Doğrudan nesne le/la/les; à + kişi dolaylı nesne lui/leur; en çoğunlukla de öbeğini, y
+çoğunlukla à veya yer öbeğini karşılar.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+Je la vois [jı la vwa] — Onu görüyorum (kadın)
+
+2. örüntü
+
+bağlam
+
+Je le connais [jı lı kone] — Onu tanıyorum (erkek)
+
+3. örüntü
+
+telaffuz
+
+Je les invite [jı lez en vit] — Onları davet ediyorum
+
+Ayrıntılı konu anlatımı
+Fiilin istediği bağ
+Je vois Marie [ʒə vwa maʁi] — Marie'yi görüyorum → Je la vois [ʒə la vwa] — Onu görüyorum. Je parle à
+Marie [ʒə paʁl a maʁi] — Marie'yle konuşuyorum → Je lui parle [ʒə lɥi paʁl] — Onunla konuşuyorum.
+Türkçedeki -e eki tek başına güvenilir ölçü değildir; Fransızca fiilin à [a] — -e/-a veya de [də] — -den/-in
+isteyip istemediğini öğren.
+J'y vais [ʒi vɛ] — Oraya gidiyorum, yer/à öbeğini; J'en veux [ʒɑ̃ vø] — Ondan istiyorum, de/miktar öbeğini
+karşılayabilir. Je vais la voir [ʒə vɛ la vwaʁ] — Onu göreceğim: çekimli fiil + mastar yapısında nesne zamiri
+ait olduğu mastarın önündedir. Je l'ai vue [ʒə le vy] — Onu gördüm (dişil): önden gelen COD ortaç uyumunu
+tetikleyebilir.
+
+On örnek
+1. Je la vois [jı la vwa] — Onu görüyorum (kadın)
+2. Je le connais [jı lı kone] — Onu tanıyorum (erkek)
+3. Je les invite [jı lez en vit] — Onları davet ediyorum
+4. Je lui parle [jı lüi parl] — Ona konuşuyorum
+5. Je leur téléphone [jı lör telefon] — Onlara telefon ediyorum
+
+1
+
+6. Tu me vois ? [tü mı vwa] — Beni görüyor musun?
+7. J'en veux [jan vö] — Ondan istiyorum
+8. J'y vais [ji ve] — Oraya gidiyorum
+9. Je ne la vois pas [jı nı la vwa pa] — Onu görmüyorum
+10. Je vais le voir [jı ve lı vwar] — Onu göreceğim.
+
+Yaygın hatalar
+Le/la ile lui seçimini Türkçedeki -i/-e ekine göre değil Fransızca fiilin yapısına göre yap.
+
+Ezber tekniği
+Her fiil için bir kartta voir quelqu'un, parler à quelqu'un gibi tam çerçeveyi yaz.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 41. Spiral tekrar: 17. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+me [mə]
+
+beni/bana
+
+te [tə]
+
+seni/sana
+
+lui [lɥi]
+
+ona (dolaylı)
+
+en [ɑ̃ n]
+
+ondan/bir miktar
+
+y [i]
+
+orada/oraya
+
+inviter [ɛ̃vite]
+
+davet etmek
+
+aider [ede]
+
+yardım etmek
+
+appeler [apəle]
+
+aramak
+
+parler à [paʁle a]
+
+biriyle konuşmak
+
+téléphoner à [telefɔne a]
+
+birini telefonla aramak
+
+écrire à [ekʁiʁ a]
+
+birine yazmak
+
+demander à [dəmɑ̃ de a]
+
+birine sormak
+
+donner à [dɔne a]
+
+birine vermek
+
+offrir à [ɔfʁiʁ a]
+
+birine armağan etmek
+
+penser à [pɑ̃ se a]
+
+düşünmek
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+aller à [ale a]
+
+gitmek
+
+venir de [vəniʁ də]
+
+gelmek
+
+avoir besoin de [avwaʁ bəzwɛ̃ də]
+
+ihtiyacı olmak
+
+vouloir de [vulwaʁ də]
+
+bir miktar istemek
+
+la personne [la pɛʁsɔn]
+
+kişi
+
+le lieu [lə ljø]
+
+yer
+
+la chose [la ʃoz]
+
+şey
+
+le complément [lə kɔ̃ plemɑ̃ ]
+
+tümleç
+
+direct [diʁɛkt]
+
+doğrudan
+
+indirect [ɛ̃diʁɛkt]
+
+dolaylı
+
+quelque chose [kɛlkə ʃoz]
+
+bir şey
+
+quelqu'un [kɛlkœ̃]
+
+birisi
+
+plusieurs [plyzjœʁ]
+
+birkaç
+
+aucun [okœ̃]
+
+hiçbiri
+
+remplacer [ʁɑ̃ plase]
+
+yerine koymak
+
+désigner [deziɲe]
+
+belirtmek
+
+représenter [ʁəpʁezɑ̃ te]
+
+temsil etmek
+
+mentionner [mɑ̃ sjɔne]
+
+söz etmek
+
+retrouver [ʁətʁuve]
+
+yeniden bulmak
+
+emprunter [ɑ̃ pʁœ̃te]
+
+ödünç almak
+
+prêter [pʁete]
+
+ödünç vermek
+
+manquer à [mɑ̃ ke a]
+
+özlenmek
+
+appartenir à [apaʁtəniʁ a]
+
+ait olmak
+
+participer à [paʁtisipe a]
+
+katılmak
+
+s'intéresser à [sɛ̃teʁɛse a]
+
+ilgilenmek
+
+se servir de [sə sɛʁviʁ də]
+
+kullanmak
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+le [lə]
+
+onu (eril doğrudan)
+
+la [la]
+
+onu (dişil doğrudan)
+
+nous [nuz]
+
+bizi/bize
+
+vous [vuz]
+
+sizi/size
+
+les [lez]
+
+onları (doğrudan)
+
+leur [lœʁ]
+
+onlara (dolaylı)
+
+voir [vwaʁ]
+
+görmek
+
+regarder [ʁəɡaʁde]
+
+bakmak/izlemek
+
+aimer [eme]
+
+sevmek
+
+connaître [kɔnɛtʁ]
+
+tanımak
+
+3
+
+Fransızca [IPA]
+
+Türkçe
+
+attendre [atɑ̃ dʁ]
+
+beklemek
+
+écouter [ekute]
+
+dinlemek
+
+répondre à [ʁepɔ̃ dʁ a]
+
+birine cevap vermek
+
+avant [avɑ̃ ]
+
+önce
+
+après [apʁɛ]
+
+sonra
+
+ici [isi]
+
+burada
+
+là [la]
+
+orada
+
+Mini alıştırma — 10 soru
+1. Onu görüyorum (kadın) anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Onu tanıyorum (erkek) anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Onları davet ediyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Ona konuşuyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Onlara telefon ediyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Beni görüyor musun? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Ondan istiyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. Oraya gidiyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Onu görmüyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Onu göreceğim. anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: Doğrudan nesne le/la/les; à + kişi dolaylı nesne lui/leur; en çoğunlukla de öbeğini, y
+çoğunlukla à veya yer öbeğini karşılar.
+• Türkçe karşılaştırması: Türkçedeki -i/-e durumu fiile göre Fransızcada farklı zamire dönüşür.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. Je la vois
+2. Je le connais
+3. Je les invite
+4. Je lui parle
+5. Je leur téléphone
+6. Tu me vois ?
+7. J'en veux
+8. J'y vais
+9. Je ne la vois pas
+10. Je vais le voir
+11. Onu görüyorum (kadın)
+
+4
+
+12. Onu tanıyorum (erkek)
+13. Onları davet ediyorum
+14. Ona konuşuyorum
+15. Onlara telefon ediyorum
+16. Beni görüyor musun?
+17. Ondan istiyorum
+18. Oraya gidiyorum
+19. Onu görmüyorum
+20. Onu göreceğim.
+21. Je la vois: A) Onu görüyorum (kadın) B) Ona konuşuyorum C) Ondan istiyorum
+22. Je le connais: A) Onlara telefon ediyorum B) Oraya gidiyorum C) Onu tanıyorum (erkek)
+23. Je les invite: A) Onu görmüyorum B) Onları davet ediyorum C) Beni görüyor musun?
+24. Je lui parle: A) Ona konuşuyorum B) Ondan istiyorum C) Onu göreceğim.
+25. Je leur téléphone: A) Oraya gidiyorum B) Onu görüyorum (kadın) C) Onlara telefon ediyorum
+
+25 alıştırmanın çözümleri
+1. Onu görüyorum (kadın) — Fransızca kaynak ifade: Je la vois [jı la vwa] — Onu görüyorum (kadın)
+2. Onu tanıyorum (erkek) — Fransızca kaynak ifade: Je le connais [jı lı kone] — Onu tanıyorum (erkek)
+3. Onları davet ediyorum — Fransızca kaynak ifade: Je les invite [jı lez en vit] — Onları davet ediyorum
+4. Ona konuşuyorum — Fransızca kaynak ifade: Je lui parle [jı lüi parl] — Ona konuşuyorum
+5. Onlara telefon ediyorum — Fransızca kaynak ifade: Je leur téléphone [jı lör telefon] — Onlara telefon
+ediyorum
+6. Beni görüyor musun? — Fransızca kaynak ifade: Tu me vois ? [tü mı vwa] — Beni görüyor musun?
+7. Ondan istiyorum — Fransızca kaynak ifade: J'en veux [jan vö] — Ondan istiyorum
+8. Oraya gidiyorum — Fransızca kaynak ifade: J'y vais [ji ve] — Oraya gidiyorum
+9. Onu görmüyorum — Fransızca kaynak ifade: Je ne la vois pas [jı nı la vwa pa] — Onu görmüyorum
+10. Onu göreceğim. — Fransızca kaynak ifade: Je vais le voir [jı ve lı vwar] — Onu göreceğim.
+11. Je la vois [jı la vwa] — Onu görüyorum (kadın) — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+12. Je le connais [jı lı kone] — Onu tanıyorum (erkek) — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+13. Je les invite [jı lez en vit] — Onları davet ediyorum — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+14. Je lui parle [jı lüi parl] — Ona konuşuyorum — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+15. Je leur téléphone [jı lör telefon] — Onlara telefon ediyorum — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+16. Tu me vois ? [tü mı vwa] — Beni görüyor musun? — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+17. J'en veux [jan vö] — Ondan istiyorum — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+18. J'y vais [ji ve] — Oraya gidiyorum — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+19. Je ne la vois pas [jı nı la vwa pa] — Onu görmüyorum — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+
+5
+
+20. Je vais le voir [jı ve lı vwar] — Onu göreceğim. — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+21. A — Je la vois [jı la vwa] — Onu görüyorum (kadın)
+22. C — Je le connais [jı lı kone] — Onu tanıyorum (erkek)
+23. B — Je les invite [jı lez en vit] — Onları davet ediyorum
+24. A — Je lui parle [jı lüi parl] — Ona konuşuyorum
+25. C — Je leur téléphone [jı lör telefon] — Onlara telefon ediyorum
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. Je la vois ne anlama gelir? A) Onu görüyorum (kadın) B) Onları davet ediyorum C) Beni görüyor
+musun?
+2. Je le connais ne anlama gelir? A) Ona konuşuyorum B) Ondan istiyorum C) Onu tanıyorum (erkek)
+3. Je les invite ne anlama gelir? A) Oraya gidiyorum B) Onları davet ediyorum C) Onlara telefon
+ediyorum
+4. Je lui parle ne anlama gelir? A) Ona konuşuyorum B) Beni görüyor musun? C) Onu görmüyorum
+5. Je leur téléphone ne anlama gelir? A) Ondan istiyorum B) Onu göreceğim. C) Onlara telefon ediyorum
+6. Boşluğu doldur: Tu me ____ ? — Beni görüyor musun?
+7. Boşluğu doldur: J'en ____ — Ondan istiyorum
+8. Boşluğu doldur: J'y ____ — Oraya gidiyorum
+9. Boşluğu doldur: Je ne ____ vois pas — Onu görmüyorum
+10. Boşluğu doldur: Je vais ____ voir — Onu göreceğim.
+11. Fransızcaya çevir: Onu görüyorum (kadın)
+12. Fransızcaya çevir: Onu tanıyorum (erkek)
+13. Fransızcaya çevir: Onları davet ediyorum
+14. Şu anlam için verilen bozuk sıralamayı düzelt: parle / lui / Je — Ona konuşuyorum
+15. Şu anlam için verilen bozuk sıralamayı düzelt: téléphone / leur / Je — Onlara telefon ediyorum
+
+Test cevap anahtarı
+1. A — Je la vois [jı la vwa] — Onu görüyorum (kadın)
+2. C — Je le connais [jı lı kone] — Onu tanıyorum (erkek)
+3. B — Je les invite [jı lez en vit] — Onları davet ediyorum
+4. A — Je lui parle [jı lüi parl] — Ona konuşuyorum
+5. C — Je leur téléphone [jı lör telefon] — Onlara telefon ediyorum
+6. vois — Tu me vois ? [tü mı vwa] — Beni görüyor musun?
+7. veux — J'en veux [jan vö] — Ondan istiyorum
+8. vais — J'y vais [ji ve] — Oraya gidiyorum
+9. la — Je ne la vois pas [jı nı la vwa pa] — Onu görmüyorum
+10. le — Je vais le voir [jı ve lı vwar] — Onu göreceğim.
+11. Je la vois [jı la vwa] — Onu görüyorum (kadın)
+12. Je le connais [jı lı kone] — Onu tanıyorum (erkek)
+
+6
+
+13. Je les invite [jı lez en vit] — Onları davet ediyorum
+14. Je lui parle [jı lüi parl] — Ona konuşuyorum
+15. Je leur téléphone [jı lör telefon] — Onlara telefon ediyorum
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: Je la vois [jı la vwa] — Onu görüyorum (kadın)
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: Je le connais [jı lı kone] — Onu tanıyorum (erkek)
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: Je les invite [jı lez en vit] — Onları davet ediyorum
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Je lui parle [jı lüi parl] — Ona konuşuyorum
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+7
+

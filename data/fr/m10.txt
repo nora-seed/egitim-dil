@@ -1,0 +1,474 @@
+Modül 10 — Alışveriş ve Mağazalar
+Seviye: A1. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+Alışveriş ve Mağazalar konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt
+etmeye yardım eder.
+
+Konunun mantığı
+Fiyat için Ça coûte combien?; nesneyi tanımlamak için renk ve beden sıfatı kullan.
+
+Türkçe ile karşılaştırma
+Türkçedeki “kaç para” sorusu birden fazla doğal Fransızca kalıpla söylenir.
+
+Formül / Kural
+Temel şema: Fiyat için Ça coûte combien?; nesneyi tanımlamak için renk ve beden sıfatı kullan.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+Ça coûte combien ? [sa kut kombiyen] — Bu ne kadar?
+
+2. örüntü
+
+bağlam
+
+Je cherche une chemise [jı şerş ün şımiz] — Gömlek arıyorum
+
+3. örüntü
+
+telaffuz
+
+Avez-vous cette taille ? [ave vu set tay] — Bu beden var mı?
+
+Ayrıntılı konu anlatımı
+Satın alma konuşması
+Je cherche une veste noire [ʒə ʃɛʁʃ yn vɛst nwaʁ] — Siyah bir ceket arıyorum. Satıcıya Vous avez une
+taille M ? [vuzave yn taj ɛm] — M beden var mı? diyebilirsin. Je peux l'essayer ? [ʒə pø leseje] —
+Deneyebilir miyim? Je vais la prendre [ʒə vɛ la pʁɑ̃ dʁ] — Onu alacağım (dişil nesne). La [la] — onu, ceket
+anlamındaki veste [vɛst] — ceket dişil olduğundan kullanılır.
+Fransa'da sabit fiyatlı mağazalarda pazarlık alışılmış uygulama değildir; ikinci el pazarlarında durum
+değişebilir. Fiyatı sormadan önce Bonjour [bɔ̃ ʒuʁ] — Merhaba ve ayrılırken Merci, au revoir [mɛʁsi
+oʁəvwaʁ] — Teşekkürler, hoşça kal doğal bir nezaket çerçevesidir.
+
+On örnek
+1. Ça coûte combien ? [sa kut kombiyen] — Bu ne kadar?
+2. Je cherche une chemise [jı şerş ün şımiz] — Gömlek arıyorum
+3. Avez-vous cette taille ? [ave vu set tay] — Bu beden var mı?
+4. Je regarde, merci [jı rıgard mersi] — Bakıyorum, teşekkürler
+5. C'est trop cher [se tro şer] — Çok pahalı
+6. Cette veste est bleue [set vest e blö] — Bu ceket mavi
+7. Je vais le prendre [jı ve lı prandr] — Bunu alacağım
+
+1
+
+8. Où est la pharmacie ? [u e la farmasi] — Eczane nerede?
+9. Je paie par carte [jı pe par kart] — Kartla ödüyorum
+10. Il y a une réduction ? [il ya ün redüksiyon] — İndirim var mı?
+
+Yaygın hatalar
+Beden taille ile ayakkabı numarası pointure sözcüklerini karıştırma.
+
+Ezber tekniği
+Bir alışveriş senaryosunda bütçe, renk ve bedeni üç tur değiştirerek prova yap.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 41. Spiral tekrar: 3. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+le magasin [lə maɡazɛ̃]
+
+mağaza
+
+le supermarché [lə sypɛʁmaʁʃe]
+
+süpermarket
+
+l'hypermarché [lipɛʁmaʁʃe]
+
+hipermarket
+
+la boulangerie [la bulɑ̃ ʒʁi]
+
+fırın
+
+la pâtisserie [la patisʁi]
+
+pastane
+
+la boucherie [la buʃʁi]
+
+kasap
+
+la pharmacie [la faʁmasi]
+
+eczane
+
+la librairie [la libʁɛʁi]
+
+kitapçı
+
+le marché [lə maʁʃe]
+
+pazar
+
+le centre commercial [lə sɑ̃ tʁ kɔmɛʁsjal]
+
+alışveriş merkezi
+
+le pantalon [lə pɑ̃ talɔ̃ ]
+
+pantolon
+
+le jean [lə ʒɑ̃ ]
+
+kot pantolon
+
+la chemise [la ʃəmiz]
+
+gömlek
+
+le tee-shirt [lə tiʃœʁt]
+
+tişört
+
+la robe [la ʁɔb]
+
+elbise
+
+la jupe [la ʒyp]
+
+etek
+
+le costume [lə kɔstym]
+
+takım elbise
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+le manteau [lə mɑ̃ to]
+
+palto
+
+la veste [la vɛst]
+
+ceket
+
+les chaussures [lez ʃosyʁ]
+
+ayakkabılar
+
+les chaussettes [lez ʃosɛt]
+
+çoraplar
+
+le chapeau [lə ʃapo]
+
+şapka
+
+les gants [lez ɡɑ̃ ]
+
+eldivenler
+
+la ceinture [la sɛ̃tyʁ]
+
+kemer
+
+la taille [la taj]
+
+beden
+
+la pointure [la pwɛ̃tyʁ]
+
+ayakkabı numarası
+
+le prix [lə pʁi]
+
+fiyat
+
+la réduction [la ʁedyksjɔ̃ ]
+
+indirim
+
+la caisse [la kɛs]
+
+kasa
+
+la carte bancaire [la kaʁt bɑ̃ kɛʁ]
+
+banka kartı
+
+les espèces [lez ɛspɛs]
+
+nakit
+
+le reçu [lə ʁəsy]
+
+fiş
+
+cher [ʃɛʁ]
+
+pahalı
+
+bon marché [bɔ̃ maʁʃe]
+
+ucuz
+
+essayer [eseje]
+
+denemek
+
+payer [peje]
+
+ödemek
+
+vendre [vɑ̃ dʁ]
+
+satmak
+
+prendre [pʁɑ̃ dʁ]
+
+almak
+
+choisir [ʃwaziʁ]
+
+seçmek
+
+ouvert [uvɛʁ]
+
+açık
+
+fermé [fɛʁme]
+
+kapalı
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+acheter [aʃte]
+
+satın almak
+
+chercher [ʃɛʁʃe]
+
+aramak
+
+neuf [nœf]
+
+yeni
+
+Mini alıştırma — 10 soru
+1. Bu ne kadar? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Gömlek arıyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Bu beden var mı? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Bakıyorum, teşekkürler anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Çok pahalı anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Bu ceket mavi anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Bunu alacağım anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+3
+
+8. Eczane nerede? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Kartla ödüyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. İndirim var mı? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak için renk ve beden sıfatı kullan.
+• Türkçe karşılaştırması: Türkçedeki “kaç para” sorusu birden fazla doğal Fransızca kalıpla söylenir.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. Ça coûte combien ?
+2. Je cherche une chemise
+3. Avez-vous cette taille ?
+4. Je regarde, merci
+5. C'est trop cher
+6. Cette veste est bleue
+7. Je vais le prendre
+8. Où est la pharmacie ?
+9. Je paie par carte
+10. Il y a une réduction ?
+11. Bu ne kadar?
+12. Gömlek arıyorum
+13. Bu beden var mı?
+14. Bakıyorum, teşekkürler
+15. Çok pahalı
+16. Bu ceket mavi
+17. Bunu alacağım
+18. Eczane nerede?
+19. Kartla ödüyorum
+20. İndirim var mı?
+21. Ça coûte combien ?: A) Bu ne kadar? B) Bakıyorum, teşekkürler C) Bunu alacağım
+22. Je cherche une chemise: A) Çok pahalı B) Eczane nerede? C) Gömlek arıyorum
+23. Avez-vous cette taille ?: A) Kartla ödüyorum B) Bu beden var mı? C) Bu ceket mavi
+24. Je regarde, merci: A) Bakıyorum, teşekkürler B) Bunu alacağım C) İndirim var mı?
+25. C'est trop cher: A) Eczane nerede? B) Bu ne kadar? C) Çok pahalı
+
+25 alıştırmanın çözümleri
+1. Bu ne kadar? — Fransızca kaynak ifade: Ça coûte combien ? [sa kut kombiyen] — Bu ne kadar?
+2. Gömlek arıyorum — Fransızca kaynak ifade: Je cherche une chemise [jı şerş ün şımiz] — Gömlek
+arıyorum
+
+4
+
+3. Bu beden var mı? — Fransızca kaynak ifade: Avez-vous cette taille ? [ave vu set tay] — Bu beden var
+mı?
+4. Bakıyorum, teşekkürler — Fransızca kaynak ifade: Je regarde, merci [jı rıgard mersi] — Bakıyorum,
+teşekkürler
+5. Çok pahalı — Fransızca kaynak ifade: C'est trop cher [se tro şer] — Çok pahalı
+6. Bu ceket mavi — Fransızca kaynak ifade: Cette veste est bleue [set vest e blö] — Bu ceket mavi
+7. Bunu alacağım — Fransızca kaynak ifade: Je vais le prendre [jı ve lı prandr] — Bunu alacağım
+8. Eczane nerede? — Fransızca kaynak ifade: Où est la pharmacie ? [u e la farmasi] — Eczane nerede?
+9. Kartla ödüyorum — Fransızca kaynak ifade: Je paie par carte [jı pe par kart] — Kartla ödüyorum
+10. İndirim var mı? — Fransızca kaynak ifade: Il y a une réduction ? [il ya ün redüksiyon] — İndirim var
+mı?
+11. Ça coûte combien ? [sa kut kombiyen] — Bu ne kadar? — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+12. Je cherche une chemise [jı şerş ün şımiz] — Gömlek arıyorum — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+13. Avez-vous cette taille ? [ave vu set tay] — Bu beden var mı? — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+14. Je regarde, merci [jı rıgard mersi] — Bakıyorum, teşekkürler — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+15. C'est trop cher [se tro şer] — Çok pahalı — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+16. Cette veste est bleue [set vest e blö] — Bu ceket mavi — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+17. Je vais le prendre [jı ve lı prandr] — Bunu alacağım — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+18. Où est la pharmacie ? [u e la farmasi] — Eczane nerede? — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+19. Je paie par carte [jı pe par kart] — Kartla ödüyorum — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+20. Il y a une réduction ? [il ya ün redüksiyon] — İndirim var mı? — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+21. A — Ça coûte combien ? [sa kut kombiyen] — Bu ne kadar?
+22. C — Je cherche une chemise [jı şerş ün şımiz] — Gömlek arıyorum
+23. B — Avez-vous cette taille ? [ave vu set tay] — Bu beden var mı?
+24. A — Je regarde, merci [jı rıgard mersi] — Bakıyorum, teşekkürler
+25. C — C'est trop cher [se tro şer] — Çok pahalı
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. Ça coûte combien ? ne anlama gelir? A) Bu ne kadar? B) Bu beden var mı? C) Bu ceket mavi
+2. Je cherche une chemise ne anlama gelir? A) Bakıyorum, teşekkürler B) Bunu alacağım C) Gömlek
+arıyorum
+3. Avez-vous cette taille ? ne anlama gelir? A) Eczane nerede? B) Bu beden var mı? C) Çok pahalı
+4. Je regarde, merci ne anlama gelir? A) Bakıyorum, teşekkürler B) Bu ceket mavi C) Kartla ödüyorum
+5. C'est trop cher ne anlama gelir? A) Bunu alacağım B) İndirim var mı? C) Çok pahalı
+
+5
+
+6. Boşluğu doldur: Cette veste ____ bleue — Bu ceket mavi
+7. Boşluğu doldur: Je vais ____ prendre — Bunu alacağım
+8. Boşluğu doldur: Où est ____ pharmacie ? — Eczane nerede?
+9. Boşluğu doldur: Je paie ____ carte — Kartla ödüyorum
+10. Boşluğu doldur: Il y a ____ réduction ? — İndirim var mı?
+11. Fransızcaya çevir: Bu ne kadar?
+12. Fransızcaya çevir: Gömlek arıyorum
+13. Fransızcaya çevir: Bu beden var mı?
+14. Şu anlam için verilen bozuk sıralamayı düzelt: merci / regarde, / Je — Bakıyorum, teşekkürler
+15. Şu anlam için verilen bozuk sıralamayı düzelt: cher / trop / C'est — Çok pahalı
+
+Test cevap anahtarı
+1. A — Ça coûte combien ? [sa kut kombiyen] — Bu ne kadar?
+2. C — Je cherche une chemise [jı şerş ün şımiz] — Gömlek arıyorum
+3. B — Avez-vous cette taille ? [ave vu set tay] — Bu beden var mı?
+4. A — Je regarde, merci [jı rıgard mersi] — Bakıyorum, teşekkürler
+5. C — C'est trop cher [se tro şer] — Çok pahalı
+6. est — Cette veste est bleue [set vest e blö] — Bu ceket mavi
+7. le — Je vais le prendre [jı ve lı prandr] — Bunu alacağım
+8. la — Où est la pharmacie ? [u e la farmasi] — Eczane nerede?
+9. par — Je paie par carte [jı pe par kart] — Kartla ödüyorum
+10. une — Il y a une réduction ? [il ya ün redüksiyon] — İndirim var mı?
+11. Ça coûte combien ? [sa kut kombiyen] — Bu ne kadar?
+12. Je cherche une chemise [jı şerş ün şımiz] — Gömlek arıyorum
+13. Avez-vous cette taille ? [ave vu set tay] — Bu beden var mı?
+14. Je regarde, merci [jı rıgard mersi] — Bakıyorum, teşekkürler
+15. C'est trop cher [se tro şer] — Çok pahalı
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: Ça coûte combien ? [sa kut kombiyen] — Bu ne kadar?
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: Je cherche une chemise [jı şerş ün şımiz] — Gömlek arıyorum
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: Avez-vous cette taille ? [ave vu set tay] — Bu beden var mı?
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Je regarde, merci [jı rıgard mersi] — Bakıyorum, teşekkürler
+
+6
+
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+7
+

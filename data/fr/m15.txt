@@ -1,0 +1,586 @@
+Modül 15 — -IR -RE ve Dönüşlü Fiiller
+Seviye: A2. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+-IR -RE ve Dönüşlü Fiiller konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt
+etmeye yardım eder.
+
+Konunun mantığı
+finir→finis/finis/finit/finissons/finissez/finissent; attendre→attends/attends/attend/attendons/attendez/
+attendent; dönüşlü: me/te/se/nous/vous/se.
+
+Türkçe ile karşılaştırma
+Türkçedeki “-in/-n” dönüşlülük eki Fransızcada çoğu kez ayrı zamirdir.
+
+Formül / Kural
+Temel şema: finir→finis/finis/finit/finissons/finissez/finissent; attendre→attends/attends/attend/attendons/
+attendez/attendent; dönüşlü: me/te/se/nous/vous/se.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+Je finis à six heures [jı fini a siz ör] — Altıda bitiriyorum
+
+2. örüntü
+
+bağlam
+
+Nous choisissons [nu şwazison] — Seçiyoruz
+
+3. örüntü
+
+telaffuz
+
+Tu attends le bus [tü atan lı büs] — Otobüsü bekliyorsun
+
+finir — bitirmek
+Fransızca [IPA]
+
+Türkçe
+
+je finis [ʒə fini]
+
+bitiriyorum
+
+tu finis [ty fini]
+
+bitiriyorsun
+
+il finit [il fini]
+
+bitiriyor
+
+nous finissons [nuz finisɔ̃ ]
+
+bitiriyoruz
+
+vous finissez [vuz finise]
+
+bitiriyorsunuz
+
+ils finissent [ilz finis]
+
+bitiriyorlar
+
+attendre — beklemek
+Fransızca [IPA]
+
+Türkçe
+
+j’attends [ʒatɑ̃ ]
+
+bekliyorum
+
+tu attends [ty atɑ̃ ]
+
+bekliyorsun
+
+il attend [il atɑ̃ ]
+
+bekliyor
+
+nous attendons [nuz atɑ̃ dɔ̃ ]
+
+bekliyoruz
+
+1
+
+Fransızca [IPA]
+
+Türkçe
+
+vous attendez [vuz atɑ̃ de]
+
+bekliyorsunuz
+
+ils attendent [ilz atɑ̃ d]
+
+bekliyorlar
+
+Ayrıntılı konu anlatımı
+Fiil gruplarını ayır
+finir [finiʁ] — bitirmek düzenli ikinci gruptur: nous finissons [nu finisɔ̃ ] — bitiriyoruz. Ancak partir [paʁtiʁ]
+— ayrılmak da -ir biter ama nous partons [nu paʁtɔ̃ ] — ayrılıyoruz: aynı grupta değildir. attendre [atɑ̃ dʁ]
+— beklemek düzenli örüntü verir; prendre [pʁɑ̃ dʁ] — almak kendi kök değişimini gösterir: nous prenons
+[nu pʁənɔ̃ ] — alıyoruz.
+Je me lave [ʒə mə lav] — Yıkanıyorum, tu te laves [ty tə lav] — Yıkanıyorsun. Dönüşlü zamir özneyle
+uyumlu seçilir. Je ne me lève pas [ʒə nə mə lɛv pa] — Kalkmıyorum: ne zamirden önce, pas çekimli fiilden
+sonra. Je vais me coucher [ʒə vɛ mə kuʃe] — Yatacağım: mastarla zamir yan yana kalır.
+
+On örnek
+1. Je finis à six heures [jı fini a siz ör] — Altıda bitiriyorum
+2. Nous choisissons [nu şwazison] — Seçiyoruz
+3. Tu attends le bus [tü atan lı büs] — Otobüsü bekliyorsun
+4. Ils vendent des livres [il vand de livr] — Kitap satıyorlar
+5. Je prends le train [jı pran lı tren] — Trene biniyorum
+6. Je me lève tôt [jı mı lev to] — Erken kalkıyorum
+7. Elle se lave [el sı lav] — Yıkanıyor
+8. Nous nous habillons [nu nu zabiyon] — Giyiniyoruz
+9. Il se couche tard [il sı kuş tar] — Geç yatıyor
+10. Je me suis réveillé [jı mı süi reveye] — Uyandım (erkek).
+
+Yaygın hatalar
+Her -ir fiilini finir gibi çekme; partir ve venir farklı örüntüler gösterir.
+
+Ezber tekniği
+Rutinini kalkıştan uykuya kadar dönüşlü fiillerle kısa bir ses günlüğüne kaydet.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+2
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 42. Spiral tekrar: 15. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+réussir [ʁeysiʁ]
+
+başarmak
+
+réfléchir [ʁefleʃiʁ]
+
+düşünmek
+
+obéir [ɔbeiʁ]
+
+itaat etmek
+
+punir [pyniʁ]
+
+cezalandırmak
+
+grandir [ɡʁɑ̃ diʁ]
+
+büyümek
+
+remplir [ʁɑ̃ pliʁ]
+
+doldurmak
+
+rougir [ʁuʒiʁ]
+
+kızarmak
+
+agir [aʒiʁ]
+
+davranmak
+
+entendre [ɑ̃ tɑ̃ dʁ]
+
+duymak
+
+se lever [sə ləve]
+
+kalkmak
+
+se laver [sə lave]
+
+yıkanmak
+
+s'habiller [sabije]
+
+giyinmek
+
+se coucher [sə kuʃe]
+
+yatmak
+
+se réveiller [sə ʁeveje]
+
+uyanmak
+
+se promener [sə pʁɔməne]
+
+gezmek
+
+s'appeler [sapəle]
+
+adı olmak
+
+se dépêcher [sə depeʃe]
+
+acele etmek
+
+se reposer [sə ʁəpoze]
+
+dinlenmek
+
+se brosser les dents [sə bʁɔse lez dɑ̃ ]
+
+diş fırçalamak
+
+se doucher [sə duʃe]
+
+duş almak
+
+le matin [lə matɛ̃]
+
+sabah
+
+l'après-midi [lapʁɛmidi]
+
+öğleden sonra
+
+le soir [lə swaʁ]
+
+akşam
+
+le réveil [lə ʁevɛj]
+
+çalar saat
+
+la douche [la duʃ]
+
+duş
+
+la brosse [la bʁɔs]
+
+fırça
+
+les dents [lez dɑ̃ ]
+
+dişler
+
+la routine [la ʁutin]
+
+rutin
+
+l'habitude [labityd]
+
+alışkanlık
+
+chaque jour [ʃak ʒuʁ]
+
+her gün
+
+grossir [ɡʁosiʁ]
+
+kilo almak/kalınlaşmak
+
+maigrir [meɡʁiʁ]
+
+zayıflamak
+
+bâtir [batiʁ]
+
+inşa etmek
+
+3
+
+Fransızca [IPA]
+
+Türkçe
+
+nourrir [nuʁiʁ]
+
+beslemek
+
+ralentir [ʁalɑ̃ tiʁ]
+
+yavaşlamak
+
+vieillir [vjejiʁ]
+
+yaşlanmak
+
+avertir [avɛʁtiʁ]
+
+uyarmak
+
+atterrir [atɛʁiʁ]
+
+iniş yapmak
+
+applaudir [aplodiʁ]
+
+alkışlamak
+
+se souvenir de [sə suvəniʁ də]
+
+hatırlamak
+
+s'inquiéter [sɛ̃kjete]
+
+endişelenmek
+
+se taire [sə tɛʁ]
+
+susmak
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+finir [finiʁ]
+
+bitirmek
+
+choisir [ʃwaziʁ]
+
+seçmek
+
+attendre [atɑ̃ dʁ]
+
+beklemek
+
+vendre [vɑ̃ dʁ]
+
+satmak
+
+perdre [pɛʁdʁ]
+
+kaybetmek
+
+répondre [ʁepɔ̃ dʁ]
+
+cevaplamak
+
+descendre [desɑ̃ dʁ]
+
+inmek
+
+prendre [pʁɑ̃ dʁ]
+
+almak
+
+comprendre [kɔ̃ pʁɑ̃ dʁ]
+
+anlamak
+
+apprendre [apʁɑ̃ dʁ]
+
+öğrenmek
+
+la nuit [la nɥi]
+
+gece
+
+tôt [to]
+
+erken
+
+tard [taʁ]
+
+geç
+
+avant [avɑ̃ ]
+
+önce
+
+après [apʁɛ]
+
+sonra
+
+Mini alıştırma — 10 soru
+1. Altıda bitiriyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Seçiyoruz anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Otobüsü bekliyorsun anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Kitap satıyorlar anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Trene biniyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Erken kalkıyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Yıkanıyor anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. Giyiniyoruz anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Geç yatıyor anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Uyandım (erkek). anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+4
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: finir→finis/finis/finit/finissons/finissez/finissent; attendre→attends/attends/attend/
+attendons/attendez/attendent; dönüşlü: me/te/se/nous/vous/se.
+• Türkçe karşılaştırması: Türkçedeki “-in/-n” dönüşlülük eki Fransızcada çoğu kez ayrı zamirdir.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. Je finis à six heures
+2. Nous choisissons
+3. Tu attends le bus
+4. Ils vendent des livres
+5. Je prends le train
+6. Je me lève tôt
+7. Elle se lave
+8. Nous nous habillons
+9. Il se couche tard
+10. Je me suis réveillé
+11. Altıda bitiriyorum
+12. Seçiyoruz
+13. Otobüsü bekliyorsun
+14. Kitap satıyorlar
+15. Trene biniyorum
+16. Erken kalkıyorum
+17. Yıkanıyor
+18. Giyiniyoruz
+19. Geç yatıyor
+20. Uyandım (erkek).
+21. Je finis à six heures: A) Altıda bitiriyorum B) Kitap satıyorlar C) Yıkanıyor
+22. Nous choisissons: A) Trene biniyorum B) Giyiniyoruz C) Seçiyoruz
+23. Tu attends le bus: A) Geç yatıyor B) Otobüsü bekliyorsun C) Erken kalkıyorum
+24. Ils vendent des livres: A) Kitap satıyorlar B) Yıkanıyor C) Uyandım (erkek).
+25. Je prends le train: A) Giyiniyoruz B) Altıda bitiriyorum C) Trene biniyorum
+
+25 alıştırmanın çözümleri
+1. Altıda bitiriyorum — Fransızca kaynak ifade: Je finis à six heures [jı fini a siz ör] — Altıda bitiriyorum
+2. Seçiyoruz — Fransızca kaynak ifade: Nous choisissons [nu şwazison] — Seçiyoruz
+3. Otobüsü bekliyorsun — Fransızca kaynak ifade: Tu attends le bus [tü atan lı büs] — Otobüsü
+bekliyorsun
+4. Kitap satıyorlar — Fransızca kaynak ifade: Ils vendent des livres [il vand de livr] — Kitap satıyorlar
+
+5
+
+5. Trene biniyorum — Fransızca kaynak ifade: Je prends le train [jı pran lı tren] — Trene biniyorum
+6. Erken kalkıyorum — Fransızca kaynak ifade: Je me lève tôt [jı mı lev to] — Erken kalkıyorum
+7. Yıkanıyor — Fransızca kaynak ifade: Elle se lave [el sı lav] — Yıkanıyor
+8. Giyiniyoruz — Fransızca kaynak ifade: Nous nous habillons [nu nu zabiyon] — Giyiniyoruz
+9. Geç yatıyor — Fransızca kaynak ifade: Il se couche tard [il sı kuş tar] — Geç yatıyor
+10. Uyandım (erkek). — Fransızca kaynak ifade: Je me suis réveillé [jı mı süi reveye] — Uyandım (erkek).
+11. Je finis à six heures [jı fini a siz ör] — Altıda bitiriyorum — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+12. Nous choisissons [nu şwazison] — Seçiyoruz — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+13. Tu attends le bus [tü atan lı büs] — Otobüsü bekliyorsun — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+14. Ils vendent des livres [il vand de livr] — Kitap satıyorlar — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+15. Je prends le train [jı pran lı tren] — Trene biniyorum — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+16. Je me lève tôt [jı mı lev to] — Erken kalkıyorum — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+17. Elle se lave [el sı lav] — Yıkanıyor — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+18. Nous nous habillons [nu nu zabiyon] — Giyiniyoruz — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+19. Il se couche tard [il sı kuş tar] — Geç yatıyor — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+20. Je me suis réveillé [jı mı süi reveye] — Uyandım (erkek). — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+21. A — Je finis à six heures [jı fini a siz ör] — Altıda bitiriyorum
+22. C — Nous choisissons [nu şwazison] — Seçiyoruz
+23. B — Tu attends le bus [tü atan lı büs] — Otobüsü bekliyorsun
+24. A — Ils vendent des livres [il vand de livr] — Kitap satıyorlar
+25. C — Je prends le train [jı pran lı tren] — Trene biniyorum
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. Je finis à six heures ne anlama gelir? A) Altıda bitiriyorum B) Otobüsü bekliyorsun C) Erken kalkıyorum
+2. Nous choisissons ne anlama gelir? A) Kitap satıyorlar B) Yıkanıyor C) Seçiyoruz
+3. Tu attends le bus ne anlama gelir? A) Giyiniyoruz B) Otobüsü bekliyorsun C) Trene biniyorum
+4. Ils vendent des livres ne anlama gelir? A) Kitap satıyorlar B) Erken kalkıyorum C) Geç yatıyor
+5. Je prends le train ne anlama gelir? A) Yıkanıyor B) Uyandım (erkek). C) Trene biniyorum
+6. Boşluğu doldur: Je me ____ tôt — Erken kalkıyorum
+7. Boşluğu doldur: Elle ____ lave — Yıkanıyor
+8. Boşluğu doldur: Nous ____ habillons — Giyiniyoruz
+9. Boşluğu doldur: Il se ____ tard — Geç yatıyor
+10. Boşluğu doldur: Je me ____ réveillé — Uyandım (erkek).
+
+6
+
+11. Fransızcaya çevir: Altıda bitiriyorum
+12. Fransızcaya çevir: Seçiyoruz
+13. Fransızcaya çevir: Otobüsü bekliyorsun
+14. Şu anlam için verilen bozuk sıralamayı düzelt: livres / des / vendent / Ils — Kitap satıyorlar
+15. Şu anlam için verilen bozuk sıralamayı düzelt: train / le / prends / Je — Trene biniyorum
+
+Test cevap anahtarı
+1. A — Je finis à six heures [jı fini a siz ör] — Altıda bitiriyorum
+2. C — Nous choisissons [nu şwazison] — Seçiyoruz
+3. B — Tu attends le bus [tü atan lı büs] — Otobüsü bekliyorsun
+4. A — Ils vendent des livres [il vand de livr] — Kitap satıyorlar
+5. C — Je prends le train [jı pran lı tren] — Trene biniyorum
+6. lève — Je me lève tôt [jı mı lev to] — Erken kalkıyorum
+7. se — Elle se lave [el sı lav] — Yıkanıyor
+8. nous — Nous nous habillons [nu nu zabiyon] — Giyiniyoruz
+9. couche — Il se couche tard [il sı kuş tar] — Geç yatıyor
+10. suis — Je me suis réveillé [jı mı süi reveye] — Uyandım (erkek).
+11. Je finis à six heures [jı fini a siz ör] — Altıda bitiriyorum
+12. Nous choisissons [nu şwazison] — Seçiyoruz
+13. Tu attends le bus [tü atan lı büs] — Otobüsü bekliyorsun
+14. Ils vendent des livres [il vand de livr] — Kitap satıyorlar
+15. Je prends le train [jı pran lı tren] — Trene biniyorum
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: Je finis à six heures [jı fini a siz ör] — Altıda bitiriyorum
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: Nous choisissons [nu şwazison] — Seçiyoruz
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: Tu attends le bus [tü atan lı büs] — Otobüsü bekliyorsun
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Ils vendent des livres [il vand de livr] — Kitap satıyorlar
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+7
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+8
+

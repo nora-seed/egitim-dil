@@ -1,0 +1,886 @@
+RUSÇA ÖĞRENİM KİTABI
+A1 → B1 | Cilt 1: Giriş ve Modül 1
+Sıfırdan başlayan Türkçe konuşurlar için kendi kendine çalışma ana kaynağı. Bu cilt giriş ve Kiril alfabesi
+modülünü içerir; sonraki modüller ayrı ciltler hâlinde ilerler.
+Okunuş anahtarı: Köşeli parantezler yaklaşık okunuştur. BÜYÜK yazılan hece vurguludur; apostrof önceki
+ünsüzün yumuşaklığını gösterir. Gerçek sesi doğrulamak için sesli sözlük veya ChatGPT sesli modunu
+kullanın.
+
+BÖLÜM 0 · Kitap nasıl kullanılır?
+Hedef, her bölümde gördüğünüz sözcükleri sesli tanımak, sonra anlamını hatırlamak ve kısa konuşmada
+kullanmaktır. Her modülün başında konuyu öğrenin, tabloyu inceleyin, sesli okuyun, alıştırmaları çözün,
+testi kapalı kitapla yapın. Cevap anahtarını en son açın. Fonetik yardımcı tekerlektir: üçüncü tekrarınızdan
+sonra önce Kiril yazıya bakın.
+Günlük süre
+
+Uygulama
+
+60 dakika
+
+10 dk önceki kartlar; 15 dk konu; 15 dk sesli okuma/dinleme; 15 dk alıştırma; 5 dk günlük.
+
+120 dakika
+
+15 dk kartlar; 25 dk konu; 25 dk dinleme ve sesli tekrar; 25 dk alıştırma; 20 dk konuşma; 10
+dk günlük.
+
+Haftalık şablon: Pazartesi yeni konu ve 10 kelime; salı yeni konu ve 10 kelime; çarşamba sesli okuma ve
+eski kelimeler; perşembe yeni konu ve 10 kelime; cuma yeni konu ve 10 kelime; cumartesi diyalog, kalan
+kelimeler ve test; pazar hafif tekrar, ses kaydı ve yanlış analizi. Modül 1 için 7–10 gün ayırabilirsiniz.
+
+Kanıta dayalı çalışma araçları
+Aralıklı tekrar: Kartı aynı gün, ertesi gün, 3., 7. ve 14. günlerde yoklayın; unutulan kartı ertesi güne geri
+alın. Aktif hatırlama: Türkçeyi görüp Rusçasını söyleyin, ardından yazıya bakıp kontrol edin. Gölgeleme:
+3–8 saniyelik bir ses kaydını dinleyin ve hemen ardından aynı ritimle tekrar edin. Gruplama: tek tek harf
+yerine hece ve sık söz öbeklerini bir bütün olarak çalışın. Yazı sesin yerine geçmez: her tekrarın bir kısmı
+mutlaka sesli olsun.
+Motivasyon için süreç hedefi koyun: “Haftada 6 gün 30 dakika sesli çalışacağım.” Kaçırılan günü telafi
+etmeye uğraşarak üst üste günleri kaybetmeyin. Günlükte tarih, dakika, öğrendiğiniz 5 söz, 1 telaffuz
+zorluğu ve yarınki tek adım bulunsun. Başlangıç hedefinizi yazın: “30 gün sonra Kiril alfabesini okuyup
+kendimi 30 saniyede tanıtacağım.” Ölçüm: ilk gün ve 30. gün bir ses kaydı alın.
+
+BÖLÜM 0.1 · Rusça hakkında genel bilgiler
+Rusça Doğu Slav dilidir. Dünya genelinde toplam konuşur sayısı için yaklaşık 250–260 milyon tahmini
+kullanılır; sayım yöntemi ve yıl değiştikçe sayı değişir. Rusya’nın devlet dilidir; Belarus ve Kırgızistan’da
+resmî statüsü vardır. Kazakistan’da devlet dili Kazakçadır, Rusça devlet kurumları ve yerel yönetimlerde
+resmî olarak Kazakça ile birlikte kullanılır. BM’nin altı resmî dilinden biridir. Kaynaklar: UNRIC, “Russian
+language: many shades of blue”; Rusya ve Kazakistan anayasaları (kaynak bağlantıları kitabın sonunda).
+Konu
+
+Türkçe
+
+Rusça
+
+Yazı
+
+Latin harfleri
+
+33 harfli Kiril alfabesi
+
+Sözcük sırası
+
+Sıklıkla özne-nesne-fiil
+
+Çoğunlukla özne-fiil-nesne; bağlama göre esnek
+
+RUSÇA ÖĞRENİM KİTABI · GİRİŞ + MODÜL 1
+
+1
+
+Konu
+
+Türkçe
+
+Rusça
+
+İsimler
+
+Dilbilgisel cinsiyet yok; durum ekleri var
+
+Eril, dişil, nötr; altı temel ad durumu
+
+Ses
+
+Ünlü uyumu belirgin
+
+Sözcük vurgusu ve vurgusuz ünlü indirgenmesi
+belirgin
+
+Motivasyon kaynakları: yolculukta tabela okuyabilmek, Rusça konuşan biriyle selamlaşmak, filmlerde
+tanıdık sözleri seçmek. İlk güçlük Kiril yazısını Latin yazı gibi okumaktır; çözüm karışan harf çiftlerini ayrı
+kartlarda karşılaştırmaktır. Yumuşak ünsüzleri bir ses kaydıyla çalışın; hâl ve cinsiyet konularına ancak
+kelimeyle birlikte, küçük öbeklerle geçin. B1 hedefi düzenli gerçek dinleme ve karşılıklı konuşma gerektirir;
+90 gün takvimi çalışma rotasıdır, garanti edilmiş yeterlik süresi değildir.
+
+RUSÇA ÖĞRENİM KİTABI · GİRİŞ + MODÜL 1
+
+2
+
+MODÜL 1 · Kiril alfabesi, sesler ve ilk okumalar
+Bu modülün önemi
+Bir tabelayı, telefon ekranını veya mesajı okumak için alfabe gerekir. Harfi öğrenirken sesi ve vurguyu
+birlikte çalışırsanız sonraki modüllerde kelimeleri daha hızlı tanırsınız. Hedef: 33 harfi ayırt etmek,
+bilinmeyen kısa sözcüğü hecelemek, 50 temel sözü tanımak ve iki kısa konuşmayı seslendirmek.
+
+1. Kiril yazısının mantığı ve kısa geçmişi
+Modern Rus alfabesi Kiril yazısının bir biçimidir. Adı, Slav yazı geleneğiyle ilişkili Kiril’e dayanır; bugünkü
+harfler yüzyıllar içinde değişmiştir. Bir harfin şekli Latin harfine benzeyebilir ama sesi farklı olabilir.
+Harf-ses eşlemesi Türkçeye kıyasla vurgu ve yumuşaklık nedeniyle daha çok bağlama bağlıdır.
+Türkçeyle karşılaştırma: Rusça da soldan sağa yazılır; fakat Türkçedeki “yazıldığı gibi oku” beklentisini her
+sözcüğe taşımayın. Formül: harfi tanı → heceyi bul → vurguyu işaretle → yumuşaklığı kontrol et → sesli oku.
+Tablo: Harf adları sütunundaki okunuşlar harfin adıdır; kelimede çıkardığı ses farklı olabilir. Örneklerde
+vurgu işareti (´) yalnızca öğrenme içindir, normal yazımda çoğu zaman gösterilmez.
+Harf
+
+Adı
+
+Vurgulu örnek · yaklaşık okunuş · anlam
+
+Аа
+
+a
+
+а́дрес [A-dres] — adres
+
+Бб
+
+be
+
+ба́нк [bank] — banka
+
+Вв
+
+ve
+
+во́да [VO-da] — su
+
+Гг
+
+ge
+
+го́род [GO-rat] — şehir
+
+Дд
+
+de
+
+до́м [dom] — ev
+
+Ее
+
+ye
+
+е́сли [YES-li] — eğer
+
+Ёё
+
+yo
+
+ёлка [YOL-ka] — yılbaşı ağacı
+
+Жж
+
+je
+
+жук [juk] — böcek
+
+Зз
+
+ze
+
+зима́ [zi-MA] — kış
+
+Ии
+
+i
+
+и́мя [İM-ya] — isim
+
+Йй
+
+kısa i
+
+йо́га [YO-ga] — yoga
+
+Кк
+
+ka
+
+кни́га [KNİ-ga] — kitap
+
+Лл
+
+el
+
+луна́ [lu-NA] — ay
+
+Мм
+
+em
+
+ма́ма [MA-ma] — anne
+
+Нн
+
+en
+
+нос [nos] — burun
+
+Оо
+
+o
+
+окно́ [ak-NO] — pencere
+
+Пп
+
+pe
+
+па́па [PA-pa] — baba
+
+Рр
+
+er
+
+рука́ [ru-KA] — el/kol
+
+Сс
+
+es
+
+суп [sup] — çorba
+
+Тт
+
+te
+
+та́кси [TAK-si] — taksi
+
+Уу
+
+u
+
+у́тро [UT-ra] — sabah
+
+Фф
+
+ef
+
+фо́то [FO-ta] — fotoğraf
+
+RUSÇA ÖĞRENİM KİTABI · GİRİŞ + MODÜL 1
+
+3
+
+Harf
+
+Adı
+
+Vurgulu örnek · yaklaşık okunuş · anlam
+
+Хх
+
+ha
+
+хлеб [hlyep] — ekmek
+
+Цц
+
+tse
+
+це́на [TSE-na] — fiyat
+
+Чч
+
+çe
+
+ча́й [çay] — çay
+
+Шш
+
+şa
+
+ша́пка [ŞAP-ka] — şapka
+
+Щщ
+
+şça
+
+щи [şşi] — lahana çorbası
+
+Ъъ
+
+sert işaret
+
+объе́кт [ab-YEKT] — nesne/tesis
+
+Ыы
+
+ı (yaklaşık)
+
+сыр [sır] — peynir
+
+Ьь
+
+yumuşak işaret
+
+де́нь [dyeń] — gün
+
+Ээ
+
+e
+
+э́то [E-ta] — bu
+
+Юю
+
+yu
+
+ю́г [yuk] — güney
+
+Яя
+
+ya
+
+я́блоко [YA-bla-ka] — elma
+
+Özel not: ё harfi yazıda kimi zaman е ile değiştirilir; öğrenirken ve belirsizlikte ё yazımını koruyun. Sözcük
+başındaki е, ё, ю, я çoğunlukla y’li başlar; ünsüz sonrasında ise çoğu kez önceki ünsüzü yumuşatır. İstisna
+oluşturan ünsüzleri aşağıda göreceksiniz.
+
+Alfabe için on sesli örnek
+1. А а → а́дрес [A-dres] — adres.
+2. В в → во́да [VO-da] — su.
+3. Е е → е́сли [YES-li] — eğer.
+4. Ё ё → ёлка [YOL-ka] — yılbaşı ağacı.
+5. Н н → нос [nos] — burun.
+6. Р р → рука́ [ru-KA] — el/kol.
+7. С с → суп [sup] — çorba.
+8. Х х → хлеб [hlyep] — ekmek.
+9. Ц ц → це́на [TSE-na] — fiyat.
+10. Я я → я́блоко [YA-bla-ka] — elma.
+Yaygın hatalar: В в harfini b, Н н harfini h, Р р harfini p, С с harfini c, У у harfini y okumak. Çözüm: her biri
+için biçim yerine sesi söyleyen tek kart oluşturun.
+Ezber tekniği: Aynı görünen ve aynı okunan A, K, M, O, T ile başlayın; “sahte arkadaşlar” В/Н/Р/С/У için ayrı
+beş kart hazırlayın.
+Mini alıştırma (8): 1 В hangi ses? 2 Н hangi ses? 3 Р hangi ses? 4 С hangi ses? 5 У hangi ses? 6 Щ yaklaşık
+hangi ses? 7 Ь bağımsız ses mi? 8 Ё sesli harf mi?
+
+2. Ünlüler, vurgu ve hece
+Konunun mantığı: Rusçada bir kelimede genellikle bir ana vurgu vardır. Vurgulu ünlü belirgin, vurgusuz
+ünlü daha kısa ve kimi zaman farklı duyulur. Türkçede de vurgu vardır, ama Rusçada ünlünün duyuluşuna
+etkisi özellikle büyüktür.
+
+RUSÇA ÖĞRENİM KİTABI · GİRİŞ + MODÜL 1
+
+4
+
+Formül: ünlüleri say → heceleri ayır → sözlükte vurguyu kontrol et → vurgulu heceyi belirgin söyle. On ünlü
+harf: а, е, ё, и, о, у, ы, э, ю, я. Й ünsüzdür; Ь ve Ъ ses üretmez. Vurgusuz о sıklıkla [a] yönüne yaklaşır;
+burada verdiğimiz Türkçe okunuşlar yaklaşık değerdir, tüm indirgenmeleri bire bir göstermez.
+Yazım grubu
+
+Ana ses
+
+Önemli davranış
+
+а, о, у, э, ы
+
+a, o, u, e, ı-benzeri
+
+о vurgusuzken çoğunlukla a-benzeri
+
+я, ё, ю, е
+
+ya/yo/yu/ye veya
+yumuşaklık + ünlü
+
+Başta y’li; ünsüzden sonra çoğu kez yumuşatır
+
+и
+
+i
+
+Çoğu önceki ünsüzü yumuşatır
+
+1. ма́ма [MA-ma] — anne: ilk hece vurgulu.
+2. па́па [PA-pa] — baba: ilk hece vurgulu.
+3. вода́ [va-DA] — su: ilk о vurgusuzdur.
+4. окно́ [ak-NO] — pencere: ilk о vurgusuzdur.
+5. молоко́ [ma-la-KO] — süt: son hece vurgulu.
+6. го́род [GO-rat] — şehir: ilk hece vurgulu.
+7. рабо́та [ra-BO-ta] — iş: orta hece vurgulu.
+8. хорошо́ [ha-ra-ŞO] — iyi: son hece vurgulu.
+9. спаси́бо [spa-Sİ-ba] — teşekkürler: orta hece vurgulu.
+10. пока́ [pa-KA] — görüşürüz: son hece vurgulu.
+Yaygın hata: bütün о harflerini kuvvetli “o” okumak ve vurguyu Türkçe alışkanlıkla sona koymak. Her yeni
+kelimeyi önce vurgulu hecesiyle kaydedin.
+Ezber tekniği: Kartın Kiril tarafında vurgu işareti bulunsun. Sözü üç defa ritimle söyleyin; vurgu hecesinde
+elinizi masaya dokundurun.
+Mini alıştırma (6): 1 вода́ [va-DA] — su: vurgu hangi hecede? 2 ма́ма [MA-ma] — anne: kaç ünlü var? 3
+окно́ [ak-NO] — pencere: ilk о nasıl yaklaşır? 4 молоко́ [ma-la-KO] — süt: kaç hece? 5 ёлка [YOL-ka] —
+yılbaşı ağacı: ё genellikle vurgulu mu? 6 Й ünlü müdür?
+
+3. Ünsüzlerin sertliği ve yumuşaklığı
+Konunun mantığı: Birçok Rus ünsüzünün iki telaffuzu vardır. “Yumuşak” biçimde dilin ön-orta kısmı
+damağa yaklaşır; bu, harften sonra ayrı bir Türkçe y sesi eklemek değildir. Türkçede kimi ünsüzler
+çevrelerindeki ünlülerle değişir; Rusçada bu ayrım kelimeleri ayırt edebilir.
+Formül: eşleşebilen ünsüz + а/о/у/э/ы → genelde sert; eşleşebilen ünsüz + я/ё/ю/е/и veya ь → genelde
+yumuşak. Ж, Ш, Ц genel olarak sert; Ч ve Щ genel olarak yumuşaktır. Bu bir başlangıç kuralıdır; alıntı
+sözcüklerde ve bazı birleşimlerde istisnalar vardır.
+Karşılaştırma
+
+Yaklaşık ses
+
+Anlam
+
+лук [luk] / люк [l’uk]
+
+sert l / yumuşak l
+
+soğan veya yay / kapak
+
+мал [mal] / мял [m’al]
+
+sert m / yumuşak m
+
+küçüktü / buruşturdu
+
+брат [brat] / брать [brat’]
+
+sert t / yumuşak t
+
+erkek kardeş / almak
+
+угол [U-gal] / уголь [U-gal’]
+
+sert l / yumuşak l
+
+köşe / kömür
+
+1. лук [luk] — soğan veya yay.
+
+RUSÇA ÖĞRENİM KİTABI · GİRİŞ + MODÜL 1
+
+5
+
+2. люк [l’uk] — kapak.
+3. мал [mal] — küçüktü.
+4. мял [m’al] — buruşturdu.
+5. брат [brat] — erkek kardeş.
+6. брать [brat’] — almak.
+7. угол [U-gal] — köşe.
+8. уголь [U-gal’] — kömür.
+9. кон [kon] — son/oyun sırası.
+10. конь [kon’] — at (özellikle edebî veya satranç bağlamında).
+Yaygın hatalar: yumuşak ünsüzün sonuna tam bir “y” sesi eklemek; ь işaretini ayrı bir ses sanmak. Ezber
+tekniği: sert ve yumuşak çiftleri iki ses kaydı olarak dinleyin, çizginin iki yanına yazarak tekrar edin.
+Mini alıştırma (6): 1 лук [luk] — soğan kelimesinde л sert mi? 2 люк [l’uk] — kapak kelimesinde л yumuşak
+mı? 3 брать [brat’] — almak sözcüğünde ь ne yapar? 4 Ч genelde sert mi? 5 Ш genelde sert mi? 6 ь kendi
+başına hece kurar mı?
+
+4. Türk öğrenciler için özel sesler
+Ы: Türkçe ı bir başlangıç yaklaşımıdır; Rusça ses çoğu konuşurda daha arkada ve sıkışık çıkar. Önce Türkçe
+“ı” deyin, dudakları yuvarlamadan dili bir miktar geriye çekip kısa ses üretin. Ь: önceki ünsüzü yumuşatır,
+kendi başına okunmaz. Ъ: önceki ünsüzle sonraki я/е/ё/ю arasındaki y’li başlangıcı ayırır; kendi başına
+okunmaz. Щ modern standart dilde uzun, yumuşak ş sesine yakındır; “şç” yazımı yalnızca hatırlatıcıdır,
+çoğu durumda ayrı ve sert bir ç patlaması yoktur. Ч daima yumuşağa yakın ç; Ш sert ş; Ж sert j benzeri
+sestir.
+Formül: ь = önceki ünsüzü yumuşat; ъ = ayır ve sonraki y’li ünlünün başlangıcını koru; щ ≈ uzun yumuşak
+ş. Dil ucu ve ön kısmını aynada izleyin. 10 saniyelik kayıt alın, aynı sözcüğü doğal bir ses kaydıyla art arda
+dinleyin; bir seferde tek sesi düzeltin.
+İşaret / ses
+
+Örnek
+
+Dinlerken odak
+
+ы
+
+мы [mı] — biz
+
+Türkçe ı ile aynı saymayın
+
+ь
+
+день [d’en’] — gün
+
+Son n yumuşak
+
+ъ
+
+съесть [s-YEST’] — yiyip bitirmek
+
+S ve ye başlangıcı ayrılır
+
+щ
+
+щи [şşi] — lahana çorbası
+
+Uzun ve yumuşak ş
+
+ч
+
+чай [çay] — çay
+
+Yumuşağa yakın ç
+
+ш
+
+шар [şar] — top
+
+Sert ş
+
+ж
+
+жук [juk] — böcek
+
+Sert j
+
+1. мы [mı] — biz.
+2. сыр [sır] — peynir.
+3. день [d’en’] — gün.
+4. соль [sol’] — tuz.
+5. объект [ab-YEKT] — nesne/tesis.
+6. съесть [s-YEST’] — yiyip bitirmek.
+
+RUSÇA ÖĞRENİM KİTABI · GİRİŞ + MODÜL 1
+
+6
+
+7. щи [şşi] — lahana çorbası.
+8. ещё [yi-ŞŞO] — daha/hâlâ.
+9. чай [çay] — çay.
+10. шар [şar] — top.
+11. жук [juk] — böcek.
+Yaygın hata: Щ harfini her sözcükte “ş + ç” diye iki sert sesle söylemek. Şimdilik uzun ve yumuşak bir “ş”
+hedefleyin. Ezber tekniği: ь ve ъ için “yumuşat” ve “ayır” etiketli iki kart hazırlayın.
+Mini alıştırma (6): 1 ы Türkçe ı ile bire bir aynı mı? 2 ъ kendi sesini verir mi? 3 ь neyi değiştirir? 4 щ tek sert
+ç içerir mi? 5 Ж hangi Türkçe sese yaklaşır? 6 Ч hangi Türkçe sese yaklaşır?
+
+5. Sesli ve sessiz karşılıklar; son ünsüz
+Konunun mantığı: Sözcük sonunda sesli ünsüzler çoğunlukla sessiz eşleri gibi duyulur. Türkçedeki
+kitap/kitabı örneği ses değişimini hatırlatabilir, ancak Rusçadaki kurallar farklıdır. Formül: sözcük sonu
+б→п, в→ф, г→к, д→т, ж→ш, з→с (standart telaffuzda). Yazım aynen kalır.
+Yazı
+
+Yaklaşık duyuluş
+
+Anlam
+
+дуб [dup]
+
+p ile biter
+
+meşe
+
+сад [sat]
+
+t ile biter
+
+bahçe
+
+снег [snyek]
+
+k ile biter
+
+kar
+
+глаз [glas]
+
+s ile biter
+
+göz
+
+1. дуб [dup] — meşe.
+2. сад [sat] — bahçe.
+3. снег [snyek] — kar.
+4. глаз [glas] — göz.
+5. хлеб [hlyep] — ekmek.
+6. кровь [krof’] — kan.
+7. пруд [prut] — gölet.
+8. нож [noş] — bıçak.
+9. мороз [ma-ROS] — ayaz.
+10. берег [BYE-ryek] — kıyı.
+Yaygın hata: yazımdaki son б/д/г harflerini gür “b/d/g” olarak söylemek. Ezber tekniği: son ünsüzün altını
+çizin; sesi onun sessiz eşiyle bitirip yazımı ayrıca hatırlayın.
+Mini alıştırma (5): 1 сад [sat] — bahçe: son ses hangisi? 2 дуб [dup] — meşe: son ses hangisi? 3 нож [noş]
+— bıçak: son ses hangisi? 4 Yazım değişir mi? 5 снег [snyek] — kar: son ses hangisi?
+
+İlk 50 kelime · tematik sözlük
+Selamlaşma
+1. привет [pri-VYET] — selam
+2. здравствуйте [ZDRA-stvuy-tye] — merhaba (resmî)
+3. пока [pa-KA] — görüşürüz
+4. спасибо [spa-Sİ-ba] — teşekkürler
+
+RUSÇA ÖĞRENİM KİTABI · GİRİŞ + MODÜL 1
+
+7
+
+5. пожалуйста [pa-JA-lus-ta] — lütfen/rica ederim
+6. да [da] — evet
+7. нет [nyet] — hayır/yok
+8. извините [iz-vi-Nİ-tye] — affedersiniz
+9. доброе утро [DOB-ra-ye UT-ra] — günaydın
+10. добрый день [DOB-rıy dyen’] — iyi günler
+11. добрый вечер [DOB-rıy VYE-çer] — iyi akşamlar
+12. до свидания [da svi-DA-ni-ya] — hoşça kalın
+
+İnsanlar
+1. я [ya] — ben
+2. ты [tı] — sen
+3. он [on] — o (erkek)
+4. она [a-NA] — o (kadın)
+5. мы [mı] — biz
+6. вы [vı] — siz
+7. они [a-Nİ] — onlar
+8. мама [MA-ma] — anne
+9. папа [PA-pa] — baba
+10. брат [brat] — erkek kardeş
+11. сестра [sis-TRA] — kız kardeş
+12. друг [druk] — erkek arkadaş
+13. подруга [pad-RU-ga] — kız arkadaş
+14. человек [çi-la-VYEK] — insan
+15. имя [İM-ya] — ad
+
+Ev ve eşya
+1. дом [dom] — ev
+2. квартира [kvar-Tİ-ra] — daire
+3. комната [KOM-na-ta] — oda
+4. стол [stol] — masa
+5. стул [stul] — sandalye
+6. книга [KNİ-ga] — kitap
+7. ручка [RUç-ka] — kalem
+8. телефон [ti-li-FON] — telefon
+9. окно [ak-NO] — pencere
+10. дверь [dvyer’] — kapı
+11. ключ [klyuç] — anahtar
+
+Yiyecek ve çevre
+1. вода [va-DA] — su
+2. чай [çay] — çay
+3. кофе [KO-fye] — kahve
+4. хлеб [hlyep] — ekmek
+5. молоко [ma-la-KO] — süt
+6. сыр [sır] — peynir
+7. суп [sup] — çorba
+8. яблоко [YA-bla-ka] — elma
+9. город [GO-rat] — şehir
+10. улица [U-li-tsa] — sokak
+11. школа [ŞKO-la] — okul
+12. машина [ma-Şİ-na] — araba
+
+RUSÇA ÖĞRENİM KİTABI · GİRİŞ + MODÜL 1
+
+8
+
+Okuma basamakları ve ilk cümleler
+Önce heceler: ма [ma] — anne sözcüğünün ilk hecesi; па [pa] — baba sözcüğünün ilk hecesi; лу [lu] —
+örnek hece; лю [l’u] — yumuşak l’li örnek hece. Hecelerin tek başına anlamı olmayabilir; gösterilen anlam
+yalnızca açıklamadır.
+1. мама [MA-ma] — anne.
+2. папа [PA-pa] — baba.
+3. книга [KNİ-ga] — kitap.
+4. окно [ak-NO] — pencere.
+5. Это мама. [E-ta MA-ma] — Bu anne.
+6. Это папа. [E-ta PA-pa] — Bu baba.
+7. Это дом. [E-ta dom] — Bu ev.
+8. Это книга. [E-ta KNİ-ga] — Bu bir kitap.
+9. Вот чай. [vot çay] — İşte çay.
+10. Вот вода. [vot va-DA] — İşte su.
+Okuma notu: это [E-ta] — bu; вот [vot] — işte. Bu iki gösterme sözüyle şimdilik yalnızca hazır kalıp kurun;
+dilbilgisi Modül 4’te açılacak.
+
+Öğrenme tavsiyeleri
+İlk iki gün 33 harfi üç gruba ayırın. Üçüncü gün 50 kelimenin ilk 20’sini, sonra günde 10–15 yeni kelimeyi
+sesli çalışın. Evinizde beş nesneye Kiril etiket yapıştırın. Telefon klavyesine Rusça ekleyin, ama otomatik
+düzeltmeye güvenmeyin. Sesli kontrol için ChatGPT’ye “Bu Rusça cümleyi doğal hızda söyle, sonra
+yavaşlat ve vurguyu belirt” deyin; duyduğunuzu kendi kaydınızla karşılaştırın.
+
+Yaygın hatalar ve ezber tekniği
+Hata 1: Harf şekline bakıp Latin sesi vermek. Çözüm: В/Н/Р/С/У kartları. Hata 2: vurgusuz о sesini hep açık
+o okumak. Çözüm: vurguyu kelimeyle birlikte kaydetmek. Hata 3: ь’yi “i” okumak. Çözüm: önceki ünsüzü
+tek hareketle yumuşatmak. Hata 4: Щ’yi iki sert ünsüz yapmak. Çözüm: uzun yumuşak ş çalışması. Hata 5:
+yalnızca fonetiği okuyup Kiril’i atlamak. Çözüm: kartın ön yüzü Kiril, arka yüzü anlam ve yardımcı fonetik.
+
+Konu özeti · hızlı başvuru
+Başlık
+
+Kısa kural
+
+Alfabe
+
+33 harf = 10 ünlü, 21 ünsüz, 2 işaret.
+
+Vurgu
+
+Sözcükle birlikte öğren; vurgusuz о çoğu zaman a-benzeri.
+
+Yumuşaklık
+
+е/ё/и/ю/я ya da ь birçok ünsüzü yumuşatır.
+
+İşaretler
+
+ь yumuşatır; ъ ayırır; ikisi de tek başına ses değildir.
+
+Özel ses
+
+щ uzun yumuşak ş; ы Türkçe ı’ya yaklaşık; ч yumuşak ç.
+
+Son ses
+
+Sözcük sonunda bazı sesli ünsüzler sessizleşir.
+
+Alıştırmalar · 24 görev
+İlk 12 görev kısa yanıt; 13–18 çeviri/okuma; 19–24 düzeltme ve üretimdir. Rusça verilen her satırda
+yaklaşık okunuş ve anlam gösterilmiştir; cevapları kapalı bölümden kontrol edin.
+1. В harfinin sesini yazın.
+
+RUSÇA ÖĞRENİM KİTABI · GİRİŞ + MODÜL 1
+
+9
+
+2. Н harfinin sesini yazın.
+3. Р harfinin sesini yazın.
+4. С harfinin sesini yazın.
+5. У harfinin sesini yazın.
+6. 10 ünlü harfi sırayla yazın.
+7. ь işaretinin iki sözcükten hangisinde olduğunu bulun: брат [brat] — kardeş / брать [brat’] — almak.
+8. ъ işaretinin görevini tek cümleyle açıklayın.
+9. вода [va-DA] — su: vurgulu heceyi belirtin.
+10. окно [ak-NO] — pencere: kaç hece vardır?
+11. сыр [sır] — peynir: ы için hangi Türkçe ses yalnızca yaklaşım sağlar?
+12. дуб [dup] — meşe: yazılı son harf ve duyulan son sesi belirtin.
+13. Anne sözünü Kiril yazısıyla yazın.
+14. Ekmek sözünü Kiril yazısıyla yazın.
+15. Su sözünü Kiril yazısıyla yazın.
+16. Это дом. [E-ta dom] — Bu ev. Cümleyi Kiril olarak, modele bakmadan yeniden yazın.
+17. Вот чай. [vot çay] — İşte çay. Cümleyi Türkçeye çevirin.
+18. спасибо [spa-Sİ-ba] — teşekkürler sözünün vurgulu hecesini yazın.
+19. “В harfi b sesidir” iddiasını düzeltin.
+20. “Щ her zaman iki sert ses ş+ç’dir” iddiasını düzeltin.
+21. “Ь bir ünlüdür” iddiasını düzeltin.
+22. Üç selamlaşma ifadesini Kiril ve anlamıyla yazın.
+23. İki ev eşyasını Kiril ve anlamıyla yazın.
+24. молоко [ma-la-KO] — süt sözünü bir kez heceleyip vurguya göre sesli söyleyin.
+
+Modül testi · 15 soru
+1–5 çoktan seçmeli, 6–9 boşluk doldurma, 10–12 çeviri, 13–15 düzeltme. Her soru 1 puan; 12 ve üzeri
+doğru ile sonraki modüle geçebilirsiniz.
+1. В sesi: A) b B) v C) n.
+2. Н sesi: A) h B) m C) n.
+3. Ы için en doğru açıklama: A) Türkçe ı ile tamamen aynı B) ı’ya yaklaşık, ancak farklı C) y.
+4. Ь görevi: A) yumuşatmak B) ayrı bir ünlü olmak C) vurgu göstermek.
+5. Vurgusuz о çoğu durumda: A) a-benzeri B) daima o C) u.
+6. “Anne” = ______ (Kiril).
+7. “Su” = ______ (Kiril).
+8. “Çay” = ______ (Kiril).
+9. “Teşekkürler” = ______ (Kiril).
+10. дом [dom] — ev: Türkçeye çevirin.
+11. окно [ak-NO] — pencere: Türkçeye çevirin.
+
+RUSÇA ÖĞRENİM KİTABI · GİRİŞ + MODÜL 1
+
+10
+
+12. “Bu bir kitap.” cümlesini Kiril yazın.
+13. “Р harfi p okunur.” cümlesini düzeltin.
+14. “день [d’en’] — gün” sözündeki ь bağımsız ses verir: düzeltin.
+15. “го́род [GO-rat] — şehir” sözünün vurgusu son hecededir: düzeltin.
+
+Dinleme metinleri · 2 diyalog
+Gerçek dinleme uygulaması: önce aşağıdaki Rusça satırları ekrandan gizleyin; ChatGPT sesli moduna
+diyalogu yavaş, sonra doğal hızda seslendirmesini isteyin. Yazılı dökümü görmek dinleme sınavı yerine
+geçmez. Metni üç kez dinleyin, duyduğunuz 3 sözü not edin.
+Diyalog A · evde
+1. — Привет! [pri-VYET] — Selam!
+2. — Привет! Это чай? [pri-VYET! E-ta çay?] — Selam! Bu çay mı?
+3. — Да, это чай. [da, E-ta çay] — Evet, bu çay.
+4. — Спасибо! [spa-Sİ-ba] — Teşekkürler!
+Diyalog B · kısa tanışma
+1. — Здравствуйте! [ZDRA-stvuy-tye] — Merhaba!
+2. — Здравствуйте! Это ваш дом? [ZDRA-stvuy-tye! E-ta vaş dom?] — Merhaba! Bu sizin eviniz mi?
+3. — Да, это мой дом. [da, E-ta moy dom] — Evet, bu benim evim.
+4. — До свидания! [da svi-DA-ni-ya] — Hoşça kalın!
+Not: ваш [vaş] — sizin; мой [moy] — benim. İyelik çekimleri Modül 4’te açıklanacak. Dinleme soruları: A’da
+hangi içecek var? B’de konuşmacı neyi soruyor? B’nin sonunda hangi veda var?
+
+Konuşma pratiği · rol yapma
+Sen ev sahibi, ChatGPT konuk. Önce konuk “Привет! [pri-VYET] — Selam!” desin. Sen “Привет! [pri-VYET]
+— Selam!” diye karşılık ver. Masadaki içeceği “Это чай. [E-ta çay] — Bu çay.” cümlesiyle göster. Konuğun
+“Спасибо! [spa-Sİ-ba] — Teşekkürler!” sözüne “Пожалуйста! [pa-JA-lus-ta] — Rica ederim!” diye yanıt
+ver. Aynı sahneyi ikinci kez fonetik satırına bakmadan yap. Üçüncü tekrar için rolleri değiştir.
+
+Kendini değerlendirme
+Beceri
+
+Henüz
+değil
+
+Yardımla
+
+Tek
+başıma
+
+33 harfi tanıyorum
+
+□
+
+□
+
+□
+
+В/Н/Р/С/У harflerini karıştırmıyorum
+
+□
+
+□
+
+□
+
+Kısa sözlerde vurguyu gösteriyorum
+
+□
+
+□
+
+□
+
+Yumuşak ve sert çiftleri duyunca seçiyorum
+
+□
+
+□
+
+□
+
+50 kelimenin en az 40’ını tanıyorum
+
+□
+
+□
+
+□
+
+İki diyaloğu sesli canlandırıyorum
+
+□
+
+□
+
+□
+
+Cevap anahtarı
+Mini alıştırmalar: Alfabe 1 v, 2 n, 3 r, 4 s, 5 u, 6 uzun yumuşak ş, 7 hayır, 8 evet. Ünlü 1 ikinci, 2 iki, 3
+a-benzeri, 4 üç, 5 evet, 6 hayır. Sertlik 1 evet, 2 evet, 3 son t’yi yumuşatır, 4 hayır, 5 evet, 6 hayır. Özel ses
+
+RUSÇA ÖĞRENİM KİTABI · GİRİŞ + MODÜL 1
+
+11
+
+1 hayır, 2 hayır, 3 önceki ünsüzü, 4 hayır, 5 j, 6 ç. Son ünsüz 1 t, 2 p, 3 ş, 4 hayır, 5 k.
+24 görev yanıtları: 1 v; 2 n; 3 r; 4 s; 5 u; 6 а, е, ё, и, о, у, ы, э, ю, я; 7 брать [brat’] — almak; 8 y’li ünlü
+başlangıcını ayırır; 9 ikinci; 10 iki; 11 ı; 12 б ve p; 13 мама [MA-ma] — anne; 14 хлеб [hlyep] — ekmek; 15
+вода [va-DA] — su; 16 Это дом. [E-ta dom] — Bu ev; 17 İşte çay; 18 ikinci; 19 В = v; 20 щ uzun yumuşak
+ş; 21 ь ses vermez; 22 örnek: привет [pri-VYET] — selam, пока [pa-KA] — görüşürüz, здравствуйте
+[ZDRA-stvuy-tye] — merhaba; 23 örnek: стол [stol] — masa, стул [stul] — sandalye; 24 ma-la-KO (son
+hece).
+Test yanıtları: 1 B; 2 C; 3 B; 4 A; 5 A; 6 мама [MA-ma] — anne; 7 вода [va-DA] — su; 8 чай [çay] — çay; 9
+спасибо [spa-Sİ-ba] — teşekkürler; 10 ev; 11 pencere; 12 Это книга. [E-ta KNİ-ga] — Bu bir kitap; 13 Р =
+r; 14 ь önceki ünsüzü yumuşatır; 15 vurgu ilk hecede. Dinleme: A çay; B evin kime ait olduğu; B До
+свидания! [da svi-DA-ni-ya] — Hoşça kalın!
+
+Kaynak notları
+Konuşur sayısı ve uluslararası kullanım: United Nations Regional Information Centre, “Russian language:
+many shades of blue”, https://unric.org/en/russian-language-many-shades-of-blue/ ; Kazakistan’daki resmî
+kullanımın hukuki ifadesi: https://www.gov.kz/article/232335?lang=en ; Kırgızistan Anayasası:
+https://www.gov.kg/ru/p/constitution . Fonetik transkripsiyon pedagojik ve yaklaşık bir gösterimdir;
+standart IPA dökümü yerine geçmez.
+Devam etmek için “DEVAM ET” yaz. Bir sonraki cilt: Modül 2, Selamlaşma ve Tanışma.
+
+RUSÇA ÖĞRENİM KİTABI · GİRİŞ + MODÜL 1
+
+12
+

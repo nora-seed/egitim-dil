@@ -1,0 +1,542 @@
+Modül 14 — Passé Composé Être
+Seviye: A2. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+Passé Composé Être konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt etmeye
+yardım eder.
+
+Konunun mantığı
+Özne + être şimdiki zaman + geçmiş ortaç; özneyle cinsiyet/sayı uyumu. Bazı yer değiştirme fiilleri ve
+dönüşlü fiiller être alır.
+
+Türkçe ile karşılaştırma
+Türkçede ortaç biçimi öznenin cinsiyetine göre değişmez.
+
+Formül / Kural
+Temel şema: Özne + être şimdiki zaman + geçmiş ortaç; özneyle cinsiyet/sayı uyumu. Bazı yer değiştirme
+fiilleri ve dönüşlü fiiller être alır.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+Je suis allé [jı süi zale] — Gittim (erkek)
+
+2. örüntü
+
+bağlam
+
+Elle est allée [el e tale] — Gitti (kadın)
+
+3. örüntü
+
+telaffuz
+
+Ils sont arrivés [il son tarive] — Vardılar
+
+aller — gitmek: passé composé (eril örnek)
+Fransızca [IPA]
+
+Türkçe
+
+je suis allé [ʒə sɥiz ale]
+
+gittim
+
+tu es allé [ty ɛz ale]
+
+gittin
+
+il est allé [il ɛt ale]
+
+gitti
+
+nous sommes allés [nuz sɔmz ale]
+
+gittik
+
+vous êtes allés [vuz ɛtz ale]
+
+gittiniz
+
+ils sont allés [ilz sɔ̃ t ale]
+
+gittiler
+
+Ayrıntılı konu anlatımı
+Être yardımcı fiili ve uyum
+Elle est allée [ɛl ɛtale] — Gitti (kadın) ile il est allé [il ɛtale] — Gitti (erkek) aynı duyulabilir fakat yazımda
+dişil -e vardır. Ils sont allés [il sɔ̃ tale] — Gittiler (erkek/karma), elles sont allées [ɛl sɔ̃ tale] — Gittiler
+(kadın). Être alan hareket/değişim fiilleri listesi anlam ve kullanıma göre denetlenir. Elle est sortie [ɛl ɛ
+sɔʁti] — Dışarı çıktı ama elle a sorti le livre [ɛl a sɔʁti lə livʁ] — Kitabı çıkardı: nesneyle kullanılan biçim
+avoir alabilir.
+
+1
+
+Je me suis levé(e) [ʒə mə sɥi ləve] — Kalktım: dönüşlü fiiller passé composé'de être kullanır. Dönüşlü
+fiillerde ortaç uyumunun doğrudan nesnenin konumuna bağlı ayrıntıları vardır; hepsine körlemesine -e/-s
+ekleme.
+
+On örnek
+1. Je suis allé [jı süi zale] — Gittim (erkek)
+2. Elle est allée [el e tale] — Gitti (kadın)
+3. Ils sont arrivés [il son tarive] — Vardılar
+4. Elles sont parties [el son parti] — Ayrıldılar
+5. Nous sommes venus [nu som vınü] — Geldik
+6. Il est né en mai [il e ne an me] — Mayısta doğdu
+7. Elle est restée ici [el e reste isi] — Burada kaldı
+8. Je suis rentré [jı süi rantré] — Eve döndüm
+9. Elle est sortie [el e sorti] — Dışarı çıktı
+10. Je me suis levé [jı mı süi lıve] — Kalktım (erkek).
+
+Yaygın hatalar
+Être ile özne uyumunu yazıda unutma; monter/sortir gibi fiillerin nesneli kullanımını ayrıca denetle.
+
+Ezber tekniği
+Bir seyahatin gidiş-dönüşünü kadın ve erkek özneyle iki kez yaz.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 42. Spiral tekrar: 13. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+venir [vəniʁ]
+
+gelmek
+
+revenir [ʁəvniʁ]
+
+geri gelmek
+
+devenir [dəvəniʁ]
+
+olmak/dönüşmek
+
+entrer [ɑ̃ tʁe]
+
+girmek
+
+rentrer [ʁɑ̃ tʁe]
+
+geri dönmek
+
+sortir [sɔʁtiʁ]
+
+çıkmak
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+rester [ʁɛste]
+
+kalmak
+
+tomber [tɔ̃ be]
+
+düşmek
+
+passer [pase]
+
+geçmek
+
+retourner [ʁətuʁne]
+
+geri dönmek
+
+naître [nɛtʁ]
+
+doğmak
+
+mourir [muʁiʁ]
+
+ölmek
+
+le départ [lə depaʁ]
+
+kalkış/ayrılış
+
+l'arrivée [laʁive]
+
+varış
+
+la mort [la mɔʁ]
+
+ölüm
+
+le voyage [lə vwajaʒ]
+
+seyahat
+
+la visite [la vizit]
+
+ziyaret
+
+le retour [lə ʁətuʁ]
+
+dönüş
+
+le chemin [lə ʃəmɛ̃]
+
+yol
+
+l'escalier [lɛskalje]
+
+merdiven
+
+l'étage [letaʒ]
+
+kat
+
+le rez-de-chaussée [lə ʁedʃose]
+
+zemin kat
+
+dehors [dəɔʁ]
+
+dışarıda
+
+dedans [dədɑ̃ ]
+
+içeride
+
+en haut [ɑ̃ n o]
+
+yukarıda
+
+en bas [ɑ̃ n ba]
+
+aşağıda
+
+tôt [to]
+
+erken
+
+tard [taʁ]
+
+geç
+
+seul [sœl]
+
+yalnız (erkek)
+
+seule [sœl]
+
+yalnız (kadın)
+
+ensemble [ɑ̃ sɑ̃ bl]
+
+birlikte
+
+chez moi [ʃe mwa]
+
+evimde
+
+chez lui [ʃe lɥi]
+
+onun evinde
+
+s'éloigner [selwaɲe]
+
+uzaklaşmak
+
+se rapprocher [sə ʁapʁɔʃe]
+
+yaklaşmak
+
+déménager [demenaʒe]
+
+taşınmak
+
+s'installer [sɛ̃stale]
+
+yerleşmek
+
+disparaître [dispaʁɛtʁ]
+
+ortadan kaybolmak
+
+réapparaître [ʁeapaʁɛtʁ]
+
+yeniden görünmek
+
+la frontière [la fʁɔ̃ tjɛʁ]
+
+sınır
+
+la destination [la dɛstinasjɔ̃ ]
+
+varış yeri
+
+le déplacement [lə deplasmɑ̃ ]
+
+yer değiştirme
+
+3
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+aller [ale]
+
+gitmek
+
+arriver [aʁive]
+
+varmak
+
+partir [paʁtiʁ]
+
+ayrılmak
+
+monter [mɔ̃ te]
+
+çıkmak
+
+descendre [desɑ̃ dʁ]
+
+inmek
+
+être [ɛtʁ]
+
+olmak
+
+la naissance [la nesɑ̃ s]
+
+doğum
+
+avant [avɑ̃ ]
+
+önce
+
+après [apʁɛ]
+
+sonra
+
+souvent [suvɑ̃ ]
+
+sık sık
+
+parfois [paʁfwa]
+
+bazen
+
+hier [ijɛʁ]
+
+dün
+
+traverser [tʁavɛʁse]
+
+karşıya geçmek
+
+Mini alıştırma — 10 soru
+1. Gittim (erkek) anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Gitti (kadın) anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Vardılar anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Ayrıldılar anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Geldik anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Mayısta doğdu anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Burada kaldı anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. Eve döndüm anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Dışarı çıktı anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Kalktım (erkek). anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: Özne + être şimdiki zaman + geçmiş ortaç; özneyle cinsiyet/sayı uyumu. Bazı yer
+değiştirme fiilleri ve dönüşlü fiiller être alır.
+• Türkçe karşılaştırması: Türkçede ortaç biçimi öznenin cinsiyetine göre değişmez.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. Je suis allé
+2. Elle est allée
+3. Ils sont arrivés
+4. Elles sont parties
+
+4
+
+5. Nous sommes venus
+6. Il est né en mai
+7. Elle est restée ici
+8. Je suis rentré
+9. Elle est sortie
+10. Je me suis levé
+11. Gittim (erkek)
+12. Gitti (kadın)
+13. Vardılar
+14. Ayrıldılar
+15. Geldik
+16. Mayısta doğdu
+17. Burada kaldı
+18. Eve döndüm
+19. Dışarı çıktı
+20. Kalktım (erkek).
+21. Je suis allé: A) Gittim (erkek) B) Ayrıldılar C) Burada kaldı
+22. Elle est allée: A) Geldik B) Eve döndüm C) Gitti (kadın)
+23. Ils sont arrivés: A) Dışarı çıktı B) Vardılar C) Mayısta doğdu
+24. Elles sont parties: A) Ayrıldılar B) Burada kaldı C) Kalktım (erkek).
+25. Nous sommes venus: A) Eve döndüm B) Gittim (erkek) C) Geldik
+
+25 alıştırmanın çözümleri
+1. Gittim (erkek) — Fransızca kaynak ifade: Je suis allé [jı süi zale] — Gittim (erkek)
+2. Gitti (kadın) — Fransızca kaynak ifade: Elle est allée [el e tale] — Gitti (kadın)
+3. Vardılar — Fransızca kaynak ifade: Ils sont arrivés [il son tarive] — Vardılar
+4. Ayrıldılar — Fransızca kaynak ifade: Elles sont parties [el son parti] — Ayrıldılar
+5. Geldik — Fransızca kaynak ifade: Nous sommes venus [nu som vınü] — Geldik
+6. Mayısta doğdu — Fransızca kaynak ifade: Il est né en mai [il e ne an me] — Mayısta doğdu
+7. Burada kaldı — Fransızca kaynak ifade: Elle est restée ici [el e reste isi] — Burada kaldı
+8. Eve döndüm — Fransızca kaynak ifade: Je suis rentré [jı süi rantré] — Eve döndüm
+9. Dışarı çıktı — Fransızca kaynak ifade: Elle est sortie [el e sorti] — Dışarı çıktı
+10. Kalktım (erkek). — Fransızca kaynak ifade: Je me suis levé [jı mı süi lıve] — Kalktım (erkek).
+11. Je suis allé [jı süi zale] — Gittim (erkek) — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+12. Elle est allée [el e tale] — Gitti (kadın) — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+13. Ils sont arrivés [il son tarive] — Vardılar — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+14. Elles sont parties [el son parti] — Ayrıldılar — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+15. Nous sommes venus [nu som vınü] — Geldik — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+16. Il est né en mai [il e ne an me] — Mayısta doğdu — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+
+5
+
+17. Elle est restée ici [el e reste isi] — Burada kaldı — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+18. Je suis rentré [jı süi rantré] — Eve döndüm — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+19. Elle est sortie [el e sorti] — Dışarı çıktı — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+20. Je me suis levé [jı mı süi lıve] — Kalktım (erkek). — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+21. A — Je suis allé [jı süi zale] — Gittim (erkek)
+22. C — Elle est allée [el e tale] — Gitti (kadın)
+23. B — Ils sont arrivés [il son tarive] — Vardılar
+24. A — Elles sont parties [el son parti] — Ayrıldılar
+25. C — Nous sommes venus [nu som vınü] — Geldik
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. Je suis allé ne anlama gelir? A) Gittim (erkek) B) Vardılar C) Mayısta doğdu
+2. Elle est allée ne anlama gelir? A) Ayrıldılar B) Burada kaldı C) Gitti (kadın)
+3. Ils sont arrivés ne anlama gelir? A) Eve döndüm B) Vardılar C) Geldik
+4. Elles sont parties ne anlama gelir? A) Ayrıldılar B) Mayısta doğdu C) Dışarı çıktı
+5. Nous sommes venus ne anlama gelir? A) Burada kaldı B) Kalktım (erkek). C) Geldik
+6. Boşluğu doldur: Il est ____ en mai — Mayısta doğdu
+7. Boşluğu doldur: Elle est ____ ici — Burada kaldı
+8. Boşluğu doldur: Je ____ rentré — Eve döndüm
+9. Boşluğu doldur: Elle ____ sortie — Dışarı çıktı
+10. Boşluğu doldur: Je me ____ levé — Kalktım (erkek).
+11. Fransızcaya çevir: Gittim (erkek)
+12. Fransızcaya çevir: Gitti (kadın)
+13. Fransızcaya çevir: Vardılar
+14. Şu anlam için verilen bozuk sıralamayı düzelt: parties / sont / Elles — Ayrıldılar
+15. Şu anlam için verilen bozuk sıralamayı düzelt: venus / sommes / Nous — Geldik
+
+Test cevap anahtarı
+1. A — Je suis allé [jı süi zale] — Gittim (erkek)
+2. C — Elle est allée [el e tale] — Gitti (kadın)
+3. B — Ils sont arrivés [il son tarive] — Vardılar
+4. A — Elles sont parties [el son parti] — Ayrıldılar
+5. C — Nous sommes venus [nu som vınü] — Geldik
+6. né — Il est né en mai [il e ne an me] — Mayısta doğdu
+7. restée — Elle est restée ici [el e reste isi] — Burada kaldı
+8. suis — Je suis rentré [jı süi rantré] — Eve döndüm
+9. est — Elle est sortie [el e sorti] — Dışarı çıktı
+
+6
+
+10. suis — Je me suis levé [jı mı süi lıve] — Kalktım (erkek).
+11. Je suis allé [jı süi zale] — Gittim (erkek)
+12. Elle est allée [el e tale] — Gitti (kadın)
+13. Ils sont arrivés [il son tarive] — Vardılar
+14. Elles sont parties [el son parti] — Ayrıldılar
+15. Nous sommes venus [nu som vınü] — Geldik
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: Je suis allé [jı süi zale] — Gittim (erkek)
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: Elle est allée [el e tale] — Gitti (kadın)
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: Ils sont arrivés [il son tarive] — Vardılar
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Elles sont parties [el son parti] — Ayrıldılar
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+7
+

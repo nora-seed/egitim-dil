@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#2563eb">
+<title>Diller — Fransızca & Rusça Öğren</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <button id="backBtn" class="icon-btn hidden" aria-label="Geri">‹</button>
+  <div class="logo">🌐 Diller</div>
+  <button id="themeBtn" class="icon-btn" aria-label="Tema">◐</button>
+</header>
+
+<div class="lang-tabs">
+  <button class="lang-tab" data-course="ru">🇷🇺 Rusça</button>
+  <button class="lang-tab" data-course="fr">🇫🇷 Fransızca</button>
+</div>
+
+<main id="view"></main>
+
+<nav class="tabbar">
+  <button data-nav="home" class="active"><span>🏠</span>Anasayfa</button>
+  <button data-nav="dersler"><span>📚</span>Dersler</button>
+  <button data-nav="kelimeler"><span>🃏</span>Kelimeler</button>
+  <button data-nav="sinavlar"><span>📝</span>Sınavlar</button>
+  <button data-nav="ilerleme"><span>📈</span>İlerleme</button>
+</nav>
+
+<div id="toast" class="toast hidden"></div>
+
+<script src="data/data.js"></script>
+<script src="app.js"></script>
+<script>
+if ('serviceWorker' in navigator && location.protocol !== 'file:') {
+  navigator.serviceWorker.register('sw.js').catch(() => {});
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,820 @@
+RUSÇA ÖĞRENİM KİTABI
+A1 · MODÜL 3
+Sayılar ve Temel Kavramlar
+Okunuş rehberi: Büyük harfle gösterilen hece vurguludur. Köşeli parantezler Türkçe okura yaklaşık ses
+verir; Kiril yazıyı okumaya öncelik verin. Sayılarla birlikte kullanılan isim biçimleri, Türkçeden farklı olarak
+değişebilir.
+
+Bu modülün önemi
+Telefon numarası, yaş, fiyat, adres ve saat söylemek gündelik konuşmanın merkezindedir. Bu modül
+sonunda 0–1000 arası sayıları oluşturacak, telefon numarasını açıkça okuyacak, yaş ve fiyat soracak, 1 ve
+2 sayılarının cinsiyete uyumunu tanıyacaksınız. Kelime çekimlerinin tamamı sonraki modüllerde açıklanır;
+burada en sık kullanım kalıplarını bütün olarak öğreneceğiz.
+
+Önceki modüllerden tekrar
+Здравствуйте! [ZDRA-stvuy-tye] — Merhaba! Как вас зовут? [kak vas za-VUT] — Adınız ne? Меня зовут
+Юсуф. [mi-NYA za-VUT yu-SUF] — Benim adım Yusuf. Откуда вы? [at-KU-da vı] — Nerelisiniz? Я из
+Турции. [ya iz TUR-tsi-i] — Türkiye’denim. Şimdi bunlara sayılar ve yaş eklenecek.
+
+KONU 1 · 0–10: temel sayı kökleri
+Mantık: 0–10 sayıları yüksek sıklıklı temel sözcüklerdir. Türkçede olduğu gibi daha büyük sayılar bu yapı
+taşlarının üzerine kurulur. Rusçada vurgu yerini sayı ile birlikte öğrenmek gerekir; yazımdaki vurgusuz о
+bazen a-benzeri duyulur.
+Formül / kural: 0–10 sayısını tek kelime olarak öğren → önce Kiril yazıyı tanı → yüksek sesle ritimle tekrar
+et. Sayma sırasında 1 için один [a-DİN] — bir, 2 için два [dva] — iki temel biçimleri kullanılır; isimle
+kullanırken bazı biçimler değişir (Konu 4).
+Sayı
+
+Rusça · yaklaşık okunuş · Türkçe
+
+0
+
+ноль [nol’] — sıfır
+
+1
+
+один [a-DİN] — bir
+
+2
+
+два [dva] — iki
+
+3
+
+три [tri] — üç
+
+4
+
+четыре [çi-TI-ri] — dört
+
+5
+
+пять [pyat’] — beş
+
+6
+
+шесть [şest’] — altı
+
+7
+
+семь [syem’] — yedi
+
+8
+
+восемь [VO-sim’] — sekiz
+
+9
+
+девять [DYE-vit’] — dokuz
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 3
+
+1
+
+Sayı
+
+Rusça · yaklaşık okunuş · Türkçe
+
+10
+
+десять [DYE-sit’] — on
+
+10 sesli örnek
+1. ноль [nol’] — sıfır: telefon numarasında bir basamak.
+2. один [a-DİN] — bir: sayarken.
+3. два [dva] — iki: sayarken.
+4. три [tri] — üç: sayarken.
+5. четыре [çi-TI-ri] — dört: sayarken.
+6. пять [pyat’] — beş: sayarken.
+7. шесть [şest’] — altı: sayarken.
+8. семь [syem’] — yedi: sayarken.
+9. восемь [VO-sim’] — sekiz: sayarken.
+10. девять [DYE-vit’] — dokuz: sayarken.
+11. десять [DYE-sit’] — on: sayarken.
+Türkçeyle karşılaştırma: “bir, iki, üç” gibi kısa ve bağımsız biçimleri vardır. Ancak isimle birlikte kullanılan
+biçimler ve isimlerin çekimleri Türkçeden farklıdır. Yaygın hata: один [a-DİN] — bir sözünü vurguyu ilk
+heceye koyarak okumak. Ezber tekniği: merdiven basamaklarını çıkarken 0’dan 10’a sayın; aşağı inerken
+tersten sayın.
+Mini alıştırma (6): 1 0’ın Rusçasını yazın. 2 4’ün Rusçasını yazın. 3 8’in vurgusunu gösterin. 4 10’un
+Rusçasını yazın. 5 1–5’i sırayla söyleyin. 6 10–6’yı tersten söyleyin.
+
+KONU 2 · 11–19 ve 20: yapı ve vurgular
+Mantık: 11–19 tarihsel olarak “onun üstüne” fikriyle oluşmuştur; modern yazımda bunlar bitişik yazılır. 20,
+aynı ek örüntüsünün parçası değildir ve kendi biçimiyle öğrenilir. Türkçede “on bir” ayrı iki sözcükken
+Rusçada одиннадцать [a-DİN-na-tsat’] — on bir tek sözcüktür.
+Formül / kural: 11–19 → özel sayı kökü + -надцать eki (telaffuz yaklaşık “natsat’”); vurguyu biçimin kendi
+içinde ezberleyin. 20 → двадцать [DVA-tsat’] — yirmi. Bu yalnızca ezberlemeye yarayan biçim
+açıklamasıdır; güncel kullanımda parçaları ayrı yazmayın.
+Sayı
+
+Rusça · okunuş · anlam
+
+11
+
+одиннадцать [a-DİN-na-tsat’] — on bir
+
+12
+
+двенадцать [dvi-NA-tsat’] — on iki
+
+13
+
+тринадцать [tri-NA-tsat’] — on üç
+
+14
+
+четырнадцать [çi-TIR-na-tsat’] — on dört
+
+15
+
+пятнадцать [pit-NA-tsat’] — on beş
+
+16
+
+шестнадцать [şis-NA-tsat’] — on altı
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 3
+
+2
+
+Sayı
+
+Rusça · okunuş · anlam
+
+17
+
+семнадцать [sim-NA-tsat’] — on yedi
+
+18
+
+восемнадцать [va-sim-NA-tsat’] — on sekiz
+
+19
+
+девятнадцать [di-vit-NA-tsat’] — on dokuz
+
+20
+
+двадцать [DVA-tsat’] — yirmi
+
+10 örnek
+1. одиннадцать [a-DİN-na-tsat’] — on bir.
+2. двенадцать [dvi-NA-tsat’] — on iki.
+3. тринадцать [tri-NA-tsat’] — on üç.
+4. четырнадцать [çi-TIR-na-tsat’] — on dört.
+5. пятнадцать [pit-NA-tsat’] — on beş.
+6. шестнадцать [şis-NA-tsat’] — on altı.
+7. семнадцать [sim-NA-tsat’] — on yedi.
+8. восемнадцать [va-sim-NA-tsat’] — on sekiz.
+9. девятнадцать [di-vit-NA-tsat’] — on dokuz.
+10. двадцать [DVA-tsat’] — yirmi.
+Yaygın hata: 11–19’u iki ayrı sayı gibi yazmak veya hepsinde aynı vurgu yerini varsaymak. Ezber tekniği:
+11–14 ve 15–19 kümeleri için iki ritimli ses kaydı üretin; yazılı kartın arkasına vurgulu heceyi ayrıca
+işaretleyin.
+Mini alıştırma (6): 1 11’i yazın. 2 12’yi yazın. 3 14’ü yazın. 4 17’yi yazın. 5 19’u yazın. 6 20 ile 12
+arasındaki yazım farkını açıklayın.
+
+KONU 3 · Onluklar ve 21–99
+Mantık: Türkçedeki “yirmi üç” gibi, 21’den sonra onluk ve birliği ayrı sözcükler hâlinde söyleriz. Ancak 40
+ve 90’ın biçimleri beklenenden farklıdır; 50–80’de “on” anlamlı yapı izlenebilir.
+Formül / kural: 21–99 (tam onluklar hariç) → onluk + boşluk + birlik. Örnek: двадцать три [DVA-tsat’ tri]
+— yirmi üç. 40 = сорок [SO-rak] — kırk; 90 = девяносто [di-vi-NO-sta] — doksan. 50–80 iki sayı
+sözcüğünün birleşik yazımıdır; ses ve yazım için tabloyu esas alın.
+Sayı
+
+Rusça · okunuş · anlam
+
+20
+
+двадцать [DVA-tsat’] — yirmi
+
+30
+
+тридцать [TRİ-tsat’] — otuz
+
+40
+
+сорок [SO-rak] — kırk
+
+50
+
+пятьдесят [pit-di-SYAT] — elli
+
+60
+
+шестьдесят [şis-di-SYAT] — altmış
+
+70
+
+семьдесят [SYEM-di-syat] — yetmiş
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 3
+
+3
+
+Sayı
+
+Rusça · okunuş · anlam
+
+80
+
+восемьдесят [VO-sim-di-syat] — seksen
+
+90
+
+девяносто [di-vi-NO-sta] — doksan
+
+100
+
+сто [sto] — yüz
+
+En az 10 birleşik örnek
+1. двадцать один [DVA-tsat’ a-DİN] — yirmi bir.
+2. двадцать два [DVA-tsat’ dva] — yirmi iki.
+3. двадцать три [DVA-tsat’ tri] — yirmi üç.
+4. тридцать четыре [TRİ-tsat’ çi-TI-ri] — otuz dört.
+5. сорок пять [SO-rak pyat’] — kırk beş.
+6. пятьдесят шесть [pit-di-SYAT şest’] — elli altı.
+7. шестьдесят семь [şis-di-SYAT syem’] — altmış yedi.
+8. семьдесят восемь [SYEM-di-syat VO-sim’] — yetmiş sekiz.
+9. восемьдесят девять [VO-sim-di-syat DYE-vit’] — seksen dokuz.
+10. девяносто девять [di-vi-NO-sta DYE-vit’] — doksan dokuz.
+Türkçeyle karşılaştırma: söz dizilişi onluk + birlik olarak aynıdır; onlarca ve birlik arasında bağlaç
+kullanılmaz. Yaygın hata: сорок [SO-rak] — kırk yerine varsayımsal düzenli bir biçim üretmek. Ezber
+tekniği: onlar basamağını sol el, birler basamağını sağ el kartıyla gösterip rastgele eşleştirin.
+Mini alıştırma (6): 1 40 nasıl söylenir? 2 90 nasıl söylenir? 3 28’i yazın. 4 43’ü yazın. 5 67’yi yazın. 6 99’u
+yazın.
+
+KONU 4 · Yüzler ve 1000
+Mantık: Yüzlüklerin yazımı 200–900 arasında tek sözcüktür. Yüzler, onlar ve birliklerden kurulan sayı ise
+ayrı yazılan sözcüklerle ilerler. Türkçede “iki yüz” iki sözcük iken Rusçada 200 için двести [DVYE-sti] —
+iki yüz tek sözcüktür.
+Formül / kural: 100–999 → yüzlük + gerekiyorsa onluk + gerekiyorsa birlik. 1000 → тысяча [TI-sya-ça] —
+bin. 101, 315 gibi sayılarda sıfır olan basamak söylenmez; 1000 üstündeki isim çekimleri sonraki modülde
+incelenecek.
+Sayı
+
+Rusça · okunuş · anlam
+
+100
+
+сто [sto] — yüz
+
+200
+
+двести [DVYE-sti] — iki yüz
+
+300
+
+триста [TRİ-sta] — üç yüz
+
+400
+
+четыреста [çi-TI-ri-sta] — dört yüz
+
+500
+
+пятьсот [pit-SOT] — beş yüz
+
+600
+
+шестьсот [şis-SOT] — altı yüz
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 3
+
+4
+
+Sayı
+
+Rusça · okunuş · anlam
+
+700
+
+семьсот [sim-SOT] — yedi yüz
+
+800
+
+восемьсот [va-sim-SOT] — sekiz yüz
+
+900
+
+девятьсот [di-vit-SOT] — dokuz yüz
+
+1000
+
+тысяча [TI-sya-ça] — bin
+
+10 örnek
+1. сто один [sto a-DİN] — yüz bir.
+2. сто десять [sto DYE-sit’] — yüz on.
+3. сто двадцать пять [sto DVA-tsat’ pyat’] — yüz yirmi beş.
+4. двести два [DVYE-sti dva] — iki yüz iki.
+5. двести сорок [DVYE-sti SO-rak] — iki yüz kırk.
+6. триста тринадцать [TRİ-sta tri-NA-tsat’] — üç yüz on üç.
+7. четыреста пятьдесят [çi-TI-ri-sta pit-di-SYAT] — dört yüz elli.
+8. пятьсот шестьдесят семь [pit-SOT şis-di-SYAT syem’] — beş yüz altmış yedi.
+9. девятьсот девяносто девять [di-vit-SOT di-vi-NO-sta DYE-vit’] — dokuz yüz doksan dokuz.
+10. тысяча [TI-sya-ça] — bin.
+Yaygın hata: iki yüzü два сто diye kurmak; doğru kalıp двести [DVYE-sti] — iki yüz. Ezber tekniği: 100,
+200, 300, 400 ve 500–900 diye iki dizi oluşturun; ikinci dizideki -сот yazımını gözünüzle seçin.
+Mini alıştırma (6): 1 200’ü yazın. 2 400’ü yazın. 3 700’ü yazın. 4 108’i yazın. 5 250’yi yazın. 6 999’u yazın.
+
+KONU 5 · 1 ve 2’nin cinsiyeti; sayılan adın biçimi
+Mantık: Türkçede “bir kitap” ile “bir araba” aynı “bir”i kullanırız. Rusçada “bir” isim cinsiyetine uyar; “iki”
+de eril/nötr ile dişilde ayrılır. 3 ve 4 cinsiyete göre biçim değiştirmez. Beş ve üstündeki sayılar da cinsiyet
+uyumuna girmez; bunun yerine sayılan ismin aldığı hâl değişir. 21/22/25 gibi sayılarda yalnızca toplam
+sayıya değil son iki basamağa bakın.
+Formül / kural: 1 ile biten (11 hariç) → один/одна/одно + tekil yalın isim. 2 ile biten (12 hariç) → два
+(eril/nötr) veya две (dişil) + tekil tamlayan biçimi. 3 ve 4 ile bitenler (13/14 hariç) → sayı + tekil tamlayan
+biçimi. 0, 5–20 ve 11–14 ile bitenler → sayı + çoğul tamlayan biçimi. Bu kural yalın sayı öbekleri içindir;
+başka ad durumlarında biçimler ayrıca değişir.
+İsim türü
+
+1
+
+2
+
+3/4
+
+5
+
+Eril: стол [stol]
+— masa
+
+один стол [a-DİN stol]
+— bir masa
+
+два стола [dva sta-LA] —
+iki masa
+
+три стола [tri
+sta-LA] — üç masa
+
+пять столов
+[pyat’ sta-LOF]
+— beş masa
+
+Dişil: книга
+[KNİ-ga] —
+kitap
+
+одна книга [ad-NA
+KNİ-ga] — bir kitap
+
+две книги [dvye KNİ-gi] —
+iki kitap
+
+три книги [tri
+KNİ-gi] — üç kitap
+
+пять книг [pyat’
+knik] — beş kitap
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 3
+
+5
+
+İsim türü
+
+1
+
+2
+
+3/4
+
+5
+
+Nötr: окно
+[ak-NO] —
+pencere
+
+одно окно [ad-NO
+ak-NO] — bir pencere
+
+два окна [dva ak-NA] —
+iki pencere
+
+три окна [tri
+ak-NA] — üç
+pencere
+
+пять окон [pyat’
+O-kan] — beş
+pencere
+
+En az 10 örnek
+1. один стол [a-DİN stol] — bir masa.
+2. одна книга [ad-NA KNİ-ga] — bir kitap.
+3. одно окно [ad-NO ak-NO] — bir pencere.
+4. два стола [dva sta-LA] — iki masa.
+5. две книги [dvye KNİ-gi] — iki kitap.
+6. два окна [dva ak-NA] — iki pencere.
+7. три книги [tri KNİ-gi] — üç kitap.
+8. четыре стола [çi-TI-ri sta-LA] — dört masa.
+9. пять книг [pyat’ knik] — beş kitap.
+10. одиннадцать столов [a-DİN-na-tsat’ sta-LOF] — on bir masa.
+11. двадцать одна книга [DVA-tsat’ ad-NA KNİ-ga] — yirmi bir kitap.
+12. двадцать две книги [DVA-tsat’ dvye KNİ-gi] — yirmi iki kitap.
+13. двадцать пять книг [DVA-tsat’ pyat’ knik] — yirmi beş kitap.
+Türkçeyle karşılaştırma: Türkçe çoğunlukla “üç kitap” der ve ismi çoğullaştırmaz; Rusçada isim sayıdan
+sonra belirli bir hâle girer. Yaygın hatalar: две стол biçimini kullanmak; iki kitap için книги [KNİ-gi] —
+kitaplar biçimini sıradan çoğul sanmak; 11’i sonundaki 1’e bakarak kurmak. Ezber tekniği: üç cinsiyeti üç
+kart rengiyle kodlayın; her yeni isim için 1/2/5 öbeğini birlikte kaydedin.
+Mini alıştırma (8): 1 Bir masa? 2 Bir kitap? 3 Bir pencere? 4 İki kitap? 5 İki masa? 6 Beş kitap? 7 21 kitap?
+8 11 masa?
+
+KONU 6 · Telefon numarası, yaş ve fiyat
+Mantık: Telefon numarasında her rakamı ayrı okumak en açık yöntemdir; yerel konuşmada ikili veya üçlü
+gruplama da duyulur. Yaş Türkçe “25 yaşındayım” yerine Rusçada yaklaşık “Bana 25 yıl” kalıbıyla
+anlatılır. Fiyat ise nesnenin kaç para ettiğini soran fiilli kalıptır. Bu hazır kalıpların fiil ve ad durumlarını
+sonraki modüllerde sistemli öğreneceğiz.
+Formül / kural: telefon → номер [NO-mer] — numara + rakamları tek tek; yaş → Сколько вам лет?
+[SKOL’-ka vam lyet?] — Kaç yaşındasınız? / Мне + sayı + год/года/лет [mnye + sayı + got/GO-da/lyet] —
+... yaşındayım; fiyat → Сколько это стоит? [SKOL’-ka E-ta STO-it?] — Bu ne kadar? / Это стоит + sayı +
+birim [E-ta STO-it + sayı + birim] — Bunun fiyatı ... .
+Sayı sonu
+
+Yaş sözü
+
+Örnek
+
+1; ancak 11 değil
+
+год [got] — yıl
+
+Мне двадцать один год. [mnye DVA-tsat’ a-DİN got] — 21
+yaşındayım.
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 3
+
+6
+
+Sayı sonu
+
+Yaş sözü
+
+Örnek
+
+2–4; ancak 12–14
+değil
+
+года [GO-da] —
+yıl
+
+Мне двадцать два года. [mnye DVA-tsat’ dva GO-da] — 22
+yaşındayım.
+
+0, 5–20; 11–14
+
+лет [lyet] — yıl
+
+Мне двадцать пять лет. [mnye DVA-tsat’ pyat’ lyet] — 25
+yaşındayım.
+
+10 pratik cümlesi
+1. Сколько вам лет? [SKOL’-ka vam lyet?] — Kaç yaşındasınız?
+2. Сколько тебе лет? [SKOL’-ka ti-BYE lyet?] — Kaç yaşındasın?
+3. Мне один год. [mnye a-DİN got] — Bir yaşındayım.
+4. Мне два года. [mnye dva GO-da] — İki yaşındayım.
+5. Мне одиннадцать лет. [mnye a-DİN-na-tsat’ lyet] — On bir yaşındayım.
+6. Мне двадцать один год. [mnye DVA-tsat’ a-DİN got] — Yirmi bir yaşındayım.
+7. Мне двадцать два года. [mnye DVA-tsat’ dva GO-da] — Yirmi iki yaşındayım.
+8. Мне тридцать лет. [mnye TRİ-tsat’ lyet] — Otuz yaşındayım.
+9. Сколько это стоит? [SKOL’-ka E-ta STO-it?] — Bu ne kadar?
+10. Это стоит сто рублей. [E-ta STO-it sto ru-BLYEY] — Bunun fiyatı yüz ruble.
+11. Мой номер: ноль, пять, три, два. [moy NO-mer: nol’, pyat’, tri, dva] — Numaram: sıfır, beş, üç, iki.
+Türkçeyle karşılaştırma: “yaşındayım” yapısını kelime kelime çevirmeyin; Мне [mnye] — bana sözcüğünü
+kalıbın başında tutun. Fiyat örneğindeki рублей [ru-BLYEY] — ruble (çoğul tamlayan) biçimi sayı kuralıyla
+ilgilidir. Yaygın hata: Мне двадцать два лет yerine doğru года [GO-da] — yıl biçimini kullanmak; 11, 12,
+13, 14 istisnalarını unutmak. Ezber tekniği: 21/22/25/11 yaşlarını dört örnek kart olarak ezberleyin.
+Mini alıştırma (8): 1 “Kaç yaşındasınız?” 2 “Kaç yaşındasın?” 3 “21 yaşındayım.” 4 “22 yaşındayım.” 5 “25
+yaşındayım.” 6 “11 yaşındayım.” 7 “Bu ne kadar?” 8 0532 rakamlarını tek tek Rusça söyleyin.
+
+Tematik sözlük · 50 yeni giriş
+Bu bölümdeki 50 hedef giriş; sayı, ölçü ve gündelik işlem sözlerinden oluşur. Önceki modüllerde öğrenilen
+sözler tekrar cümlelerinde bulunur.
+
+Temel sayılar
+1. ноль [nol’] — sıfır
+2. один [a-DİN] — bir
+3. два [dva] — iki
+4. три [tri] — üç
+5. четыре [çi-TI-ri] — dört
+6. пять [pyat’] — beş
+7. шесть [şest’] — altı
+8. семь [syem’] — yedi
+9. восемь [VO-sim’] — sekiz
+10. девять [DYE-vit’] — dokuz
+11. десять [DYE-sit’] — on
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 3
+
+7
+
+Onlu sayılar
+1. одиннадцать [a-DİN-na-tsat’] — on bir
+2. двенадцать [dvi-NA-tsat’] — on iki
+3. тринадцать [tri-NA-tsat’] — on üç
+4. четырнадцать [çi-TIR-na-tsat’] — on dört
+5. пятнадцать [pit-NA-tsat’] — on beş
+6. шестнадцать [şis-NA-tsat’] — on altı
+7. семнадцать [sim-NA-tsat’] — on yedi
+8. восемнадцать [va-sim-NA-tsat’] — on sekiz
+9. девятнадцать [di-vit-NA-tsat’] — on dokuz
+10. двадцать [DVA-tsat’] — yirmi
+11. тридцать [TRİ-tsat’] — otuz
+12. сорок [SO-rak] — kırk
+13. пятьдесят [pit-di-SYAT] — elli
+14. шестьдесят [şis-di-SYAT] — altmış
+15. семьдесят [SYEM-di-syat] — yetmiş
+16. восемьдесят [VO-sim-di-syat] — seksen
+17. девяносто [di-vi-NO-sta] — doksan
+
+Yüzler
+1. сто [sto] — yüz
+2. двести [DVYE-sti] — iki yüz
+3. триста [TRİ-sta] — üç yüz
+4. четыреста [çi-TI-ri-sta] — dört yüz
+5. пятьсот [pit-SOT] — beş yüz
+6. шестьсот [şis-SOT] — altı yüz
+7. семьсот [sim-SOT] — yedi yüz
+8. восемьсот [va-sim-SOT] — sekiz yüz
+9. девятьсот [di-vit-SOT] — dokuz yüz
+10. тысяча [TI-sya-ça] — bin
+
+Günlük ölçü ve işlemler
+1. сколько [SKOL’-ka] — kaç/ne kadar
+2. стоить [STO-it’] — tutmak/değerinde olmak
+3. рубль [rubl’] — ruble
+4. рубля [ru-BLYA] — ruble (2–4 ile)
+5. рублей [ru-BLYEY] — ruble (5+ ile)
+6. год [got] — yıl
+7. года [GO-da] — yıl (2–4 ile)
+8. лет [lyet] — yıl (yaşta 5+ ile)
+9. номер [NO-mer] — numara
+10. цена [tsi-NA] — fiyat
+11. скидка [SKİT-ka] — indirim
+12. первый [PYER-vıy] — birinci
+
+Ekstra pratik: numara, yaş, fiyat
+Telefon yöntemi: Numaranız kişisel bir bilgidir; alıştırmada gerçek numaranızı kullanmayın. Örnek
+rastgele dizi 0532 407 186 için rakamları tek tek okuyun: ноль пять три два четыре ноль семь один
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 3
+
+8
+
+восемь шесть [nol’ pyat’ tri dva çi-TI-ri nol’ syem’ a-DİN VO-sim’ şest’] — sıfır beş üç iki dört sıfır yedi bir
+sekiz altı. Dinleyen kişi yazdıktan sonra tekrar ederek doğrulasın.
+Yaş döngüsü: 1, 2, 4, 5, 11, 12, 14, 21, 22, 25, 31 yaşlarının son biçimlerini seçin: год [got] — yıl, года
+[GO-da] — yıl, лет [lyet] — yıl. Cevap sırası: год, года, года, лет, лет, лет, лет, год, года, лет, год.
+Fiyat döngüsü: 1, 2, 5, 11, 21, 22, 25 ruble için рубль [rubl’] — ruble; рубля [ru-BLYA] — ruble; рублей
+[ru-BLYEY] — ruble biçimlerini sırayla seçin. Yanıt: рубль, рубля, рублей, рублей, рубль, рубля, рублей.
+Bu örneklerde sayılar yalın biçimdedir.
+
+Alıştırmalar · 24 görev
+1. 0–10 sayıları Kiril ile sırayla yazın.
+2. 11–20 sayılarını Kiril ile sırayla yazın.
+3. 40’ı Kiril yazın.
+4. 90’ı Kiril yazın.
+5. 30’u Kiril yazın.
+6. 68’i Kiril yazın.
+7. 74’ü Kiril yazın.
+8. 99’u Kiril yazın.
+9. 101’i Kiril yazın.
+10. 215’i Kiril yazın.
+11. 500’ü Kiril yazın.
+12. 999’u Kiril yazın.
+13. “Bir kitap” söz öbeğini Kiril yazın.
+14. “İki kitap” söz öbeğini Kiril yazın.
+15. “Beş kitap” söz öbeğini Kiril yazın.
+16. “Yirmi bir kitap” söz öbeğini Kiril yazın.
+17. “On bir masa” söz öbeğini Kiril yazın.
+18. “Kaç yaşındasınız?” sorusunu Kiril yazın.
+19. “Yirmi iki yaşındayım.” cümlesini Kiril yazın.
+20. “Bu ne kadar?” sorusunu Kiril yazın.
+21. “100 ruble tutuyor.” cümlesini Kiril yazın.
+22. один окно [a-DİN ak-NO] — “bir pencere” için hatalı biçimi düzeltin.
+23. две стола [dvye sta-LA] — “iki masa” için hatalı biçimi düzeltin.
+24. 0532 sayısını telefon rakamları gibi tek tek söyleyin.
+
+Modül testi · 15 soru
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 3
+
+9
+
+1–5 çoktan seçmeli, 6–9 boşluk, 10–12 çeviri, 13–15 düzeltme. Her soru 1 puandır. 12/15 ve iki diyalogu
+sesli canlandırma geçiş hedefidir.
+1. 40 hangisi? A) сорок [SO-rak] — kırk B) тридцать [TRİ-tsat’] — otuz C) сто [sto] — yüz.
+2. 90 hangisi? A) восемьдесят [VO-sim-di-syat] — seksen B) девяносто [di-vi-NO-sta] — doksan C)
+девять [DYE-vit’] — dokuz.
+3. 12 hangisi? A) двадцать [DVA-tsat’] — yirmi B) двенадцать [dvi-NA-tsat’] — on iki C) два [dva] — iki.
+4. İki kitap? A) два книги [dva KNİ-gi] — hatalı biçim B) две книги [dvye KNİ-gi] — iki kitap C) две книга
+[dvye KNİ-ga] — hatalı biçim.
+5. 21 yaş için son söz? A) лет [lyet] — yıl B) года [GO-da] — yıl C) год [got] — yıl.
+6. 18 = ______ (Kiril).
+7. 300 = ______ (Kiril).
+8. 21 kitap = двадцать ______ книга. [DVA-tsat’ ... KNİ-ga] — yirmi bir kitap.
+9. 25 yaş = Мне двадцать пять ______. [mnye DVA-tsat’ pyat’ ...] — Yirmi beş yaşındayım.
+10. “62” sayısını Kiril yazın.
+11. “Kaç yaşındasın?” sorusunu Kiril yazın.
+12. сто двадцать пять [sto DVA-tsat’ pyat’] — yüz yirmi beş: Türkçeye çevirin.
+13. одна стол [ad-NA stol] — “bir masa” için yanlış biçimi düzeltin.
+14. Мне двадцать два лет. [mnye DVA-tsat’ dva lyet] — “22 yaşındayım” niyetiyle yanlış. Düzeltin.
+15. Я двадцать пять лет. [ya DVA-tsat’ pyat’ lyet] — “25 yaşındayım” niyetiyle yanlış. Düzeltin.
+
+Dinleme metni · iki diyalog
+PDF içinde ses dosyası yoktur. ChatGPT sesli moduna diyalogları ilk seferde metni göstermeden okutun;
+ikinci turda sayıları yazın, üçüncü turda konuşmacının yerini alın.
+
+Diyalog 1 · yaş ve tanışma
+1. — Привет! Как тебя зовут? [pri-VYET! kak ti-BYA za-VUT?] — Selam! Adın ne?
+2. — Меня зовут Анна. А тебя? [mi-NYA za-VUT AN-na. a ti-BYA?] — Benim adım Anna. Ya senin?
+3. — Меня зовут Юсуф. Сколько тебе лет? [mi-NYA za-VUT yu-SUF. SKOL’-ka ti-BYE lyet?] — Benim
+adım Yusuf. Kaç yaşındasın?
+4. — Мне двадцать два года. А тебе? [mnye DVA-tsat’ dva GO-da. a ti-BYE?] — Yirmi iki yaşındayım. Ya
+sen?
+5. — Мне тридцать лет. [mnye TRİ-tsat’ lyet] — Otuz yaşındayım.
+
+Diyalog 2 · dükkânda fiyat
+1. — Добрый день! Сколько это стоит? [DOB-rıy dyen’! SKOL’-ka E-ta STO-it?] — İyi günler! Bu ne
+kadar?
+2. — Это стоит двести пятьдесят рублей. [E-ta STO-it DVYE-sti pit-di-SYAT ru-BLYEY] — Bu 250 ruble
+tutuyor.
+3. — А это? [a E-ta?] — Ya bu?
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 3
+
+10
+
+4. — Сто двадцать рублей. [sto DVA-tsat’ ru-BLYEY] — 120 ruble.
+5. — Спасибо. До свидания! [spa-Sİ-ba. da svi-DA-ni-ya!] — Teşekkürler. Hoşça kalın!
+Dinleme soruları: Anna kaç yaşında? Yusuf kaç yaşında? İlk ürün kaç ruble? İkinci ürün kaç ruble? Resmî
+mi samimi mi konuşulduğunu iki diyalog için ayrı söyleyin.
+
+Konuşma pratiği · rol yapma
+Sen müşteri, ChatGPT görevli: ресmî selam verip fiyatı sor; görevli üç basamaklı bir fiyat söylesin;
+anlamadıysan tekrar etmesini isteyin: Повторите, пожалуйста. [paf-ta-Rİ-tye, pa-JA-lus-ta] — Tekrar
+eder misiniz lütfen. İkinci turda sen görevli ol. Yaş rolü: Bir arkadaşına kaç yaşında olduğunu sor; 21, 22,
+25 ve 31 yaşlarını değiştirerek dört farklı yanıt ver. Gerçek telefon numarası veya kişisel bilgi kullanma.
+
+Öğrenme tavsiyeleri ve yaygın hatalar
+Önce 0–20’yi ikişer dakikalık sesli bloklarda çalışın; sonra onluklara geçin. Alışveriş fiyat etiketlerindeki
+sayıları Rusça söyleyin; kendi cihazındaki saat ve telefon numarasını sesli pratik etmek istiyorsanız
+gerçek numarayı yazıya kaydetmeyin. Hatalar: 11’i sonundaki 1’e göre год ile eşlemek; 12–14’ü 2–4
+sanmak; 200’ü два сто olarak kurmak; isim cinsiyetini göz ardı etmek. Kartın önüne sayı + isim, arkasına
+doğru çekimli öbek yazın.
+
+Konu özeti · hızlı başvuru
+Durum
+
+Kural ve örnek
+
+21–99
+
+Onluk + birlik: сорок два [SO-rak dva] — kırk iki.
+
+100–999
+
+Yüzlük + onluk + birlik: сто пять [sto pyat’] — yüz beş.
+
+1 ile biten
+
+11 hariç, cinsiyete göre один/одна/одно [a-DİN/ad-NA/ad-NO] — bir.
+
+2–4 ile biten
+
+12–14 hariç, isim tekil tamlayan; 2 için два/две [dva/dvye] — iki.
+
+0/5–20 ile biten
+
+Çoğul tamlayan; 11–14 bu gruptadır.
+
+Yaş
+
+Мне двадцать пять лет. [mnye DVA-tsat’ pyat’ lyet] — 25 yaşındayım.
+
+Fiyat
+
+Сколько это стоит? [SKOL’-ka E-ta STO-it?] — Bu ne kadar?
+
+Kendini değerlendirme
+Beceri
+
+Henüz
+değil
+
+Yardımla
+
+Bağımsız
+
+0–100 sayılarını sesli okuyorum
+
+□
+
+□
+
+□
+
+100–1000 arasında sayı kuruyorum
+
+□
+
+□
+
+□
+
+1 ve 2’nin cinsiyet biçimini seçiyorum
+
+□
+
+□
+
+□
+
+21, 22, 25 yaşlarını doğru söylüyorum
+
+□
+
+□
+
+□
+
+Fiyat sorup üç basamaklı yanıtı anlıyorum
+
+□
+
+□
+
+□
+
+50 sözcüğün en az 40’ını tanıyorum
+
+□
+
+□
+
+□
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 3
+
+11
+
+Cevap anahtarı ve açıklamalar
+Mini alıştırmalar: Konu 1: 1 ноль [nol’] — sıfır; 2 четыре [çi-TI-ri] — dört; 3 VO; 4 десять [DYE-sit’] — on;
+5 один два три четыре пять [a-DİN dva tri çi-TI-ri pyat’] — bir iki üç dört beş; 6 десять девять восемь
+семь шесть [DYE-sit’ DYE-vit’ VO-sim’ syem’ şest’] — on dokuz sekiz yedi altı.
+Konu 2: 1 одиннадцать [a-DİN-na-tsat’] — on bir; 2 двенадцать [dvi-NA-tsat’] — on iki; 3 четырнадцать
+[çi-TIR-na-tsat’] — on dört; 4 семнадцать [sim-NA-tsat’] — on yedi; 5 девятнадцать [di-vit-NA-tsat’] —
+on dokuz; 6 12 ve 11–19 tek biçim olarak öğrenilir, 20 ayrı yirmi köküdür.
+Konu 3: 1 сорок [SO-rak] — kırk; 2 девяносто [di-vi-NO-sta] — doksan; 3 двадцать восемь [DVA-tsat’
+VO-sim’] — yirmi sekiz; 4 сорок три [SO-rak tri] — kırk üç; 5 шестьдесят семь [şis-di-SYAT syem’] —
+altmış yedi; 6 девяносто девять [di-vi-NO-sta DYE-vit’] — doksan dokuz.
+Konu 4: 1 двести [DVYE-sti] — iki yüz; 2 четыреста [çi-TI-ri-sta] — dört yüz; 3 семьсот [sim-SOT] — yedi
+yüz; 4 сто восемь [sto VO-sim’] — yüz sekiz; 5 двести пятьдесят [DVYE-sti pit-di-SYAT] — iki yüz elli; 6
+девятьсот девяносто девять [di-vit-SOT di-vi-NO-sta DYE-vit’] — dokuz yüz doksan dokuz.
+Konu 5: 1 один стол [a-DİN stol] — bir masa; 2 одна книга [ad-NA KNİ-ga] — bir kitap; 3 одно окно
+[ad-NO ak-NO] — bir pencere; 4 две книги [dvye KNİ-gi] — iki kitap; 5 два стола [dva sta-LA] — iki masa;
+6 пять книг [pyat’ knik] — beş kitap; 7 двадцать одна книга [DVA-tsat’ ad-NA KNİ-ga] — yirmi bir kitap;
+8 одиннадцать столов [a-DİN-na-tsat’ sta-LOF] — on bir masa.
+Konu 6: 1 Сколько вам лет? [SKOL’-ka vam lyet?] — Kaç yaşındasınız?; 2 Сколько тебе лет? [SKOL’-ka
+ti-BYE lyet?] — Kaç yaşındasın?; 3 Мне двадцать один год. [mnye DVA-tsat’ a-DİN got] — 21
+yaşındayım; 4 Мне двадцать два года. [mnye DVA-tsat’ dva GO-da] — 22 yaşındayım; 5 Мне двадцать
+пять лет. [mnye DVA-tsat’ pyat’ lyet] — 25 yaşındayım; 6 Мне одиннадцать лет. [mnye a-DİN-na-tsat’
+lyet] — 11 yaşındayım; 7 Сколько это стоит? [SKOL’-ka E-ta STO-it?] — Bu ne kadar?; 8 ноль пять три
+два [nol’ pyat’ tri dva] — sıfır beş üç iki.
+24 alıştırma: 1 ноль, один, два, три, четыре, пять, шесть, семь, восемь, девять, десять [nol’, a-DİN,
+dva, tri, çi-TI-ri, pyat’, şest’, syem’, VO-sim’, DYE-vit’, DYE-sit’] — sıfırdan ona; 2 одиннадцать,
+двенадцать, тринадцать, четырнадцать, пятнадцать, шестнадцать, семнадцать, восемнадцать,
+девятнадцать, двадцать [a-DİN-na-tsat’, dvi-NA-tsat’, tri-NA-tsat’, çi-TIR-na-tsat’, pit-NA-tsat’,
+şis-NA-tsat’, sim-NA-tsat’, va-sim-NA-tsat’, di-vit-NA-tsat’, DVA-tsat’] — on birden yirmiye.
+3 сорок [SO-rak] — 40; 4 девяносто [di-vi-NO-sta] — 90; 5 тридцать [TRİ-tsat’] — 30; 6 шестьдесят
+восемь [şis-di-SYAT VO-sim’] — 68; 7 семьдесят четыре [SYEM-di-syat çi-TI-ri] — 74; 8 девяносто
+девять [di-vi-NO-sta DYE-vit’] — 99; 9 сто один [sto a-DİN] — 101; 10 двести пятнадцать [DVYE-sti
+pit-NA-tsat’] — 215; 11 пятьсот [pit-SOT] — 500; 12 девятьсот девяносто девять [di-vit-SOT
+di-vi-NO-sta DYE-vit’] — 999.
+13 одна книга [ad-NA KNİ-ga] — bir kitap; 14 две книги [dvye KNİ-gi] — iki kitap; 15 пять книг [pyat’
+knik] — beş kitap; 16 двадцать одна книга [DVA-tsat’ ad-NA KNİ-ga] — 21 kitap; 17 одиннадцать
+столов [a-DİN-na-tsat’ sta-LOF] — 11 masa; 18 Сколько вам лет? [SKOL’-ka vam lyet?] — Kaç
+yaşındasınız?; 19 Мне двадцать два года. [mnye DVA-tsat’ dva GO-da] — 22 yaşındayım; 20 Сколько
+это стоит? [SKOL’-ka E-ta STO-it?] — Bu ne kadar?; 21 Это стоит сто рублей. [E-ta STO-it sto ru-BLYEY]
+— 100 ruble tutuyor; 22 одно окно [ad-NO ak-NO] — bir pencere; 23 два стола [dva sta-LA] — iki masa;
+24 ноль пять три два [nol’ pyat’ tri dva] — 0532.
+Test: 1 A; 2 B; 3 B; 4 B; 5 C; 6 восемнадцать [va-sim-NA-tsat’] — 18; 7 триста [TRİ-sta] — 300; 8 одна
+[ad-NA] — bir (dişil); 9 лет [lyet] — yıl; 10 шестьдесят два [şis-di-SYAT dva] — 62; 11 Сколько тебе
+лет? [SKOL’-ka ti-BYE lyet?] — Kaç yaşındasın?; 12 yüz yirmi beş; 13 один стол [a-DİN stol] — bir masa;
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 3
+
+12
+
+14 Мне двадцать два года. [mnye DVA-tsat’ dva GO-da] — 22 yaşındayım; 15 Мне двадцать пять лет.
+[mnye DVA-tsat’ pyat’ lyet] — 25 yaşındayım. Dinleme: Anna 22, Yusuf 30; ilk ürün 250, ikincisi 120
+ruble; birinci konuşma samimi, ikinci resmî.
+Devam etmek için “DEVAM ET” yaz. Sonraki PDF: Modül 4, Kişisel Zamirler ve Olmak Fiili.
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 3
+
+13
+

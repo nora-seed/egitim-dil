@@ -1,0 +1,620 @@
+Modül 26 — Plus-que-parfait
+Seviye: B1. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+Plus-que-parfait konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt etmeye
+yardım eder.
+
+Konunun mantığı
+Özne + avoir/être imparfait + geçmiş ortaç; önceki geçmiş olay.
+
+Türkçe ile karşılaştırma
+Türkçedeki -mıştı/-mişti ile çoğu zaman örtüşür.
+
+Formül / Kural
+Temel şema: Özne + avoir/être imparfait + geçmiş ortaç; önceki geçmiş olay.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+J'avais parlé [jave parle] — Konuşmuştum
+
+2. örüntü
+
+bağlam
+
+Tu avais fini [tü ave fini] — Bitirmiştin
+
+3. örüntü
+
+telaffuz
+
+Il avait mangé [il ave manje] — Yemişti
+
+parler — konuşmak: plus-que-parfait
+Fransızca [IPA]
+
+Türkçe
+
+j’avais parlé [ʒavɛ paʁle]
+
+konuşmuştum
+
+tu avais parlé [ty avɛ paʁle]
+
+konuşmuştun
+
+il avait parlé [il avɛ paʁle]
+
+konuşmuştu
+
+nous avions parlé [nuz avjɔ̃ paʁle]
+
+konuşmuştuk
+
+vous aviez parlé [vuz avje paʁle]
+
+konuşmuştunuz
+
+ils avaient parlé [ilz avɛ paʁle]
+
+konuşmuşlardı
+
+Ayrıntılı konu anlatımı
+Geçmişten daha önce
+Plus-que-parfait = avoir/être imparfait + geçmiş ortaç. J'avais fini avant son arrivée [ʒavɛ fini avɑ̃
+sɔ̃ naʁive] — O varmadan bitirmiştim. Elle était partie quand j'ai appelé [ɛl etɛ paʁti kɑ̃ ʒe aple] —
+Aradığımda ayrılmıştı. Être alan fiillerde ilgili ortaç uyumunu denetle.
+“Önce oldu” anlamı için her zaman plus-que-parfait gerekmeyebilir; iki olay sırayla anlatılıyorsa iki passé
+composé da mümkündür. Bu zaman özellikle bir geçmiş referans noktasından önce tamamlanmış eylemi
+belirginleştirir.
+
+1
+
+On örnek
+1. J'avais parlé [jave parle] — Konuşmuştum
+2. Tu avais fini [tü ave fini] — Bitirmiştin
+3. Il avait mangé [il ave manje] — Yemişti
+4. Nous avions vu le film [nu zaviyon vü lı film] — Filmi görmüştük
+5. Vous aviez compris [vu zaviye kompri] — Anlamıştınız
+6. Elles étaient parties [el zetey parti] — Ayrılmışlardı
+7. Elle était arrivée avant moi [el ete tarive avan mwa] — Benden önce varmıştı
+8. Quand je suis arrivé, il avait déjà mangé [kan jı süi zarive il ave deja manje] — Vardığımda çoktan
+yemişti
+9. Je n'avais pas vu ce message [jı nave pa vü sı mesaj] — Bu mesajı görmemiştim
+10. Avais-tu réservé ? [ave tü rezerve] — Rezervasyon yapmış mıydın?
+
+Yaygın hatalar
+İki geçmiş olayın önceliğini çeviride kaybetme; referans olaydan öncekini işaretle.
+
+Ezber tekniği
+Üç olaylı bir zaman çizgisi çizip üçünün sırasını önce Türkçe sonra Fransızca anlat.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 40. Spiral tekrar: 32. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+lorsque [lɔʁskə]
+
+...dığında
+
+dès que [dɛ kə]
+
+...ir ...mez
+
+auparavant [opaʁavɑ̃ ]
+
+daha önce
+
+la veille [la vɛj]
+
+önceki gün
+
+le lendemain [lə lɑ̃ dmɛ̃]
+
+ertesi gün
+
+l'ordre [lɔʁdʁ]
+
+sıra
+
+la chronologie [la kʁɔnɔlɔʒi]
+
+olay sırası
+
+la cause [la koz]
+
+neden
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+la conséquence [la kɔ̃ sekɑ̃ s]
+
+sonuç
+
+la découverte [la dekuvɛʁt]
+
+keşif
+
+la décision [la desizjɔ̃ ]
+
+karar
+
+l'appel [lapɛl]
+
+arama
+
+le message [lə mesaʒ]
+
+mesaj
+
+le rendez-vous [lə ʁɑ̃ devu]
+
+randevu
+
+prévenir [pʁevniʁ]
+
+haber vermek
+
+commencer [kɔmɑ̃ se]
+
+başlamak
+
+l'antériorité [lɑ̃ teʁjɔʁite]
+
+öncelik
+
+la succession [la syksesjɔ̃ ]
+
+ardışıklık
+
+le repère temporel [lə ʁəpɛʁ tɑ̃ pɔʁɛl]
+
+zaman referans noktası
+
+l'inversion [lɛ̃vɛʁsjɔ̃ ]
+
+tersine çevirme
+
+l'accident [laksidɑ̃ ]
+
+kaza
+
+la panne [la pan]
+
+arıza
+
+la surprise [la syʁpʁiz]
+
+sürpriz
+
+la préparation [la pʁepaʁasjɔ̃ ]
+
+hazırlık
+
+la confirmation [la kɔ̃ fiʁmasjɔ̃ ]
+
+doğrulama
+
+la livraison [la livʁɛzɔ̃ ]
+
+teslimat
+
+l'oubli [lubli]
+
+unutma
+
+la perte [la pɛʁt]
+
+kayıp
+
+la récupération [la ʁekypeʁasjɔ̃ ]
+
+geri alma
+
+la recherche [la ʁəʃɛʁʃ]
+
+arama
+
+l'absence [lapsɑ̃ s]
+
+yokluk
+
+la présence [la pʁezɑ̃ s]
+
+varlık
+
+la priorité [la pʁijɔʁite]
+
+öncelik
+
+la séquence [la sekɑ̃ s]
+
+dizi/sıra
+
+le préalable [lə pʁealabl]
+
+ön koşul
+
+l'achèvement [laʃɛvmɑ̃ ]
+
+tamamlama
+
+achever [aʃəve]
+
+sonlandırmak
+
+constater [kɔ̃ state]
+
+farkına varmak
+
+le flashback [lə flaʃbak]
+
+geriye dönüş
+
+le récit rétrospectif [lə ʁesi ʁetʁɔspɛktif]
+
+geçmişe dönük anlatı
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+avant [avɑ̃ ]
+
+önce
+
+après [apʁɛ]
+
+sonra
+
+déjà [deʒa]
+
+çoktan
+
+encore [ɑ̃ kɔʁ]
+
+hâlâ/yine
+
+3
+
+Fransızca [IPA]
+
+Türkçe
+
+jamais [ʒamɛ]
+
+hiç
+
+quand [kɑ̃ ]
+
+...dığında
+
+d'abord [dabɔʁ]
+
+ilk önce
+
+ensuite [ɑ̃ sɥit]
+
+ardından
+
+enfin [ɑ̃ fɛ̃]
+
+sonunda
+
+le passé [lə pase]
+
+geçmiş
+
+la réservation [la ʁezɛʁvasjɔ̃ ]
+
+rezervasyon
+
+le départ [lə depaʁ]
+
+ayrılış
+
+l'arrivée [laʁive]
+
+varış
+
+partir [paʁtiʁ]
+
+ayrılmak
+
+arriver [aʁive]
+
+varmak
+
+réserver [ʁezɛʁve]
+
+ayırmak
+
+appeler [apəle]
+
+aramak
+
+comprendre [kɔ̃ pʁɑ̃ dʁ]
+
+anlamak
+
+oublier [ublije]
+
+unutmak
+
+perdre [pɛʁdʁ]
+
+kaybetmek
+
+retrouver [ʁətʁuve]
+
+yeniden bulmak
+
+finir [finiʁ]
+
+bitirmek
+
+manger [mɑ̃ ʒe]
+
+yemek
+
+dormir [dɔʁmiʁ]
+
+uyumak
+
+lire [liʁ]
+
+okumak
+
+écrire [ekʁiʁ]
+
+yazmak
+
+voir [vwaʁ]
+
+görmek
+
+savoir [savwaʁ]
+
+bilmek
+
+faire [fɛʁ]
+
+yapmak
+
+la découverte [la dekuvɛʁt]
+
+keşif
+
+la rencontre [la ʁɑ̃ kɔ̃ tʁ]
+
+karşılaşma
+
+découvrir [dekuvʁiʁ]
+
+keşfetmek
+
+Mini alıştırma — 10 soru
+1. Konuşmuştum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Bitirmiştin anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Yemişti anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Filmi görmüştük anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Anlamıştınız anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Ayrılmışlardı anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Benden önce varmıştı anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. Vardığımda çoktan yemişti anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Bu mesajı görmemiştim anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+4
+
+10. Rezervasyon yapmış mıydın? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: Özne + avoir/être imparfait + geçmiş ortaç; önceki geçmiş olay.
+• Türkçe karşılaştırması: Türkçedeki -mıştı/-mişti ile çoğu zaman örtüşür.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. J'avais parlé
+2. Tu avais fini
+3. Il avait mangé
+4. Nous avions vu le film
+5. Vous aviez compris
+6. Elles étaient parties
+7. Elle était arrivée avant moi
+8. Quand je suis arrivé, il avait déjà mangé
+9. Je n'avais pas vu ce message
+10. Avais-tu réservé ?
+11. Konuşmuştum
+12. Bitirmiştin
+13. Yemişti
+14. Filmi görmüştük
+15. Anlamıştınız
+16. Ayrılmışlardı
+17. Benden önce varmıştı
+18. Vardığımda çoktan yemişti
+19. Bu mesajı görmemiştim
+20. Rezervasyon yapmış mıydın?
+21. J'avais parlé: A) Konuşmuştum B) Filmi görmüştük C) Benden önce varmıştı
+22. Tu avais fini: A) Anlamıştınız B) Vardığımda çoktan yemişti C) Bitirmiştin
+23. Il avait mangé: A) Bu mesajı görmemiştim B) Yemişti C) Ayrılmışlardı
+24. Nous avions vu le film: A) Filmi görmüştük B) Benden önce varmıştı C) Rezervasyon yapmış mıydın?
+25. Vous aviez compris: A) Vardığımda çoktan yemişti B) Konuşmuştum C) Anlamıştınız
+
+25 alıştırmanın çözümleri
+1. Konuşmuştum — Fransızca kaynak ifade: J'avais parlé [jave parle] — Konuşmuştum
+2. Bitirmiştin — Fransızca kaynak ifade: Tu avais fini [tü ave fini] — Bitirmiştin
+3. Yemişti — Fransızca kaynak ifade: Il avait mangé [il ave manje] — Yemişti
+4. Filmi görmüştük — Fransızca kaynak ifade: Nous avions vu le film [nu zaviyon vü lı film] — Filmi
+görmüştük
+
+5
+
+5. Anlamıştınız — Fransızca kaynak ifade: Vous aviez compris [vu zaviye kompri] — Anlamıştınız
+6. Ayrılmışlardı — Fransızca kaynak ifade: Elles étaient parties [el zetey parti] — Ayrılmışlardı
+7. Benden önce varmıştı — Fransızca kaynak ifade: Elle était arrivée avant moi [el ete tarive avan mwa]
+— Benden önce varmıştı
+8. Vardığımda çoktan yemişti — Fransızca kaynak ifade: Quand je suis arrivé, il avait déjà mangé [kan jı
+süi zarive il ave deja manje] — Vardığımda çoktan yemişti
+9. Bu mesajı görmemiştim — Fransızca kaynak ifade: Je n'avais pas vu ce message [jı nave pa vü sı
+mesaj] — Bu mesajı görmemiştim
+10. Rezervasyon yapmış mıydın? — Fransızca kaynak ifade: Avais-tu réservé ? [ave tü rezerve] —
+Rezervasyon yapmış mıydın?
+11. J'avais parlé [jave parle] — Konuşmuştum — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+12. Tu avais fini [tü ave fini] — Bitirmiştin — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+13. Il avait mangé [il ave manje] — Yemişti — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+14. Nous avions vu le film [nu zaviyon vü lı film] — Filmi görmüştük — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+15. Vous aviez compris [vu zaviye kompri] — Anlamıştınız — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+16. Elles étaient parties [el zetey parti] — Ayrılmışlardı — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+17. Elle était arrivée avant moi [el ete tarive avan mwa] — Benden önce varmıştı — Bu çeviride sözcük
+sırası ve varsa artikel örnekteki gibidir.
+18. Quand je suis arrivé, il avait déjà mangé [kan jı süi zarive il ave deja manje] — Vardığımda çoktan
+yemişti — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+19. Je n'avais pas vu ce message [jı nave pa vü sı mesaj] — Bu mesajı görmemiştim — Bu çeviride sözcük
+sırası ve varsa artikel örnekteki gibidir.
+20. Avais-tu réservé ? [ave tü rezerve] — Rezervasyon yapmış mıydın? — Bu çeviride sözcük sırası ve
+varsa artikel örnekteki gibidir.
+21. A — J'avais parlé [jave parle] — Konuşmuştum
+22. C — Tu avais fini [tü ave fini] — Bitirmiştin
+23. B — Il avait mangé [il ave manje] — Yemişti
+24. A — Nous avions vu le film [nu zaviyon vü lı film] — Filmi görmüştük
+25. C — Vous aviez compris [vu zaviye kompri] — Anlamıştınız
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. J'avais parlé ne anlama gelir? A) Konuşmuştum B) Yemişti C) Ayrılmışlardı
+2. Tu avais fini ne anlama gelir? A) Filmi görmüştük B) Benden önce varmıştı C) Bitirmiştin
+3. Il avait mangé ne anlama gelir? A) Vardığımda çoktan yemişti B) Yemişti C) Anlamıştınız
+4. Nous avions vu le film ne anlama gelir? A) Filmi görmüştük B) Ayrılmışlardı C) Bu mesajı görmemiştim
+5. Vous aviez compris ne anlama gelir? A) Benden önce varmıştı B) Rezervasyon yapmış mıydın? C)
+Anlamıştınız
+6. Boşluğu doldur: Elles ____ parties — Ayrılmışlardı
+7. Boşluğu doldur: Elle était ____ avant moi — Benden önce varmıştı
+
+6
+
+8. Boşluğu doldur: Quand je suis arrivé, ____ avait déjà mangé — Vardığımda çoktan yemişti
+9. Boşluğu doldur: Je n'avais pas ____ ce message — Bu mesajı görmemiştim
+10. Boşluğu doldur: Avais-tu ____ ? — Rezervasyon yapmış mıydın?
+11. Fransızcaya çevir: Konuşmuştum
+12. Fransızcaya çevir: Bitirmiştin
+13. Fransızcaya çevir: Yemişti
+14. Şu anlam için verilen bozuk sıralamayı düzelt: film / le / vu / avions / Nous — Filmi görmüştük
+15. Şu anlam için verilen bozuk sıralamayı düzelt: compris / aviez / Vous — Anlamıştınız
+
+Test cevap anahtarı
+1. A — J'avais parlé [jave parle] — Konuşmuştum
+2. C — Tu avais fini [tü ave fini] — Bitirmiştin
+3. B — Il avait mangé [il ave manje] — Yemişti
+4. A — Nous avions vu le film [nu zaviyon vü lı film] — Filmi görmüştük
+5. C — Vous aviez compris [vu zaviye kompri] — Anlamıştınız
+6. étaient — Elles étaient parties [el zetey parti] — Ayrılmışlardı
+7. arrivée — Elle était arrivée avant moi [el ete tarive avan mwa] — Benden önce varmıştı
+8. il — Quand je suis arrivé, il avait déjà mangé [kan jı süi zarive il ave deja manje] — Vardığımda çoktan
+yemişti
+9. vu — Je n'avais pas vu ce message [jı nave pa vü sı mesaj] — Bu mesajı görmemiştim
+10. réservé — Avais-tu réservé ? [ave tü rezerve] — Rezervasyon yapmış mıydın?
+11. J'avais parlé [jave parle] — Konuşmuştum
+12. Tu avais fini [tü ave fini] — Bitirmiştin
+13. Il avait mangé [il ave manje] — Yemişti
+14. Nous avions vu le film [nu zaviyon vü lı film] — Filmi görmüştük
+15. Vous aviez compris [vu zaviye kompri] — Anlamıştınız
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: J'avais parlé [jave parle] — Konuşmuştum
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: Tu avais fini [tü ave fini] — Bitirmiştin
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: Il avait mangé [il ave manje] — Yemişti
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Nous avions vu le film [nu zaviyon vü lı film] — Filmi görmüştük
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+7
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+8
+

@@ -1,0 +1,476 @@
+Modül 9 — Yemek İçecek ve Restoran
+Seviye: A1. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+Yemek İçecek ve Restoran konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt
+etmeye yardım eder.
+
+Konunun mantığı
+Belirsiz miktarda du/de la/de l'; kibar istek je voudrais + isim.
+
+Türkçe ile karşılaştırma
+Türkçedeki yalın yiyecek adı Fransızcada çoğu kez artikel ister.
+
+Formül / Kural
+Temel şema: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais + isim.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+Je voudrais du pain [jı vudre dü pen] — Ekmek istiyorum
+
+2. örüntü
+
+bağlam
+
+Je bois de l'eau [jı bwa dı lo] — Su içiyorum
+
+3. örüntü
+
+telaffuz
+
+Un café, s'il vous plaît [en kafe sil vu ple] — Bir kahve lütfen
+
+Ayrıntılı konu anlatımı
+Yiyecek ve miktar
+Genel beğeni için belirli artikel: J'aime le fromage [ʒɛm lə fʁɔmaʒ] — Peyniri severim. Belirsiz miktar için
+partitif: Je mange du fromage [ʒə mɑ̃ ʒ dy fʁɔmaʒ] — Peynir yiyorum. Dişil de la confiture [də la kɔ̃ fityʁ]
+— reçel; sesli öncesi de l'eau [də lo] — su. Olumsuz: Je ne bois pas de café [ʒə nə bwa pa də kafe] —
+Kahve içmiyorum. Belirli bir kahveden söz ediyorsan artikelin olumsuzda korunabildiği farklı bağlamlar
+vardır.
+Restoranda Je voudrais une table pour deux [ʒə vudʁɛ yn tabl puʁ dø] — İki kişilik masa isterim.
+L'addition, s'il vous plaît [ladisjɔ̃ sil vu plɛ] — Hesap lütfen. Fransa'nın her bölgesinde öğün saatleri ve
+hizmet alışkanlıkları aynı değildir; gözlemleyerek uyum sağla.
+
+On örnek
+1. Je voudrais du pain [jı vudre dü pen] — Ekmek istiyorum
+2. Je bois de l'eau [jı bwa dı lo] — Su içiyorum
+3. Un café, s'il vous plaît [en kafe sil vu ple] — Bir kahve lütfen
+4. Le menu, s'il vous plaît [lı münü sil vu ple] — Menü lütfen
+5. J'aime le fromage [jem lı fromaj] — Peyniri severim
+6. Je mange du poisson [jı manj dü pwason] — Balık yiyorum
+
+1
+
+7. Une table pour deux [ün tabl pur dö] — İki kişilik masa
+8. L'addition, s'il vous plaît [ladisyon sil vu ple] — Hesap lütfen
+9. C'est délicieux [se delisyö] — Lezzetli
+10. Je ne mange pas de porc [jı nı manj pa dı por] — Domuz eti yemiyorum.
+
+Yaygın hatalar
+Genel beğenide du fromage yerine le fromage; belirsiz miktarda le fromage yerine du fromage seçimini
+denetle.
+
+Ezber tekniği
+Gerçek bir menüden sipariş kaydı al; sevdiğin üç yiyeceği ve istemediğin bir yiyeceği söyle.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 40. Spiral tekrar: 5. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+le petit déjeuner [lə pəti deʒœne]
+
+kahvaltı
+
+le déjeuner [lə deʒœne]
+
+öğle yemeği
+
+le goûter [lə ɡute]
+
+ikindi atıştırması
+
+le dîner [lə dine]
+
+akşam yemeği
+
+le fromage [lə fʁɔmaʒ]
+
+peynir
+
+le beurre [lə bœʁ]
+
+tereyağı
+
+la confiture [la kɔ̃ fityʁ]
+
+reçel
+
+le croissant [lə kʁwasɑ̃ ]
+
+kruvasan
+
+l'œuf [lœf]
+
+yumurta
+
+le lait [lə lɛ]
+
+süt
+
+le sucre [lə sykʁ]
+
+şeker
+
+le sel [lə sɛl]
+
+tuz
+
+le poivre [lə pwavʁ]
+
+karabiber
+
+la viande [la vjɑ̃ d]
+
+et
+
+le poulet [lə pulɛ]
+
+tavuk
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+le bœuf [lə bœf]
+
+dana eti
+
+le porc [lə pɔʁ]
+
+domuz eti
+
+le poisson [lə pwasɔ̃ ]
+
+balık
+
+le riz [lə ʁi]
+
+pirinç
+
+les pâtes [lez pat]
+
+makarna
+
+la pomme de terre [la pɔm də tɛʁ]
+
+patates
+
+les légumes [lez leɡym]
+
+sebzeler
+
+les fruits [lez fʁɥi]
+
+meyveler
+
+la pomme [la pɔm]
+
+elma
+
+la banane [la banan]
+
+muz
+
+l'orange [lɔʁɑ̃ ʒ]
+
+portakal
+
+le raisin [lə ʁɛzɛ̃]
+
+üzüm
+
+la fraise [la fʁɛz]
+
+çilek
+
+le citron [lə sitʁɔ̃ ]
+
+limon
+
+le jus [lə ʒy]
+
+meyve suyu
+
+le vin [lə vɛ̃]
+
+şarap
+
+la bière [la bjɛʁ]
+
+bira
+
+le menu [lə məny]
+
+menü
+
+le serveur [lə sɛʁvœʁ]
+
+garson (erkek)
+
+la serveuse [la sɛʁvøz]
+
+garson (kadın)
+
+l'addition [ladisjɔ̃ ]
+
+hesap
+
+le plat [lə pla]
+
+ana yemek
+
+l'entrée [lɑ̃ tʁe]
+
+başlangıç
+
+le dessert [lə desɛʁ]
+
+tatlı
+
+délicieux [delisjø]
+
+lezzetli
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+le pain [lə pɛ̃]
+
+ekmek
+
+l'eau [lo]
+
+su
+
+le café [lə kafe]
+
+kahve
+
+le thé [lə te]
+
+çay
+
+la table [la tabl]
+
+masa
+
+Mini alıştırma — 10 soru
+1. Ekmek istiyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Su içiyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Bir kahve lütfen anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Menü lütfen anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+3
+
+5. Peyniri severim anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Balık yiyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. İki kişilik masa anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. Hesap lütfen anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Lezzetli anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Domuz eti yemiyorum. anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais + isim.
+• Türkçe karşılaştırması: Türkçedeki yalın yiyecek adı Fransızcada çoğu kez artikel ister.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. Je voudrais du pain
+2. Je bois de l'eau
+3. Un café, s'il vous plaît
+4. Le menu, s'il vous plaît
+5. J'aime le fromage
+6. Je mange du poisson
+7. Une table pour deux
+8. L'addition, s'il vous plaît
+9. C'est délicieux
+10. Je ne mange pas de porc
+11. Ekmek istiyorum
+12. Su içiyorum
+13. Bir kahve lütfen
+14. Menü lütfen
+15. Peyniri severim
+16. Balık yiyorum
+17. İki kişilik masa
+18. Hesap lütfen
+19. Lezzetli
+20. Domuz eti yemiyorum.
+21. Je voudrais du pain: A) Ekmek istiyorum B) Menü lütfen C) İki kişilik masa
+22. Je bois de l'eau: A) Peyniri severim B) Hesap lütfen C) Su içiyorum
+23. Un café, s'il vous plaît: A) Lezzetli B) Bir kahve lütfen C) Balık yiyorum
+24. Le menu, s'il vous plaît: A) Menü lütfen B) İki kişilik masa C) Domuz eti yemiyorum.
+25. J'aime le fromage: A) Hesap lütfen B) Ekmek istiyorum C) Peyniri severim
+
+4
+
+25 alıştırmanın çözümleri
+1. Ekmek istiyorum — Fransızca kaynak ifade: Je voudrais du pain [jı vudre dü pen] — Ekmek istiyorum
+2. Su içiyorum — Fransızca kaynak ifade: Je bois de l'eau [jı bwa dı lo] — Su içiyorum
+3. Bir kahve lütfen — Fransızca kaynak ifade: Un café, s'il vous plaît [en kafe sil vu ple] — Bir kahve
+lütfen
+4. Menü lütfen — Fransızca kaynak ifade: Le menu, s'il vous plaît [lı münü sil vu ple] — Menü lütfen
+5. Peyniri severim — Fransızca kaynak ifade: J'aime le fromage [jem lı fromaj] — Peyniri severim
+6. Balık yiyorum — Fransızca kaynak ifade: Je mange du poisson [jı manj dü pwason] — Balık yiyorum
+7. İki kişilik masa — Fransızca kaynak ifade: Une table pour deux [ün tabl pur dö] — İki kişilik masa
+8. Hesap lütfen — Fransızca kaynak ifade: L'addition, s'il vous plaît [ladisyon sil vu ple] — Hesap lütfen
+9. Lezzetli — Fransızca kaynak ifade: C'est délicieux [se delisyö] — Lezzetli
+10. Domuz eti yemiyorum. — Fransızca kaynak ifade: Je ne mange pas de porc [jı nı manj pa dı por] —
+Domuz eti yemiyorum.
+11. Je voudrais du pain [jı vudre dü pen] — Ekmek istiyorum — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+12. Je bois de l'eau [jı bwa dı lo] — Su içiyorum — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+13. Un café, s'il vous plaît [en kafe sil vu ple] — Bir kahve lütfen — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+14. Le menu, s'il vous plaît [lı münü sil vu ple] — Menü lütfen — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+15. J'aime le fromage [jem lı fromaj] — Peyniri severim — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+16. Je mange du poisson [jı manj dü pwason] — Balık yiyorum — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+17. Une table pour deux [ün tabl pur dö] — İki kişilik masa — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+18. L'addition, s'il vous plaît [ladisyon sil vu ple] — Hesap lütfen — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+19. C'est délicieux [se delisyö] — Lezzetli — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+20. Je ne mange pas de porc [jı nı manj pa dı por] — Domuz eti yemiyorum. — Bu çeviride sözcük sırası
+ve varsa artikel örnekteki gibidir.
+21. A — Je voudrais du pain [jı vudre dü pen] — Ekmek istiyorum
+22. C — Je bois de l'eau [jı bwa dı lo] — Su içiyorum
+23. B — Un café, s'il vous plaît [en kafe sil vu ple] — Bir kahve lütfen
+24. A — Le menu, s'il vous plaît [lı münü sil vu ple] — Menü lütfen
+25. C — J'aime le fromage [jem lı fromaj] — Peyniri severim
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. Je voudrais du pain ne anlama gelir? A) Ekmek istiyorum B) Bir kahve lütfen C) Balık yiyorum
+2. Je bois de l'eau ne anlama gelir? A) Menü lütfen B) İki kişilik masa C) Su içiyorum
+3. Un café, s'il vous plaît ne anlama gelir? A) Hesap lütfen B) Bir kahve lütfen C) Peyniri severim
+
+5
+
+4. Le menu, s'il vous plaît ne anlama gelir? A) Menü lütfen B) Balık yiyorum C) Lezzetli
+5. J'aime le fromage ne anlama gelir? A) İki kişilik masa B) Domuz eti yemiyorum. C) Peyniri severim
+6. Boşluğu doldur: Je mange ____ poisson — Balık yiyorum
+7. Boşluğu doldur: Une table ____ deux — İki kişilik masa
+8. Boşluğu doldur: L'addition, s'il ____ plaît — Hesap lütfen
+9. Boşluğu doldur: C'est ____ — Lezzetli
+10. Boşluğu doldur: Je ne mange ____ de porc — Domuz eti yemiyorum.
+11. Fransızcaya çevir: Ekmek istiyorum
+12. Fransızcaya çevir: Su içiyorum
+13. Fransızcaya çevir: Bir kahve lütfen
+14. Şu anlam için verilen bozuk sıralamayı düzelt: plaît / vous / s'il / menu, / Le — Menü lütfen
+15. Şu anlam için verilen bozuk sıralamayı düzelt: fromage / le / J'aime — Peyniri severim
+
+Test cevap anahtarı
+1. A — Je voudrais du pain [jı vudre dü pen] — Ekmek istiyorum
+2. C — Je bois de l'eau [jı bwa dı lo] — Su içiyorum
+3. B — Un café, s'il vous plaît [en kafe sil vu ple] — Bir kahve lütfen
+4. A — Le menu, s'il vous plaît [lı münü sil vu ple] — Menü lütfen
+5. C — J'aime le fromage [jem lı fromaj] — Peyniri severim
+6. du — Je mange du poisson [jı manj dü pwason] — Balık yiyorum
+7. pour — Une table pour deux [ün tabl pur dö] — İki kişilik masa
+8. vous — L'addition, s'il vous plaît [ladisyon sil vu ple] — Hesap lütfen
+9. délicieux — C'est délicieux [se delisyö] — Lezzetli
+10. pas — Je ne mange pas de porc [jı nı manj pa dı por] — Domuz eti yemiyorum.
+11. Je voudrais du pain [jı vudre dü pen] — Ekmek istiyorum
+12. Je bois de l'eau [jı bwa dı lo] — Su içiyorum
+13. Un café, s'il vous plaît [en kafe sil vu ple] — Bir kahve lütfen
+14. Le menu, s'il vous plaît [lı münü sil vu ple] — Menü lütfen
+15. J'aime le fromage [jem lı fromaj] — Peyniri severim
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: Je voudrais du pain [jı vudre dü pen] — Ekmek istiyorum
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: Je bois de l'eau [jı bwa dı lo] — Su içiyorum
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: Un café, s'il vous plaît [en kafe sil vu ple] — Bir kahve lütfen
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Le menu, s'il vous plaît [lı münü sil vu ple] — Menü lütfen
+
+6
+
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+7
+

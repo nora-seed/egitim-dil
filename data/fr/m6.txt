@@ -1,0 +1,479 @@
+Modül 6 — Aile ve Kişisel Bilgiler
+Seviye: A1. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+Aile ve Kişisel Bilgiler konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt etmeye
+yardım eder.
+
+Konunun mantığı
+İsimleri artikel ile öğren: le père, la mère; soru sözcüğü cümlenin başında veya konuşmada sonunda olabilir.
+
+Türkçe ile karşılaştırma
+Türkçede isimlerin eril/dişil dilbilgisel türü yoktur.
+
+Formül / Kural
+Temel şema: İsimleri artikel ile öğren: le père, la mère; soru sözcüğü cümlenin başında veya konuşmada
+sonunda olabilir.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+Voici ma mère [vwasi ma mer] — İşte annem
+
+2. örüntü
+
+bağlam
+
+C'est mon père [se mon per] — Bu babam
+
+3. örüntü
+
+telaffuz
+
+J'ai un frère [je en frer] — Bir erkek kardeşim var
+
+Ayrıntılı konu anlatımı
+İsim cinsiyeti ve soru
+un frère [œ̃ fʁɛʁ] — bir erkek kardeş; une sœur [yn sœʁ] — bir kız kardeş. İsimleri tek başına değil artikel
+ile öğren. -tion sonlu çok sayıda isim dişildir: la nation [la nasjɔ̃ ] — ulus; ama sonek ipuçları mutlak kural
+değildir. Cinsiyet, ilgili artikel ve sıfatı etkiler: un cousin français [œ̃ kuzɛ̃ fʁɑ̃ sɛ] — Fransız erkek kuzen;
+une cousine française [yn kuzin fʁɑ̃ sɛz] — Fransız kız kuzen.
+Soru üç yolla kurulabilir: Tu habites où ? [ty abit u] — Nerede oturuyorsun? (konuşma); Où est-ce que tu
+habites ? [u ɛskə ty abit] — Nerede oturuyorsun? (nötr); Où habites-tu ? [u abit ty] — Nerede
+oturuyorsun? (daha yazılı/resmî). Qui [ki] — kim, où [u] — nerede, pourquoi [puʁkwa] — neden. Soru
+sözcüğünü ve cümlenin geri kalanını birlikte çalış.
+
+On örnek
+1. Voici ma mère [vwasi ma mer] — İşte annem
+2. C'est mon père [se mon per] — Bu babam
+3. J'ai un frère [je en frer] — Bir erkek kardeşim var
+4. J'ai une sœur [je ün sör] — Bir kız kardeşim var
+5. Qui est-ce ? [ki es] — Bu kim?
+
+1
+
+6. Où habites-tu ? [u abit tü] — Nerede oturuyorsun?
+7. Pourquoi ? [purkwa] — Neden?
+8. Je suis célibataire [jı süi selibater] — Bekârım
+9. Ma famille est grande [ma famiy e grand] — Ailem büyük
+10. Comment s'appelle votre tante ? [koman sapel votr tant] — Teyzenizin adı ne?
+
+Yaygın hatalar
+İsim cinsiyetini kişinin cinsiyetiyle karıştırma; le/la'yı isimle birlikte kaydet.
+
+Ezber tekniği
+Aile ağacı çizip her kişiye iki soru sor ve bir cümleyle yanıtla.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 40. Spiral tekrar: 6. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+la famille [la famij]
+
+aile
+
+les parents [lez paʁɑ̃ ]
+
+ebeveynler
+
+le frère [lə fʁɛʁ]
+
+erkek kardeş
+
+la sœur [la sœʁ]
+
+kız kardeş
+
+le fils [lə fis]
+
+oğul
+
+la fille [la fij]
+
+kız
+
+le bébé [lə bebe]
+
+bebek
+
+le mari [lə maʁi]
+
+koca
+
+le conjoint [lə kɔ̃ ʒwɛ̃]
+
+eş (erkek)
+
+la conjointe [la kɔ̃ ʒwɛ̃t]
+
+eş (kadın)
+
+la grand-mère [la ɡʁɑ̃ mɛʁ]
+
+büyükanne
+
+le grand-père [lə ɡʁɑ̃ pɛʁ]
+
+büyükbaba
+
+les grands-parents [lez ɡʁɑ̃ paʁɑ̃ ]
+
+büyük ebeveynler
+
+l'oncle [lɔ̃ kl]
+
+amca/dayı
+
+la tante [la tɑ̃ t]
+
+hala/teyze
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+le cousin [lə kuzɛ̃]
+
+kuzen (erkek)
+
+la cousine [la kuzin]
+
+kuzen (kadın)
+
+le neveu [lə nəvø]
+
+yeğen (erkek)
+
+la nièce [la njɛs]
+
+yeğen (kadın)
+
+le beau-père [lə bopɛʁ]
+
+kayınpeder/üvey baba
+
+la belle-mère [la bɛlmɛʁ]
+
+kayınvalide/üvey anne
+
+célibataire [selibatɛʁ]
+
+bekâr
+
+marié [maʁje]
+
+evli (erkek)
+
+mariée [maʁje]
+
+evli (kadın)
+
+divorcé [divɔʁse]
+
+boşanmış (erkek)
+
+divorcée [divɔʁse]
+
+boşanmış (kadın)
+
+veuf [vœf]
+
+dul (erkek)
+
+veuve [vœv]
+
+dul (kadın)
+
+qui [ki]
+
+kim
+
+que [kə]
+
+ne
+
+quoi [kwa]
+
+ne
+
+quand [kɑ̃ ]
+
+ne zaman
+
+combien [kɔ̃ bjɛ̃]
+
+kaç/ne kadar
+
+pourquoi [puʁkwa]
+
+neden
+
+quel [kɛl]
+
+hangi (eril)
+
+quelle [kɛl]
+
+hangi (dişil)
+
+l'adresse [ladʁɛs]
+
+adres
+
+le numéro [lə nymeʁo]
+
+numara
+
+la naissance [la nesɑ̃ s]
+
+doğum
+
+l'anniversaire [lanivɛʁsɛʁ]
+
+doğum günü
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+la mère [la mɛʁ]
+
+anne
+
+le père [lə pɛʁ]
+
+baba
+
+l'enfant [lɑ̃ fɑ̃ ]
+
+çocuk
+
+la femme [la fam]
+
+kadın/eş
+
+où [u]
+
+nerede
+
+comment [kɔmɑ̃ ]
+
+nasıl
+
+Mini alıştırma — 10 soru
+1. İşte annem anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Bu babam anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Bir erkek kardeşim var anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+3
+
+4. Bir kız kardeşim var anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Bu kim? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Nerede oturuyorsun? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Neden? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. Bekârım anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Ailem büyük anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Teyzenizin adı ne? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: İsimleri artikel ile öğren: le père, la mère; soru sözcüğü cümlenin başında veya
+konuşmada sonunda olabilir.
+• Türkçe karşılaştırması: Türkçede isimlerin eril/dişil dilbilgisel türü yoktur.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. Voici ma mère
+2. C'est mon père
+3. J'ai un frère
+4. J'ai une sœur
+5. Qui est-ce ?
+6. Où habites-tu ?
+7. Pourquoi ?
+8. Je suis célibataire
+9. Ma famille est grande
+10. Comment s'appelle votre tante ?
+11. İşte annem
+12. Bu babam
+13. Bir erkek kardeşim var
+14. Bir kız kardeşim var
+15. Bu kim?
+16. Nerede oturuyorsun?
+17. Neden?
+18. Bekârım
+19. Ailem büyük
+20. Teyzenizin adı ne?
+21. Voici ma mère: A) İşte annem B) Bir kız kardeşim var C) Neden?
+22. C'est mon père: A) Bu kim? B) Bekârım C) Bu babam
+23. J'ai un frère: A) Ailem büyük B) Bir erkek kardeşim var C) Nerede oturuyorsun?
+24. J'ai une sœur: A) Bir kız kardeşim var B) Neden? C) Teyzenizin adı ne?
+25. Qui est-ce ?: A) Bekârım B) İşte annem C) Bu kim?
+
+4
+
+25 alıştırmanın çözümleri
+1. İşte annem — Fransızca kaynak ifade: Voici ma mère [vwasi ma mer] — İşte annem
+2. Bu babam — Fransızca kaynak ifade: C'est mon père [se mon per] — Bu babam
+3. Bir erkek kardeşim var — Fransızca kaynak ifade: J'ai un frère [je en frer] — Bir erkek kardeşim var
+4. Bir kız kardeşim var — Fransızca kaynak ifade: J'ai une sœur [je ün sör] — Bir kız kardeşim var
+5. Bu kim? — Fransızca kaynak ifade: Qui est-ce ? [ki es] — Bu kim?
+6. Nerede oturuyorsun? — Fransızca kaynak ifade: Où habites-tu ? [u abit tü] — Nerede oturuyorsun?
+7. Neden? — Fransızca kaynak ifade: Pourquoi ? [purkwa] — Neden?
+8. Bekârım — Fransızca kaynak ifade: Je suis célibataire [jı süi selibater] — Bekârım
+9. Ailem büyük — Fransızca kaynak ifade: Ma famille est grande [ma famiy e grand] — Ailem büyük
+10. Teyzenizin adı ne? — Fransızca kaynak ifade: Comment s'appelle votre tante ? [koman sapel votr tant]
+— Teyzenizin adı ne?
+11. Voici ma mère [vwasi ma mer] — İşte annem — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+12. C'est mon père [se mon per] — Bu babam — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+13. J'ai un frère [je en frer] — Bir erkek kardeşim var — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+14. J'ai une sœur [je ün sör] — Bir kız kardeşim var — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+15. Qui est-ce ? [ki es] — Bu kim? — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+16. Où habites-tu ? [u abit tü] — Nerede oturuyorsun? — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+17. Pourquoi ? [purkwa] — Neden? — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+18. Je suis célibataire [jı süi selibater] — Bekârım — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+19. Ma famille est grande [ma famiy e grand] — Ailem büyük — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+20. Comment s'appelle votre tante ? [koman sapel votr tant] — Teyzenizin adı ne? — Bu çeviride sözcük
+sırası ve varsa artikel örnekteki gibidir.
+21. A — Voici ma mère [vwasi ma mer] — İşte annem
+22. C — C'est mon père [se mon per] — Bu babam
+23. B — J'ai un frère [je en frer] — Bir erkek kardeşim var
+24. A — J'ai une sœur [je ün sör] — Bir kız kardeşim var
+25. C — Qui est-ce ? [ki es] — Bu kim?
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. Voici ma mère ne anlama gelir? A) İşte annem B) Bir erkek kardeşim var C) Nerede oturuyorsun?
+2. C'est mon père ne anlama gelir? A) Bir kız kardeşim var B) Neden? C) Bu babam
+3. J'ai un frère ne anlama gelir? A) Bekârım B) Bir erkek kardeşim var C) Bu kim?
+4. J'ai une sœur ne anlama gelir? A) Bir kız kardeşim var B) Nerede oturuyorsun? C) Ailem büyük
+
+5
+
+5. Qui est-ce ? ne anlama gelir? A) Neden? B) Teyzenizin adı ne? C) Bu kim?
+6. Boşluğu doldur: Où ____ ? — Nerede oturuyorsun?
+7. Boşluğu doldur: Pourquoi ____ — Neden?
+8. Boşluğu doldur: Je ____ célibataire — Bekârım
+9. Boşluğu doldur: Ma famille ____ grande — Ailem büyük
+10. Boşluğu doldur: Comment s'appelle ____ tante ? — Teyzenizin adı ne?
+11. Fransızcaya çevir: İşte annem
+12. Fransızcaya çevir: Bu babam
+13. Fransızcaya çevir: Bir erkek kardeşim var
+14. Şu anlam için verilen bozuk sıralamayı düzelt: sœur / une / J'ai — Bir kız kardeşim var
+15. Şu anlam için verilen bozuk sıralamayı düzelt: ? / est-ce / Qui — Bu kim?
+
+Test cevap anahtarı
+1. A — Voici ma mère [vwasi ma mer] — İşte annem
+2. C — C'est mon père [se mon per] — Bu babam
+3. B — J'ai un frère [je en frer] — Bir erkek kardeşim var
+4. A — J'ai une sœur [je ün sör] — Bir kız kardeşim var
+5. C — Qui est-ce ? [ki es] — Bu kim?
+6. habites-tu — Où habites-tu ? [u abit tü] — Nerede oturuyorsun?
+7. ? — Pourquoi ? [purkwa] — Neden?
+8. suis — Je suis célibataire [jı süi selibater] — Bekârım
+9. est — Ma famille est grande [ma famiy e grand] — Ailem büyük
+10. votre — Comment s'appelle votre tante ? [koman sapel votr tant] — Teyzenizin adı ne?
+11. Voici ma mère [vwasi ma mer] — İşte annem
+12. C'est mon père [se mon per] — Bu babam
+13. J'ai un frère [je en frer] — Bir erkek kardeşim var
+14. J'ai une sœur [je ün sör] — Bir kız kardeşim var
+15. Qui est-ce ? [ki es] — Bu kim?
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: Voici ma mère [vwasi ma mer] — İşte annem
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: C'est mon père [se mon per] — Bu babam
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: J'ai un frère [je en frer] — Bir erkek kardeşim var
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: J'ai une sœur [je ün sör] — Bir kız kardeşim var
+
+6
+
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+7
+

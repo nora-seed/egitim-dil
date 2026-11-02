@@ -1,0 +1,771 @@
+Ek 4 — 45 dinleme metni
+15 A1, 15 A2 ve 15 B1 metni. Köşeli ayraç sesletim, çizgiden sonraki Türkçe karşılıktır. Dinleme denemesi
+için metni kapatıp bir başkasından veya doğal Fransızca TTS sisteminden seslendirmesini iste.
+
+A1 metni 1: Selamlaşma ve Tanışma
+Seslendirme metni
+1. Bonjour [bonjur] — Merhaba
+2. Bonsoir [bonsuar] — İyi akşamlar
+3. Salut [salü] — Selam
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Merhaba
+2. İyi akşamlar
+3. Kaynak metin: Salut [salü] — Selam
+
+A1 metni 2: Sayılar Tarihler ve Saatler
+Seslendirme metni
+1. onze [onz] — on bir
+2. vingt [ven] — yirmi
+3. soixante-dix [swasant dis] — yetmiş
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. on bir
+2. yirmi
+3. Kaynak metin: soixante-dix [swasant dis] — yetmiş
+
+1
+
+A1 metni 3: Zamirler ve Être
+Seslendirme metni
+1. Il est français [il e franse] — Fransız
+2. Elle est turque [el e türk] — Türk
+3. Nous sommes ici [nu som isi] — Buradayız
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Fransız
+2. Türk
+3. Kaynak metin: Nous sommes ici [nu som isi] — Buradayız
+
+A1 metni 4: Avoir ve Sahiplik
+Seslendirme metni
+1. Nous avons froid [nu zavon frwa] — Üşüyoruz
+2. Vous avez raison [vu zave rezon] — Haklısınız
+3. Ils ont sommeil [il zon somey] — Uykuları var
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Üşüyoruz
+2. Haklısınız
+3. Kaynak metin: Ils ont sommeil [il zon somey] — Uykuları var
+
+A1 metni 5: Aile ve Kişisel Bilgiler
+Seslendirme metni
+1. Qui est-ce ? [ki es] — Bu kim?
+2. Où habites-tu ? [u abit tü] — Nerede oturuyorsun?
+3. Pourquoi ? [purkwa] — Neden?
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+
+2
+
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Bu kim?
+2. Nerede oturuyorsun?
+3. Kaynak metin: Pourquoi ? [purkwa] — Neden?
+
+A1 metni 6: Renkler Sıfatlar ve -ER Fiilleri
+Seslendirme metni
+1. Ils travaillent [il travay] — Çalışıyorlar
+2. Une voiture rouge [ün vwatur ruj] — Kırmızı araba
+3. Un petit garçon [en pıti garson] — Küçük erkek çocuk
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Çalışıyorlar
+2. Kırmızı araba
+3. Kaynak metin: Un petit garçon [en pıti garson] — Küçük erkek çocuk
+
+A1 metni 7: Ev ve Yaşam Alanları
+Seslendirme metni
+1. Il n'y a pas de balcon [il niya pa dı balkon] — Balkon yok
+2. Où sont les toilettes ? [u son le twalet] — Tuvalet nerede?
+3. L'appartement a deux chambres [lapartıman a dö şanbr] — Dairenin iki yatak odası var
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Balkon yok
+2. Tuvalet nerede?
+3. Kaynak metin: L'appartement a deux chambres [lapartıman a dö şanbr] — Dairenin iki yatak odası var
+
+3
+
+A1 metni 8: Yemek İçecek ve Restoran
+Seslendirme metni
+1. L'addition, s'il vous plaît [ladisyon sil vu ple] — Hesap lütfen
+2. C'est délicieux [se delisyö] — Lezzetli
+3. Je ne mange pas de porc [jı nı manj pa dı por] — Domuz eti yemiyorum.
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Hesap lütfen
+2. Lezzetli
+3. Kaynak metin: Je ne mange pas de porc [jı nı manj pa dı por] — Domuz eti yemiyorum.
+
+A1 metni 9: Alışveriş ve Mağazalar
+Seslendirme metni
+1. Je paie par carte [jı pe par kart] — Kartla ödüyorum
+2. Il y a une réduction ? [il ya ün redüksiyon] — İndirim var mı?
+3. Ça coûte combien ? [sa kut kombiyen] — Bu ne kadar?
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Kartla ödüyorum
+2. İndirim var mı?
+3. Kaynak metin: Ça coûte combien ? [sa kut kombiyen] — Bu ne kadar?
+
+A1 metni 10: Şehirde Yön Bulma
+Seslendirme metni
+1. Montrez-moi sur la carte [montre mwa sür la kart] — Haritada gösterin.
+2. Où est la gare ? [u e la gar] — Gar nerede?
+3. Tournez à gauche [turne a goş] — Sola dönün
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+
+4
+
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Haritada gösterin.
+2. Gar nerede?
+3. Kaynak metin: Tournez à gauche [turne a goş] — Sola dönün
+
+A1 metni 11: Selamlaşma ve Tanışma
+Seslendirme metni
+1. Bonjour [bonjur] — Merhaba
+2. Bonsoir [bonsuar] — İyi akşamlar
+3. Salut [salü] — Selam
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Merhaba
+2. İyi akşamlar
+3. Kaynak metin: Salut [salü] — Selam
+
+A1 metni 12: Sayılar Tarihler ve Saatler
+Seslendirme metni
+1. onze [onz] — on bir
+2. vingt [ven] — yirmi
+3. soixante-dix [swasant dis] — yetmiş
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. on bir
+2. yirmi
+3. Kaynak metin: soixante-dix [swasant dis] — yetmiş
+
+5
+
+A1 metni 13: Zamirler ve Être
+Seslendirme metni
+1. Il est français [il e franse] — Fransız
+2. Elle est turque [el e türk] — Türk
+3. Nous sommes ici [nu som isi] — Buradayız
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Fransız
+2. Türk
+3. Kaynak metin: Nous sommes ici [nu som isi] — Buradayız
+
+A1 metni 14: Avoir ve Sahiplik
+Seslendirme metni
+1. Nous avons froid [nu zavon frwa] — Üşüyoruz
+2. Vous avez raison [vu zave rezon] — Haklısınız
+3. Ils ont sommeil [il zon somey] — Uykuları var
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Üşüyoruz
+2. Haklısınız
+3. Kaynak metin: Ils ont sommeil [il zon somey] — Uykuları var
+
+A1 metni 15: Aile ve Kişisel Bilgiler
+Seslendirme metni
+1. Qui est-ce ? [ki es] — Bu kim?
+2. Où habites-tu ? [u abit tü] — Nerede oturuyorsun?
+3. Pourquoi ? [purkwa] — Neden?
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+
+6
+
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Bu kim?
+2. Nerede oturuyorsun?
+3. Kaynak metin: Pourquoi ? [purkwa] — Neden?
+
+A2 metni 1: Passé Composé Avoir
+Seslendirme metni
+1. J'ai parlé [je parle] — Konuştum
+2. Tu as fini [tü a fini] — Bitirdin
+3. Il a vendu [il a vandü] — Sattı
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Konuştum
+2. Bitirdin
+3. Kaynak metin: Il a vendu [il a vandü] — Sattı
+
+A2 metni 2: Passé Composé Être
+Seslendirme metni
+1. Elle est allée [el e tale] — Gitti (kadın)
+2. Ils sont arrivés [il son tarive] — Vardılar
+3. Elles sont parties [el son parti] — Ayrıldılar
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Gitti (kadın)
+2. Vardılar
+3. Kaynak metin: Elles sont parties [el son parti] — Ayrıldılar
+
+7
+
+A2 metni 3: -IR -RE ve Dönüşlü Fiiller
+Seslendirme metni
+1. Tu attends le bus [tü atan lı büs] — Otobüsü bekliyorsun
+2. Ils vendent des livres [il vand de livr] — Kitap satıyorlar
+3. Je prends le train [jı pran lı tren] — Trene biniyorum
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Otobüsü bekliyorsun
+2. Kitap satıyorlar
+3. Kaynak metin: Je prends le train [jı pran lı tren] — Trene biniyorum
+
+A2 metni 4: Artikeller ve Çoğul
+Seslendirme metni
+1. Les enfants jouent [lezanfan ju] — Çocuklar oynuyor
+2. Un café [en kafe] — Bir kahve
+3. Une pomme [ün pom] — Bir elma
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Çocuklar oynuyor
+2. Bir kahve
+3. Kaynak metin: Une pomme [ün pom] — Bir elma
+
+A2 metni 5: COD COI En ve Y
+Seslendirme metni
+1. Je leur téléphone [jı lör telefon] — Onlara telefon ediyorum
+2. Tu me vois ? [tü mı vwa] — Beni görüyor musun?
+3. J'en veux [jan vö] — Ondan istiyorum
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+
+8
+
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Onlara telefon ediyorum
+2. Beni görüyor musun?
+3. Kaynak metin: J'en veux [jan vö] — Ondan istiyorum
+
+A2 metni 6: Karşılaştırma ve Üstünlük
+Seslendirme metni
+1. Ce livre est meilleur [sı livr e meyör] — Bu kitap daha iyi
+2. Il chante mieux [il şant myö] — Daha iyi şarkı söylüyor
+3. Aujourd'hui c'est pire [ojurdüi se pir] — Bugün daha kötü
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Bu kitap daha iyi
+2. Daha iyi şarkı söylüyor
+3. Kaynak metin: Aujourd'hui c'est pire [ojurdüi se pir] — Bugün daha kötü
+
+A2 metni 7: Sağlık ve Vücut
+Seslendirme metni
+1. Ça fait mal ici [sa fe mal isi] — Burası ağrıyor
+2. Depuis quand ? [dıpüi kan] — Ne zamandır?
+3. Prenez ce médicament [prıne sı medikaman] — Bu ilacı alın
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Burası ağrıyor
+2. Ne zamandır?
+3. Kaynak metin: Prenez ce médicament [prıne sı medikaman] — Bu ilacı alın
+
+9
+
+A2 metni 8: İş Meslek ve Ofis
+Seslendirme metni
+1. J'ai deux ans d'expérience [je dö zan deksperyans] — İki yıl deneyimim var
+2. Quel est le salaire ? [kel e lı saler] — Maaş ne kadar?
+3. Le contrat est signé [lı kontra e siyné] — Sözleşme imzalandı.
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. İki yıl deneyimim var
+2. Maaş ne kadar?
+3. Kaynak metin: Le contrat est signé [lı kontra e siyné] — Sözleşme imzalandı.
+
+A2 metni 9: Seyahat ve Konaklama
+Seslendirme metni
+1. Je voudrais une clé [jı vudre ün kle] — Anahtar istiyorum
+2. Où est la réception ? [u e la resepsyon] — Resepsiyon nerede?
+3. Je réserve une chambre [jı rezerv ün şanbr] — Oda ayırtıyorum
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Anahtar istiyorum
+2. Resepsiyon nerede?
+3. Kaynak metin: Je réserve une chambre [jı rezerv ün şanbr] — Oda ayırtıyorum
+
+A2 metni 10: Hobiler ve Boş Zaman
+Seslendirme metni
+1. Peut-être demain [pötet dımen] — Belki yarın.
+2. J'aime la musique [jem la müzik] — Müziği severim
+3. J'adore nager [jador naje] — Yüzmeye bayılırım
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+
+10
+
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Belki yarın.
+2. Müziği severim
+3. Kaynak metin: J'adore nager [jador naje] — Yüzmeye bayılırım
+
+A2 metni 11: Duygular Görüşler ve Rica
+Seslendirme metni
+1. Je suis content [jı süi kontan] — Mutluyum (erkek)
+2. Elle est fatiguée [el e fatige] — Yorgun
+3. J'ai peur [je pör] — Korkuyorum
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Mutluyum (erkek)
+2. Yorgun
+3. Kaynak metin: J'ai peur [je pör] — Korkuyorum
+
+A2 metni 12: Passé Composé Avoir
+Seslendirme metni
+1. Tu as fini [tü a fini] — Bitirdin
+2. Il a vendu [il a vandü] — Sattı
+3. Nous avons mangé [nu zavon manje] — Yedik
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Bitirdin
+2. Sattı
+3. Kaynak metin: Nous avons mangé [nu zavon manje] — Yedik
+
+11
+
+A2 metni 13: Passé Composé Être
+Seslendirme metni
+1. Ils sont arrivés [il son tarive] — Vardılar
+2. Elles sont parties [el son parti] — Ayrıldılar
+3. Nous sommes venus [nu som vınü] — Geldik
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Vardılar
+2. Ayrıldılar
+3. Kaynak metin: Nous sommes venus [nu som vınü] — Geldik
+
+A2 metni 14: -IR -RE ve Dönüşlü Fiiller
+Seslendirme metni
+1. Ils vendent des livres [il vand de livr] — Kitap satıyorlar
+2. Je prends le train [jı pran lı tren] — Trene biniyorum
+3. Je me lève tôt [jı mı lev to] — Erken kalkıyorum
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Kitap satıyorlar
+2. Trene biniyorum
+3. Kaynak metin: Je me lève tôt [jı mı lev to] — Erken kalkıyorum
+
+A2 metni 15: Artikeller ve Çoğul
+Seslendirme metni
+1. Un café [en kafe] — Bir kahve
+2. Une pomme [ün pom] — Bir elma
+3. Des amis [dezami] — Arkadaşlar
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+
+12
+
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Bir kahve
+2. Bir elma
+3. Kaynak metin: Des amis [dezami] — Arkadaşlar
+
+B1 metni 1: Imparfait
+Seslendirme metni
+1. Je parlais [jı parle] — Konuşuyordum
+2. Tu habitais ici [tü abite isi] — Burada oturuyordun
+3. Il pleuvait [il plöve] — Yağmur yağıyordu
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Konuşuyordum
+2. Burada oturuyordun
+3. Kaynak metin: Il pleuvait [il plöve] — Yağmur yağıyordu
+
+B1 metni 2: Plus-que-parfait
+Seslendirme metni
+1. Tu avais fini [tü ave fini] — Bitirmiştin
+2. Il avait mangé [il ave manje] — Yemişti
+3. Nous avions vu le film [nu zaviyon vü lı film] — Filmi görmüştük
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Bitirmiştin
+2. Yemişti
+3. Kaynak metin: Nous avions vu le film [nu zaviyon vü lı film] — Filmi görmüştük
+
+13
+
+B1 metni 3: Futur Simple
+Seslendirme metni
+1. Il vendra [il vandra] — Satacak
+2. Nous irons [nu ziron] — Gideceğiz
+3. Vous serez prêts [vu sıre pre] — Hazır olacaksınız
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Satacak
+2. Gideceğiz
+3. Kaynak metin: Vous serez prêts [vu sıre pre] — Hazır olacaksınız
+
+B1 metni 4: Si ile Koşul Cümleleri
+Seslendirme metni
+1. Si j'étais riche, je voyagerais [si jete riş jı vwiyajöre] — Zengin olsaydım seyahat ederdim
+2. Si j'avais su, je serais venu [si jave sü jı söre vınü] — Bilseydim gelirdim (erkek)
+3. Si elle avait appelé, j'aurais répondu [si el ave taple jore repondü] — Arasaydı cevap verirdim
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Zengin olsaydım seyahat ederdim
+2. Bilseydim gelirdim (erkek)
+3. Kaynak metin: Si elle avait appelé, j'aurais répondu [si el ave taple jore repondü] — Arasaydı cevap
+verirdim
+
+B1 metni 5: Conditionnel Présent
+Seslendirme metni
+1. Pourriez-vous m'aider ? [puriye vu mede] — Yardım edebilir misiniz?
+2. Je parlerais [jı parlöre] — Konuşurdum
+3. Nous voyagerions [nu vwiyajöriyon] — Seyahat ederdik
+
+14
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Yardım edebilir misiniz?
+2. Konuşurdum
+3. Kaynak metin: Nous voyagerions [nu vwiyajöriyon] — Seyahat ederdik
+
+B1 metni 6: Subjonctif Gereklilik ve Duygu
+Seslendirme metni
+1. Pour que tu comprennes [pur kı tü konprenn] — Anlaman için
+2. Avant qu'il arrive [avan kil ariv] — O gelmeden önce
+3. Je veux que vous ayez le temps [jı vö kı vu zeye lı tan] — Vaktiniz olmasını istiyorum
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Anlaman için
+2. O gelmeden önce
+3. Kaynak metin: Je veux que vous ayez le temps [jı vö kı vu zeye lı tan] — Vaktiniz olmasını istiyorum
+
+B1 metni 7: Subjonctif Şüphe ve Olasılık
+Seslendirme metni
+1. Je suis surpris que tu sois ici [jı süi sürpri kı tü swa isi] — Burada olmana şaşırdım
+2. Je regrette qu'il parte [jı rıgret kil part] — Gitmesine üzülüyorum
+3. Je crois qu'elle travaille [jı krwa kel travay] — Sanırım çalışıyor
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Burada olmana şaşırdım
+2. Gitmesine üzülüyorum
+3. Kaynak metin: Je crois qu'elle travaille [jı krwa kel travay] — Sanırım çalışıyor
+
+15
+
+B1 metni 8: İlgi Zamirleri
+Seslendirme metni
+1. Ce que je veux [sı kı jı vö] — İstediğim şey
+2. Ce dont j'ai besoin [sı don je bızwen] — İhtiyacım olan şey
+3. Voici la femme qui m'a aidé [vwasi la fam ki ma ede] — İşte bana yardım eden kadın.
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. İstediğim şey
+2. İhtiyacım olan şey
+3. Kaynak metin: Voici la femme qui m'a aidé [vwasi la fam ki ma ede] — İşte bana yardım eden kadın.
+
+B1 metni 9: Fransız Kültürü ve Toplumu
+Seslendirme metni
+1. Joyeux Noël [jwayö noel] — Mutlu Noeller
+2. Je vous en prie [jı vu zan pri] — Rica ederim.
+3. Bonjour, madame [bonjur madam] — Merhaba hanımefendi
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Mutlu Noeller
+2. Rica ederim.
+3. Kaynak metin: Bonjour, madame [bonjur madam] — Merhaba hanımefendi
+
+B1 metni 10: Haberler ve Medya
+Seslendirme metni
+1. D'après ce rapport [dapre sı rapor] — Bu rapora göre.
+2. Selon le journal [sılon lı jurnal] — Gazeteye göre
+3. Une enquête [ün anket] — Bir araştırma
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+
+16
+
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Bu rapora göre.
+2. Gazeteye göre
+3. Kaynak metin: Une enquête [ün anket] — Bir araştırma
+
+B1 metni 11: Görüş Tartışma ve Sunum
+Seslendirme metni
+1. À mon avis [a mon avi] — Bana göre
+2. Selon moi [sılon mwa] — Bence
+3. D'abord [dabor] — Öncelikle
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Bana göre
+2. Bence
+3. Kaynak metin: D'abord [dabor] — Öncelikle
+
+B1 metni 12: Imparfait
+Seslendirme metni
+1. Tu habitais ici [tü abite isi] — Burada oturuyordun
+2. Il pleuvait [il plöve] — Yağmur yağıyordu
+3. Nous mangions [nu manjiyon] — Yiyorduk
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Burada oturuyordun
+2. Yağmur yağıyordu
+3. Kaynak metin: Nous mangions [nu manjiyon] — Yiyorduk
+
+17
+
+B1 metni 13: Plus-que-parfait
+Seslendirme metni
+1. Il avait mangé [il ave manje] — Yemişti
+2. Nous avions vu le film [nu zaviyon vü lı film] — Filmi görmüştük
+3. Vous aviez compris [vu zaviye kompri] — Anlamıştınız
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Yemişti
+2. Filmi görmüştük
+3. Kaynak metin: Vous aviez compris [vu zaviye kompri] — Anlamıştınız
+
+B1 metni 14: Futur Simple
+Seslendirme metni
+1. Nous irons [nu ziron] — Gideceğiz
+2. Vous serez prêts [vu sıre pre] — Hazır olacaksınız
+3. Elles auront le temps [el zoron lı tan] — Vakitleri olacak
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Gideceğiz
+2. Hazır olacaksınız
+3. Kaynak metin: Elles auront le temps [el zoron lı tan] — Vakitleri olacak
+
+B1 metni 15: Si ile Koşul Cümleleri
+Seslendirme metni
+1. Si j'avais su, je serais venu [si jave sü jı söre vınü] — Bilseydim gelirdim (erkek)
+2. Si elle avait appelé, j'aurais répondu [si el ave taple jore repondü] — Arasaydı cevap verirdim
+3. Si tu étudies, tu réussiras [si tü zetüdi tü reüsira] — Çalışırsan başarırsın
+
+Anlama soruları
+1. Birinci cümlenin Türkçe anlamı nedir?
+
+18
+
+2. İkinci cümlede hangi temel eylem veya bilgi var?
+3. Üçüncü cümleyi bakmadan tekrar edebilir misin?
+
+Cevap anahtarı
+1. Bilseydim gelirdim (erkek)
+2. Arasaydı cevap verirdim
+3. Kaynak metin: Si tu étudies, tu réussiras [si tü zetüdi tü reüsira] — Çalışırsan başarırsın
+
+19
+

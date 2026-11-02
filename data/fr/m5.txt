@@ -1,0 +1,502 @@
+Modül 5 — Avoir ve Sahiplik
+Seviye: A1. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+Avoir ve Sahiplik konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt etmeye
+yardım eder.
+
+Konunun mantığı
+j'ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont; sahiplik belirteci isimle uyumlanır.
+
+Türkçe ile karşılaştırma
+Yaş ve açlık être ile değil avoir ile anlatılır.
+
+Formül / Kural
+Temel şema: j'ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont; sahiplik belirteci isimle uyumlanır.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+J'ai un livre [je en livr] — Bir kitabım var
+
+2. örüntü
+
+bağlam
+
+Tu as faim [tü a fen] — Açsın
+
+3. örüntü
+
+telaffuz
+
+Elle a soif [el a swaf] — Susadı
+
+avoir — sahip olmak
+Fransızca [IPA]
+
+Türkçe
+
+j’ai [ʒe]
+
+benim var
+
+tu as [ty a]
+
+senin var
+
+il a [il a]
+
+onun var
+
+nous avons [nuz avɔ̃ ]
+
+bizim var
+
+vous avez [vuz ave]
+
+sizin var
+
+ils ont [ilz ɔ̃ ]
+
+onların var
+
+Ayrıntılı konu anlatımı
+Sahiplikte isim belirleyici
+mon/ma/mes [mɔ̃ /ma/me] — benim, sahibin değil sahip olunan ismin cinsiyet ve sayısına göre seçilir.
+Mon père [mɔ̃ pɛʁ] — babam; ma mère [ma mɛʁ] — annem; mes parents [me paʁɑ̃ ] — ebeveynlerim.
+Dişil ad sesli veya sessiz h ile başladığında söyleyiş kolaylığı için mon amie [mɔ̃ nami] — kız arkadaşım,
+mon histoire [mɔ̃ nistwaʁ] — hikâyem denir; bu, ismi eril yapmaz.
+
+1
+
+Avoir ile kurulan durumlar
+J'ai faim [ʒe fɛ̃] — Açım; J'ai soif [ʒe swaf] — Susadım; J'ai froid [ʒe fʁwa] — Üşüyorum; J'ai chaud [ʒe ʃo]
+— Sıcaklıyorum. J'ai besoin d'eau [ʒe bəz(w)ɛ̃ do] — Suya ihtiyacım var. J'ai envie de partir [ʒe ɑ̃ vi də
+paʁtiʁ] — Gitmek istiyorum. Je suis faim yanlış; açlık için avoir gerekir. J'ai 30 ans [ʒe tʁɑ̃ tɑ̃ ] — 30
+yaşındayım; Je suis 30 ans yanlış.
+
+On örnek
+1. J'ai un livre [je en livr] — Bir kitabım var
+2. Tu as faim [tü a fen] — Açsın
+3. Elle a soif [el a swaf] — Susadı
+4. Nous avons froid [nu zavon frwa] — Üşüyoruz
+5. Vous avez raison [vu zave rezon] — Haklısınız
+6. Ils ont sommeil [il zon somey] — Uykuları var
+7. J'ai trente ans [je trant an] — Otuz yaşındayım
+8. Mon amie arrive [mon ami ariv] — Kız arkadaşım geliyor
+9. Mes livres sont ici [me livr son tisi] — Kitaplarım burada
+10. J'ai besoin d'aide [je bızwen ded] — Yardıma ihtiyacım var.
+
+Yaygın hatalar
+Je suis faim ve ma amie yazma; j'ai faim ve mon amie biçimlerini kalıp öğren.
+
+Ezber tekniği
+Yaşını, açlık/susuzluk durumunu ve üç eşyanı sahiplik kalıplarıyla anlat.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 43. Spiral tekrar: 2. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+avoir [avwaʁ]
+
+sahip olmak
+
+j'ai [ʒe]
+
+benim var
+
+tu as [ty a]
+
+senin var
+
+il a [il a]
+
+onun var
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+elle a [ɛl a]
+
+onun var
+
+nous avons [nuz avɔ̃ ]
+
+bizim var
+
+vous avez [vuz ave]
+
+sizin var
+
+ils ont [ilz ɔ̃ ]
+
+onların var
+
+elles ont [ɛlz ɔ̃ ]
+
+onların var
+
+mon [mɔ̃ ]
+
+benim (eril tekil)
+
+ma [ma]
+
+benim (dişil tekil)
+
+mes [mɛ]
+
+benim (çoğul)
+
+ton [tɔ̃ ]
+
+senin (eril)
+
+ta [ta]
+
+senin (dişil)
+
+tes [te]
+
+senin (çoğul)
+
+son [sɔ̃ ]
+
+onun (eril)
+
+sa [sa]
+
+onun (dişil)
+
+ses [se]
+
+onun (çoğul)
+
+notre [nɔtʁ]
+
+bizim (tekil)
+
+nos [no]
+
+bizim (çoğul)
+
+votre [vɔtʁ]
+
+sizin (tekil)
+
+vos [vo]
+
+sizin (çoğul)
+
+leur [lœʁ]
+
+onların (tekil)
+
+leurs [lœʁ]
+
+onların (çoğul)
+
+faim [fɛ̃]
+
+açlık
+
+soif [swaf]
+
+susuzluk
+
+peur [pœʁ]
+
+korku
+
+froid [fʁwa]
+
+soğuk
+
+chaud [ʃo]
+
+sıcak
+
+raison [ʁɛzɔ̃ ]
+
+haklılık
+
+tort [tɔʁ]
+
+haksızlık
+
+sommeil [sɔmɛj]
+
+uyku
+
+de la chance [də la ʃɑ̃ s]
+
+şans
+
+besoin [bəzwɛ̃]
+
+ihtiyaç
+
+envie [ɑ̃ vi]
+
+istek
+
+l'argent [laʁʒɑ̃ ]
+
+para
+
+le téléphone [lə telefɔn]
+
+telefon
+
+l'idée [lide]
+
+fikir
+
+la voiture [la vwatyʁ]
+
+araba
+
+un problème [œ̃ pʁɔblɛm]
+
+bir sorun
+
+une question [yn kɛstjɔ̃ ]
+
+bir soru
+
+un ami [œ̃n ami]
+
+bir arkadaş (erkek)
+
+une amie [yn ami]
+
+bir arkadaş (kadın)
+
+3
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+le livre [lə livʁ]
+
+kitap
+
+le temps [lə tɑ̃ ]
+
+zaman
+
+Mini alıştırma — 10 soru
+1. Bir kitabım var anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Açsın anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Susadı anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Üşüyoruz anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Haklısınız anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Uykuları var anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Otuz yaşındayım anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. Kız arkadaşım geliyor anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Kitaplarım burada anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Yardıma ihtiyacım var. anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: j'ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont; sahiplik belirteci isimle uyumlanır.
+• Türkçe karşılaştırması: Yaş ve açlık être ile değil avoir ile anlatılır.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. J'ai un livre
+2. Tu as faim
+3. Elle a soif
+4. Nous avons froid
+5. Vous avez raison
+6. Ils ont sommeil
+7. J'ai trente ans
+8. Mon amie arrive
+9. Mes livres sont ici
+10. J'ai besoin d'aide
+11. Bir kitabım var
+12. Açsın
+13. Susadı
+14. Üşüyoruz
+15. Haklısınız
+
+4
+
+16. Uykuları var
+17. Otuz yaşındayım
+18. Kız arkadaşım geliyor
+19. Kitaplarım burada
+20. Yardıma ihtiyacım var.
+21. J'ai un livre: A) Bir kitabım var B) Üşüyoruz C) Otuz yaşındayım
+22. Tu as faim: A) Haklısınız B) Kız arkadaşım geliyor C) Açsın
+23. Elle a soif: A) Kitaplarım burada B) Susadı C) Uykuları var
+24. Nous avons froid: A) Üşüyoruz B) Otuz yaşındayım C) Yardıma ihtiyacım var.
+25. Vous avez raison: A) Kız arkadaşım geliyor B) Bir kitabım var C) Haklısınız
+
+25 alıştırmanın çözümleri
+1. Bir kitabım var — Fransızca kaynak ifade: J'ai un livre [je en livr] — Bir kitabım var
+2. Açsın — Fransızca kaynak ifade: Tu as faim [tü a fen] — Açsın
+3. Susadı — Fransızca kaynak ifade: Elle a soif [el a swaf] — Susadı
+4. Üşüyoruz — Fransızca kaynak ifade: Nous avons froid [nu zavon frwa] — Üşüyoruz
+5. Haklısınız — Fransızca kaynak ifade: Vous avez raison [vu zave rezon] — Haklısınız
+6. Uykuları var — Fransızca kaynak ifade: Ils ont sommeil [il zon somey] — Uykuları var
+7. Otuz yaşındayım — Fransızca kaynak ifade: J'ai trente ans [je trant an] — Otuz yaşındayım
+8. Kız arkadaşım geliyor — Fransızca kaynak ifade: Mon amie arrive [mon ami ariv] — Kız arkadaşım
+geliyor
+9. Kitaplarım burada — Fransızca kaynak ifade: Mes livres sont ici [me livr son tisi] — Kitaplarım burada
+10. Yardıma ihtiyacım var. — Fransızca kaynak ifade: J'ai besoin d'aide [je bızwen ded] — Yardıma
+ihtiyacım var.
+11. J'ai un livre [je en livr] — Bir kitabım var — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+12. Tu as faim [tü a fen] — Açsın — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+13. Elle a soif [el a swaf] — Susadı — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+14. Nous avons froid [nu zavon frwa] — Üşüyoruz — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+15. Vous avez raison [vu zave rezon] — Haklısınız — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+16. Ils ont sommeil [il zon somey] — Uykuları var — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+17. J'ai trente ans [je trant an] — Otuz yaşındayım — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+18. Mon amie arrive [mon ami ariv] — Kız arkadaşım geliyor — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+19. Mes livres sont ici [me livr son tisi] — Kitaplarım burada — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+20. J'ai besoin d'aide [je bızwen ded] — Yardıma ihtiyacım var. — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+21. A — J'ai un livre [je en livr] — Bir kitabım var
+22. C — Tu as faim [tü a fen] — Açsın
+23. B — Elle a soif [el a swaf] — Susadı
+
+5
+
+24. A — Nous avons froid [nu zavon frwa] — Üşüyoruz
+25. C — Vous avez raison [vu zave rezon] — Haklısınız
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. J'ai un livre ne anlama gelir? A) Bir kitabım var B) Susadı C) Uykuları var
+2. Tu as faim ne anlama gelir? A) Üşüyoruz B) Otuz yaşındayım C) Açsın
+3. Elle a soif ne anlama gelir? A) Kız arkadaşım geliyor B) Susadı C) Haklısınız
+4. Nous avons froid ne anlama gelir? A) Üşüyoruz B) Uykuları var C) Kitaplarım burada
+5. Vous avez raison ne anlama gelir? A) Otuz yaşındayım B) Yardıma ihtiyacım var. C) Haklısınız
+6. Boşluğu doldur: Ils ____ sommeil — Uykuları var
+7. Boşluğu doldur: J'ai ____ ans — Otuz yaşındayım
+8. Boşluğu doldur: Mon ____ arrive — Kız arkadaşım geliyor
+9. Boşluğu doldur: Mes livres ____ ici — Kitaplarım burada
+10. Boşluğu doldur: J'ai ____ d'aide — Yardıma ihtiyacım var.
+11. Fransızcaya çevir: Bir kitabım var
+12. Fransızcaya çevir: Açsın
+13. Fransızcaya çevir: Susadı
+14. Şu anlam için verilen bozuk sıralamayı düzelt: froid / avons / Nous — Üşüyoruz
+15. Şu anlam için verilen bozuk sıralamayı düzelt: raison / avez / Vous — Haklısınız
+
+Test cevap anahtarı
+1. A — J'ai un livre [je en livr] — Bir kitabım var
+2. C — Tu as faim [tü a fen] — Açsın
+3. B — Elle a soif [el a swaf] — Susadı
+4. A — Nous avons froid [nu zavon frwa] — Üşüyoruz
+5. C — Vous avez raison [vu zave rezon] — Haklısınız
+6. ont — Ils ont sommeil [il zon somey] — Uykuları var
+7. trente — J'ai trente ans [je trant an] — Otuz yaşındayım
+8. amie — Mon amie arrive [mon ami ariv] — Kız arkadaşım geliyor
+9. sont — Mes livres sont ici [me livr son tisi] — Kitaplarım burada
+10. besoin — J'ai besoin d'aide [je bızwen ded] — Yardıma ihtiyacım var.
+11. J'ai un livre [je en livr] — Bir kitabım var
+12. Tu as faim [tü a fen] — Açsın
+13. Elle a soif [el a swaf] — Susadı
+14. Nous avons froid [nu zavon frwa] — Üşüyoruz
+15. Vous avez raison [vu zave rezon] — Haklısınız
+
+6
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: J'ai un livre [je en livr] — Bir kitabım var
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: Tu as faim [tü a fen] — Açsın
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: Elle a soif [el a swaf] — Susadı
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Nous avons froid [nu zavon frwa] — Üşüyoruz
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+7
+

@@ -1,0 +1,655 @@
+Modül 28 — Si ile Koşul Cümleleri
+Seviye: B1. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+Si ile Koşul Cümleleri konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt etmeye
+yardım eder.
+
+Konunun mantığı
+si + présent → futur/présent; si + imparfait → conditionnel présent; si + plus-que-parfait → conditionnel
+passé. Si yan cümlesinde bu örüntülerde futur/conditionnel kullanılmaz.
+
+Türkçe ile karşılaştırma
+Türkçedeki -sa/-se olasılık derecesine göre farklı Fransızca zamanlar ister.
+
+Formül / Kural
+Temel şema: si + présent → futur/présent; si + imparfait → conditionnel présent; si + plus-que-parfait →
+conditionnel passé. Si yan cümlesinde bu örüntülerde futur/conditionnel kullanılmaz.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+S'il pleut, je resterai [sil plö jı restöre] — Yağmur yağarsa kalacağım
+
+2. örüntü
+
+bağlam
+
+Si tu viens, on mange [si tü vyen on manj] — Gelirsen yemek yeriz
+
+3. örüntü
+
+telaffuz
+
+Si j'avais le temps, je lirais [si jave lı tan jı lire] — Zamanım olsaydı okurdum
+
+Ayrıntılı konu anlatımı
+Üç koşul modeli
+Si tu viens, nous sortirons [si ty vjɛ̃ nu sɔʁtiʁɔ̃ ] — Gelirsen çıkacağız: gerçekleşmesi açık koşul. Si j'avais
+le temps, je sortirais [si ʒavɛ lə tɑ̃ ʒə sɔʁtiʁɛ] — Vaktim olsaydı çıkardım: şimdi hayalî. Si j'avais su, je
+serais venu [si ʒavɛ sy ʒə səʁɛ vəny] — Bilseydim gelirdim: gerçekleşmemiş geçmiş koşul.
+Standart bu kalıplarda si bölümüne futur veya conditionnel koyma. Sesli önünde si + il → s'il [sil] — eğer o;
+ama si elle [si ɛl] — eğer o (kadın), kesme almaz. Geçmiş hayalî koşulun ana cümlesinde conditionnel passé
+gerekir.
+
+On örnek
+1. S'il pleut, je resterai [sil plö jı restöre] — Yağmur yağarsa kalacağım
+2. Si tu viens, on mange [si tü vyen on manj] — Gelirsen yemek yeriz
+3. Si j'avais le temps, je lirais [si jave lı tan jı lire] — Zamanım olsaydı okurdum
+4. Si j'étais riche, je voyagerais [si jete riş jı vwiyajöre] — Zengin olsaydım seyahat ederdim
+5. Si j'avais su, je serais venu [si jave sü jı söre vınü] — Bilseydim gelirdim (erkek)
+6. Si elle avait appelé, j'aurais répondu [si el ave taple jore repondü] — Arasaydı cevap verirdim
+
+1
+
+7. Si tu étudies, tu réussiras [si tü zetüdi tü reüsira] — Çalışırsan başarırsın
+8. Si seulement il venait [si sölman il vıne] — Keşke gelseydi
+9. Si nous partions tôt, nous arriverions à l'heure [si nu partiyon to nu zarivöriyon a lör] — Erken
+çıksaydık zamanında varırdık
+10. S'il fait beau, sortons [sil fe bo sorton] — Hava güzelse çıkalım.
+
+Yaygın hatalar
+Si bölümünde bu üç standart modelde futur ya da conditionnel kullanma.
+
+Ezber tekniği
+Aynı düşünceyi gerçek, hayalî ve geçmişte gerçekleşmemiş koşula dönüştür.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 44. Spiral tekrar: 22. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+si [si]
+
+eğer
+
+seulement [sœlmɑ̃ ]
+
+yalnızca
+
+à condition que [a kɔ̃ disjɔ̃ kə]
+
+şartıyla
+
+dans ce cas [dɑ̃ seə ka]
+
+bu durumda
+
+sinon [sinɔ̃ ]
+
+yoksa
+
+autrement [otʁəmɑ̃ ]
+
+başka türlü
+
+probablement [pʁɔbabləmɑ̃ ]
+
+muhtemelen
+
+certainement [sɛʁtɛnmɑ̃ ]
+
+kesinlikle
+
+impossible [ɛ̃pɔsibl]
+
+imkânsız
+
+possible [pɔsibl]
+
+mümkün
+
+réel [ʁeɛl]
+
+gerçek (eril)
+
+imaginaire [imaʒinɛʁ]
+
+hayalî
+
+hypothétique [ipɔtetik]
+
+varsayımsal
+
+la condition [la kɔ̃ disjɔ̃ ]
+
+koşul
+
+l'hypothèse [lipɔtɛz]
+
+varsayım
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+le risque [lə ʁisk]
+
+risk
+
+la chance [la ʃɑ̃ s]
+
+şans
+
+le regret [lə ʁəɡʁɛ]
+
+pişmanlık
+
+le souhait [lə swɛ]
+
+dilek
+
+le rêve [lə ʁɛv]
+
+hayal
+
+la richesse [la ʁiʃɛs]
+
+zenginlik
+
+changer [ʃɑ̃ ʒe]
+
+değiştirmek
+
+gagner [ɡaɲe]
+
+kazanmak
+
+l'éventualité [levɑ̃ tɥalite]
+
+olası durum
+
+la supposition [la sypozisjɔ̃ ]
+
+varsayım
+
+la conjecture [la kɔ̃ ʒɛktyʁ]
+
+tahmin/çıkarım
+
+l'alternative [laltɛʁnativ]
+
+alternatif
+
+la restriction [la ʁɛstʁiksjɔ̃ ]
+
+kısıtlama
+
+la permission [la pɛʁmisjɔ̃ ]
+
+izin
+
+la probabilité [la pʁɔbabilite]
+
+olasılık
+
+le scénario [lə senaʁjo]
+
+senaryo
+
+le résultat hypothétique [lə ʁezylta ipɔtetik]
+
+varsayımsal sonuç
+
+la situation réelle [la sitɥasjɔ̃ ʁeɛl]
+
+gerçek durum
+
+la situation irréelle [la sitɥasjɔ̃ iʁeɛl]
+
+gerçek dışı durum
+
+le cas contraire [lə ka kɔ̃ tʁɛʁ]
+
+aksi durum
+
+la précaution [la pʁekosjɔ̃ ]
+
+önlem
+
+le secours [lə səkuʁ]
+
+yardım/kurtarma
+
+le hasard [lə azaʁ]
+
+rastlantı
+
+l'occasion [lɔkazjɔ̃ ]
+
+fırsat
+
+le pari [lə paʁi]
+
+iddia/bahis
+
+la tentative [la tɑ̃ tativ]
+
+girişim
+
+la solution possible [la solysjɔ̃ pɔsibl]
+
+olası çözüm
+
+envisager [ɑ̃ vizaʒe]
+
+göz önünde bulundurmak
+
+supposer [sypoze]
+
+varsaymak
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+peut-être [pøt ɛtʁ]
+
+belki
+
+la conséquence [la kɔ̃ sekɑ̃ s]
+
+sonuç
+
+la possibilité [la pɔsibilite]
+
+olasılık
+
+le choix [lə ʃwa]
+
+seçim
+
+la décision [la desizjɔ̃ ]
+
+karar
+
+le temps [lə tɑ̃ ]
+
+zaman
+
+la pluie [la plɥi]
+
+yağmur
+
+3
+
+Fransızca [IPA]
+
+Türkçe
+
+le soleil [lə sɔlɛj]
+
+güneş
+
+étudier [etydje]
+
+çalışmak
+
+réussir [ʁeysiʁ]
+
+başarmak
+
+venir [vəniʁ]
+
+gelmek
+
+partir [paʁtiʁ]
+
+ayrılmak
+
+voyager [vwajaʒe]
+
+seyahat etmek
+
+rester [ʁɛste]
+
+kalmak
+
+savoir [savwaʁ]
+
+bilmek
+
+pouvoir [puvwaʁ]
+
+yapabilmek
+
+vouloir [vulwaʁ]
+
+istemek
+
+devoir [dəvwaʁ]
+
+zorunda olmak
+
+aider [ede]
+
+yardım etmek
+
+perdre [pɛʁdʁ]
+
+kaybetmek
+
+choisir [ʃwaziʁ]
+
+seçmek
+
+essayer [eseje]
+
+denemek
+
+Mini alıştırma — 10 soru
+1. Yağmur yağarsa kalacağım anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Gelirsen yemek yeriz anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Zamanım olsaydı okurdum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Zengin olsaydım seyahat ederdim anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Bilseydim gelirdim (erkek) anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Arasaydı cevap verirdim anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Çalışırsan başarırsın anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. Keşke gelseydi anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Erken çıksaydık zamanında varırdık anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Hava güzelse çıkalım. anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: si + présent → futur/présent; si + imparfait → conditionnel présent; si + plus-que-parfait
+→ conditionnel passé. Si yan cümlesinde bu örüntülerde futur/conditionnel kullanılmaz.
+• Türkçe karşılaştırması: Türkçedeki -sa/-se olasılık derecesine göre farklı Fransızca zamanlar ister.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. S'il pleut, je resterai
+2. Si tu viens, on mange
+3. Si j'avais le temps, je lirais
+
+4
+
+4. Si j'étais riche, je voyagerais
+5. Si j'avais su, je serais venu
+6. Si elle avait appelé, j'aurais répondu
+7. Si tu étudies, tu réussiras
+8. Si seulement il venait
+9. Si nous partions tôt, nous arriverions à l'heure
+10. S'il fait beau, sortons
+11. Yağmur yağarsa kalacağım
+12. Gelirsen yemek yeriz
+13. Zamanım olsaydı okurdum
+14. Zengin olsaydım seyahat ederdim
+15. Bilseydim gelirdim (erkek)
+16. Arasaydı cevap verirdim
+17. Çalışırsan başarırsın
+18. Keşke gelseydi
+19. Erken çıksaydık zamanında varırdık
+20. Hava güzelse çıkalım.
+21. S'il pleut, je resterai: A) Yağmur yağarsa kalacağım B) Zengin olsaydım seyahat ederdim C) Çalışırsan
+başarırsın
+22. Si tu viens, on mange: A) Bilseydim gelirdim (erkek) B) Keşke gelseydi C) Gelirsen yemek yeriz
+23. Si j'avais le temps, je lirais: A) Erken çıksaydık zamanında varırdık B) Zamanım olsaydı okurdum C)
+Arasaydı cevap verirdim
+24. Si j'étais riche, je voyagerais: A) Zengin olsaydım seyahat ederdim B) Çalışırsan başarırsın C) Hava
+güzelse çıkalım.
+25. Si j'avais su, je serais venu: A) Keşke gelseydi B) Yağmur yağarsa kalacağım C) Bilseydim gelirdim
+(erkek)
+
+25 alıştırmanın çözümleri
+1. Yağmur yağarsa kalacağım — Fransızca kaynak ifade: S'il pleut, je resterai [sil plö jı restöre] — Yağmur
+yağarsa kalacağım
+2. Gelirsen yemek yeriz — Fransızca kaynak ifade: Si tu viens, on mange [si tü vyen on manj] — Gelirsen
+yemek yeriz
+3. Zamanım olsaydı okurdum — Fransızca kaynak ifade: Si j'avais le temps, je lirais [si jave lı tan jı lire]
+— Zamanım olsaydı okurdum
+4. Zengin olsaydım seyahat ederdim — Fransızca kaynak ifade: Si j'étais riche, je voyagerais [si jete riş jı
+vwiyajöre] — Zengin olsaydım seyahat ederdim
+5. Bilseydim gelirdim (erkek) — Fransızca kaynak ifade: Si j'avais su, je serais venu [si jave sü jı söre
+vınü] — Bilseydim gelirdim (erkek)
+6. Arasaydı cevap verirdim — Fransızca kaynak ifade: Si elle avait appelé, j'aurais répondu [si el ave
+taple jore repondü] — Arasaydı cevap verirdim
+7. Çalışırsan başarırsın — Fransızca kaynak ifade: Si tu étudies, tu réussiras [si tü zetüdi tü reüsira] —
+Çalışırsan başarırsın
+8. Keşke gelseydi — Fransızca kaynak ifade: Si seulement il venait [si sölman il vıne] — Keşke gelseydi
+9. Erken çıksaydık zamanında varırdık — Fransızca kaynak ifade: Si nous partions tôt, nous arriverions à
+l'heure [si nu partiyon to nu zarivöriyon a lör] — Erken çıksaydık zamanında varırdık
+
+5
+
+10. Hava güzelse çıkalım. — Fransızca kaynak ifade: S'il fait beau, sortons [sil fe bo sorton] — Hava
+güzelse çıkalım.
+11. S'il pleut, je resterai [sil plö jı restöre] — Yağmur yağarsa kalacağım — Bu çeviride sözcük sırası ve
+varsa artikel örnekteki gibidir.
+12. Si tu viens, on mange [si tü vyen on manj] — Gelirsen yemek yeriz — Bu çeviride sözcük sırası ve
+varsa artikel örnekteki gibidir.
+13. Si j'avais le temps, je lirais [si jave lı tan jı lire] — Zamanım olsaydı okurdum — Bu çeviride sözcük
+sırası ve varsa artikel örnekteki gibidir.
+14. Si j'étais riche, je voyagerais [si jete riş jı vwiyajöre] — Zengin olsaydım seyahat ederdim — Bu
+çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+15. Si j'avais su, je serais venu [si jave sü jı söre vınü] — Bilseydim gelirdim (erkek) — Bu çeviride sözcük
+sırası ve varsa artikel örnekteki gibidir.
+16. Si elle avait appelé, j'aurais répondu [si el ave taple jore repondü] — Arasaydı cevap verirdim — Bu
+çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+17. Si tu étudies, tu réussiras [si tü zetüdi tü reüsira] — Çalışırsan başarırsın — Bu çeviride sözcük sırası
+ve varsa artikel örnekteki gibidir.
+18. Si seulement il venait [si sölman il vıne] — Keşke gelseydi — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+19. Si nous partions tôt, nous arriverions à l'heure [si nu partiyon to nu zarivöriyon a lör] — Erken
+çıksaydık zamanında varırdık — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+20. S'il fait beau, sortons [sil fe bo sorton] — Hava güzelse çıkalım. — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+21. A — S'il pleut, je resterai [sil plö jı restöre] — Yağmur yağarsa kalacağım
+22. C — Si tu viens, on mange [si tü vyen on manj] — Gelirsen yemek yeriz
+23. B — Si j'avais le temps, je lirais [si jave lı tan jı lire] — Zamanım olsaydı okurdum
+24. A — Si j'étais riche, je voyagerais [si jete riş jı vwiyajöre] — Zengin olsaydım seyahat ederdim
+25. C — Si j'avais su, je serais venu [si jave sü jı söre vınü] — Bilseydim gelirdim (erkek)
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. S'il pleut, je resterai ne anlama gelir? A) Yağmur yağarsa kalacağım B) Zamanım olsaydı okurdum C)
+Arasaydı cevap verirdim
+2. Si tu viens, on mange ne anlama gelir? A) Zengin olsaydım seyahat ederdim B) Çalışırsan başarırsın
+C) Gelirsen yemek yeriz
+3. Si j'avais le temps, je lirais ne anlama gelir? A) Keşke gelseydi B) Zamanım olsaydı okurdum C)
+Bilseydim gelirdim (erkek)
+4. Si j'étais riche, je voyagerais ne anlama gelir? A) Zengin olsaydım seyahat ederdim B) Arasaydı cevap
+verirdim C) Erken çıksaydık zamanında varırdık
+5. Si j'avais su, je serais venu ne anlama gelir? A) Çalışırsan başarırsın B) Hava güzelse çıkalım. C)
+Bilseydim gelirdim (erkek)
+6. Boşluğu doldur: Si elle avait ____ j'aurais répondu — Arasaydı cevap verirdim
+7. Boşluğu doldur: Si tu ____ tu réussiras — Çalışırsan başarırsın
+8. Boşluğu doldur: Si seulement ____ venait — Keşke gelseydi
+9. Boşluğu doldur: Si nous partions tôt, ____ arriverions à l'heure — Erken çıksaydık zamanında varırdık
+10. Boşluğu doldur: S'il fait ____ sortons — Hava güzelse çıkalım.
+
+6
+
+11. Fransızcaya çevir: Yağmur yağarsa kalacağım
+12. Fransızcaya çevir: Gelirsen yemek yeriz
+13. Fransızcaya çevir: Zamanım olsaydı okurdum
+14. Şu anlam için verilen bozuk sıralamayı düzelt: voyagerais / je / riche, / j'étais / Si — Zengin olsaydım
+seyahat ederdim
+15. Şu anlam için verilen bozuk sıralamayı düzelt: venu / serais / je / su, / j'avais / Si — Bilseydim gelirdim
+(erkek)
+
+Test cevap anahtarı
+1. A — S'il pleut, je resterai [sil plö jı restöre] — Yağmur yağarsa kalacağım
+2. C — Si tu viens, on mange [si tü vyen on manj] — Gelirsen yemek yeriz
+3. B — Si j'avais le temps, je lirais [si jave lı tan jı lire] — Zamanım olsaydı okurdum
+4. A — Si j'étais riche, je voyagerais [si jete riş jı vwiyajöre] — Zengin olsaydım seyahat ederdim
+5. C — Si j'avais su, je serais venu [si jave sü jı söre vınü] — Bilseydim gelirdim (erkek)
+6. appelé, — Si elle avait appelé, j'aurais répondu [si el ave taple jore repondü] — Arasaydı cevap
+verirdim
+7. étudies, — Si tu étudies, tu réussiras [si tü zetüdi tü reüsira] — Çalışırsan başarırsın
+8. il — Si seulement il venait [si sölman il vıne] — Keşke gelseydi
+9. nous — Si nous partions tôt, nous arriverions à l'heure [si nu partiyon to nu zarivöriyon a lör] — Erken
+çıksaydık zamanında varırdık
+10. beau, — S'il fait beau, sortons [sil fe bo sorton] — Hava güzelse çıkalım.
+11. S'il pleut, je resterai [sil plö jı restöre] — Yağmur yağarsa kalacağım
+12. Si tu viens, on mange [si tü vyen on manj] — Gelirsen yemek yeriz
+13. Si j'avais le temps, je lirais [si jave lı tan jı lire] — Zamanım olsaydı okurdum
+14. Si j'étais riche, je voyagerais [si jete riş jı vwiyajöre] — Zengin olsaydım seyahat ederdim
+15. Si j'avais su, je serais venu [si jave sü jı söre vınü] — Bilseydim gelirdim (erkek)
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: S'il pleut, je resterai [sil plö jı restöre] — Yağmur yağarsa kalacağım
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: Si tu viens, on mange [si tü vyen on manj] — Gelirsen yemek yeriz
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: Si j'avais le temps, je lirais [si jave lı tan jı lire] — Zamanım olsaydı okurdum
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Si j'étais riche, je voyagerais [si jete riş jı vwiyajöre] — Zengin olsaydım seyahat ederdim
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+7
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+Ara sınav — 30 soru + iki görev
+1. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: S'il pleut, je resterai [sil plö jı restöre] —
+Yağmur yağarsa kalacağım
+2. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si tu viens, on mange [si tü vyen on manj]
+— Gelirsen yemek yeriz
+3. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si j'avais le temps, je lirais [si jave lı tan jı
+lire] — Zamanım olsaydı okurdum
+4. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si j'étais riche, je voyagerais [si jete riş jı
+vwiyajöre] — Zengin olsaydım seyahat ederdim
+5. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si j'avais su, je serais venu [si jave sü jı
+söre vınü] — Bilseydim gelirdim (erkek)
+6. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si elle avait appelé, j'aurais répondu [si el
+ave taple jore repondü] — Arasaydı cevap verirdim
+7. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si tu étudies, tu réussiras [si tü zetüdi tü
+reüsira] — Çalışırsan başarırsın
+8. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si seulement il venait [si sölman il vıne] —
+Keşke gelseydi
+9. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si nous partions tôt, nous arriverions à
+l'heure [si nu partiyon to nu zarivöriyon a lör] — Erken çıksaydık zamanında varırdık
+10. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: S'il fait beau, sortons [sil fe bo sorton] —
+Hava güzelse çıkalım.
+11. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: S'il pleut, je resterai [sil plö jı restöre] —
+Yağmur yağarsa kalacağım
+12. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si tu viens, on mange [si tü vyen on manj]
+— Gelirsen yemek yeriz
+13. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si j'avais le temps, je lirais [si jave lı tan jı
+lire] — Zamanım olsaydı okurdum
+14. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si j'étais riche, je voyagerais [si jete riş jı
+vwiyajöre] — Zengin olsaydım seyahat ederdim
+15. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si j'avais su, je serais venu [si jave sü jı
+söre vınü] — Bilseydim gelirdim (erkek)
+16. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si elle avait appelé, j'aurais répondu [si el
+ave taple jore repondü] — Arasaydı cevap verirdim
+17. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si tu étudies, tu réussiras [si tü zetüdi tü
+reüsira] — Çalışırsan başarırsın
+18. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si seulement il venait [si sölman il vıne] —
+Keşke gelseydi
+19. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si nous partions tôt, nous arriverions à
+l'heure [si nu partiyon to nu zarivöriyon a lör] — Erken çıksaydık zamanında varırdık
+
+8
+
+20. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: S'il fait beau, sortons [sil fe bo sorton] —
+Hava güzelse çıkalım.
+21. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: S'il pleut, je resterai [sil plö jı restöre] —
+Yağmur yağarsa kalacağım
+22. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si tu viens, on mange [si tü vyen on manj]
+— Gelirsen yemek yeriz
+23. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si j'avais le temps, je lirais [si jave lı tan jı
+lire] — Zamanım olsaydı okurdum
+24. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si j'étais riche, je voyagerais [si jete riş jı
+vwiyajöre] — Zengin olsaydım seyahat ederdim
+25. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si j'avais su, je serais venu [si jave sü jı
+söre vınü] — Bilseydim gelirdim (erkek)
+26. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si elle avait appelé, j'aurais répondu [si el
+ave taple jore repondü] — Arasaydı cevap verirdim
+27. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si tu étudies, tu réussiras [si tü zetüdi tü
+reüsira] — Çalışırsan başarırsın
+28. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si seulement il venait [si sölman il vıne] —
+Keşke gelseydi
+29. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Si nous partions tôt, nous arriverions à
+l'heure [si nu partiyon to nu zarivöriyon a lör] — Erken çıksaydık zamanında varırdık
+30. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: S'il fait beau, sortons [sil fe bo sorton] —
+Hava güzelse çıkalım.
+Yazma: Son üç modülden beş yapı kullanarak kısa paragraf yaz. Konuşma: Aynı konuyu iki dakika sesli
+anlat. Yanıtları örnek cümlelerle karşılaştır.
+
+9
+

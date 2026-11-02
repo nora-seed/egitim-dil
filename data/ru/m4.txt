@@ -1,0 +1,864 @@
+RUSÇA ÖĞRENİM KİTABI
+A1 · MODÜL 4
+Zamirler, Olmak ve Sahiplik
+Bu ciltte [köşeli parantez] yaklaşık Türkçe okunuşu, BÜYÜK hece vurguyu, apostrof önceki ünsüzün
+yumuşaklığını gösterir. Rusça sözcüklerin çekimli biçimleri anlamla birlikte verilir. Önce Kiril yazıyı
+okuyun, fonetiği kontrol için kullanın.
+
+Bu modülün önemi
+“Ben öğrenciyim”, “Benim kitabım var”, “Arabam yok” gibi cümleler tanışma ve günlük konuşmanın
+temelidir. Türkçede iyelik ve var/yok kalıplarıyla kurduğumuz anlamları Rusça farklı yapılandırır. Bu
+modülde kişisel ve iyelik zamirlerini, şimdiki zamanda ek fiilin nasıl ifade edildiğini, geçmiş/gelecek быть
+[bıt’] — olmak biçimlerini ve у меня есть [u mi-NYA yest’] — benim ... var kalıbını öğreneceksiniz.
+
+Önceki modüllerden spiral tekrar
+Меня зовут Юсуф. [mi-NYA za-VUT yu-SUF] — Benim adım Yusuf. Я из Турции. [ya iz TUR-tsi-i] —
+Türkiye’denim. Мне тридцать лет. [mnye TRİ-tsat’ lyet] — Otuz yaşındayım. Bu modülde Я
+программист. [ya pra-gra-MİST] — Yazılımcıyım. ve У меня есть компьютер. [u mi-NYA yest’
+kam-PYU-ter] — Bilgisayarım var. kalıplarını ekleyeceğiz.
+
+KONU 1 · Kişisel zamirler ve sen/siz ayrımı
+Konunun mantığı: Özne zamiri konuşanın, dinleyenin veya bahsedilen kişinin yerini tutar. Rusçada üçüncü
+tekil kişi eril, dişil ve nötr olarak ayrılır; Türkçede üçünün karşılığı “o” olabilir. Ты [tı] — sen ile вы [vı] —
+siz ayrımı Türkçedeki samimi/saygılı veya tekil/çoğul kullanımına benzer.
+Formül / kural: ben → я [ya] — ben; sen → ты [tı] — sen; o (eril) → он [on] — o; o (dişil) → она [a-NA] — o;
+o (nötr) → оно [a-NO] — o; biz → мы [mı] — biz; siz → вы [vı] — siz; onlar → они [a-Nİ] — onlar. Tek kişiye
+saygılı hitapta вы [vı] — siz kullanın; “o” için kişi veya isim cinsiyetini izleyin.
+Kişi
+
+Zamir · okunuş · anlam
+
+Kısa örnek
+
+1. tekil
+
+я [ya] — ben
+
+Я студент. [ya stu-DYENT] — Öğrenciyim.
+
+2. tekil
+
+ты [tı] — sen
+
+Ты студент. [tı stu-DYENT] — Öğrencisin.
+
+3. tekil eril
+
+он [on] — o (erkek)
+
+Он студент. [on stu-DYENT] — O öğrenci.
+
+3. tekil dişil
+
+она [a-NA] — o (kadın)
+
+Она студентка. [a-NA stu-DYENT-ka] — O öğrenci.
+
+3. tekil nötr
+
+оно [a-NO] — o (nötr)
+
+Оно новое. [a-NO NO-va-ye] — O yeni.
+
+1. çoğul
+
+мы [mı] — biz
+
+Мы дома. [mı DO-ma] — Evdeyiz.
+
+2. çoğul /
+saygı
+
+вы [vı] — siz
+
+Вы дома. [vı DO-ma] — Evdesiniz.
+
+3. çoğul
+
+они [a-Nİ] — onlar
+
+Они дома. [a-Nİ DO-ma] — Onlar evde.
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 4
+
+1
+
+En az 10 örnek
+1. Я дома. [ya DO-ma] — Evdeyim.
+2. Ты дома. [tı DO-ma] — Evdesin.
+3. Он дома. [on DO-ma] — O (erkek) evde.
+4. Она дома. [a-NA DO-ma] — O (kadın) evde.
+5. Оно новое. [a-NO NO-va-ye] — O (nötr) yeni.
+6. Мы дома. [mı DO-ma] — Evdeyiz.
+7. Вы дома. [vı DO-ma] — Evdesiniz.
+8. Они дома. [a-Nİ DO-ma] — Onlar evde.
+9. Ты студент? [tı stu-DYENT?] — Öğrenci misin? (samimi)
+10. Вы студент? [vı stu-DYENT?] — Öğrenci misiniz? (tek erkek kişiye saygılı hitap)
+11. Вы студентка? [vı stu-DYENT-ka?] — Öğrenci misiniz? (tek kadın kişiye saygılı hitap)
+Türkçeyle karşılaştırma: Türkçede cinsiyetli “o” yoktur; Rusça оно [a-NO] — o nötr kişi hitabı için rutin bir
+biçim değildir, çoğunlukla nötr isim yerine kullanılır. Yaygın hata: ona [a-NA] — o (kadın) ve оно [a-NO] —
+o (nötr) seslerini birleştirmek. Ezber tekniği: zamirleri ben/sen/o, biz/siz/onlar diye iki sıraya bölüp her
+birinin ardından aynı “evde” kalıbını söyleyin.
+Mini alıştırma (6): 1 “Biz” zamiri? 2 Saygılı “siz”? 3 “O (kadın)”? 4 “O (nötr)”? 5 “Onlar”? 6 Tanımadığınız
+yetişkine “sen” yerine hangisini söylersiniz?
+
+KONU 2 · Şimdiki zamanda “olmak”; geçmiş ve gelecek
+Konunun mantığı: Türkçede “öğrenciyim” sözündeki -yim kişiyi gösterir. Modern standart Rusçanın
+sıradan şimdiki zaman eşitlik ve nitelik cümlelerinde açık bir “olmak” fiili çoğunlukla kullanılmaz; özne ve
+yüklem yan yana gelir. Var olma veya sahiplik bildiren есть [yest’] — var/bulunuyor ise farklı bir işlevde
+kullanılabilir.
+Formül / kural: şimdiki kimlik/nitelik → özne + isim/sıfat/yer ifadesi; olumsuz → özne + не [nye] — değil +
+yüklem. Geçmiş → был [bıl] — idi (eril), была [bı-LA] — idi (dişil), было [BI-la] — idi (nötr), были [BI-li] —
+idiler/idi (çoğul). Gelecek → буду [BU-du] — olacağım, будешь [BU-diş] — olacaksın, будет [BU-dit] —
+olacak, будем [BU-dim] — olacağız, будете [BU-di-tye] — olacaksınız, будут [BU-dut] — olacaklar.
+Gelecekte kimlik belirtirken çoğu zaman isim yüklem araç hâlindedir: Я буду врачом. [ya BU-du
+vra-ÇOM] — Doktor olacağım.
+Zaman
+
+Model
+
+Örnek
+
+Şimdi
+
+Özne + isim
+
+Я студент. [ya stu-DYENT] — Öğrenciyim.
+
+Şimdi olumsuz
+
+Özne + не + isim
+
+Я не студент. [ya nye stu-DYENT] — Öğrenci değilim.
+
+Geçmiş eril
+
+Özne + был + yer
+
+Я был дома. [ya bıl DO-ma] — Evdeydim (erkek).
+
+Geçmiş dişil
+
+Özne + была + yer
+
+Я была дома. [ya bı-LA DO-ma] — Evdeydim (kadın).
+
+Gelecek
+
+Özne + буду + yer
+
+Я буду дома. [ya BU-du DO-ma] — Evde olacağım.
+
+Gelecek meslek
+
+буду + araç hâli
+
+Я буду врачом. [ya BU-du vra-ÇOM] — Doktor olacağım.
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 4
+
+2
+
+Önemli ayrım: Я студент. [ya stu-DYENT] — Öğrenciyim doğru; Я есть студент. [ya yest’ stu-DYENT] —
+“Öğrenciyim” niyetiyle gündelik dilde yanlıştır. Ancak У меня есть книга. [u mi-NYA yest’ KNİ-ga] —
+Kitabım var cümlesindeki есть [yest’] — var/bulunuyor doğrudur. Kimlik ve varoluş aynı kalıp değildir.
+
+En az 10 örnek
+1. Я студент. [ya stu-DYENT] — Öğrenciyim (erkek).
+2. Я студентка. [ya stu-DYENT-ka] — Öğrenciyim (kadın).
+3. Ты врач. [tı vraç] — Doktorsun.
+4. Он программист. [on pra-gra-MİST] — O yazılımcı.
+5. Она учительница. [a-NA u-Çİ-til’-ni-tsa] — O öğretmen (kadın).
+6. Мы друзья. [mı dru-ZYA] — Biz arkadaşız.
+7. Вы дома. [vı DO-ma] — Evdesiniz.
+8. Я не врач. [ya nye vraç] — Doktor değilim.
+9. Он был дома. [on bıl DO-ma] — O (erkek) evdeydi.
+10. Она была дома. [a-NA bı-LA DO-ma] — O (kadın) evdeydi.
+11. Они были дома. [a-Nİ BI-li DO-ma] — Onlar evdeydi.
+12. Я буду дома. [ya BU-du DO-ma] — Evde olacağım.
+13. Я буду учителем. [ya BU-du u-Çİ-ti-lyem] — Öğretmen olacağım (erkek meslek adı).
+Türkçeyle karşılaştırma: Türkçe kişi ekini yükleme ekler; Rusça şimdiki kimlik cümlesinde ayrı özne zamiri
+kullanımı yaygındır. Geçmişte fiilin sonu kişinin değil öznenin cinsiyet/sayısının izini taşır. Yaygın hata: “я
+есть студент”; ikinci hata, kadın özneyle был [bıl] — idi kullanmak. Ezber tekniği: zaman çizgisi çizin:
+şimdi “boş”, dün был/была [bıl/bı-LA] — idi, yarın буду [BU-du] — olacağım. Meslek adlarının araç hâli
+ileride ayrıntılı işlenecek.
+Mini alıştırma (8): 1 “Ben öğrenciyim (erkek).” 2 “Ben öğrenci değilim.” 3 “O (kadın) evdeydi.” 4 “O
+(erkek) evdeydi.” 5 “Evde olacağım.” 6 “Biz evdeydik.” 7 Gündelik kimlik cümlesinde şimdiki açık olmak
+fiili var mı? 8 “Doktor olacağım.”
+
+KONU 3 · Sahiplik: У ... есть / yokluk: У ... нет
+Konunun mantığı: Türkçe “Benim kitabım var” der. Rusça aynı anlamı kelimesi kelimesine “Benim
+yanımda/benim alanımda bir kitap var” şeklinde düşünür. У [u] — yanında/kişinin alanında edatından
+sonra zamir özel biçime girer. Olumlu ve olumsuz cümlede isim biçimi aynı kalmaz.
+Formül / kural: olumlu → у [u] + kişinin özel biçimi + есть [yest’] + yalın isim. Olumsuz → у [u] + kişinin
+özel biçimi + нет [nyet] + tamlayan hâlindeki isim. Örnek: У меня есть машина. [u mi-NYA yest’
+ma-Şİ-na] — Arabam var; У меня нет машины. [u mi-NYA nyet ma-Şİ-nı] — Arabam yok. Belirli bir şeyin
+yerini veya niteliğini öne çıkarırken есть [yest’] — var/bulunuyor atlanabilir; başlangıç kalıbında varlığın
+kendisini bildirmek için есть kullanın.
+Kişi
+
+Olumlu sahiplik başı
+
+Olumsuz sahiplik başı
+
+Ben
+
+У меня есть... [u mi-NYA yest’] — Benim ... var
+
+У меня нет... [u mi-NYA nyet] — Benim ... yok
+
+Sen
+
+У тебя есть... [u ti-BYA yest’] — Senin ... var
+
+У тебя нет... [u ti-BYA nyet] — Senin ... yok
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 4
+
+3
+
+Kişi
+
+Olumlu sahiplik başı
+
+Olumsuz sahiplik başı
+
+O (erkek)
+
+У него есть... [u ni-VO yest’] — Onun ... var
+
+У него нет... [u ni-VO nyet] — Onun ... yok
+
+O (kadın)
+
+У неё есть... [u ni-YO yest’] — Onun ... var
+
+У неё нет... [u ni-YO nyet] — Onun ... yok
+
+Biz
+
+У нас есть... [u nas yest’] — Bizim ... var
+
+У нас нет... [u nas nyet] — Bizim ... yok
+
+Siz
+
+У вас есть... [u vas yest’] — Sizin ... var
+
+У вас нет... [u vas nyet] — Sizin ... yok
+
+Onlar
+
+У них есть... [u nih yest’] — Onların ... var
+
+У них нет... [u nih nyet] — Onların ... yok
+
+Neden у него [u ni-VO] — onun yanında ve у неё [u ni-YO] — onun yanında? Üçüncü şahıs zamirleri
+edattan sonra n- başı alır; aynı değişimi у них [u nih] — onların yanında biçiminde görürsünüz. Zamirin
+sözlük hâlini doğrudan eklemeyin.
+Yalın ad
+
+нет sonrasında tamlayan
+
+Anlam
+
+стол [stol] — masa
+
+стола [sta-LA] — masanın / masa
+yok
+
+У меня нет стола. [u mi-NYA nyet sta-LA] — Masam
+yok.
+
+книга [KNİ-ga] —
+kitap
+
+книги [KNİ-gi] — kitabın / kitap yok
+
+У меня нет книги. [u mi-NYA nyet KNİ-gi] — Kitabım
+yok.
+
+машина [ma-Şİ-na] —
+araba
+
+машины [ma-Şİ-nı] — arabanın /
+araba yok
+
+У меня нет машины. [u mi-NYA nyet ma-Şİ-nı] —
+Arabam yok.
+
+окно [ak-NO] —
+pencere
+
+окна [ak-NA] — pencerenin /
+pencere yok
+
+У меня нет окна. [u mi-NYA nyet ak-NA] —
+Pencerem yok.
+
+En az 10 örnek
+1. У меня есть книга. [u mi-NYA yest’ KNİ-ga] — Kitabım var.
+2. У тебя есть телефон? [u ti-BYA yest’ ti-li-FON?] — Telefonun var mı?
+3. У него есть машина. [u ni-VO yest’ ma-Şİ-na] — Onun arabası var.
+4. У неё есть брат. [u ni-YO yest’ brat] — Onun erkek kardeşi var.
+5. У нас есть дом. [u nas yest’ dom] — Evimiz var.
+6. У вас есть вопрос? [u vas yest’ va-PROS?] — Sorunuz var mı?
+7. У них есть дети. [u nih yest’ DYE-ti] — Onların çocukları var.
+8. У меня нет книги. [u mi-NYA nyet KNİ-gi] — Kitabım yok.
+9. У тебя нет телефона. [u ti-BYA nyet ti-li-FO-na] — Telefonun yok.
+10. У него нет машины. [u ni-VO nyet ma-Şİ-nı] — Onun arabası yok.
+11. У неё нет брата. [u ni-YO nyet BRA-ta] — Onun erkek kardeşi yok.
+12. У нас нет времени. [u nas nyet VRYE-mi-ni] — Vaktimiz yok.
+13. У них нет детей. [u nih nyet di-TYEY] — Onların çocukları yok.
+Türkçeyle karşılaştırma: Türkçede olumsuzluk “var/yok” değişimidir; Rusçada есть/нет [yest’/nyet] —
+var/yok ile beraber adın hâli de değişir. Genitif çoğul ve özel çekimler daha sonra ayrıntılı işlenecek.
+Yaygın hata: У меня нет машина biçiminde yalın adı bırakmak. Ezber tekniği: her kelimeyi iki satırda
+saklayın: есть машина [yest’ ma-Şİ-na] — araba var / нет машины [nyet ma-Şİ-nı] — araba yok.
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 4
+
+4
+
+Mini alıştırma (8): 1 “Kitabım var.” 2 “Kitabım yok.” 3 “Telefonun var mı?” 4 “Arabam yok.” 5 “Onun
+(kadın) erkek kardeşi var.” 6 “Bizim evimiz var.” 7 “Onların çocukları yok.” 8 Нет sonrası isim hangi
+hâlde?
+
+KONU 4 · İyelik zamirleri ve cinsiyet uyumu
+Konunun mantığı: Türkçe “benim” sözü kitap, araba ve pencere için aynı kalır. Rusçada мой [moy] —
+benim biçiminin sonu nitelediği ismin cinsiyet ve sayısına uyar; sahip olan kişinin cinsiyetine göre değil.
+Genitif ve diğer ad durumlarında daha çok çekim vardır; burada yalnızca yalın hâl verilir.
+Formül / kural: sahip + isim → iyelik zamiri ismin cinsiyetine/sayısına uyar. Benim: мой/моя/моё/мои
+[moy/ma-YA/ma-YO/ma-İ] — benim (eril/dişil/nötr/çoğul). Senin: твой/твоя/твоё/твои
+[tvoy/tva-YA/tva-YO/tva-İ] — senin. Bizim: наш/наша/наше/наши [naş/NA-şa/NA-şe/NA-şi] — bizim. Sizin:
+ваш/ваша/ваше/ваши [vaş/VA-şa/VA-şe/VA-şi] — sizin. Onun: его [yi-VO] — onun (erkek sahip), её
+[yi-YO] — onun (kadın sahip); onların: их [ih] — onların. Son üçü yalın adla kullanılırken isme göre
+değişmez.
+Sahip
+
+Eril: стол [stol] — masa
+
+Dişil: книга [KNİ-ga] —
+kitap
+
+Nötr: окно [ak-NO] —
+pencere
+
+Çoğul: книги [KNİ-gi] —
+kitaplar
+
+Ben
+
+мой стол [moy stol] —
+masam
+
+моя книга [ma-YA
+KNİ-ga] — kitabım
+
+моё окно [ma-YO
+ak-NO] — pencerem
+
+мои книги [ma-İ
+KNİ-gi] — kitaplarım
+
+Sen
+
+твой стол [tvoy stol] —
+masan
+
+твоя книга [tva-YA
+KNİ-ga] — kitabın
+
+твоё окно [tva-YO
+ak-NO] — penceren
+
+твои книги [tva-İ
+KNİ-gi] — kitapların
+
+Biz
+
+наш стол [naş stol] —
+masamız
+
+наша книга [NA-şa
+KNİ-ga] — kitabımız
+
+наше окно [NA-şe
+ak-NO] — penceremiz
+
+наши книги [NA-şi
+KNİ-gi] — kitaplarımız
+
+Siz
+
+ваш стол [vaş stol] —
+masanız
+
+ваша книга [VA-şa
+KNİ-ga] — kitabınız
+
+ваше окно [VA-şe
+ak-NO] — pencereniz
+
+ваши книги [VA-şi
+KNİ-gi] — kitaplarınız
+
+Değişmeyen iyelik
+
+Örnekler
+
+его [yi-VO] — onun (erkek sahip)
+
+его стол [yi-VO stol] — onun masası; его книга [yi-VO KNİ-ga] —
+onun kitabı
+
+её [yi-YO] — onun (kadın sahip)
+
+её стол [yi-YO stol] — onun masası; её книга [yi-YO KNİ-ga] — onun
+kitabı
+
+их [ih] — onların
+
+их стол [ih stol] — onların masası; их книги [ih KNİ-gi] — onların
+kitapları
+
+En az 10 örnek
+1. Это мой стол. [E-ta moy stol] — Bu benim masam.
+2. Это моя книга. [E-ta ma-YA KNİ-ga] — Bu benim kitabım.
+3. Это моё окно. [E-ta ma-YO ak-NO] — Bu benim pencerem.
+4. Это мои книги. [E-ta ma-İ KNİ-gi] — Bunlar benim kitaplarım.
+5. Это твой телефон? [E-ta tvoy ti-li-FON?] — Bu senin telefonun mu?
+6. Это твоя машина? [E-ta tva-YA ma-Şİ-na?] — Bu senin araban mı?
+7. Это наш дом. [E-ta naş dom] — Bu bizim evimiz.
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 4
+
+5
+
+8. Это наша школа. [E-ta NA-şa ŞKO-la] — Bu bizim okulumuz.
+9. Это ваше окно? [E-ta VA-şe ak-NO?] — Bu sizin pencereniz mi?
+10. Это его книга. [E-ta yi-VO KNİ-ga] — Bu onun (erkeğin) kitabı.
+11. Это её стол. [E-ta yi-YO stol] — Bu onun (kadının) masası.
+12. Это их дети. [E-ta ih DYE-ti] — Bunlar onların çocukları.
+Türkçeyle karşılaştırma: Türkçe hem “benim” hem “kitabım” üzerinde sahipliği gösterir; Rusçada iyelik
+zamiri değişimi isim cinsiyetine göre olur. Özel not: Bu bölümdeki оно [a-NO] — o (nötr) ve окно [ak-NO]
+— pencere eşleşmesi gramer cinsiyetidir, nesnenin biyolojik cinsiyeti değildir. Yaygın hata: erkek
+konuşmacı “benim kitap” diye мой книга kullanır; doğru моя книга [ma-YA KNİ-ga] — kitabım. Ezber
+tekniği: ismin önüne cinsiyet simgesi koyun, sonra zamir sonunu seçin.
+Mini alıştırma (8): 1 Benim kitabım? 2 Benim masam? 3 Benim pencerem? 4 Benim kitaplarım? 5 Senin
+araban? 6 Bizim evimiz? 7 Onun (kadın) kitabı? 8 Onların kitapları?
+
+Tematik sözlük · 50 yeni sözcük ve kalıp
+Her giriş Kiril, yaklaşık okunuş ve Türkçe anlam içerir. Önceki modüllerin sözleri cümlelerde tekrar edilir;
+aşağıdaki 50 hedef girişi bu modülün kartlarına ekleyin.
+
+Kişiler ve roller
+1. студент [stu-DYENT] — öğrenci (erkek)
+2. студентка [stu-DYENT-ka] — öğrenci (kadın)
+3. врач [vraç] — doktor
+4. учитель [u-Çİ-til’] — öğretmen (erkek)
+5. учительница [u-Çİ-til’-ni-tsa] — öğretmen (kadın)
+6. программист [pra-gra-MİST] — yazılımcı
+7. инженер [in-ji-NYER] — mühendis
+8. сосед [sa-SYET] — komşu (erkek)
+9. соседка [sa-SYET-ka] — komşu (kadın)
+10. коллега [ka-LYE-ga] — iş arkadaşı
+11. друзья [dru-ZYA] — arkadaşlar
+12. ребёнок [ri-BYO-nak] — çocuk
+13. дети [DYE-ti] — çocuklar
+
+Sahiplik ve konuşma
+1. есть [yest’] — var/bulunuyor
+2. нет [nyet] — yok/hayır
+3. у [u] — yanında/kişinin alanında
+4. меня [mi-NYA] — beni; kalıpta benim
+5. тебя [ti-BYA] — seni; kalıpta senin
+6. него [ni-VO] — onun (edat sonrası erkek)
+7. неё [ni-YO] — onun (edat sonrası kadın)
+8. нас [nas] — bizi; kalıpta bizim
+9. вас [vas] — sizi; kalıpta sizin
+10. них [nih] — onların (edat sonrası)
+11. вопрос [va-PROS] — soru
+12. ответ [at-VYET] — cevap
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 4
+
+6
+
+13. время [VRYE-mya] — zaman
+
+İyelik ve nitelik
+1. мой [moy] — benim (eril isimle)
+2. моя [ma-YA] — benim (dişil isimle)
+3. моё [ma-YO] — benim (nötr isimle)
+4. мои [ma-İ] — benim (çoğul isimle)
+5. твой [tvoy] — senin (eril isimle)
+6. твоя [tva-YA] — senin (dişil isimle)
+7. наш [naş] — bizim (eril isimle)
+8. наша [NA-şa] — bizim (dişil isimle)
+9. ваш [vaş] — sizin (eril isimle)
+10. ваша [VA-şa] — sizin (dişil isimle)
+11. его [yi-VO] — onun (erkek sahibin)
+12. её [yi-YO] — onun (kadın sahibin)
+13. их [ih] — onların
+14. новый [NO-vıy] — yeni (eril)
+15. новое [NO-va-ye] — yeni (nötr)
+
+Zaman ve yer
+1. быть [bıt’] — olmak
+2. был [bıl] — idi (eril)
+3. была [bı-LA] — idi (dişil)
+4. были [BI-li] — idiler/idi (çoğul)
+5. буду [BU-du] — olacağım
+6. будет [BU-dit] — olacak
+7. завтра [ZAF-tra] — yarın
+8. вчера [fçi-RA] — dün
+9. дома [DO-ma] — evde
+
+Okuma ve dinleme · iki diyalog
+PDF ses dosyası içermez. ChatGPT sesli moduna satırları doğal hızda okutun; ilk dinleyişte yazıyı kapatıp
+kimde hangi nesne olduğunu not edin. İkinci dinleyişte durdurup aynı vurguyla tekrar edin.
+
+Diyalog A · kitap ve telefon
+1. — Привет! У тебя есть книга? [pri-VYET! u ti-BYA yest’ KNİ-ga?] — Selam! Kitabın var mı?
+2. — Да, у меня есть книга. Это моя книга. [da, u mi-NYA yest’ KNİ-ga. E-ta ma-YA KNİ-ga] — Evet,
+kitabım var. Bu benim kitabım.
+3. — А телефон у тебя есть? [a ti-li-FON u ti-BYA yest’?] — Peki telefonun var mı?
+4. — Нет, у меня нет телефона. [nyet, u mi-NYA nyet ti-li-FO-na] — Hayır, telefonum yok.
+
+Diyalog B · iş ve dün
+1. — Здравствуйте! Вы врач? [ZDRA-stvuy-tye! vı vraç?] — Merhaba! Doktor musunuz?
+2. — Нет, я не врач. Я программист. [nyet, ya nye vraç. ya pra-gra-MİST] — Hayır, doktor değilim.
+Yazılımcıyım.
+3. — Вы вчера были дома? [vı fçi-RA BI-li DO-ma?] — Dün evde miydiniz?
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 4
+
+7
+
+4. — Да, я был дома. [da, ya bıl DO-ma] — Evet, evdeydim (erkek konuşmacı).
+5. — Завтра вы будете дома? [ZAF-tra vı BU-di-tye DO-ma?] — Yarın evde olacak mısınız?
+6. — Да, буду. [da, BU-du] — Evet, olacağım.
+İncelik: Saygılı вы [vı] — siz ile geçmişte çoğul biçim были [BI-li] — idiniz kullanılır; yanıtlayan kişi kendi
+hakkında eril был [bıl] — idim veya dişil была [bı-LA] — idim kullanır. Gelecek sorusundaki будете
+[BU-di-tye] — olacaksınız biçimi tablodaki siz çekimidir.
+Dinleme soruları: A’da kitabı kimde var? A’da telefon var mı? B’de kişinin mesleği nedir? Dün neredeydi?
+B konuşmacısının yanıtındaki geçmiş biçiminden erkek mi kadın mı olduğu anlaşılıyor?
+
+Konuşma pratiği · rol yapma
+Sen öğrenci, ChatGPT tanıştığın kişi. Mesleğini söyle; karşındakine “Doktor musunuz?” sorusunu sor: Вы
+врач? [vı vraç?] — Doktor musunuz? Ardından “Telefonunuz var mı?” diye sor: У вас есть телефон? [u
+vas yest’ ti-li-FON?] — Telefonunuz var mı? Gerçek bir nesne seçip “Bu benim kitabım” veya “Bu benim
+telefonum” kalıbını söyleyin: Это моя книга. [E-ta ma-YA KNİ-ga] — Bu benim kitabım; Это мой
+телефон. [E-ta moy ti-li-FON] — Bu benim telefonum. İkinci turda rolleri değiştirin ve bir olumsuz cevap
+verin.
+
+Öğrenme tavsiyeleri, yaygın hatalar ve ezber
+İlk gün zamir + evde kalıbını sekiz kişi için söyleyin; ikinci gün olumlu ve olumsuz sahipliği beş nesneyle
+değiştirin. Üçüncü gün üç cinsiyetli nesneye doğru iyelik zamirini ekleyin. Dördüncü gün geçmiş ve
+gelecek için iki kısa ses kaydı yapın. Hata denetimi: kimlik cümlesine gereksiz есть [yest’] — var
+eklemeyin; нет [nyet] — yok ardından yalın isim bırakmayın; üçüncü şahısta у он yerine у него [u ni-VO]
+— onda biçimini kullanın.
+
+Konu özeti · hızlı başvuru
+Başlık
+
+Hatırlanacak kural
+
+Zamirler
+
+я, ты, он/она/оно, мы, вы, они [ya, tı, on/a-NA/a-NO, mı, vı, a-Nİ] — ben, sen, o, biz, siz,
+onlar.
+
+Şimdiki kimlik
+
+Я студент. [ya stu-DYENT] — Öğrenciyim. Açık olmak fiili yok.
+
+Olumsuz kimlik
+
+Я не врач. [ya nye vraç] — Doktor değilim.
+
+Geçmiş
+
+был/была/было/были [bıl/bı-LA/BI-la/BI-li] — idi (eril/dişil/nötr/çoğul).
+
+Gelecek
+
+Я буду дома. [ya BU-du DO-ma] — Evde olacağım.
+
+Sahiplik
+
+У меня есть книга. [u mi-NYA yest’ KNİ-ga] — Kitabım var.
+
+Yokluk
+
+У меня нет книги. [u mi-NYA nyet KNİ-gi] — Kitabım yok.
+
+Benim
+
+мой/моя/моё/мои [moy/ma-YA/ma-YO/ma-İ] — isim cinsiyeti ve sayısına göre benim.
+
+Alıştırmalar · 24 görev
+1. “Biz” zamirini Kiril yazın.
+2. “O (kadın)” zamirini Kiril yazın.
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 4
+
+8
+
+3. “O (nötr)” zamirini Kiril yazın.
+4. “Siz” zamirini Kiril yazın.
+5. “Ben öğrenciyim (erkek).” cümlesini Kiril yazın.
+6. “Ben doktor değilim.” cümlesini Kiril yazın.
+7. “O (erkek) evdeydi.” cümlesini Kiril yazın.
+8. “O (kadın) evdeydi.” cümlesini Kiril yazın.
+9. “Evde olacağım.” cümlesini Kiril yazın.
+10. “Kitabım var.” cümlesini Kiril yazın.
+11. “Kitabım yok.” cümlesini Kiril yazın.
+12. “Telefonun var mı?” cümlesini Kiril yazın.
+13. “Telefonun yok.” cümlesini Kiril yazın.
+14. “Onun (erkek) arabası var.” cümlesini Kiril yazın.
+15. “Onun (kadın) erkek kardeşi yok.” cümlesini Kiril yazın.
+16. “Onların çocukları yok.” cümlesini Kiril yazın.
+17. “Benim masam” söz öbeğini Kiril yazın.
+18. “Benim kitabım” söz öbeğini Kiril yazın.
+19. “Benim pencerem” söz öbeğini Kiril yazın.
+20. “Benim kitaplarım” söz öbeğini Kiril yazın.
+21. Я есть студент. [ya yest’ stu-DYENT] — “Öğrenciyim” için hatayı düzeltin.
+22. У меня нет книга. [u mi-NYA nyet KNİ-ga] — “Kitabım yok” için hatayı düzeltin.
+23. мой книга [moy KNİ-ga] — “benim kitabım” için hatayı düzeltin.
+24. Dün evde olduğunuzu (erkek konuşmacı) ve yarın evde olacağınızı art arda iki Rusça cümleyle
+söyleyin.
+
+Modül testi · 15 soru
+1–5 çoktan seçmeli, 6–9 boşluk, 10–12 çeviri, 13–15 cümle düzeltme. Her soru 1 puan. En az 12 doğru ve
+konuşma görevini yapabilme sonraki modüle geçiş ölçüsüdür.
+1. “O (kadın)” hangisi? A) он [on] — o (erkek) B) она [a-NA] — o (kadın) C) оно [a-NO] — o (nötr).
+2. “Kitabım var” hangisi? A) У меня есть книга. [u mi-NYA yest’ KNİ-ga] — Kitabım var. B) Я есть книга.
+[ya yest’ KNİ-ga] — hatalı C) У меня нет книги. [u mi-NYA nyet KNİ-gi] — Kitabım yok.
+3. “Kitabım yok” hangisi? A) У меня есть книга. [u mi-NYA yest’ KNİ-ga] — Kitabım var. B) У меня нет
+книги. [u mi-NYA nyet KNİ-gi] — Kitabım yok. C) У меня нет книга. [u mi-NYA nyet KNİ-ga] — hatalı.
+4. “Benim pencerem” hangisi? A) моя окно [ma-YA ak-NO] — hatalı B) моё окно [ma-YO ak-NO] —
+pencerem C) мой окно [moy ak-NO] — hatalı.
+5. Kadın “Dün evdeydim” derken hangisi? A) Я был дома. [ya bıl DO-ma] — Evdeydim (erkek) B) Я была
+дома. [ya bı-LA DO-ma] — Evdeydim (kadın) C) Я будут дома. [ya BU-dut DO-ma] — hatalı.
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 4
+
+9
+
+6. “Biz” zamiri = ______ (Kiril).
+7. “Arabam yok” = У меня нет ______. [u mi-NYA nyet ...] — Arabam yok.
+8. “Benim kitabım” = ______ книга. [... KNİ-ga] — Kitabım.
+9. “Onun (erkek) arabası var” = У ______ есть машина. [u ... yest’ ma-Şİ-na] — Onun arabası var.
+10. Я программист. [ya pra-gra-MİST] — Yazılımcıyım. Türkçeye çevirin.
+11. У нас есть дом. [u nas yest’ dom] — Evimiz var. Türkçeye çevirin.
+12. “Telefonum yok.” cümlesini Kiril yazın.
+13. Я есть врач. [ya yest’ vraç] — “Doktorum” için yanlış. Düzeltin.
+14. У тебя нет телефон. [u ti-BYA nyet ti-li-FON] — “Telefonun yok” için yanlış. Düzeltin.
+15. Это мой машина. [E-ta moy ma-Şİ-na] — “Bu benim arabam” için yanlış. Düzeltin.
+
+Dinleme metni · iki kısa diyalog
+ChatGPT sesli modunda önce yazı gizliyken dinleyin. Sonra sırayla kişi, nesne, varlık/yokluk ve zaman
+bilgisini not edin. PDF tek başına ses dosyası içermez.
+
+Diyalog 1
+1. — У вас есть вопрос? [u vas yest’ va-PROS?] — Sorunuz var mı?
+2. — Да, у меня есть вопрос. Это ваш телефон? [da, u mi-NYA yest’ va-PROS. E-ta vaş ti-li-FON?] —
+Evet, sorum var. Bu sizin telefonunuz mu?
+3. — Нет, это его телефон. [nyet, E-ta yi-VO ti-li-FON] — Hayır, bu onun (erkek) telefonu.
+
+Diyalog 2
+1. — Ты вчера был дома? [tı fçi-RA bıl DO-ma?] — Dün evde miydin? (erkek kişiye)
+2. — Да, я был дома. А ты? [da, ya bıl DO-ma. a tı?] — Evet, evdeydim. Ya sen?
+3. — Я тоже был дома. Завтра я буду в школе. [ya TO-je bıl DO-ma. ZAF-tra ya BU-du f ŞKO-lye] — Ben
+de evdeydim. Yarın okulda olacağım.
+Dinleme soruları: Birinci diyalogda telefon kime ait? İkinci diyalogda iki kişi dün neredeydi? İkinci
+diyalogda yarın nerede olacak?
+
+Konuşma pratiği
+Bir sınıf arkadaşıyla tanışma canlandırın. Mesleğinizi söyleyin; partnerinize “Sorunuz var mı?” diye sorun:
+У тебя есть вопрос? [u ti-BYA yest’ va-PROS?] — Sorun var mı? Sonra masadaki iki nesneden birinin
+kime ait olduğunu iyelik zamiriyle söyleyin. Son turda seçtiğiniz nesnenin olmadığını нет [nyet] — yok
+kalıbıyla anlatın. Cümlelerinizi ses kaydıyla dinleyip üç hata düzeltin.
+
+Kendini değerlendirme
+Beceri
+
+Henüz
+değil
+
+Yardımla
+
+Bağımsız
+
+Sekiz zamiri uygun bağlamda seçiyorum
+
+□
+
+□
+
+□
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 4
+
+10
+
+Beceri
+
+Henüz
+değil
+
+Yardımla
+
+Bağımsız
+
+Kimlikte şimdiki olmak fiilini doğru kuruyorum
+
+□
+
+□
+
+□
+
+Geçmişte cinsiyete uygun biçimi seçiyorum
+
+□
+
+□
+
+□
+
+У ... есть / У ... нет yapılarını kullanıyorum
+
+□
+
+□
+
+□
+
+İyelik zamirini ismin cinsiyetine uyduruyorum
+
+□
+
+□
+
+□
+
+50 yeni girişten en az 40’ını tanıyorum
+
+□
+
+□
+
+□
+
+Modül 4 cevap anahtarı
+Mini alıştırmalar: K1 1 мы [mı] — biz; 2 вы [vı] — siz; 3 она [a-NA] — o kadın; 4 оно [a-NO] — o nötr; 5
+они [a-Nİ] — onlar; 6 вы [vı] — siz. K2 1 Я студент. [ya stu-DYENT] — Öğrenciyim; 2 Я не студент. [ya
+nye stu-DYENT] — Öğrenci değilim; 3 Она была дома. [a-NA bı-LA DO-ma] — O evdeydi; 4 Он был дома.
+[on bıl DO-ma] — O evdeydi; 5 Я буду дома. [ya BU-du DO-ma] — Evde olacağım; 6 Мы были дома. [mı
+BI-li DO-ma] — Evdeydik; 7 sıradan kimlik cümlesinde hayır; 8 Я буду врачом. [ya BU-du vra-ÇOM] —
+Doktor olacağım.
+K3 1 У меня есть книга. [u mi-NYA yest’ KNİ-ga] — Kitabım var; 2 У меня нет книги. [u mi-NYA nyet
+KNİ-gi] — Kitabım yok; 3 У тебя есть телефон? [u ti-BYA yest’ ti-li-FON?] — Telefonun var mı?; 4 У меня
+нет машины. [u mi-NYA nyet ma-Şİ-nı] — Arabam yok; 5 У неё есть брат. [u ni-YO yest’ brat] — Onun
+erkek kardeşi var; 6 У нас есть дом. [u nas yest’ dom] — Evimiz var; 7 У них нет детей. [u nih nyet
+di-TYEY] — Onların çocukları yok; 8 tamlayan hâli (genitif).
+K4 1 моя книга [ma-YA KNİ-ga] — kitabım; 2 мой стол [moy stol] — masam; 3 моё окно [ma-YO ak-NO]
+— pencerem; 4 мои книги [ma-İ KNİ-gi] — kitaplarım; 5 твоя машина [tva-YA ma-Şİ-na] — araban; 6
+наш дом [naş dom] — evimiz; 7 её книга [yi-YO KNİ-ga] — onun kitabı; 8 их книги [ih KNİ-gi] — onların
+kitapları.
+24 alıştırma 1–12: 1 мы [mı] — biz; 2 она [a-NA] — o kadın; 3 оно [a-NO] — o nötr; 4 вы [vı] — siz; 5 Я
+студент. [ya stu-DYENT] — Öğrenciyim; 6 Я не врач. [ya nye vraç] — Doktor değilim; 7 Он был дома.
+[on bıl DO-ma] — O evdeydi; 8 Она была дома. [a-NA bı-LA DO-ma] — O evdeydi; 9 Я буду дома. [ya
+BU-du DO-ma] — Evde olacağım; 10 У меня есть книга. [u mi-NYA yest’ KNİ-ga] — Kitabım var; 11 У
+меня нет книги. [u mi-NYA nyet KNİ-gi] — Kitabım yok; 12 У тебя есть телефон? [u ti-BYA yest’
+ti-li-FON?] — Telefonun var mı?
+24 alıştırma 13–24: 13 У тебя нет телефона. [u ti-BYA nyet ti-li-FO-na] — Telefonun yok; 14 У него есть
+машина. [u ni-VO yest’ ma-Şİ-na] — Onun arabası var; 15 У неё нет брата. [u ni-YO nyet BRA-ta] —
+Onun erkek kardeşi yok; 16 У них нет детей. [u nih nyet di-TYEY] — Onların çocukları yok; 17 мой стол
+[moy stol] — masam; 18 моя книга [ma-YA KNİ-ga] — kitabım; 19 моё окно [ma-YO ak-NO] — pencerem;
+20 мои книги [ma-İ KNİ-gi] — kitaplarım; 21 Я студент. [ya stu-DYENT] — Öğrenciyim; 22 У меня нет
+книги. [u mi-NYA nyet KNİ-gi] — Kitabım yok; 23 моя книга [ma-YA KNİ-ga] — kitabım; 24 Я был дома.
+Завтра я буду дома. [ya bıl DO-ma. ZAF-tra ya BU-du DO-ma] — Evdeydim. Yarın evde olacağım.
+Test: 1 B; 2 A; 3 B; 4 B; 5 B; 6 мы [mı] — biz; 7 машины [ma-Şİ-nı] — arabanın / araba yok; 8 моя [ma-YA]
+— benim (dişil); 9 него [ni-VO] — onun (edattan sonra); 10 Yazılımcıyım; 11 Evimiz var; 12 У меня нет
+телефона. [u mi-NYA nyet ti-li-FO-na] — Telefonum yok; 13 Я врач. [ya vraç] — Doktorum; 14 У тебя нет
+телефона. [u ti-BYA nyet ti-li-FO-na] — Telefonun yok; 15 Это моя машина. [E-ta ma-YA ma-Şİ-na] — Bu
+benim arabam. Dinleme: telefon bir erkeğe ait; ikisi dün evdeydi; yarın konuşan kişi okulda olacak.
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 4
+
+11
+
+ARA SINAV 1 · Modüller 1–4
+Toplam 30 kısa soru: 1–10 alfabe ve ilk sözler; 11–18 tanışma; 19–24 sayılar; 25–30 zamir ve sahiplik. Her
+soru 1 puan. Ardından bir yazma ve bir konuşma görevi vardır. Testi önce kapalı kitapla çözün; cevaplar
+sonraki sayfada.
+1. В harfinin sesini yazın.
+2. Н harfinin sesini yazın.
+3. Р harfinin sesini yazın.
+4. Ь işareti ayrı ses midir?
+5. Vurgusuz о çoğu durumda hangi sese yaklaşır?
+6. “Anne” kelimesini Kiril yazın.
+7. “Çay” kelimesini Kiril yazın.
+8. “Teşekkürler” kelimesini Kiril yazın.
+9. “Ev” kelimesini Kiril yazın.
+10. “Pencere” kelimesini Kiril yazın.
+11. Resmî merhabayı Kiril yazın.
+12. Samimi selamı Kiril yazın.
+13. “Adınız ne?” sorusunu Kiril yazın.
+14. “Benim adım Yusuf.” cümlesini Kiril yazın.
+15. “Nerelisiniz?” sorusunu Kiril yazın.
+16. “Türkiye’denim.” cümlesini Kiril yazın.
+17. “Fena değil.” ifadesini Kiril yazın.
+18. Resmî vedayı Kiril yazın.
+19. 14’ü Kiril yazın.
+20. 40’ı Kiril yazın.
+21. 90’ı Kiril yazın.
+22. “21 yaşındayım.” cümlesini Kiril yazın.
+23. “İki kitap” söz öbeğini Kiril yazın.
+24. “100 ruble” söz öbeğini Kiril yazın.
+25. “Onlar” zamirini Kiril yazın.
+26. “Öğrenciyim (erkek).” cümlesini Kiril yazın.
+27. “Kitabım var.” cümlesini Kiril yazın.
+28. “Kitabım yok.” cümlesini Kiril yazın.
+29. “Benim arabam” söz öbeğini Kiril yazın.
+30. У него есть телефон. [u ni-VO yest’ ti-li-FON] — Onun telefonu var. Cümlesini Türkçeye çevirin.
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 4
+
+12
+
+Ara sınav yazma görevi
+Kendiniz hakkında 6–8 kısa Rusça cümle yazın: adınız, ülkeniz, yaşınız, öğrenci/meslek durumunuz, sahip
+olduğunuz bir nesne, sahip olmadığınız bir nesne. Doğru hitap ve sayı biçimleri için 10 puanlık rubrik:
+içerik 4, gramer 4, okunabilir Kiril yazım 2.
+
+Ara sınav konuşma görevi
+90 saniye konuşun: selam verin, adınızı ve nereli olduğunuzu söyleyin, yaşınızı belirtin, mesleğinizi ve bir
+var/yok cümlesini kurun, karşınızdaki kişiye adını ve yaşını sorun. Rubrik 10 puan: anlaşılabilirlik 4, hedef
+kalıplar 4, hitap seçimi 2. Yazma ve konuşmayı ses kaydıyla kontrol edin.
+
+Ara sınav cevap anahtarı ve puanlama
+1 v; 2 n; 3 r; 4 hayır, önceki ünsüzü yumuşatır; 5 a-benzeri; 6 мама [MA-ma] — anne; 7 чай [çay] — çay;
+8 спасибо [spa-Sİ-ba] — teşekkürler; 9 дом [dom] — ev; 10 окно [ak-NO] — pencere; 11 Здравствуйте!
+[ZDRA-stvuy-tye] — Merhaba!; 12 Привет! [pri-VYET] — Selam!; 13 Как вас зовут? [kak vas za-VUT] —
+Adınız ne?; 14 Меня зовут Юсуф. [mi-NYA za-VUT yu-SUF] — Benim adım Yusuf; 15 Откуда вы?
+[at-KU-da vı] — Nerelisiniz?; 16 Я из Турции. [ya iz TUR-tsi-i] — Türkiye’denim; 17 Неплохо. [ni-PLO-ha]
+— Fena değil; 18 До свидания! [da svi-DA-ni-ya] — Hoşça kalın!
+19 четырнадцать [çi-TIR-na-tsat’] — on dört; 20 сорок [SO-rak] — kırk; 21 девяносто [di-vi-NO-sta] —
+doksan; 22 Мне двадцать один год. [mnye DVA-tsat’ a-DİN got] — 21 yaşındayım; 23 две книги [dvye
+KNİ-gi] — iki kitap; 24 сто рублей [sto ru-BLYEY] — yüz ruble; 25 они [a-Nİ] — onlar; 26 Я студент. [ya
+stu-DYENT] — Öğrenciyim; 27 У меня есть книга. [u mi-NYA yest’ KNİ-ga] — Kitabım var; 28 У меня нет
+книги. [u mi-NYA nyet KNİ-gi] — Kitabım yok; 29 моя машина [ma-YA ma-Şİ-na] — arabam; 30 Onun
+telefonu var.
+Ara sınav toplamı 50 puan: yazılı kısa sorular 30, yazma 10, konuşma 10. 40–50: rahat ilerle; 30–39:
+hatalı konuları iki gün tekrarla; 0–29: özellikle 1–4. modüllerin söz öbeklerini yeniden çalış. Konuşma veya
+yazma 5 puanın altındaysa toplam yüksek olsa da ilgili pratiği tekrarla.
+Devam etmek için “DEVAM ET” yaz. Sonraki PDF: Modül 5, Aile ve Kendini Tanıtma.
+
+RUSÇA ÖĞRENİM KİTABI · A1 MODÜL 4
+
+13
+

@@ -1,0 +1,551 @@
+Modül 8 — Ev ve Yaşam Alanları
+Seviye: A1. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+Ev ve Yaşam Alanları konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt etmeye
+yardım eder.
+
+Konunun mantığı
+Il y a + isim = var; yer edatı + artikel + isim.
+
+Türkçe ile karşılaştırma
+Türkçe bulunma eki yerine ayrı edatlar kullanılır.
+
+Formül / Kural
+Temel şema: Il y a + isim = var; yer edatı + artikel + isim.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+Il y a une table [il ya ün tabl] — Bir masa var
+
+2. örüntü
+
+bağlam
+
+La table est dans la cuisine [la tabl e dan la küizin] — Masa mutfakta
+
+3. örüntü
+
+telaffuz
+
+Le chat est sous la chaise [lı şa e su la şez] — Kedi sandalyenin altında
+
+Ayrıntılı konu anlatımı
+Mekânı kurmak
+Il y a un lit dans la chambre [il i a œ̃ li dɑ̃ la ʃɑ̃ bʁ] — Yatak odasında bir yatak var. Varlık bildiren özne
+kalıbı değişmez. Il n'y a pas de lit [il ni a pa də li] — Yatak yok; belirsiz isim olumsuzda çoğu zaman de
+[də] — miktar edatı alır. Est-ce qu'il y a une salle de bains ? [ɛskil i a yn sal də bɛ̃] — Banyo var mı?
+Sur [syʁ] — üstünde temas vardır; au-dessus de [odəsy də] — yukarısında, temas şartı yoktur. Dans [dɑ̃ ]
+— içinde, devant [dəvɑ̃ ] — önünde, derrière [dɛʁjɛʁ] — arkasında. À côté du lit [a kote dy li] — yatağın
+yanında: de + le → du [dy] — -in/-ın; près de la porte [pʁɛ də la pɔʁt] — kapının yakınında.
+
+On örnek
+1. Il y a une table [il ya ün tabl] — Bir masa var
+2. La table est dans la cuisine [la tabl e dan la küizin] — Masa mutfakta
+3. Le chat est sous la chaise [lı şa e su la şez] — Kedi sandalyenin altında
+4. Le livre est sur le lit [lı livr e sür lı li] — Kitap yatağın üstünde
+5. Le salon est grand [lı salon e gran] — Salon büyük
+6. La lampe est à côté du lit [la lamp e a kote dü li] — Lamba yatağın yanında
+7. Il n'y a pas de balcon [il niya pa dı balkon] — Balkon yok
+8. Où sont les toilettes ? [u son le twalet] — Tuvalet nerede?
+
+1
+
+9. L'appartement a deux chambres [lapartıman a dö şanbr] — Dairenin iki yatak odası var
+10. Le miroir est derrière la porte [lı mirwar e deryer la port] — Ayna kapının arkasında.
+
+Yaygın hatalar
+Sur ile au-dessus de'yi aynı sanma; pas de olumsuzluğunda gereksiz un/une bırakma.
+
+Ezber tekniği
+Odaların kapısına ve eşyalara etiket yapıştırıp yerlerini her gün değiştirerek anlat.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 42. Spiral tekrar: 3. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+l'appartement [lapaʁtəmɑ̃ ]
+
+daire
+
+le studio [lə stydjo]
+
+stüdyo daire
+
+l'immeuble [limœbl]
+
+apartman binası
+
+la chambre [la ʃɑ̃ bʁ]
+
+yatak odası
+
+le salon [lə salɔ̃ ]
+
+oturma odası
+
+la cuisine [la kɥizin]
+
+mutfak
+
+la salle de bains [la sal də bɛ̃]
+
+banyo
+
+les toilettes [lez twalɛt]
+
+tuvalet
+
+le couloir [lə kulwaʁ]
+
+koridor
+
+le balcon [lə balkɔ̃ ]
+
+balkon
+
+la cave [la kav]
+
+kiler/bodrum
+
+le garage [lə ɡaʁaʒ]
+
+garaj
+
+le jardin [lə ʒaʁdɛ̃]
+
+bahçe
+
+le lit [lə li]
+
+yatak
+
+l'armoire [laʁmwaʁ]
+
+dolap
+
+le canapé [lə kanape]
+
+kanepe
+
+le fauteuil [lə fotœj]
+
+koltuk
+
+l'étagère [letaʒɛʁ]
+
+raf
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+le miroir [lə miʁwaʁ]
+
+ayna
+
+la lampe [la lɑ̃ p]
+
+lamba
+
+la porte [la pɔʁt]
+
+kapı
+
+la fenêtre [la fənɛtʁ]
+
+pencere
+
+le mur [lə myʁ]
+
+duvar
+
+le plafond [lə plafɔ̃ ]
+
+tavan
+
+le sol [lə sɔl]
+
+zemin
+
+le réfrigérateur [lə ʁefʁiʒeʁatœʁ]
+
+buzdolabı
+
+la cuisinière [la kɥizinjɛʁ]
+
+ocak
+
+la télévision [la televizjɔ̃ ]
+
+televizyon
+
+l'ordinateur [lɔʁdinatœʁ]
+
+bilgisayar
+
+dans [dɑ̃ ]
+
+içinde
+
+sur [syʁ]
+
+üstünde
+
+sous [su]
+
+altında
+
+devant [dəvɑ̃ ]
+
+önünde
+
+derrière [dɛʁjɛʁ]
+
+arkasında
+
+entre [ɑ̃ tʁ]
+
+arasında
+
+près de [pʁɛ də]
+
+yakınında
+
+loin de [lwɛ̃ də]
+
+uzağında
+
+à côté de [a kote də]
+
+yanında
+
+en face de [ɑ̃ fas də]
+
+karşısında
+
+à gauche de [a ɡoʃ də]
+
+solunda
+
+à droite de [a dʁwat də]
+
+sağında
+
+il y a [il i a]
+
+var
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+la maison [la mezɔ̃ ]
+
+ev
+
+la table [la tabl]
+
+masa
+
+la chaise [la ʃɛz]
+
+sandalye
+
+Mini alıştırma — 10 soru
+1. Bir masa var anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Masa mutfakta anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Kedi sandalyenin altında anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Kitap yatağın üstünde anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Salon büyük anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Lamba yatağın yanında anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Balkon yok anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+3
+
+8. Tuvalet nerede? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Dairenin iki yatak odası var anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Ayna kapının arkasında. anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: Il y a + isim = var; yer edatı + artikel + isim.
+• Türkçe karşılaştırması: Türkçe bulunma eki yerine ayrı edatlar kullanılır.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. Il y a une table
+2. La table est dans la cuisine
+3. Le chat est sous la chaise
+4. Le livre est sur le lit
+5. Le salon est grand
+6. La lampe est à côté du lit
+7. Il n'y a pas de balcon
+8. Où sont les toilettes ?
+9. L'appartement a deux chambres
+10. Le miroir est derrière la porte
+11. Bir masa var
+12. Masa mutfakta
+13. Kedi sandalyenin altında
+14. Kitap yatağın üstünde
+15. Salon büyük
+16. Lamba yatağın yanında
+17. Balkon yok
+18. Tuvalet nerede?
+19. Dairenin iki yatak odası var
+20. Ayna kapının arkasında.
+21. Il y a une table: A) Bir masa var B) Kitap yatağın üstünde C) Balkon yok
+22. La table est dans la cuisine: A) Salon büyük B) Tuvalet nerede? C) Masa mutfakta
+23. Le chat est sous la chaise: A) Dairenin iki yatak odası var B) Kedi sandalyenin altında C) Lamba
+yatağın yanında
+24. Le livre est sur le lit: A) Kitap yatağın üstünde B) Balkon yok C) Ayna kapının arkasında.
+25. Le salon est grand: A) Tuvalet nerede? B) Bir masa var C) Salon büyük
+
+25 alıştırmanın çözümleri
+1. Bir masa var — Fransızca kaynak ifade: Il y a une table [il ya ün tabl] — Bir masa var
+
+4
+
+2. Masa mutfakta — Fransızca kaynak ifade: La table est dans la cuisine [la tabl e dan la küizin] — Masa
+mutfakta
+3. Kedi sandalyenin altında — Fransızca kaynak ifade: Le chat est sous la chaise [lı şa e su la şez] — Kedi
+sandalyenin altında
+4. Kitap yatağın üstünde — Fransızca kaynak ifade: Le livre est sur le lit [lı livr e sür lı li] — Kitap yatağın
+üstünde
+5. Salon büyük — Fransızca kaynak ifade: Le salon est grand [lı salon e gran] — Salon büyük
+6. Lamba yatağın yanında — Fransızca kaynak ifade: La lampe est à côté du lit [la lamp e a kote dü li] —
+Lamba yatağın yanında
+7. Balkon yok — Fransızca kaynak ifade: Il n'y a pas de balcon [il niya pa dı balkon] — Balkon yok
+8. Tuvalet nerede? — Fransızca kaynak ifade: Où sont les toilettes ? [u son le twalet] — Tuvalet nerede?
+9. Dairenin iki yatak odası var — Fransızca kaynak ifade: L'appartement a deux chambres [lapartıman a
+dö şanbr] — Dairenin iki yatak odası var
+10. Ayna kapının arkasında. — Fransızca kaynak ifade: Le miroir est derrière la porte [lı mirwar e deryer la
+port] — Ayna kapının arkasında.
+11. Il y a une table [il ya ün tabl] — Bir masa var — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+12. La table est dans la cuisine [la tabl e dan la küizin] — Masa mutfakta — Bu çeviride sözcük sırası ve
+varsa artikel örnekteki gibidir.
+13. Le chat est sous la chaise [lı şa e su la şez] — Kedi sandalyenin altında — Bu çeviride sözcük sırası ve
+varsa artikel örnekteki gibidir.
+14. Le livre est sur le lit [lı livr e sür lı li] — Kitap yatağın üstünde — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+15. Le salon est grand [lı salon e gran] — Salon büyük — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+16. La lampe est à côté du lit [la lamp e a kote dü li] — Lamba yatağın yanında — Bu çeviride sözcük
+sırası ve varsa artikel örnekteki gibidir.
+17. Il n'y a pas de balcon [il niya pa dı balkon] — Balkon yok — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+18. Où sont les toilettes ? [u son le twalet] — Tuvalet nerede? — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+19. L'appartement a deux chambres [lapartıman a dö şanbr] — Dairenin iki yatak odası var — Bu çeviride
+sözcük sırası ve varsa artikel örnekteki gibidir.
+20. Le miroir est derrière la porte [lı mirwar e deryer la port] — Ayna kapının arkasında. — Bu çeviride
+sözcük sırası ve varsa artikel örnekteki gibidir.
+21. A — Il y a une table [il ya ün tabl] — Bir masa var
+22. C — La table est dans la cuisine [la tabl e dan la küizin] — Masa mutfakta
+23. B — Le chat est sous la chaise [lı şa e su la şez] — Kedi sandalyenin altında
+24. A — Le livre est sur le lit [lı livr e sür lı li] — Kitap yatağın üstünde
+25. C — Le salon est grand [lı salon e gran] — Salon büyük
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. Il y a une table ne anlama gelir? A) Bir masa var B) Kedi sandalyenin altında C) Lamba yatağın
+yanında
+
+5
+
+2. La table est dans la cuisine ne anlama gelir? A) Kitap yatağın üstünde B) Balkon yok C) Masa
+mutfakta
+3. Le chat est sous la chaise ne anlama gelir? A) Tuvalet nerede? B) Kedi sandalyenin altında C) Salon
+büyük
+4. Le livre est sur le lit ne anlama gelir? A) Kitap yatağın üstünde B) Lamba yatağın yanında C) Dairenin
+iki yatak odası var
+5. Le salon est grand ne anlama gelir? A) Balkon yok B) Ayna kapının arkasında. C) Salon büyük
+6. Boşluğu doldur: La lampe est ____ côté du lit — Lamba yatağın yanında
+7. Boşluğu doldur: Il n'y a ____ de balcon — Balkon yok
+8. Boşluğu doldur: Où sont ____ toilettes ? — Tuvalet nerede?
+9. Boşluğu doldur: L'appartement a ____ chambres — Dairenin iki yatak odası var
+10. Boşluğu doldur: Le miroir est ____ la porte — Ayna kapının arkasında.
+11. Fransızcaya çevir: Bir masa var
+12. Fransızcaya çevir: Masa mutfakta
+13. Fransızcaya çevir: Kedi sandalyenin altında
+14. Şu anlam için verilen bozuk sıralamayı düzelt: lit / le / sur / est / livre / Le — Kitap yatağın üstünde
+15. Şu anlam için verilen bozuk sıralamayı düzelt: grand / est / salon / Le — Salon büyük
+
+Test cevap anahtarı
+1. A — Il y a une table [il ya ün tabl] — Bir masa var
+2. C — La table est dans la cuisine [la tabl e dan la küizin] — Masa mutfakta
+3. B — Le chat est sous la chaise [lı şa e su la şez] — Kedi sandalyenin altında
+4. A — Le livre est sur le lit [lı livr e sür lı li] — Kitap yatağın üstünde
+5. C — Le salon est grand [lı salon e gran] — Salon büyük
+6. à — La lampe est à côté du lit [la lamp e a kote dü li] — Lamba yatağın yanında
+7. pas — Il n'y a pas de balcon [il niya pa dı balkon] — Balkon yok
+8. les — Où sont les toilettes ? [u son le twalet] — Tuvalet nerede?
+9. deux — L'appartement a deux chambres [lapartıman a dö şanbr] — Dairenin iki yatak odası var
+10. derrière — Le miroir est derrière la porte [lı mirwar e deryer la port] — Ayna kapının arkasında.
+11. Il y a une table [il ya ün tabl] — Bir masa var
+12. La table est dans la cuisine [la tabl e dan la küizin] — Masa mutfakta
+13. Le chat est sous la chaise [lı şa e su la şez] — Kedi sandalyenin altında
+14. Le livre est sur le lit [lı livr e sür lı li] — Kitap yatağın üstünde
+15. Le salon est grand [lı salon e gran] — Salon büyük
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: Il y a une table [il ya ün tabl] — Bir masa var
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: La table est dans la cuisine [la tabl e dan la küizin] — Masa mutfakta
+
+6
+
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: Le chat est sous la chaise [lı şa e su la şez] — Kedi sandalyenin altında
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Le livre est sur le lit [lı livr e sür lı li] — Kitap yatağın üstünde
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+Ara sınav — 30 soru + iki görev
+1. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Il y a une table [il ya ün tabl] — Bir masa
+var
+2. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: La table est dans la cuisine [la tabl e dan
+la küizin] — Masa mutfakta
+3. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le chat est sous la chaise [lı şa e su la şez]
+— Kedi sandalyenin altında
+4. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le livre est sur le lit [lı livr e sür lı li] —
+Kitap yatağın üstünde
+5. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le salon est grand [lı salon e gran] —
+Salon büyük
+6. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: La lampe est à côté du lit [la lamp e a kote
+dü li] — Lamba yatağın yanında
+7. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Il n'y a pas de balcon [il niya pa dı balkon]
+— Balkon yok
+8. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Où sont les toilettes ? [u son le twalet] —
+Tuvalet nerede?
+9. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: L'appartement a deux chambres
+[lapartıman a dö şanbr] — Dairenin iki yatak odası var
+10. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le miroir est derrière la porte [lı mirwar e
+deryer la port] — Ayna kapının arkasında.
+11. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Il y a une table [il ya ün tabl] — Bir masa
+var
+12. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: La table est dans la cuisine [la tabl e dan
+la küizin] — Masa mutfakta
+13. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le chat est sous la chaise [lı şa e su la şez]
+— Kedi sandalyenin altında
+14. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le livre est sur le lit [lı livr e sür lı li] —
+Kitap yatağın üstünde
+
+7
+
+15. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le salon est grand [lı salon e gran] —
+Salon büyük
+16. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: La lampe est à côté du lit [la lamp e a kote
+dü li] — Lamba yatağın yanında
+17. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Il n'y a pas de balcon [il niya pa dı balkon]
+— Balkon yok
+18. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Où sont les toilettes ? [u son le twalet] —
+Tuvalet nerede?
+19. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: L'appartement a deux chambres
+[lapartıman a dö şanbr] — Dairenin iki yatak odası var
+20. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le miroir est derrière la porte [lı mirwar e
+deryer la port] — Ayna kapının arkasında.
+21. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Il y a une table [il ya ün tabl] — Bir masa
+var
+22. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: La table est dans la cuisine [la tabl e dan
+la küizin] — Masa mutfakta
+23. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le chat est sous la chaise [lı şa e su la şez]
+— Kedi sandalyenin altında
+24. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le livre est sur le lit [lı livr e sür lı li] —
+Kitap yatağın üstünde
+25. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le salon est grand [lı salon e gran] —
+Salon büyük
+26. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: La lampe est à côté du lit [la lamp e a kote
+dü li] — Lamba yatağın yanında
+27. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Il n'y a pas de balcon [il niya pa dı balkon]
+— Balkon yok
+28. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Où sont les toilettes ? [u son le twalet] —
+Tuvalet nerede?
+29. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: L'appartement a deux chambres
+[lapartıman a dö şanbr] — Dairenin iki yatak odası var
+30. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le miroir est derrière la porte [lı mirwar e
+deryer la port] — Ayna kapının arkasında.
+Yazma: Son üç modülden beş yapı kullanarak kısa paragraf yaz. Konuşma: Aynı konuyu iki dakika sesli
+anlat. Yanıtları örnek cümlelerle karşılaştır.
+
+8
+

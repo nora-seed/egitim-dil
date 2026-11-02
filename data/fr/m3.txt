@@ -1,0 +1,479 @@
+Modül 3 — Sayılar Tarihler ve Saatler
+Seviye: A1. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+Sayılar Tarihler ve Saatler konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt
+etmeye yardım eder.
+
+Konunun mantığı
+Tarih le + gün + ay; saat il est + sayı + heure(s). 70=60+10, 80=4×20, 90=4×20+10.
+
+Türkçe ile karşılaştırma
+Türkçede sayı bileşimi daha düzenlidir; saat kalıbında özne il zorunludur.
+
+Formül / Kural
+Temel şema: Tarih le + gün + ay; saat il est + sayı + heure(s). 70=60+10, 80=4×20, 90=4×20+10.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+zéro [zero] — sıfır
+
+2. örüntü
+
+bağlam
+
+onze [onz] — on bir
+
+3. örüntü
+
+telaffuz
+
+vingt [ven] — yirmi
+
+Ayrıntılı konu anlatımı
+Sayı düzeni ve yazım
+0–16 ayrı biçimleri öğrenilir. 17–19'da dix-sept [dis sɛt] — on yedi gibi birleşim vardır. 21'de vingt et un
+[vɛ̃teœ̃] — yirmi bir; 22'de vingt-deux [vɛ̃tdø] — yirmi iki. 70 soixante-dix [swasɑ̃ tdis] — yetmiş, 71
+soixante et onze [swasɑ̃ teɔ̃ z] — yetmiş bir, 80 quatre-vingts [katʁəvɛ̃] — seksen; 81 quatre-vingt-un
+[katʁəvɛ̃œ̃] — seksen bir. Sonraki sayı gelince 80'in son s harfi düşer. Deux cents [dø sɑ̃ ] — iki yüz, ama
+deux cent un [dø sɑ̃ œ̃] — iki yüz bir. Mille [mil] — bin çoğul s almaz.
+
+Tarih ve saat
+Hafta günleri küçük harfle yazılır: lundi [lœ̃di] — pazartesi. Tarihte gün ve ay: le 15 mars [lə kɛ̃z maʁs] —
+15 Mart. Ayın birinci günü le premier mai [lə pʁəmje mɛ] — 1 Mayıs. Saat için Il est une heure [il ɛ ynœʁ]
+— saat bir; Il est deux heures [il ɛ døzœʁ] — saat iki. Bir buçukta dişil demie [dəmi] — buçuk, une heure
+et demie [ynœʁ e dəmi] — bir buçuk. Sayıları sesli olarak tarihe, fiyata ve telefon numarasına uygula.
+
+On örnek
+1. zéro [zero] — sıfır
+2. onze [onz] — on bir
+3. vingt [ven] — yirmi
+4. soixante-dix [swasant dis] — yetmiş
+
+1
+
+5. quatre-vingts [katr ven] — seksen
+6. quatre-vingt-dix [katr ven dis] — doksan
+7. cent [san] — yüz
+8. Nous sommes le quinze mars [nu som lı kenz mars] — Bugün 15 Mart
+9. Il est trois heures et quart [il e trwaz ör e kar] — Saat üçü çeyrek geçiyor
+10. Il est cinq heures moins dix [il e senk ör mwen dis] — Saat beşe on var.
+
+Yaygın hatalar
+80'den sonra quatre-vingts yazımındaki s yalnız tam 80'de bulunur; 81'de düşer.
+
+Ezber tekniği
+Merdiven basamaklarını Fransızca say; telefon numaranı ve bugünün tarihini sesli söyle.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 48. Spiral tekrar: 0. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+zéro [zeʁo]
+
+sıfır
+
+un [œ̃]
+
+bir
+
+deux [dø]
+
+iki
+
+trois [tʁwa]
+
+üç
+
+quatre [katʁ]
+
+dört
+
+cinq [sɛ̃k]
+
+beş
+
+six [sis]
+
+altı
+
+sept [sɛt]
+
+yedi
+
+huit [ɥit]
+
+sekiz
+
+neuf [nœf]
+
+dokuz
+
+dix [dis]
+
+on
+
+onze [ɔ̃ z]
+
+on bir
+
+douze [duz]
+
+on iki
+
+treize [tʁɛz]
+
+on üç
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+quatorze [katɔʁz]
+
+on dört
+
+quinze [kɛ̃z]
+
+on beş
+
+seize [sɛz]
+
+on altı
+
+vingt [vɛ̃]
+
+yirmi
+
+trente [tʁɑ̃ t]
+
+otuz
+
+quarante [kaʁɑ̃ t]
+
+kırk
+
+cinquante [sɛ̃kɑ̃ t]
+
+elli
+
+soixante [swasɑ̃ t]
+
+altmış
+
+cent [sɑ̃ ]
+
+yüz
+
+mille [mil]
+
+bin
+
+lundi [lœ̃di]
+
+pazartesi
+
+mardi [maʁdi]
+
+salı
+
+mercredi [mɛʁkʁədi]
+
+çarşamba
+
+jeudi [ʒødi]
+
+perşembe
+
+vendredi [vɑ̃ dʁədi]
+
+cuma
+
+samedi [samdi]
+
+cumartesi
+
+dimanche [dimɑ̃ ʃ]
+
+pazar
+
+janvier [ʒɑ̃ vje]
+
+ocak
+
+février [fevʁije]
+
+şubat
+
+mars [maʁs]
+
+mart
+
+avril [avʁil]
+
+nisan
+
+mai [mɛ]
+
+mayıs
+
+juin [ʒɥɛ̃]
+
+haziran
+
+juillet [ʒɥijɛ]
+
+temmuz
+
+août [ut]
+
+ağustos
+
+septembre [sɛptɑ̃ bʁ]
+
+eylül
+
+octobre [ɔktɔbʁ]
+
+ekim
+
+novembre [nɔvɑ̃ bʁ]
+
+kasım
+
+décembre [desɑ̃ bʁ]
+
+aralık
+
+aujourd'hui [oʒuʁdɥi]
+
+bugün
+
+demain [dəmɛ̃]
+
+yarın
+
+hier [ijɛʁ]
+
+dün
+
+midi [midi]
+
+öğle
+
+minuit [minɥi]
+
+gece yarısı
+
+Mini alıştırma — 10 soru
+1. sıfır anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. on bir anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. yirmi anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+3
+
+4. yetmiş anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. seksen anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. doksan anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. yüz anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. Bugün 15 Mart anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Saat üçü çeyrek geçiyor anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Saat beşe on var. anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: Tarih le + gün + ay; saat il est + sayı + heure(s). 70=60+10, 80=4×20, 90=4×20+10.
+• Türkçe karşılaştırması: Türkçede sayı bileşimi daha düzenlidir; saat kalıbında özne il zorunludur.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. zéro
+2. onze
+3. vingt
+4. soixante-dix
+5. quatre-vingts
+6. quatre-vingt-dix
+7. cent
+8. Nous sommes le quinze mars
+9. Il est trois heures et quart
+10. Il est cinq heures moins dix
+11. sıfır
+12. on bir
+13. yirmi
+14. yetmiş
+15. seksen
+16. doksan
+17. yüz
+18. Bugün 15 Mart
+19. Saat üçü çeyrek geçiyor
+20. Saat beşe on var.
+21. zéro: A) sıfır B) yetmiş C) yüz
+22. onze: A) seksen B) Bugün 15 Mart C) on bir
+23. vingt: A) Saat üçü çeyrek geçiyor B) yirmi C) doksan
+24. soixante-dix: A) yetmiş B) yüz C) Saat beşe on var.
+25. quatre-vingts: A) Bugün 15 Mart B) sıfır C) seksen
+
+4
+
+25 alıştırmanın çözümleri
+1. sıfır — Fransızca kaynak ifade: zéro [zero] — sıfır
+2. on bir — Fransızca kaynak ifade: onze [onz] — on bir
+3. yirmi — Fransızca kaynak ifade: vingt [ven] — yirmi
+4. yetmiş — Fransızca kaynak ifade: soixante-dix [swasant dis] — yetmiş
+5. seksen — Fransızca kaynak ifade: quatre-vingts [katr ven] — seksen
+6. doksan — Fransızca kaynak ifade: quatre-vingt-dix [katr ven dis] — doksan
+7. yüz — Fransızca kaynak ifade: cent [san] — yüz
+8. Bugün 15 Mart — Fransızca kaynak ifade: Nous sommes le quinze mars [nu som lı kenz mars] —
+Bugün 15 Mart
+9. Saat üçü çeyrek geçiyor — Fransızca kaynak ifade: Il est trois heures et quart [il e trwaz ör e kar] —
+Saat üçü çeyrek geçiyor
+10. Saat beşe on var. — Fransızca kaynak ifade: Il est cinq heures moins dix [il e senk ör mwen dis] —
+Saat beşe on var.
+11. zéro [zero] — sıfır — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+12. onze [onz] — on bir — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+13. vingt [ven] — yirmi — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+14. soixante-dix [swasant dis] — yetmiş — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+15. quatre-vingts [katr ven] — seksen — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+16. quatre-vingt-dix [katr ven dis] — doksan — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+17. cent [san] — yüz — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+18. Nous sommes le quinze mars [nu som lı kenz mars] — Bugün 15 Mart — Bu çeviride sözcük sırası ve
+varsa artikel örnekteki gibidir.
+19. Il est trois heures et quart [il e trwaz ör e kar] — Saat üçü çeyrek geçiyor — Bu çeviride sözcük sırası
+ve varsa artikel örnekteki gibidir.
+20. Il est cinq heures moins dix [il e senk ör mwen dis] — Saat beşe on var. — Bu çeviride sözcük sırası ve
+varsa artikel örnekteki gibidir.
+21. A — zéro [zero] — sıfır
+22. C — onze [onz] — on bir
+23. B — vingt [ven] — yirmi
+24. A — soixante-dix [swasant dis] — yetmiş
+25. C — quatre-vingts [katr ven] — seksen
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. zéro ne anlama gelir? A) sıfır B) yirmi C) doksan
+2. onze ne anlama gelir? A) yetmiş B) yüz C) on bir
+3. vingt ne anlama gelir? A) Bugün 15 Mart B) yirmi C) seksen
+4. soixante-dix ne anlama gelir? A) yetmiş B) doksan C) Saat üçü çeyrek geçiyor
+5. quatre-vingts ne anlama gelir? A) yüz B) Saat beşe on var. C) seksen
+6. Boşluğu doldur: ____ — doksan
+
+5
+
+7. Boşluğu doldur: ____ — yüz
+8. Boşluğu doldur: Nous sommes ____ quinze mars — Bugün 15 Mart
+9. Boşluğu doldur: Il est trois ____ et quart — Saat üçü çeyrek geçiyor
+10. Boşluğu doldur: Il est cinq ____ moins dix — Saat beşe on var.
+11. Fransızcaya çevir: sıfır
+12. Fransızcaya çevir: on bir
+13. Fransızcaya çevir: yirmi
+14. Şu anlam için verilen bozuk sıralamayı düzelt: soixante-dix — yetmiş
+15. Şu anlam için verilen bozuk sıralamayı düzelt: quatre-vingts — seksen
+
+Test cevap anahtarı
+1. A — zéro [zero] — sıfır
+2. C — onze [onz] — on bir
+3. B — vingt [ven] — yirmi
+4. A — soixante-dix [swasant dis] — yetmiş
+5. C — quatre-vingts [katr ven] — seksen
+6. quatre-vingt-dix — quatre-vingt-dix [katr ven dis] — doksan
+7. cent — cent [san] — yüz
+8. le — Nous sommes le quinze mars [nu som lı kenz mars] — Bugün 15 Mart
+9. heures — Il est trois heures et quart [il e trwaz ör e kar] — Saat üçü çeyrek geçiyor
+10. heures — Il est cinq heures moins dix [il e senk ör mwen dis] — Saat beşe on var.
+11. zéro [zero] — sıfır
+12. onze [onz] — on bir
+13. vingt [ven] — yirmi
+14. soixante-dix [swasant dis] — yetmiş
+15. quatre-vingts [katr ven] — seksen
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: zéro [zero] — sıfır
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: onze [onz] — on bir
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: vingt [ven] — yirmi
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: soixante-dix [swasant dis] — yetmiş
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+6
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+7
+

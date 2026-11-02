@@ -1,0 +1,214 @@
+Ek 5 — 30 konuşma durumu
+1. Kafede sipariş
+Başlangıç kalıpları: Bonjour [bonjur] — Merhaba; Bonsoir [bonsuar] — İyi akşamlar.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+2. Fırından ekmek alma
+Başlangıç kalıpları: zéro [zero] — sıfır; onze [onz] — on bir.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+3. Saat sorma
+Başlangıç kalıpları: Je suis étudiant [jı süi etüdyan] — Öğrenciyim; Tu es prêt [tü e pre] — Hazırsın.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+4. Metro bileti alma
+Başlangıç kalıpları: J'ai un livre [je en livr] — Bir kitabım var; Tu as faim [tü a fen] — Açsın.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+5. Doktorda şikâyet
+Başlangıç kalıpları: Voici ma mère [vwasi ma mer] — İşte annem; C'est mon père [se mon per] — Bu
+babam.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+6. İş görüşmesi
+Başlangıç kalıpları: Je parle français [jı parl franse] — Fransızca konuşuyorum; Tu parles vite [tü parl vit] —
+Hızlı konuşuyorsun.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+7. Restoranda yanlış sipariş
+Başlangıç kalıpları: Il y a une table [il ya ün tabl] — Bir masa var; La table est dans la cuisine [la tabl e
+dan la küizin] — Masa mutfakta.
+
+1
+
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+8. Otelde oda değiştirme
+Başlangıç kalıpları: Je voudrais du pain [jı vudre dü pen] — Ekmek istiyorum; Je bois de l'eau [jı bwa dı lo]
+— Su içiyorum.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+9. Bankada hesap bilgisi
+Başlangıç kalıpları: Ça coûte combien ? [sa kut kombiyen] — Bu ne kadar?; Je cherche une chemise [jı şerş
+ün şımiz] — Gömlek arıyorum.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+10. Postanede paket
+Başlangıç kalıpları: Où est la gare ? [u e la gar] — Gar nerede?; Tournez à gauche [turne a goş] — Sola
+dönün.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+11. Yol tarifi sorma
+Başlangıç kalıpları: Je suis turc [jı süi türk] — Türküm; J'ai trente ans [je trant an] — Otuz yaşındayım.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+12. Markette fiyat
+Başlangıç kalıpları: J'ai parlé [je parle] — Konuştum; Tu as fini [tü a fini] — Bitirdin.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+13. Kıyafet deneme
+Başlangıç kalıpları: Je suis allé [jı süi zale] — Gittim (erkek); Elle est allée [el e tale] — Gitti (kadın).
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+14. Telefonla randevu
+Başlangıç kalıpları: Je finis à six heures [jı fini a siz ör] — Altıda bitiriyorum; Nous choisissons [nu
+şwazison] — Seçiyoruz.
+
+2
+
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+15. Arkadaş davet etme
+Başlangıç kalıpları: Le livre est ici [lı livr e isi] — Kitap burada; La porte est ouverte [la port e uvert] —
+Kapı açık.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+16. Davet reddetme
+Başlangıç kalıpları: Je la vois [jı la vwa] — Onu görüyorum (kadın); Je le connais [jı lı kone] — Onu
+tanıyorum (erkek).
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+17. Tatilde rezervasyon
+Başlangıç kalıpları: Je suis plus grand que lui [jı süi plü gran kı lüi] — Ondan daha uzunum; Elle est moins
+chère [el e mwen şer] — Daha ucuz.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+18. Havalimanında bagaj
+Başlangıç kalıpları: J'ai mal à la tête [je mal a la tet] — Başım ağrıyor; J'ai mal au dos [je mal o do] —
+Sırtım ağrıyor.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+19. Kayıp eşya bildirme
+Başlangıç kalıpları: Je suis développeur [jı süi developör] — Yazılımcıyım; Elle est médecin [el e medsen]
+— Doktor.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+20. Eczanede ilaç
+Başlangıç kalıpları: Je réserve une chambre [jı rezerv ün şanbr] — Oda ayırtıyorum; J'ai un billet [je en
+biye] — Biletim var.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+3
+
+21. Yeni komşuyla tanışma
+Başlangıç kalıpları: J'aime la musique [jem la müzik] — Müziği severim; J'adore nager [jador naje] —
+Yüzmeye bayılırım.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+22. Aileyi tanıtma
+Başlangıç kalıpları: Je suis content [jı süi kontan] — Mutluyum (erkek); Elle est fatiguée [el e fatige] —
+Yorgun.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+23. Geçen hafta sonu
+Başlangıç kalıpları: Hier, j'ai travaillé [yer je travayé] — Dün çalıştım; Elle est allée à Paris [el e tale a pari]
+— Paris'e gitti.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+24. Gelecek ay planı
+Başlangıç kalıpları: Je parlais [jı parle] — Konuşuyordum; Tu habitais ici [tü abite isi] — Burada
+oturuyordun.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+25. Hobi karşılaştırma
+Başlangıç kalıpları: J'avais parlé [jave parle] — Konuşmuştum; Tu avais fini [tü ave fini] — Bitirmiştin.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+26. Bir haberi özetleme
+Başlangıç kalıpları: Je parlerai [jı parlöre] — Konuşacağım; Tu finiras [tü finira] — Bitireceksin.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+27. Görüşe itiraz
+Başlangıç kalıpları: S'il pleut, je resterai [sil plö jı restöre] — Yağmur yağarsa kalacağım; Si tu viens, on
+mange [si tü vyen on manj] — Gelirsen yemek yeriz.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+4
+
+28. Öneri verme
+Başlangıç kalıpları: Je voudrais un café [jı vudre en kafe] — Bir kahve isterim; J'aimerais venir [jemre vınir]
+— Gelmek isterdim.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+29. Bir sorunu açıklama
+Başlangıç kalıpları: Il faut que tu partes [il fo kı tü part] — Gitmen gerekiyor; Je veux qu'il vienne [jı vö kil
+vyen] — Gelmesini istiyorum.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+30. Kısa sunum
+Başlangıç kalıpları: Je pense qu'il vient [jı pans kil vyen] — Sanırım geliyor; Je ne pense pas qu'il vienne [jı
+nı pans pa kil vyen] — Geleceğini sanmıyorum.
+Rol: Bir kişi müşteri/ziyaretçi, diğeri görevli/arkadaş. İlk turda bilgi sor, cevap ver ve açıklama iste. İkinci
+turda yanlış anlama ekle; nazikçe tekrar iste. Üçüncü turda rolleri değiştir. Öz denetim: En az iki soru
+sordun mu? Duyduğun bilgiye uygun cevap verdin mi? Zorlandığın ifadeyi kaydet.
+
+5
+

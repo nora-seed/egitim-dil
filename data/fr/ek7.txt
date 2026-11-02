@@ -1,0 +1,2540 @@
+Ek 7 — 600 çözümlü soru
+A1 — 200 çözümlü soru
+1. Fransızcaya çevir: yakında
+2. Türkçeye çevir ve dilbilgisi işlevini söyle: maintenant
+3. Fransızcaya çevir: asla/hiç
+4. Türkçeye çevir ve dilbilgisi işlevini söyle: parfois
+5. Fransızcaya çevir: her zaman
+6. Türkçeye çevir ve dilbilgisi işlevini söyle: souvent
+7. Fransızcaya çevir: yine/henüz
+8. Türkçeye çevir ve dilbilgisi işlevini söyle: mieux
+9. Fransızcaya çevir: yanlış
+10. Türkçeye çevir ve dilbilgisi işlevini söyle: correct
+11. Fransızcaya çevir: zor
+12. Türkçeye çevir ve dilbilgisi işlevini söyle: facile
+13. Fransızcaya çevir: alıştırma
+14. Türkçeye çevir ve dilbilgisi işlevini söyle: le dialogue
+15. Fransızcaya çevir: tablo
+16. Türkçeye çevir ve dilbilgisi işlevini söyle: la règle
+17. Fransızcaya çevir: bir örnek
+18. Türkçeye çevir ve dilbilgisi işlevini söyle: une erreur
+19. Fransızcaya çevir: not/puan
+20. Türkçeye çevir ve dilbilgisi işlevini söyle: le résultat
+21. Fransızcaya çevir: sınav
+22. Türkçeye çevir ve dilbilgisi işlevini söyle: le présent
+23. Fransızcaya çevir: olumsuzluk
+24. Türkçeye çevir ve dilbilgisi işlevini söyle: le pronom
+25. Fransızcaya çevir: artikel
+26. Türkçeye çevir ve dilbilgisi işlevini söyle: le nom
+27. Fransızcaya çevir: fiil
+28. Türkçeye çevir ve dilbilgisi işlevini söyle: le mot
+29. Fransızcaya çevir: cümle
+30. Türkçeye çevir ve dilbilgisi işlevini söyle: la liaison
+31. Fransızcaya çevir: telaffuz
+32. Türkçeye çevir ve dilbilgisi işlevini söyle: le vocabulaire
+33. Fransızcaya çevir: dilbilgisi
+34. Türkçeye çevir ve dilbilgisi işlevini söyle: une réponse
+35. Fransızcaya çevir: bir soru
+36. Türkçeye çevir ve dilbilgisi işlevini söyle: corriger
+
+1
+
+37. Fransızcaya çevir: kontrol etmek
+38. Türkçeye çevir ve dilbilgisi işlevini söyle: choisir
+39. Fransızcaya çevir: cevaplamak
+40. Türkçeye çevir ve dilbilgisi işlevini söyle: écrire
+41. Fransızcaya çevir: okumak
+42. Türkçeye çevir ve dilbilgisi işlevini söyle: parler
+43. Fransızcaya çevir: dinlemek
+44. Türkçeye çevir ve dilbilgisi işlevini söyle: comprendre
+45. Fransızcaya çevir: tekrar etmek
+46. Türkçeye çevir ve dilbilgisi işlevini söyle: demander
+47. Fransızcaya çevir: ayrılmak
+48. Türkçeye çevir ve dilbilgisi işlevini söyle: arriver
+49. Fransızcaya çevir: inmek
+50. Türkçeye çevir ve dilbilgisi işlevini söyle: monter
+51. Fransızcaya çevir: karşıya geçmek
+52. Türkçeye çevir ve dilbilgisi işlevini söyle: aller
+53. Fransızcaya çevir: dönmek
+54. Türkçeye çevir ve dilbilgisi işlevini söyle: loin
+55. Fransızcaya çevir: yakın
+56. Türkçeye çevir ve dilbilgisi işlevini söyle: en arrière
+57. Fransızcaya çevir: dümdüz
+58. Türkçeye çevir ve dilbilgisi işlevini söyle: à droite
+59. Fransızcaya çevir: sola
+60. Türkçeye çevir ve dilbilgisi işlevini söyle: la carte
+61. Fransızcaya çevir: başlangıç
+62. Türkçeye çevir ve dilbilgisi işlevini söyle: la sortie
+63. Fransızcaya çevir: peron
+64. Türkçeye çevir ve dilbilgisi işlevini söyle: la ligne
+65. Fransızcaya çevir: bilet
+66. Türkçeye çevir ve dilbilgisi işlevini söyle: le billet
+67. Fransızcaya çevir: taksi
+68. Türkçeye çevir ve dilbilgisi işlevini söyle: le tramway
+69. Fransızcaya çevir: tren
+70. Türkçeye çevir ve dilbilgisi işlevini söyle: le bus
+71. Fransızcaya çevir: metro
+72. Türkçeye çevir ve dilbilgisi işlevini söyle: l'arrêt
+73. Fransızcaya çevir: istasyon
+74. Türkçeye çevir ve dilbilgisi işlevini söyle: la cathédrale
+75. Fransızcaya çevir: kilise
+76. Türkçeye çevir ve dilbilgisi işlevini söyle: la mairie
+77. Fransızcaya çevir: hastane
+
+2
+
+78. Türkçeye çevir ve dilbilgisi işlevini söyle: l'hôtel
+79. Fransızcaya çevir: havaalanı
+80. Türkçeye çevir ve dilbilgisi işlevini söyle: la gare
+81. Fransızcaya çevir: postane
+82. Türkçeye çevir ve dilbilgisi işlevini söyle: la banque
+83. Fransızcaya çevir: sinema
+84. Türkçeye çevir ve dilbilgisi işlevini söyle: le théâtre
+85. Fransızcaya çevir: müze
+86. Türkçeye çevir ve dilbilgisi işlevini söyle: le parc
+87. Fransızcaya çevir: köprü
+88. Türkçeye çevir ve dilbilgisi işlevini söyle: la place
+89. Fransızcaya çevir: cadde
+90. Türkçeye çevir ve dilbilgisi işlevini söyle: la rue
+91. Fransızcaya çevir: dokuz
+92. Türkçeye çevir ve dilbilgisi işlevini söyle: fermé
+93. Fransızcaya çevir: açık
+94. Türkçeye çevir ve dilbilgisi işlevini söyle: prendre
+95. Fransızcaya çevir: aramak
+96. Türkçeye çevir ve dilbilgisi işlevini söyle: vendre
+97. Fransızcaya çevir: satın almak
+98. Türkçeye çevir ve dilbilgisi işlevini söyle: payer
+99. Fransızcaya çevir: denemek
+100. Türkçeye çevir ve dilbilgisi işlevini söyle: bon marché
+101. Fransızcaya çevir: pahalı
+102. Türkçeye çevir ve dilbilgisi işlevini söyle: le reçu
+103. Fransızcaya çevir: nakit
+104. Türkçeye çevir ve dilbilgisi işlevini söyle: la carte bancaire
+105. Fransızcaya çevir: kasa
+106. Türkçeye çevir ve dilbilgisi işlevini söyle: la réduction
+107. Fransızcaya çevir: fiyat
+108. Türkçeye çevir ve dilbilgisi işlevini söyle: la pointure
+109. Fransızcaya çevir: beden
+110. Türkçeye çevir ve dilbilgisi işlevini söyle: la ceinture
+111. Fransızcaya çevir: eldivenler
+112. Türkçeye çevir ve dilbilgisi işlevini söyle: le chapeau
+113. Fransızcaya çevir: çoraplar
+114. Türkçeye çevir ve dilbilgisi işlevini söyle: les chaussures
+115. Fransızcaya çevir: ceket
+116. Türkçeye çevir ve dilbilgisi işlevini söyle: le manteau
+117. Fransızcaya çevir: takım elbise
+118. Türkçeye çevir ve dilbilgisi işlevini söyle: la jupe
+
+3
+
+119. Fransızcaya çevir: elbise
+120. Türkçeye çevir ve dilbilgisi işlevini söyle: le tee-shirt
+121. Fransızcaya çevir: gömlek
+122. Türkçeye çevir ve dilbilgisi işlevini söyle: le jean
+123. Fransızcaya çevir: pantolon
+124. Türkçeye çevir ve dilbilgisi işlevini söyle: le centre commercial
+125. Fransızcaya çevir: pazar
+126. Türkçeye çevir ve dilbilgisi işlevini söyle: la librairie
+127. Fransızcaya çevir: eczane
+128. Türkçeye çevir ve dilbilgisi işlevini söyle: la boucherie
+129. Fransızcaya çevir: pastane
+130. Türkçeye çevir ve dilbilgisi işlevini söyle: la boulangerie
+131. Fransızcaya çevir: hipermarket
+132. Türkçeye çevir ve dilbilgisi işlevini söyle: le supermarché
+133. Fransızcaya çevir: mağaza
+134. Türkçeye çevir ve dilbilgisi işlevini söyle: délicieux
+135. Fransızcaya çevir: masa
+136. Türkçeye çevir ve dilbilgisi işlevini söyle: le dessert
+137. Fransızcaya çevir: ana yemek
+138. Türkçeye çevir ve dilbilgisi işlevini söyle: l'addition
+139. Fransızcaya çevir: garson (kadın)
+140. Türkçeye çevir ve dilbilgisi işlevini söyle: le serveur
+141. Fransızcaya çevir: menü
+142. Türkçeye çevir ve dilbilgisi işlevini söyle: la bière
+143. Fransızcaya çevir: şarap
+144. Türkçeye çevir ve dilbilgisi işlevini söyle: le jus
+145. Fransızcaya çevir: çay
+146. Türkçeye çevir ve dilbilgisi işlevini söyle: le café
+147. Fransızcaya çevir: su
+148. Türkçeye çevir ve dilbilgisi işlevini söyle: le citron
+149. Fransızcaya çevir: çilek
+150. Türkçeye çevir ve dilbilgisi işlevini söyle: le raisin
+151. Fransızcaya çevir: portakal
+152. Türkçeye çevir ve dilbilgisi işlevini söyle: la banane
+153. Fransızcaya çevir: elma
+154. Türkçeye çevir ve dilbilgisi işlevini söyle: les fruits
+155. Fransızcaya çevir: sebzeler
+156. Türkçeye çevir ve dilbilgisi işlevini söyle: la pomme de terre
+157. Fransızcaya çevir: makarna
+158. Türkçeye çevir ve dilbilgisi işlevini söyle: le riz
+159. Fransızcaya çevir: balık
+
+4
+
+160. Türkçeye çevir ve dilbilgisi işlevini söyle: le porc
+161. Fransızcaya çevir: dana eti
+162. Türkçeye çevir ve dilbilgisi işlevini söyle: le poulet
+163. Fransızcaya çevir: et
+164. Türkçeye çevir ve dilbilgisi işlevini söyle: le poivre
+165. Fransızcaya çevir: tuz
+166. Türkçeye çevir ve dilbilgisi işlevini söyle: le sucre
+167. Fransızcaya çevir: süt
+168. Türkçeye çevir ve dilbilgisi işlevini söyle: l'œuf
+169. Fransızcaya çevir: kruvasan
+170. Türkçeye çevir ve dilbilgisi işlevini söyle: la confiture
+171. Fransızcaya çevir: tereyağı
+172. Türkçeye çevir ve dilbilgisi işlevini söyle: le fromage
+173. Fransızcaya çevir: ekmek
+174. Türkçeye çevir ve dilbilgisi işlevini söyle: le dîner
+175. Fransızcaya çevir: ikindi atıştırması
+176. Türkçeye çevir ve dilbilgisi işlevini söyle: le déjeuner
+177. Fransızcaya çevir: kahvaltı
+178. Türkçeye çevir ve dilbilgisi işlevini söyle: il y a
+179. Fransızcaya çevir: sağında
+180. Türkçeye çevir ve dilbilgisi işlevini söyle: à gauche de
+181. Fransızcaya çevir: karşısında
+182. Türkçeye çevir ve dilbilgisi işlevini söyle: à côté de
+183. Fransızcaya çevir: uzağında
+184. Türkçeye çevir ve dilbilgisi işlevini söyle: près de
+185. Fransızcaya çevir: arasında
+186. Türkçeye çevir ve dilbilgisi işlevini söyle: derrière
+187. Fransızcaya çevir: önünde
+188. Türkçeye çevir ve dilbilgisi işlevini söyle: sous
+189. Fransızcaya çevir: üstünde
+190. Türkçeye çevir ve dilbilgisi işlevini söyle: dans
+191. Fransızcaya çevir: bilgisayar
+192. Türkçeye çevir ve dilbilgisi işlevini söyle: la télévision
+193. Fransızcaya çevir: ocak
+194. Türkçeye çevir ve dilbilgisi işlevini söyle: le réfrigérateur
+195. Fransızcaya çevir: zemin
+196. Türkçeye çevir ve dilbilgisi işlevini söyle: le plafond
+197. Fransızcaya çevir: duvar
+198. Türkçeye çevir ve dilbilgisi işlevini söyle: la fenêtre
+199. Fransızcaya çevir: kapı
+200. Türkçeye çevir ve dilbilgisi işlevini söyle: la lampe
+
+5
+
+Ayrıntılı cevap anahtarı
+1. Yanıt: bientôt [bjɛ̃to] — yakında Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12
+bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+2. Yanıt: maintenant [mɛ̃tnɑ̃ ] — şimdi Çözüm: Türkçe karşılık şimdi; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+3. Yanıt: jamais [ʒamɛ] — asla/hiç Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12
+bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+4. Yanıt: parfois [paʁfwa] — bazen Çözüm: Türkçe karşılık bazen; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+5. Yanıt: toujours [tuʒuʁ] — her zaman Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12
+bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+6. Yanıt: souvent [suvɑ̃ ] — sık sık Çözüm: Türkçe karşılık sık sık; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel; temel
+soru ve olumsuzluk.
+7. Yanıt: encore [ɑ̃ kɔʁ] — yine/henüz Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12
+bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+8. Yanıt: mieux [mjø] — daha iyi Çözüm: Türkçe karşılık daha iyi; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel; temel
+soru ve olumsuzluk.
+9. Yanıt: incorrect [ɛ̃kɔʁɛkt] — yanlış Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12
+bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+10. Yanıt: correct [kɔʁɛkt] — doğru Çözüm: Türkçe karşılık doğru; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel; temel
+soru ve olumsuzluk.
+11. Yanıt: difficile [difisil] — zor Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12 bağlamında
+özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel; temel soru
+ve olumsuzluk.
+12. Yanıt: facile [fasil] — kolay Çözüm: Türkçe karşılık kolay; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel; temel
+soru ve olumsuzluk.
+13. Yanıt: l'exercice [lɛɡzɛʁsis] — alıştırma Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12
+bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+14. Yanıt: le dialogue [lə djalɔɡ] — diyalog Çözüm: Türkçe karşılık diyalog; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim +
+artikel; temel soru ve olumsuzluk.
+15. Yanıt: le tableau [lə tablo] — tablo Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12
+bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+16. Yanıt: la règle [la ʁɛɡl] — kural Çözüm: Türkçe karşılık kural; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel; temel
+soru ve olumsuzluk.
+
+6
+
+17. Yanıt: un exemple [œ̃n ɛɡzɑ̃ pl] — bir örnek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+12 bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim +
+artikel; temel soru ve olumsuzluk.
+18. Yanıt: une erreur [yn ɛʁœʁ] — bir hata Çözüm: Türkçe karşılık bir hata; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim +
+artikel; temel soru ve olumsuzluk.
+19. Yanıt: la note [la nɔt] — not/puan Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12
+bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+20. Yanıt: le résultat [lə ʁezylta] — sonuç Çözüm: Türkçe karşılık sonuç; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+21. Yanıt: l'examen [lɛɡzamɛ̃] — sınav Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12
+bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+22. Yanıt: le présent [lə pʁezɑ̃ ] — şimdiki/geniş zaman Çözüm: Türkçe karşılık şimdiki/geniş zaman;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne
++ şimdiki zaman; isim + artikel; temel soru ve olumsuzluk.
+23. Yanıt: la négation [la neɡasjɔ̃ ] — olumsuzluk Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 12 bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim
++ artikel; temel soru ve olumsuzluk.
+24. Yanıt: le pronom [lə pʁɔnɔ̃ ] — zamir Çözüm: Türkçe karşılık zamir; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+25. Yanıt: l'article [laʁtikl] — artikel Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12
+bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+26. Yanıt: le nom [lə nɔ̃ ] — ad Çözüm: Türkçe karşılık ad; Fransızca parçayı sözcük sözcük değil, bütün
+olarak değerlendir. Modül 2 kuralı: Samimi hitapta tu, resmî veya çoğul hitapta vous kullanılır.
+27. Yanıt: le verbe [lə vɛʁb] — fiil Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12
+bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+28. Yanıt: le mot [lə mo] — kelime Çözüm: Türkçe karşılık kelime; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel; temel
+soru ve olumsuzluk.
+29. Yanıt: la phrase [la fʁaz] — cümle Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12
+bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+30. Yanıt: la liaison [la ljɛzɔ̃ ] — bağlantı Çözüm: Türkçe karşılık bağlantı; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+31. Yanıt: la prononciation [la pʁɔnɔ̃ sjasjɔ̃ ] — telaffuz Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 12 bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim
++ artikel; temel soru ve olumsuzluk.
+32. Yanıt: le vocabulaire [lə vɔkabylɛʁ] — kelime bilgisi Çözüm: Türkçe karşılık kelime bilgisi; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki
+zaman; isim + artikel; temel soru ve olumsuzluk.
+33. Yanıt: la grammaire [la ɡʁamɛʁ] — dilbilgisi Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 12 bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim
++ artikel; temel soru ve olumsuzluk.
+
+7
+
+34. Yanıt: une réponse [yn ʁepɔ̃ s] — bir cevap Çözüm: Türkçe karşılık bir cevap; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki
+zaman; isim + artikel; temel soru ve olumsuzluk.
+35. Yanıt: une question [yn kɛstjɔ̃ ] — bir soru Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 5
+bağlamında özne, artikel ve fiili denetle. Kural: j'ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont;
+sahiplik belirteci isimle uyumlanır.
+36. Yanıt: corriger [kɔʁiʒe] — düzeltmek Çözüm: Türkçe karşılık düzeltmek; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim +
+artikel; temel soru ve olumsuzluk.
+37. Yanıt: vérifier [veʁifje] — kontrol etmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12
+bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+38. Yanıt: choisir [ʃwaziʁ] — seçmek Çözüm: Türkçe karşılık seçmek; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+39. Yanıt: répondre [ʁepɔ̃ dʁ] — cevaplamak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+12 bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim +
+artikel; temel soru ve olumsuzluk.
+40. Yanıt: écrire [ekʁiʁ] — yazmak Çözüm: Türkçe karşılık yazmak; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+41. Yanıt: lire [liʁ] — okumak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12 bağlamında
+özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel; temel soru
+ve olumsuzluk.
+42. Yanıt: parler [paʁle] — konuşmak Çözüm: Türkçe karşılık konuşmak; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 7 kuralı: parler → je parle, tu parles, il parle, nous parlons, vous
+parlez, ils parlent; sıfat isimle uyumlanır.
+43. Yanıt: écouter [ekute] — dinlemek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 7
+bağlamında özne, artikel ve fiili denetle. Kural: parler → je parle, tu parles, il parle, nous parlons, vous
+parlez, ils parlent; sıfat isimle uyumlanır.
+44. Yanıt: comprendre [kɔ̃ pʁɑ̃ dʁ] — anlamak Çözüm: Türkçe karşılık anlamak; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 12 kuralı: A1 çekirdekleri: özne + şimdiki zaman; isim +
+artikel; temel soru ve olumsuzluk.
+45. Yanıt: réviser [ʁevize] — tekrar etmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 12
+bağlamında özne, artikel ve fiili denetle. Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel;
+temel soru ve olumsuzluk.
+46. Yanıt: demander [dəmɑ̃ de] — sormak Çözüm: Türkçe karşılık sormak; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 7 kuralı: parler → je parle, tu parles, il parle, nous
+parlons, vous parlez, ils parlent; sıfat isimle uyumlanır.
+47. Yanıt: partir [paʁtiʁ] — ayrılmak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+48. Yanıt: arriver [aʁive] — varmak Çözüm: Türkçe karşılık varmak; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+49. Yanıt: descendre [desɑ̃ dʁ] — inmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+50. Yanıt: monter [mɔ̃ te] — binmek/çıkmak Çözüm: Türkçe karşılık binmek/çıkmak; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe
+à/au/à la/à l'/aux ile gidilir.
+
+8
+
+51. Yanıt: traverser [tʁavɛʁse] — karşıya geçmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 11 bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à
+la/à l'/aux ile gidilir.
+52. Yanıt: aller [ale] — gitmek Çözüm: Türkçe karşılık gitmek; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile
+gidilir.
+53. Yanıt: tourner [tuʁne] — dönmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+54. Yanıt: loin [lwɛ̃] — uzak Çözüm: Türkçe karşılık uzak; Fransızca parçayı sözcük sözcük değil, bütün
+olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile gidilir.
+55. Yanıt: près [pʁɛ] — yakın Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11 bağlamında
+özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile gidilir.
+56. Yanıt: en arrière [ɑ̃ n aʁjɛʁ] — geriye Çözüm: Türkçe karşılık geriye; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+57. Yanıt: tout droit [tu dʁwa] — dümdüz Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+58. Yanıt: à droite [a dʁwat] — sağa Çözüm: Türkçe karşılık sağa; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile
+gidilir.
+59. Yanıt: à gauche [a ɡoʃ] — sola Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+60. Yanıt: la carte [la kaʁt] — harita Çözüm: Türkçe karşılık harita; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile
+gidilir.
+61. Yanıt: l'entrée [lɑ̃ tʁe] — başlangıç Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9
+bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+62. Yanıt: la sortie [la sɔʁti] — çıkış Çözüm: Türkçe karşılık çıkış; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile
+gidilir.
+63. Yanıt: le quai [lə ke] — peron Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+64. Yanıt: la ligne [la liɲ] — hat Çözüm: Türkçe karşılık hat; Fransızca parçayı sözcük sözcük değil, bütün
+olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile gidilir.
+65. Yanıt: le ticket [lə tikɛ] — bilet Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+66. Yanıt: le billet [lə bijɛ] — bilet Çözüm: Türkçe karşılık bilet; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile
+gidilir.
+67. Yanıt: le taxi [lə taksi] — taksi Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+
+9
+
+68. Yanıt: le tramway [lə tʁamwɛ] — tramvay Çözüm: Türkçe karşılık tramvay; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à
+la/à l'/aux ile gidilir.
+69. Yanıt: le train [lə tʁɛ̃] — tren Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+70. Yanıt: le bus [lə by] — otobüs Çözüm: Türkçe karşılık otobüs; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile
+gidilir.
+71. Yanıt: le métro [lə metʁo] — metro Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+72. Yanıt: l'arrêt [laʁɛ] — durak Çözüm: Türkçe karşılık durak; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile
+gidilir.
+73. Yanıt: la station [la stasjɔ̃ ] — istasyon Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+74. Yanıt: la cathédrale [la katedʁal] — katedral Çözüm: Türkçe karşılık katedral; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe
+à/au/à la/à l'/aux ile gidilir.
+75. Yanıt: l'église [leɡliz] — kilise Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+76. Yanıt: la mairie [la meʁi] — belediye binası Çözüm: Türkçe karşılık belediye binası; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe
+à/au/à la/à l'/aux ile gidilir.
+77. Yanıt: l'hôpital [lɔpital] — hastane Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+78. Yanıt: l'hôtel [lotɛl] — otel Çözüm: Türkçe karşılık otel; Fransızca parçayı sözcük sözcük değil, bütün
+olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile gidilir.
+79. Yanıt: l'aéroport [laeʁopɔʁ] — havaalanı Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+11 bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+80. Yanıt: la gare [la ɡaʁ] — gar Çözüm: Türkçe karşılık gar; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile
+gidilir.
+81. Yanıt: la poste [la pɔst] — postane Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+82. Yanıt: la banque [la bɑ̃ k] — banka Çözüm: Türkçe karşılık banka; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+83. Yanıt: le cinéma [lə sinema] — sinema Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+84. Yanıt: le théâtre [lə teatʁ] — tiyatro Çözüm: Türkçe karşılık tiyatro; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+
+10
+
+85. Yanıt: le musée [lə myze] — müze Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+86. Yanıt: le parc [lə paʁk] — park Çözüm: Türkçe karşılık park; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile
+gidilir.
+87. Yanıt: le pont [lə pɔ̃ ] — köprü Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+88. Yanıt: la place [la plas] — meydan Çözüm: Türkçe karşılık meydan; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+89. Yanıt: l'avenue [lavny] — cadde Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 11
+bağlamında özne, artikel ve fiili denetle. Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/
+aux ile gidilir.
+90. Yanıt: la rue [la ʁy] — sokak Çözüm: Türkçe karşılık sokak; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 11 kuralı: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile
+gidilir.
+91. Yanıt: neuf [nœf] — dokuz Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 3 bağlamında
+özne, artikel ve fiili denetle. Kural: Tarih le + gün + ay; saat il est + sayı + heure(s). 70=60+10,
+80=4×20, 90=4×20+10.
+92. Yanıt: fermé [fɛʁme] — kapalı Çözüm: Türkçe karşılık kapalı; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi tanımlamak için renk
+ve beden sıfatı kullan.
+93. Yanıt: ouvert [uvɛʁ] — açık Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 10 bağlamında
+özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak için renk ve
+beden sıfatı kullan.
+94. Yanıt: prendre [pʁɑ̃ dʁ] — almak Çözüm: Türkçe karşılık almak; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+95. Yanıt: chercher [ʃɛʁʃe] — aramak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 7
+bağlamında özne, artikel ve fiili denetle. Kural: parler → je parle, tu parles, il parle, nous parlons, vous
+parlez, ils parlent; sıfat isimle uyumlanır.
+96. Yanıt: vendre [vɑ̃ dʁ] — satmak Çözüm: Türkçe karşılık satmak; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+97. Yanıt: acheter [aʃte] — satın almak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 7
+bağlamında özne, artikel ve fiili denetle. Kural: parler → je parle, tu parles, il parle, nous parlons, vous
+parlez, ils parlent; sıfat isimle uyumlanır.
+98. Yanıt: payer [peje] — ödemek Çözüm: Türkçe karşılık ödemek; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+99. Yanıt: essayer [eseje] — denemek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 10
+bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak için
+renk ve beden sıfatı kullan.
+100. Yanıt: bon marché [bɔ̃ n maʁʃe] — ucuz Çözüm: Türkçe karşılık ucuz; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+101. Yanıt: cher [ʃɛʁ] — pahalı Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 10 bağlamında
+özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak için renk ve
+beden sıfatı kullan.
+
+11
+
+102. Yanıt: le reçu [lə ʁəsy] — fiş Çözüm: Türkçe karşılık fiş; Fransızca parçayı sözcük sözcük değil, bütün
+olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi tanımlamak için renk ve
+beden sıfatı kullan.
+103. Yanıt: les espèces [lez ɛspɛs] — nakit Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 10
+bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak için
+renk ve beden sıfatı kullan.
+104. Yanıt: la carte bancaire [la kaʁt bɑ̃ kɛʁ] — banka kartı Çözüm: Türkçe karşılık banka kartı; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?;
+nesneyi tanımlamak için renk ve beden sıfatı kullan.
+105. Yanıt: la caisse [la kɛs] — kasa Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 10
+bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak için
+renk ve beden sıfatı kullan.
+106. Yanıt: la réduction [la ʁedyksjɔ̃ ] — indirim Çözüm: Türkçe karşılık indirim; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi
+tanımlamak için renk ve beden sıfatı kullan.
+107. Yanıt: le prix [lə pʁi] — fiyat Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 10
+bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak için
+renk ve beden sıfatı kullan.
+108. Yanıt: la pointure [la pwɛ̃tyʁ] — ayakkabı numarası Çözüm: Türkçe karşılık ayakkabı numarası;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte
+combien?; nesneyi tanımlamak için renk ve beden sıfatı kullan.
+109. Yanıt: la taille [la taj] — beden Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 10
+bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak için
+renk ve beden sıfatı kullan.
+110. Yanıt: la ceinture [la sɛ̃tyʁ] — kemer Çözüm: Türkçe karşılık kemer; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+111. Yanıt: les gants [lez ɡɑ̃ ] — eldivenler Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 10
+bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak için
+renk ve beden sıfatı kullan.
+112. Yanıt: le chapeau [lə ʃapo] — şapka Çözüm: Türkçe karşılık şapka; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+113. Yanıt: les chaussettes [lez ʃosɛt] — çoraplar Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 10 bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi
+tanımlamak için renk ve beden sıfatı kullan.
+114. Yanıt: les chaussures [lez ʃosyʁ] — ayakkabılar Çözüm: Türkçe karşılık ayakkabılar; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi
+tanımlamak için renk ve beden sıfatı kullan.
+115. Yanıt: la veste [la vɛst] — ceket Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 10
+bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak için
+renk ve beden sıfatı kullan.
+116. Yanıt: le manteau [lə mɑ̃ to] — palto Çözüm: Türkçe karşılık palto; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+117. Yanıt: le costume [lə kɔstym] — takım elbise Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 10 bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi
+tanımlamak için renk ve beden sıfatı kullan.
+118. Yanıt: la jupe [la ʒyp] — etek Çözüm: Türkçe karşılık etek; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi tanımlamak için renk
+ve beden sıfatı kullan.
+
+12
+
+119. Yanıt: la robe [la ʁɔb] — elbise Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 10
+bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak için
+renk ve beden sıfatı kullan.
+120. Yanıt: le tee-shirt [lə tiʃœʁt] — tişört Çözüm: Türkçe karşılık tişört; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+121. Yanıt: la chemise [la ʃəmiz] — gömlek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 10
+bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak için
+renk ve beden sıfatı kullan.
+122. Yanıt: le jean [lə ʒɑ̃ ] — kot pantolon Çözüm: Türkçe karşılık kot pantolon; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi
+tanımlamak için renk ve beden sıfatı kullan.
+123. Yanıt: le pantalon [lə pɑ̃ talɔ̃ ] — pantolon Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+10 bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+124. Yanıt: le centre commercial [lə sɑ̃ tʁ kɔmɛʁsjal] — alışveriş merkezi Çözüm: Türkçe karşılık alışveriş
+merkezi; Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için
+Ça coûte combien?; nesneyi tanımlamak için renk ve beden sıfatı kullan.
+125. Yanıt: le marché [lə maʁʃe] — pazar Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 10
+bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak için
+renk ve beden sıfatı kullan.
+126. Yanıt: la librairie [la libʁɛʁi] — kitapçı Çözüm: Türkçe karşılık kitapçı; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+127. Yanıt: la pharmacie [la faʁmasi] — eczane Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+10 bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+128. Yanıt: la boucherie [la buʃʁi] — kasap Çözüm: Türkçe karşılık kasap; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+129. Yanıt: la pâtisserie [la patisʁi] — pastane Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+10 bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+130. Yanıt: la boulangerie [la bulɑ̃ ʒʁi] — fırın Çözüm: Türkçe karşılık fırın; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+131. Yanıt: l'hypermarché [lipɛʁmaʁʃe] — hipermarket Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 10 bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi
+tanımlamak için renk ve beden sıfatı kullan.
+132. Yanıt: le supermarché [lə sypɛʁmaʁʃe] — süpermarket Çözüm: Türkçe karşılık süpermarket;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 10 kuralı: Fiyat için Ça coûte
+combien?; nesneyi tanımlamak için renk ve beden sıfatı kullan.
+133. Yanıt: le magasin [lə maɡazɛ̃] — mağaza Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+10 bağlamında özne, artikel ve fiili denetle. Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak
+için renk ve beden sıfatı kullan.
+134. Yanıt: délicieux [delisjø] — lezzetli Çözüm: Türkçe karşılık lezzetli; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+135. Yanıt: la table [la tabl] — masa Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 8
+bağlamında özne, artikel ve fiili denetle. Kural: Il y a + isim = var; yer edatı + artikel + isim.
+
+13
+
+136. Yanıt: le dessert [lə desɛʁ] — tatlı Çözüm: Türkçe karşılık tatlı; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais +
+isim.
+137. Yanıt: le plat [lə pla] — ana yemek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9
+bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+138. Yanıt: l'addition [ladisjɔ̃ ] — hesap Çözüm: Türkçe karşılık hesap; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+139. Yanıt: la serveuse [la sɛʁvøz] — garson (kadın) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 9 bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je
+voudrais + isim.
+140. Yanıt: le serveur [lə sɛʁvœʁ] — garson (erkek) Çözüm: Türkçe karşılık garson (erkek); Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l';
+kibar istek je voudrais + isim.
+141. Yanıt: le menu [lə məny] — menü Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9
+bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+142. Yanıt: la bière [la bjɛʁ] — bira Çözüm: Türkçe karşılık bira; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais +
+isim.
+143. Yanıt: le vin [lə vɛ̃] — şarap Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9 bağlamında
+özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais + isim.
+144. Yanıt: le jus [lə ʒy] — meyve suyu Çözüm: Türkçe karşılık meyve suyu; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je
+voudrais + isim.
+145. Yanıt: le thé [lə te] — çay Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9 bağlamında
+özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais + isim.
+146. Yanıt: le café [lə kafe] — kahve Çözüm: Türkçe karşılık kahve; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais +
+isim.
+147. Yanıt: l'eau [lo] — su Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9 bağlamında özne,
+artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais + isim.
+148. Yanıt: le citron [lə sitʁɔ̃ ] — limon Çözüm: Türkçe karşılık limon; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+149. Yanıt: la fraise [la fʁɛz] — çilek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9
+bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+150. Yanıt: le raisin [lə ʁɛzɛ̃] — üzüm Çözüm: Türkçe karşılık üzüm; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais +
+isim.
+151. Yanıt: l'orange [lɔʁɑ̃ ʒ] — portakal Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9
+bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+152. Yanıt: la banane [la banan] — muz Çözüm: Türkçe karşılık muz; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+
+14
+
+153. Yanıt: la pomme [la pɔm] — elma Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9
+bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+154. Yanıt: les fruits [lez fʁɥi] — meyveler Çözüm: Türkçe karşılık meyveler; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je
+voudrais + isim.
+155. Yanıt: les légumes [lez leɡym] — sebzeler Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+9 bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je
+voudrais + isim.
+156. Yanıt: la pomme de terre [la pɔm də tɛʁ] — patates Çözüm: Türkçe karşılık patates; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l';
+kibar istek je voudrais + isim.
+157. Yanıt: les pâtes [lez pat] — makarna Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9
+bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+158. Yanıt: le riz [lə ʁi] — pirinç Çözüm: Türkçe karşılık pirinç; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais +
+isim.
+159. Yanıt: le poisson [lə pwasɔ̃ ] — balık Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9
+bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+160. Yanıt: le porc [lə pɔʁ] — domuz eti Çözüm: Türkçe karşılık domuz eti; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je
+voudrais + isim.
+161. Yanıt: le bœuf [lə bœf] — dana eti Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9
+bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+162. Yanıt: le poulet [lə pulɛ] — tavuk Çözüm: Türkçe karşılık tavuk; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+163. Yanıt: la viande [la vjɑ̃ d] — et Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9
+bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+164. Yanıt: le poivre [lə pwavʁ] — karabiber Çözüm: Türkçe karşılık karabiber; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je
+voudrais + isim.
+165. Yanıt: le sel [lə sɛl] — tuz Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9 bağlamında
+özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais + isim.
+166. Yanıt: le sucre [lə sykʁ] — şeker Çözüm: Türkçe karşılık şeker; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais +
+isim.
+167. Yanıt: le lait [lə lɛ] — süt Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9 bağlamında
+özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais + isim.
+168. Yanıt: l'œuf [lœf] — yumurta Çözüm: Türkçe karşılık yumurta; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais +
+isim.
+169. Yanıt: le croissant [lə kʁwasɑ̃ ] — kruvasan Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+9 bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je
+voudrais + isim.
+
+15
+
+170. Yanıt: la confiture [la kɔ̃ fityʁ] — reçel Çözüm: Türkçe karşılık reçel; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+171. Yanıt: le beurre [lə bœʁ] — tereyağı Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9
+bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+172. Yanıt: le fromage [lə fʁɔmaʒ] — peynir Çözüm: Türkçe karşılık peynir; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar istek je
+voudrais + isim.
+173. Yanıt: le pain [lə pɛ̃] — ekmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 9
+bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais
++ isim.
+174. Yanıt: le dîner [lə dine] — akşam yemeği Çözüm: Türkçe karşılık akşam yemeği; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar
+istek je voudrais + isim.
+175. Yanıt: le goûter [lə ɡute] — ikindi atıştırması Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 9 bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek je
+voudrais + isim.
+176. Yanıt: le déjeuner [lə deʒœne] — öğle yemeği Çözüm: Türkçe karşılık öğle yemeği; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 9 kuralı: Belirsiz miktarda du/de la/de l'; kibar
+istek je voudrais + isim.
+177. Yanıt: le petit déjeuner [lə pəti deʒœne] — kahvaltı Çözüm: Anlamı taşıyan Fransızca öbeği aynen
+kur; modül 9 bağlamında özne, artikel ve fiili denetle. Kural: Belirsiz miktarda du/de la/de l'; kibar istek
+je voudrais + isim.
+178. Yanıt: il y a [il i a] — var Çözüm: Türkçe karşılık var; Fransızca parçayı sözcük sözcük değil, bütün
+olarak değerlendir. Modül 8 kuralı: Il y a + isim = var; yer edatı + artikel + isim.
+179. Yanıt: à droite de [a dʁwat də] — sağında Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+8 bağlamında özne, artikel ve fiili denetle. Kural: Il y a + isim = var; yer edatı + artikel + isim.
+180. Yanıt: à gauche de [a ɡoʃ də] — solunda Çözüm: Türkçe karşılık solunda; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 8 kuralı: Il y a + isim = var; yer edatı + artikel + isim.
+181. Yanıt: en face de [ɑ̃ n fas də] — karşısında Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+8 bağlamında özne, artikel ve fiili denetle. Kural: Il y a + isim = var; yer edatı + artikel + isim.
+182. Yanıt: à côté de [a kote də] — yanında Çözüm: Türkçe karşılık yanında; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 8 kuralı: Il y a + isim = var; yer edatı + artikel + isim.
+183. Yanıt: loin de [lwɛ̃ də] — uzağında Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 8
+bağlamında özne, artikel ve fiili denetle. Kural: Il y a + isim = var; yer edatı + artikel + isim.
+184. Yanıt: près de [pʁɛ də] — yakınında Çözüm: Türkçe karşılık yakınında; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 8 kuralı: Il y a + isim = var; yer edatı + artikel + isim.
+185. Yanıt: entre [ɑ̃ tʁ] — arasında Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 8
+bağlamında özne, artikel ve fiili denetle. Kural: Il y a + isim = var; yer edatı + artikel + isim.
+186. Yanıt: derrière [dɛʁjɛʁ] — arkasında Çözüm: Türkçe karşılık arkasında; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 8 kuralı: Il y a + isim = var; yer edatı + artikel + isim.
+187. Yanıt: devant [dəvɑ̃ ] — önünde Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 8
+bağlamında özne, artikel ve fiili denetle. Kural: Il y a + isim = var; yer edatı + artikel + isim.
+188. Yanıt: sous [su] — altında Çözüm: Türkçe karşılık altında; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 8 kuralı: Il y a + isim = var; yer edatı + artikel + isim.
+189. Yanıt: sur [syʁ] — üstünde Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 8 bağlamında
+özne, artikel ve fiili denetle. Kural: Il y a + isim = var; yer edatı + artikel + isim.
+
+16
+
+190. Yanıt: dans [dɑ̃ ] — içinde Çözüm: Türkçe karşılık içinde; Fransızca parçayı sözcük sözcük değil, bütün
+olarak değerlendir. Modül 8 kuralı: Il y a + isim = var; yer edatı + artikel + isim.
+191. Yanıt: l'ordinateur [lɔʁdinatœʁ] — bilgisayar Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 8 bağlamında özne, artikel ve fiili denetle. Kural: Il y a + isim = var; yer edatı + artikel + isim.
+192. Yanıt: la télévision [la televizjɔ̃ ] — televizyon Çözüm: Türkçe karşılık televizyon; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 8 kuralı: Il y a + isim = var; yer edatı + artikel +
+isim.
+193. Yanıt: la cuisinière [la kɥizinjɛʁ] — ocak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 8
+bağlamında özne, artikel ve fiili denetle. Kural: Il y a + isim = var; yer edatı + artikel + isim.
+194. Yanıt: le réfrigérateur [lə ʁefʁiʒeʁatœʁ] — buzdolabı Çözüm: Türkçe karşılık buzdolabı; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 8 kuralı: Il y a + isim = var; yer edatı +
+artikel + isim.
+195. Yanıt: le sol [lə sɔl] — zemin Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 8 bağlamında
+özne, artikel ve fiili denetle. Kural: Il y a + isim = var; yer edatı + artikel + isim.
+196. Yanıt: le plafond [lə plafɔ̃ ] — tavan Çözüm: Türkçe karşılık tavan; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 8 kuralı: Il y a + isim = var; yer edatı + artikel + isim.
+197. Yanıt: le mur [lə myʁ] — duvar Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 8
+bağlamında özne, artikel ve fiili denetle. Kural: Il y a + isim = var; yer edatı + artikel + isim.
+198. Yanıt: la fenêtre [la fənɛtʁ] — pencere Çözüm: Türkçe karşılık pencere; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 8 kuralı: Il y a + isim = var; yer edatı + artikel + isim.
+199. Yanıt: la porte [la pɔʁt] — kapı Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 8
+bağlamında özne, artikel ve fiili denetle. Kural: Il y a + isim = var; yer edatı + artikel + isim.
+200. Yanıt: la lampe [la lɑ̃ p] — lamba Çözüm: Türkçe karşılık lamba; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 8 kuralı: Il y a + isim = var; yer edatı + artikel + isim.
+
+A2 — 200 çözümlü soru
+1. Fransızcaya çevir: sabırsız (eril)
+2. Türkçeye çevir ve dilbilgisi işlevini söyle: enthousiaste
+3. Fransızcaya çevir: rahatlamış (dişil)
+4. Türkçeye çevir ve dilbilgisi işlevini söyle: soulagé
+5. Fransızcaya çevir: minnettar (dişil)
+6. Türkçeye çevir ve dilbilgisi işlevini söyle: reconnaissant
+7. Fransızcaya çevir: rahatsız/mahcup (dişil)
+8. Türkçeye çevir ve dilbilgisi işlevini söyle: gêné
+9. Fransızcaya çevir: hayal kırıklığına uğramış (dişil)
+10. Türkçeye çevir ve dilbilgisi işlevini söyle: déçu
+11. Fransızcaya çevir: nazik (dişil)
+12. Türkçeye çevir ve dilbilgisi işlevini söyle: gentil
+13. Fransızcaya çevir: kibar (dişil)
+14. Türkçeye çevir ve dilbilgisi işlevini söyle: poli
+15. Fransızcaya çevir: özür dilemek
+16. Türkçeye çevir ve dilbilgisi işlevini söyle: remercier
+17. Fransızcaya çevir: rahatsız etmek
+18. Türkçeye çevir ve dilbilgisi işlevini söyle: permettre
+19. Fransızcaya çevir: cevaplamak
+
+17
+
+20. Türkçeye çevir ve dilbilgisi işlevini söyle: demander
+21. Fransızcaya çevir: yardım etmek
+22. Türkçeye çevir ve dilbilgisi işlevini söyle: devoir
+23. Fransızcaya çevir: istemek
+24. Türkçeye çevir ve dilbilgisi işlevini söyle: pouvoir
+25. Fransızcaya çevir: haksız olmak
+26. Türkçeye çevir ve dilbilgisi işlevini söyle: avoir raison
+27. Fransızcaya çevir: katılmak
+28. Türkçeye çevir ve dilbilgisi işlevini söyle: préférer
+29. Fransızcaya çevir: bulmak/düşünmek
+30. Türkçeye çevir ve dilbilgisi işlevini söyle: croire
+31. Fransızcaya çevir: düşünmek
+32. Türkçeye çevir ve dilbilgisi işlevini söyle: le désaccord
+33. Fransızcaya çevir: fikir
+34. Türkçeye çevir ve dilbilgisi işlevini söyle: l'avis
+35. Fransızcaya çevir: öfke
+36. Türkçeye çevir ve dilbilgisi işlevini söyle: joie
+37. Fransızcaya çevir: utanç
+38. Türkçeye çevir ve dilbilgisi işlevini söyle: peur
+39. Fransızcaya çevir: gururlu (kadın)
+40. Türkçeye çevir ve dilbilgisi işlevini söyle: fier
+41. Fransızcaya çevir: sakin
+42. Türkçeye çevir ve dilbilgisi işlevini söyle: heureuse
+43. Fransızcaya çevir: mutlu (erkek)
+44. Türkçeye çevir ve dilbilgisi işlevini söyle: surprise
+45. Fransızcaya çevir: şaşkın (erkek)
+46. Türkçeye çevir ve dilbilgisi işlevini söyle: inquiète
+47. Fransızcaya çevir: endişeli (erkek)
+48. Türkçeye çevir ve dilbilgisi işlevini söyle: stressée
+49. Fransızcaya çevir: stresli (erkek)
+50. Türkçeye çevir ve dilbilgisi işlevini söyle: fatiguée
+51. Fransızcaya çevir: yorgun (erkek)
+52. Türkçeye çevir ve dilbilgisi işlevini söyle: en colère
+53. Fransızcaya çevir: üzgün
+54. Türkçeye çevir ve dilbilgisi işlevini söyle: contente
+55. Fransızcaya çevir: mutlu (erkek)
+56. Türkçeye çevir ve dilbilgisi işlevini söyle: le jardinier
+57. Fransızcaya çevir: örgü
+58. Türkçeye çevir ve dilbilgisi işlevini söyle: le patinage
+59. Fransızcaya çevir: kampçılık
+60. Türkçeye çevir ve dilbilgisi işlevini söyle: le ping-pong
+
+18
+
+61. Fransızcaya çevir: satranç
+62. Türkçeye çevir ve dilbilgisi işlevini söyle: le bénévolat
+63. Fransızcaya çevir: koleksiyon
+64. Türkçeye çevir ve dilbilgisi işlevini söyle: la couture
+65. Fransızcaya çevir: seramikçilik
+66. Türkçeye çevir ve dilbilgisi işlevini söyle: le bricolage
+67. Fransızcaya çevir: tırmanış
+68. Türkçeye çevir ve dilbilgisi işlevini söyle: se promener
+69. Fransızcaya çevir: yemek pişirmek
+70. Türkçeye çevir ve dilbilgisi işlevini söyle: dessiner
+71. Fransızcaya çevir: dans etmek
+72. Türkçeye çevir ve dilbilgisi işlevini söyle: chanter
+73. Fransızcaya çevir: koşmak
+74. Türkçeye çevir ve dilbilgisi işlevini söyle: nager
+75. Fransızcaya çevir: oynamak
+76. Türkçeye çevir ve dilbilgisi işlevini söyle: lire
+77. Fransızcaya çevir: çıkmak
+78. Türkçeye çevir ve dilbilgisi işlevini söyle: venir
+79. Fransızcaya çevir: önermek
+80. Türkçeye çevir ve dilbilgisi işlevini söyle: refuser
+81. Fransızcaya çevir: kabul etmek
+82. Türkçeye çevir ve dilbilgisi işlevini söyle: inviter
+83. Fransızcaya çevir: tatil
+84. Türkçeye çevir ve dilbilgisi işlevini söyle: le week-end
+85. Fransızcaya çevir: kitap
+86. Türkçeye çevir ve dilbilgisi işlevini söyle: le film
+87. Fransızcaya çevir: dizi
+88. Türkçeye çevir ve dilbilgisi işlevini söyle: le concert
+89. Fransızcaya çevir: müze
+90. Türkçeye çevir ve dilbilgisi işlevini söyle: la randonnée
+91. Fransızcaya çevir: bisiklet
+92. Türkçeye çevir ve dilbilgisi işlevini söyle: la pêche
+93. Fransızcaya çevir: bahçıvanlık
+94. Türkçeye çevir ve dilbilgisi işlevini söyle: les jeux vidéo
+95. Fransızcaya çevir: yemek yapma
+96. Türkçeye çevir ve dilbilgisi işlevini söyle: les voyages
+97. Fransızcaya çevir: tiyatro
+98. Türkçeye çevir ve dilbilgisi işlevini söyle: le cinéma
+99. Fransızcaya çevir: okuma
+100. Türkçeye çevir ve dilbilgisi işlevini söyle: la photographie
+101. Fransızcaya çevir: çizim
+
+19
+
+102. Türkçeye çevir ve dilbilgisi işlevini söyle: le piano
+103. Fransızcaya çevir: gitar
+104. Türkçeye çevir ve dilbilgisi işlevini söyle: le chant
+105. Fransızcaya çevir: müzik
+106. Türkçeye çevir ve dilbilgisi işlevini söyle: la danse
+107. Fransızcaya çevir: yoga
+108. Türkçeye çevir ve dilbilgisi işlevini söyle: la course
+109. Fransızcaya çevir: yüzme
+110. Türkçeye çevir ve dilbilgisi işlevini söyle: le basket
+111. Fransızcaya çevir: futbol
+112. Türkçeye çevir ve dilbilgisi işlevini söyle: le sport
+113. Fransızcaya çevir: aktarma
+114. Türkçeye çevir ve dilbilgisi işlevini söyle: l'aller-retour
+115. Fransızcaya çevir: tek yön
+116. Türkçeye çevir ve dilbilgisi işlevini söyle: le contrôle des passeports
+117. Fransızcaya çevir: vize
+118. Türkçeye çevir ve dilbilgisi işlevini söyle: la frontière
+119. Fransızcaya çevir: geri ödeme
+120. Türkçeye çevir ve dilbilgisi işlevini söyle: l'annulation
+121. Fransızcaya çevir: seyahat sigortası
+122. Türkçeye çevir ve dilbilgisi işlevini söyle: l'itinéraire
+123. Fransızcaya çevir: konaklama
+124. Türkçeye çevir ve dilbilgisi işlevini söyle: rester
+125. Fransızcaya çevir: ziyaret etmek
+126. Türkçeye çevir ve dilbilgisi işlevini söyle: réserver
+127. Fransızcaya çevir: seyahat etmek
+128. Türkçeye çevir ve dilbilgisi işlevini söyle: l'horaire
+129. Fransızcaya çevir: gecikme
+130. Türkçeye çevir ve dilbilgisi işlevini söyle: le trajet
+131. Fransızcaya çevir: peron
+132. Türkçeye çevir ve dilbilgisi işlevini söyle: le train
+133. Fransızcaya çevir: dağ
+134. Türkçeye çevir ve dilbilgisi işlevini söyle: la mer
+135. Fransızcaya çevir: kartpostal
+136. Türkçeye çevir ve dilbilgisi işlevini söyle: le guide
+137. Fransızcaya çevir: hediyelik eşya
+138. Türkçeye çevir ve dilbilgisi işlevini söyle: la photo
+139. Fransızcaya çevir: manzara
+140. Türkçeye çevir ve dilbilgisi işlevini söyle: le monument
+141. Fransızcaya çevir: gezi
+142. Türkçeye çevir ve dilbilgisi işlevini söyle: la plage
+
+20
+
+143. Fransızcaya çevir: kahvaltı
+144. Türkçeye çevir ve dilbilgisi işlevini söyle: la nuit
+145. Fransızcaya çevir: kalkış/ayrılış
+146. Türkçeye çevir ve dilbilgisi işlevini söyle: l'arrivée
+147. Fransızcaya çevir: resepsiyon
+148. Türkçeye çevir ve dilbilgisi işlevini söyle: l'étage
+149. Fransızcaya çevir: asansör
+150. Türkçeye çevir ve dilbilgisi işlevini söyle: la clé
+151. Fransızcaya çevir: rezervasyon
+152. Türkçeye çevir ve dilbilgisi işlevini söyle: la chambre
+153. Fransızcaya çevir: otel
+154. Türkçeye çevir ve dilbilgisi işlevini söyle: la douane
+155. Fransızcaya çevir: güvenlik
+156. Türkçeye çevir ve dilbilgisi işlevini söyle: le contrôle
+157. Fransızcaya çevir: biniş kapısı
+158. Türkçeye çevir ve dilbilgisi işlevini söyle: l'atterrissage
+159. Fransızcaya çevir: kalkış
+160. Türkçeye çevir ve dilbilgisi işlevini söyle: l'embarquement
+161. Fransızcaya çevir: uçuş kaydı
+162. Türkçeye çevir ve dilbilgisi işlevini söyle: la valise
+163. Fransızcaya çevir: bagaj
+164. Türkçeye çevir ve dilbilgisi işlevini söyle: le passeport
+165. Fransızcaya çevir: bilet
+166. Türkçeye çevir ve dilbilgisi işlevini söyle: le vol
+167. Fransızcaya çevir: uçak
+168. Türkçeye çevir ve dilbilgisi işlevini söyle: l'aéroport
+169. Fransızcaya çevir: deneme süresi
+170. Türkçeye çevir ve dilbilgisi işlevini söyle: le recrutement
+171. Fransızcaya çevir: işe alma
+172. Türkçeye çevir ve dilbilgisi işlevini söyle: travailler
+173. Fransızcaya çevir: iş arkadaşı
+174. Türkçeye çevir ve dilbilgisi işlevini söyle: l'entreprise
+175. Fransızcaya çevir: başvuru
+176. Türkçeye çevir ve dilbilgisi işlevini söyle: le CV
+177. Fransızcaya çevir: süreli iş sözleşmesi
+178. Türkçeye çevir ve dilbilgisi işlevini söyle: le CDI
+179. Fransızcaya çevir: sözleşme
+180. Türkçeye çevir ve dilbilgisi işlevini söyle: la qualification
+181. Fransızcaya çevir: beceri
+182. Türkçeye çevir ve dilbilgisi işlevini söyle: l'expérience
+183. Fransızcaya çevir: maaş
+
+21
+
+184. Türkçeye çevir ve dilbilgisi işlevini söyle: l'entretien
+185. Fransızcaya çevir: pozisyon
+186. Türkçeye çevir ve dilbilgisi işlevini söyle: l'emploi
+187. Fransızcaya çevir: banka
+188. Türkçeye çevir ve dilbilgisi işlevini söyle: l'école
+189. Fransızcaya çevir: fabrika
+190. Türkçeye çevir ve dilbilgisi işlevini söyle: le bureau
+191. Fransızcaya çevir: sekreter (kadın)
+192. Türkçeye çevir ve dilbilgisi işlevini söyle: le secrétaire
+193. Fransızcaya çevir: muhasebeci
+194. Türkçeye çevir ve dilbilgisi işlevini söyle: l'avocate
+195. Fransızcaya çevir: avukat (erkek)
+196. Türkçeye çevir ve dilbilgisi işlevini söyle: la musicienne
+197. Fransızcaya çevir: müzisyen (erkek)
+198. Türkçeye çevir ve dilbilgisi işlevini söyle: l'artiste
+199. Fransızcaya çevir: gazeteci
+200. Türkçeye çevir ve dilbilgisi işlevini söyle: la policière
+
+Ayrıntılı cevap anahtarı
+1. Yanıt: impatient [ɛ̃pasjɑ̃ ] — sabırsız (eril) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+23 bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/
+mastar kibar istek; avoir peur.
+2. Yanıt: enthousiaste [ɑ̃ tuzjast] — hevesli Çözüm: Türkçe karşılık hevesli; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je voudrais +
+isim/mastar kibar istek; avoir peur.
+3. Yanıt: soulagée [sulaʒe] — rahatlamış (dişil) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 23 bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais +
+isim/mastar kibar istek; avoir peur.
+4. Yanıt: soulagé [sulaʒe] — rahatlamış (eril) Çözüm: Türkçe karşılık rahatlamış (eril); Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je
+voudrais + isim/mastar kibar istek; avoir peur.
+5. Yanıt: reconnaissante [ʁəkɔnɛsɑ̃ t] — minnettar (dişil) Çözüm: Anlamı taşıyan Fransızca öbeği aynen
+kur; modül 23 bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais
++ isim/mastar kibar istek; avoir peur.
+6. Yanıt: reconnaissant [ʁəkɔnɛsɑ̃ ] — minnettar (eril) Çözüm: Türkçe karşılık minnettar (eril); Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi;
+je voudrais + isim/mastar kibar istek; avoir peur.
+7. Yanıt: gênée [ʒene] — rahatsız/mahcup (dişil) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 23 bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais +
+isim/mastar kibar istek; avoir peur.
+8. Yanıt: gêné [ʒɛne] — rahatsız/mahcup (eril) Çözüm: Türkçe karşılık rahatsız/mahcup (eril); Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi;
+je voudrais + isim/mastar kibar istek; avoir peur.
+9. Yanıt: déçue [desy] — hayal kırıklığına uğramış (dişil) Çözüm: Anlamı taşıyan Fransızca öbeği aynen
+kur; modül 23 bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais
++ isim/mastar kibar istek; avoir peur.
+
+22
+
+10. Yanıt: déçu [desy] — hayal kırıklığına uğramış (eril) Çözüm: Türkçe karşılık hayal kırıklığına uğramış
+(eril); Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que
++ bildirme kipi; je voudrais + isim/mastar kibar istek; avoir peur.
+11. Yanıt: gentille [ʒɑ̃ tij] — nazik (dişil) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 23
+bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar
+kibar istek; avoir peur.
+12. Yanıt: gentil [ʒɑ̃ ti] — nazik (eril) Çözüm: Türkçe karşılık nazik (eril); Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je voudrais + isim/
+mastar kibar istek; avoir peur.
+13. Yanıt: polie [poli] — kibar (dişil) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 23
+bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar
+kibar istek; avoir peur.
+14. Yanıt: poli [pɔli] — kibar (eril) Çözüm: Türkçe karşılık kibar (eril); Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je voudrais + isim/
+mastar kibar istek; avoir peur.
+15. Yanıt: s'excuser [sɛkskyze] — özür dilemek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+23 bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/
+mastar kibar istek; avoir peur.
+16. Yanıt: remercier [ʁəmɛʁsje] — teşekkür etmek Çözüm: Türkçe karşılık teşekkür etmek; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi;
+je voudrais + isim/mastar kibar istek; avoir peur.
+17. Yanıt: déranger [deʁɑ̃ ʒe] — rahatsız etmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+23 bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/
+mastar kibar istek; avoir peur.
+18. Yanıt: permettre [pɛʁmɛtʁ] — izin vermek Çözüm: Türkçe karşılık izin vermek; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je
+voudrais + isim/mastar kibar istek; avoir peur.
+19. Yanıt: répondre [ʁepɔ̃ dʁ] — cevaplamak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+15 bağlamında özne, artikel ve fiili denetle. Kural: finir→finis/finis/finit/finissons/finissez/finissent;
+attendre→attends/attends/attend/attendons/attendez/attendent; dönüşlü: me/te/se/nous/vous/se.
+20. Yanıt: demander [dəmɑ̃ de] — istemek/sormak Çözüm: Türkçe karşılık istemek/sormak; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi;
+je voudrais + isim/mastar kibar istek; avoir peur.
+21. Yanıt: aider [ede] — yardım etmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 17
+bağlamında özne, artikel ve fiili denetle. Kural: Doğrudan nesne le/la/les; à + kişi dolaylı nesne lui/
+leur; en çoğunlukla de öbeğini, y çoğunlukla à veya yer öbeğini karşılar.
+22. Yanıt: devoir [dəvwaʁ] — zorunda olmak Çözüm: Türkçe karşılık zorunda olmak; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je
+voudrais + isim/mastar kibar istek; avoir peur.
+23. Yanıt: vouloir [vulwaʁ] — istemek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 13
+bağlamında özne, artikel ve fiili denetle. Kural: Özne + avoir şimdiki zaman + participe passé; düzenli
+-er→-é, -ir→-i, -re→-u.
+24. Yanıt: pouvoir [puvwaʁ] — yapabilmek Çözüm: Türkçe karşılık yapabilmek; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 13 kuralı: Özne + avoir şimdiki zaman + participe
+passé; düzenli -er→-é, -ir→-i, -re→-u.
+25. Yanıt: avoir tort [avwaʁ tɔʁ] — haksız olmak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 23 bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais +
+isim/mastar kibar istek; avoir peur.
+26. Yanıt: avoir raison [avwaʁ ʁɛzɔ̃ ] — haklı olmak Çözüm: Türkçe karşılık haklı olmak; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je
+voudrais + isim/mastar kibar istek; avoir peur.
+
+23
+
+27. Yanıt: être d'accord [ɛtʁ dakɔʁ] — katılmak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+23 bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/
+mastar kibar istek; avoir peur.
+28. Yanıt: préférer [pʁefeʁe] — tercih etmek Çözüm: Türkçe karşılık tercih etmek; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 18 kuralı: plus/moins/aussi + sıfat + que; le/la/
+les plus + sıfat; bon→meilleur, bien→mieux.
+29. Yanıt: trouver [tʁuve] — bulmak/düşünmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 23 bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais +
+isim/mastar kibar istek; avoir peur.
+30. Yanıt: croire [kʁwaʁ] — inanmak Çözüm: Türkçe karşılık inanmak; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 13 kuralı: Özne + avoir şimdiki zaman + participe passé;
+düzenli -er→-é, -ir→-i, -re→-u.
+31. Yanıt: penser [pɑ̃ se] — düşünmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 23
+bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar
+kibar istek; avoir peur.
+32. Yanıt: le désaccord [lə dezakɔʁ] — karşı çıkma Çözüm: Türkçe karşılık karşı çıkma; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je
+voudrais + isim/mastar kibar istek; avoir peur.
+33. Yanıt: l'opinion [lɔpinjɔ̃ ] — fikir Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 23
+bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar
+kibar istek; avoir peur.
+34. Yanıt: l'avis [lavi] — görüş Çözüm: Türkçe karşılık görüş; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je voudrais + isim/mastar
+kibar istek; avoir peur.
+35. Yanıt: colère [kɔlɛʁ] — öfke Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 23 bağlamında
+özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar kibar istek;
+avoir peur.
+36. Yanıt: joie [ʒwa] — sevinç Çözüm: Türkçe karşılık sevinç; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je voudrais + isim/mastar
+kibar istek; avoir peur.
+37. Yanıt: honte [ɔ̃ t] — utanç Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 23 bağlamında
+özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar kibar istek;
+avoir peur.
+38. Yanıt: peur [pœʁ] — korku Çözüm: Türkçe karşılık korku; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je voudrais + isim/mastar
+kibar istek; avoir peur.
+39. Yanıt: fière [fjɛʁ] — gururlu (kadın) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 23
+bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar
+kibar istek; avoir peur.
+40. Yanıt: fier [fjɛʁ] — gururlu (erkek) Çözüm: Türkçe karşılık gururlu (erkek); Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je voudrais +
+isim/mastar kibar istek; avoir peur.
+41. Yanıt: calme [kalm] — sakin Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 23
+bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar
+kibar istek; avoir peur.
+42. Yanıt: heureuse [œʁøz] — mutlu (kadın) Çözüm: Türkçe karşılık mutlu (kadın); Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je
+voudrais + isim/mastar kibar istek; avoir peur.
+43. Yanıt: heureux [œʁø] — mutlu (erkek) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 23
+bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar
+kibar istek; avoir peur.
+
+24
+
+44. Yanıt: surprise [syʁpʁiz] — şaşkın (kadın) Çözüm: Türkçe karşılık şaşkın (kadın); Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je
+voudrais + isim/mastar kibar istek; avoir peur.
+45. Yanıt: surpris [syʁpʁi] — şaşkın (erkek) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 23
+bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar
+kibar istek; avoir peur.
+46. Yanıt: inquiète [ɛ̃kjɛt] — endişeli (kadın) Çözüm: Türkçe karşılık endişeli (kadın); Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je
+voudrais + isim/mastar kibar istek; avoir peur.
+47. Yanıt: inquiet [ɛ̃kjɛ] — endişeli (erkek) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 23
+bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar
+kibar istek; avoir peur.
+48. Yanıt: stressée [stʁɛse] — stresli (kadın) Çözüm: Türkçe karşılık stresli (kadın); Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je
+voudrais + isim/mastar kibar istek; avoir peur.
+49. Yanıt: stressé [stʁɛse] — stresli (erkek) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 23
+bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar
+kibar istek; avoir peur.
+50. Yanıt: fatiguée [fatiɡe] — yorgun (kadın) Çözüm: Türkçe karşılık yorgun (kadın); Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je
+voudrais + isim/mastar kibar istek; avoir peur.
+51. Yanıt: fatigué [fatiɡe] — yorgun (erkek) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 23
+bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar
+kibar istek; avoir peur.
+52. Yanıt: en colère [ɑ̃ n kɔlɛʁ] — öfkeli Çözüm: Türkçe karşılık öfkeli; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je voudrais + isim/
+mastar kibar istek; avoir peur.
+53. Yanıt: triste [tʁist] — üzgün Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 23 bağlamında
+özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar kibar istek;
+avoir peur.
+54. Yanıt: contente [kɔ̃ tɑ̃ t] — mutlu (kadın) Çözüm: Türkçe karşılık mutlu (kadın); Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 23 kuralı: Je pense que + bildirme kipi; je
+voudrais + isim/mastar kibar istek; avoir peur.
+55. Yanıt: content [kɔ̃ tɑ̃ ] — mutlu (erkek) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 23
+bağlamında özne, artikel ve fiili denetle. Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar
+kibar istek; avoir peur.
+56. Yanıt: le jardinier [lə ʒaʁdinje] — bahçıvan Çözüm: Türkçe karşılık bahçıvan; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel
+veya mastar; yakın gelecek aller + mastar.
+57. Yanıt: le tricot [lə tʁiko] — örgü Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+58. Yanıt: le patinage [lə patinaʒ] — paten kayma Çözüm: Türkçe karşılık paten kayma; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli
+artikel veya mastar; yakın gelecek aller + mastar.
+59. Yanıt: le camping [lə kɑ̃ piŋɡ] — kampçılık Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+22 bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+60. Yanıt: le ping-pong [lə piŋpɔ̃ ɡ] — masa tenisi Çözüm: Türkçe karşılık masa tenisi; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel
+veya mastar; yakın gelecek aller + mastar.
+
+25
+
+61. Yanıt: les échecs [lez eʃɛk] — satranç Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+62. Yanıt: le bénévolat [lə benevɔla] — gönüllülük Çözüm: Türkçe karşılık gönüllülük; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel
+veya mastar; yakın gelecek aller + mastar.
+63. Yanıt: la collection [la kɔlɛksjɔ̃ ] — koleksiyon Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 22 bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya
+mastar; yakın gelecek aller + mastar.
+64. Yanıt: la couture [la kutyʁ] — dikiş Çözüm: Türkçe karşılık dikiş; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+65. Yanıt: la poterie [la pɔtʁi] — seramikçilik Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+22 bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+66. Yanıt: le bricolage [lə bʁikɔlaʒ] — ev işleri/hobi tamirat Çözüm: Türkçe karşılık ev işleri/hobi tamirat;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/
+détester + belirli artikel veya mastar; yakın gelecek aller + mastar.
+67. Yanıt: l'escalade [lɛskalad] — tırmanış Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+68. Yanıt: se promener [sə pʁɔməne] — gezmek Çözüm: Türkçe karşılık gezmek; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 15 kuralı: finir→finis/finis/finit/finissons/finissez/
+finissent; attendre→attends/attends/attend/attendons/attendez/attendent; dönüşlü: me/te/se/nous/
+vous/se.
+69. Yanıt: cuisiner [kɥizine] — yemek pişirmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+13 bağlamında özne, artikel ve fiili denetle. Kural: Özne + avoir şimdiki zaman + participe passé;
+düzenli -er→-é, -ir→-i, -re→-u.
+70. Yanıt: dessiner [desine] — çizmek Çözüm: Türkçe karşılık çizmek; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+71. Yanıt: danser [dɑ̃ se] — dans etmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+72. Yanıt: chanter [ʃɑ̃ te] — şarkı söylemek Çözüm: Türkçe karşılık şarkı söylemek; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel
+veya mastar; yakın gelecek aller + mastar.
+73. Yanıt: courir [kuʁiʁ] — koşmak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+74. Yanıt: nager [naʒe] — yüzmek Çözüm: Türkçe karşılık yüzmek; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+75. Yanıt: jouer [ʒwe] — oynamak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+76. Yanıt: lire [liʁ] — okumak Çözüm: Türkçe karşılık okumak; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 13 kuralı: Özne + avoir şimdiki zaman + participe passé; düzenli er→-é, -ir→-i, -re→-u.
+
+26
+
+77. Yanıt: sortir [sɔʁtiʁ] — çıkmak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 14
+bağlamında özne, artikel ve fiili denetle. Kural: Özne + être şimdiki zaman + geçmiş ortaç; özneyle
+cinsiyet/sayı uyumu. Bazı yer değiştirme fiilleri ve dönüşlü fiiller être alır.
+78. Yanıt: venir [vəniʁ] — gelmek Çözüm: Türkçe karşılık gelmek; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 14 kuralı: Özne + être şimdiki zaman + geçmiş ortaç; özneyle
+cinsiyet/sayı uyumu. Bazı yer değiştirme fiilleri ve dönüşlü fiiller être alır.
+79. Yanıt: proposer [pʁɔpoze] — önermek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+80. Yanıt: refuser [ʁəfyze] — reddetmek Çözüm: Türkçe karşılık reddetmek; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel veya
+mastar; yakın gelecek aller + mastar.
+81. Yanıt: accepter [aksɛpte] — kabul etmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+22 bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+82. Yanıt: inviter [ɛ̃vite] — davet etmek Çözüm: Türkçe karşılık davet etmek; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 17 kuralı: Doğrudan nesne le/la/les; à + kişi dolaylı
+nesne lui/leur; en çoğunlukla de öbeğini, y çoğunlukla à veya yer öbeğini karşılar.
+83. Yanıt: les vacances [lez vakɑ̃ s] — tatil Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+84. Yanıt: le week-end [lə wikɛnd] — hafta sonu Çözüm: Türkçe karşılık hafta sonu; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel
+veya mastar; yakın gelecek aller + mastar.
+85. Yanıt: le livre [lə livʁ] — kitap Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 16
+bağlamında özne, artikel ve fiili denetle. Kural: Belirli le/la/l'/les; belirsiz un/une/des; partitif du/de la/
+de l'/des; olumsuz miktar çoğu kez de/d'.
+86. Yanıt: le film [lə film] — film Çözüm: Türkçe karşılık film; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel veya mastar; yakın
+gelecek aller + mastar.
+87. Yanıt: la série [la seʁi] — dizi Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+88. Yanıt: le concert [lə kɔ̃ sɛʁ] — konser Çözüm: Türkçe karşılık konser; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+89. Yanıt: le musée [lə myze] — müze Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+90. Yanıt: la randonnée [la ʁɑ̃ dɔne] — doğa yürüyüşü Çözüm: Türkçe karşılık doğa yürüyüşü; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli
+artikel veya mastar; yakın gelecek aller + mastar.
+91. Yanıt: le vélo [lə velo] — bisiklet Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+92. Yanıt: la pêche [la pɛʃ] — balık tutma Çözüm: Türkçe karşılık balık tutma; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel veya
+mastar; yakın gelecek aller + mastar.
+93. Yanıt: le jardinage [lə ʒaʁdinaʒ] — bahçıvanlık Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 22 bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya
+mastar; yakın gelecek aller + mastar.
+
+27
+
+94. Yanıt: les jeux vidéo [lez ʒø video] — video oyunları Çözüm: Türkçe karşılık video oyunları; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli
+artikel veya mastar; yakın gelecek aller + mastar.
+95. Yanıt: la cuisine [la kɥizin] — yemek yapma Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 22 bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya
+mastar; yakın gelecek aller + mastar.
+96. Yanıt: les voyages [lez vwajaʒ] — seyahatler Çözüm: Türkçe karşılık seyahatler; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel
+veya mastar; yakın gelecek aller + mastar.
+97. Yanıt: le théâtre [lə teatʁ] — tiyatro Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+98. Yanıt: le cinéma [lə sinema] — sinema Çözüm: Türkçe karşılık sinema; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel veya
+mastar; yakın gelecek aller + mastar.
+99. Yanıt: la lecture [la lɛktyʁ] — okuma Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+100. Yanıt: la photographie [la fɔtɔɡʁafi] — fotoğrafçılık Çözüm: Türkçe karşılık fotoğrafçılık; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli
+artikel veya mastar; yakın gelecek aller + mastar.
+101. Yanıt: le dessin [lə desɛ̃] — çizim Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+102. Yanıt: le piano [lə pjano] — piyano Çözüm: Türkçe karşılık piyano; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+103. Yanıt: la guitare [la ɡitaʁ] — gitar Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+104. Yanıt: le chant [lə ʃɑ̃ ] — şarkı söyleme Çözüm: Türkçe karşılık şarkı söyleme; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel
+veya mastar; yakın gelecek aller + mastar.
+105. Yanıt: la musique [la myzik] — müzik Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+106. Yanıt: la danse [la dɑ̃ s] — dans Çözüm: Türkçe karşılık dans; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel veya mastar; yakın
+gelecek aller + mastar.
+107. Yanıt: le yoga [lə jɔɡa] — yoga Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+108. Yanıt: la course [la kuʁs] — koşu Çözüm: Türkçe karşılık koşu; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel veya mastar; yakın
+gelecek aller + mastar.
+109. Yanıt: la natation [la natasjɔ̃ ] — yüzme Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+110. Yanıt: le basket [lə baskɛt] — basketbol Çözüm: Türkçe karşılık basketbol; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel veya
+mastar; yakın gelecek aller + mastar.
+
+28
+
+111. Yanıt: le football [lə futbol] — futbol Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 22
+bağlamında özne, artikel ve fiili denetle. Kural: aimer/adorer/détester + belirli artikel veya mastar;
+yakın gelecek aller + mastar.
+112. Yanıt: le sport [lə spɔʁ] — spor Çözüm: Türkçe karşılık spor; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 22 kuralı: aimer/adorer/détester + belirli artikel veya mastar; yakın
+gelecek aller + mastar.
+113. Yanıt: la correspondance [la kɔʁɛspɔ̃ dɑ̃ s] — aktarma Çözüm: Anlamı taşıyan Fransızca öbeği aynen
+kur; modül 21 bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux
+hedefin türüne ve ülke cinsiyetine göre.
+114. Yanıt: l'aller-retour [laleʁətuʁ] — gidiş dönüş Çözüm: Türkçe karşılık gidiş dönüş; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux
+hedefin türüne ve ülke cinsiyetine göre.
+115. Yanıt: l'aller simple [lale sɛ̃pl] — tek yön Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+21 bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne
+ve ülke cinsiyetine göre.
+116. Yanıt: le contrôle des passeports [lə kɔ̃ tʁol de paspɔʁ] — pasaport kontrolü Çözüm: Türkçe karşılık
+pasaport kontrolü; Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 21 kuralı:
+Réserver + isim; aller à/en/au/aux hedefin türüne ve ülke cinsiyetine göre.
+117. Yanıt: le visa [lə viza] — vize Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 21
+bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+118. Yanıt: la frontière [la fʁɔ̃ tjɛʁ] — sınır Çözüm: Türkçe karşılık sınır; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 14 kuralı: Özne + être şimdiki zaman + geçmiş ortaç; özneyle
+cinsiyet/sayı uyumu. Bazı yer değiştirme fiilleri ve dönüşlü fiiller être alır.
+119. Yanıt: le remboursement [lə ʁɑ̃ buʁsəmɑ̃ ] — geri ödeme Çözüm: Anlamı taşıyan Fransızca öbeği
+aynen kur; modül 21 bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux
+hedefin türüne ve ülke cinsiyetine göre.
+120. Yanıt: l'annulation [lanylasjɔ̃ ] — iptal Çözüm: Türkçe karşılık iptal; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+121. Yanıt: l'assurance [lasyʁɑ̃ s] — seyahat sigortası Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 21 bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin
+türüne ve ülke cinsiyetine göre.
+122. Yanıt: l'itinéraire [litineʁɛʁ] — güzergâh Çözüm: Türkçe karşılık güzergâh; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin
+türüne ve ülke cinsiyetine göre.
+123. Yanıt: le séjour [lə seʒuʁ] — konaklama Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 21
+bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+124. Yanıt: rester [ʁɛste] — kalmak Çözüm: Türkçe karşılık kalmak; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 14 kuralı: Özne + être şimdiki zaman + geçmiş ortaç; özneyle
+cinsiyet/sayı uyumu. Bazı yer değiştirme fiilleri ve dönüşlü fiiller être alır.
+125. Yanıt: visiter [vizite] — ziyaret etmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 13
+bağlamında özne, artikel ve fiili denetle. Kural: Özne + avoir şimdiki zaman + participe passé; düzenli
+-er→-é, -ir→-i, -re→-u.
+126. Yanıt: réserver [ʁezɛʁve] — rezervasyon yapmak Çözüm: Türkçe karşılık rezervasyon yapmak;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim;
+aller à/en/au/aux hedefin türüne ve ülke cinsiyetine göre.
+127. Yanıt: voyager [vwajaʒe] — seyahat etmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+21 bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne
+ve ülke cinsiyetine göre.
+
+29
+
+128. Yanıt: l'horaire [lɔʁɛʁ] — çalışma saati Çözüm: Türkçe karşılık çalışma saati; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği olarak être sonrasında
+genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+129. Yanıt: le retard [lə ʁətaʁ] — gecikme Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 21
+bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+130. Yanıt: le trajet [lə tʁaʒɛ] — yolculuk Çözüm: Türkçe karşılık yolculuk; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin
+türüne ve ülke cinsiyetine göre.
+131. Yanıt: le quai [lə ke] — peron Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 21
+bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+132. Yanıt: le train [lə tʁɛ̃] — tren Çözüm: Türkçe karşılık tren; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin türüne ve ülke
+cinsiyetine göre.
+133. Yanıt: la montagne [la mɔ̃ taɲ] — dağ Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 21
+bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+134. Yanıt: la mer [la mɛʁ] — deniz Çözüm: Türkçe karşılık deniz; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin türüne ve ülke
+cinsiyetine göre.
+135. Yanıt: la carte postale [la kaʁt pɔstal] — kartpostal Çözüm: Anlamı taşıyan Fransızca öbeği aynen
+kur; modül 21 bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux
+hedefin türüne ve ülke cinsiyetine göre.
+136. Yanıt: le guide [lə ɡid] — rehber Çözüm: Türkçe karşılık rehber; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+137. Yanıt: le souvenir [lə suvəniʁ] — hediyelik eşya Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 21 bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin
+türüne ve ülke cinsiyetine göre.
+138. Yanıt: la photo [la foto] — fotoğraf Çözüm: Türkçe karşılık fotoğraf; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+139. Yanıt: la vue [la vy] — manzara Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 21
+bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+140. Yanıt: le monument [lə mɔnymɑ̃ ] — anıt Çözüm: Türkçe karşılık anıt; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+141. Yanıt: l'excursion [lɛkskyʁsjɔ̃ ] — gezi Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 21
+bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+142. Yanıt: la plage [la plaʒ] — plaj Çözüm: Türkçe karşılık plaj; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin türüne ve ülke
+cinsiyetine göre.
+143. Yanıt: le petit déjeuner [lə pəti deʒœne] — kahvaltı Çözüm: Anlamı taşıyan Fransızca öbeği aynen
+kur; modül 21 bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux
+hedefin türüne ve ülke cinsiyetine göre.
+144. Yanıt: la nuit [la nɥi] — gece Çözüm: Türkçe karşılık gece; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 15 kuralı: finir→finis/finis/finit/finissons/finissez/finissent;
+attendre→attends/attends/attend/attendons/attendez/attendent; dönüşlü: me/te/se/nous/vous/se.
+
+30
+
+145. Yanıt: le départ [lə depaʁ] — kalkış/ayrılış Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+14 bağlamında özne, artikel ve fiili denetle. Kural: Özne + être şimdiki zaman + geçmiş ortaç; özneyle
+cinsiyet/sayı uyumu. Bazı yer değiştirme fiilleri ve dönüşlü fiiller être alır.
+146. Yanıt: l'arrivée [laʁive] — varış Çözüm: Türkçe karşılık varış; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 14 kuralı: Özne + être şimdiki zaman + geçmiş ortaç; özneyle
+cinsiyet/sayı uyumu. Bazı yer değiştirme fiilleri ve dönüşlü fiiller être alır.
+147. Yanıt: la réception [la ʁesɛpsjɔ̃ ] — resepsiyon Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 21 bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin
+türüne ve ülke cinsiyetine göre.
+148. Yanıt: l'étage [letaʒ] — kat Çözüm: Türkçe karşılık kat; Fransızca parçayı sözcük sözcük değil, bütün
+olarak değerlendir. Modül 14 kuralı: Özne + être şimdiki zaman + geçmiş ortaç; özneyle cinsiyet/sayı
+uyumu. Bazı yer değiştirme fiilleri ve dönüşlü fiiller être alır.
+149. Yanıt: l'ascenseur [lasɑ̃ sœʁ] — asansör Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 21
+bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+150. Yanıt: la clé [la kle] — anahtar Çözüm: Türkçe karşılık anahtar; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+151. Yanıt: la réservation [la ʁezɛʁvasjɔ̃ ] — rezervasyon Çözüm: Anlamı taşıyan Fransızca öbeği aynen
+kur; modül 21 bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux
+hedefin türüne ve ülke cinsiyetine göre.
+152. Yanıt: la chambre [la ʃɑ̃ bʁ] — oda Çözüm: Türkçe karşılık oda; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin türüne ve ülke
+cinsiyetine göre.
+153. Yanıt: l'hôtel [lotɛl] — otel Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 21 bağlamında
+özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne ve ülke
+cinsiyetine göre.
+154. Yanıt: la douane [la dwan] — gümrük Çözüm: Türkçe karşılık gümrük; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin
+türüne ve ülke cinsiyetine göre.
+155. Yanıt: la sécurité [la sekyʁite] — güvenlik Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+21 bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne
+ve ülke cinsiyetine göre.
+156. Yanıt: le contrôle [lə kɔ̃ tʁol] — kontrol Çözüm: Türkçe karşılık kontrol; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin
+türüne ve ülke cinsiyetine göre.
+157. Yanıt: la porte d'embarquement [la pɔʁt dɑ̃ baʁkəmɑ̃ ] — biniş kapısı Çözüm: Anlamı taşıyan
+Fransızca öbeği aynen kur; modül 21 bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim;
+aller à/en/au/aux hedefin türüne ve ülke cinsiyetine göre.
+158. Yanıt: l'atterrissage [lateʁisaʒ] — iniş Çözüm: Türkçe karşılık iniş; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+159. Yanıt: le décollage [lə dekɔlaʒ] — kalkış Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 21
+bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+160. Yanıt: l'embarquement [lɑ̃ baʁkəmɑ̃ ] — uçağa biniş Çözüm: Türkçe karşılık uçağa biniş; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/
+aux hedefin türüne ve ülke cinsiyetine göre.
+161. Yanıt: l'enregistrement [lɑ̃ ʁəʒistʁəmɑ̃ ] — uçuş kaydı Çözüm: Anlamı taşıyan Fransızca öbeği aynen
+kur; modül 21 bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux
+hedefin türüne ve ülke cinsiyetine göre.
+
+31
+
+162. Yanıt: la valise [la valiz] — bavul Çözüm: Türkçe karşılık bavul; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+163. Yanıt: les bagages [lez baɡaʒ] — bagaj Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 21
+bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+164. Yanıt: le passeport [lə paspɔʁ] — pasaport Çözüm: Türkçe karşılık pasaport; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin
+türüne ve ülke cinsiyetine göre.
+165. Yanıt: le billet [lə bijɛ] — bilet Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 21
+bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+166. Yanıt: le vol [lə vɔl] — uçuş Çözüm: Türkçe karşılık uçuş; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin türüne ve ülke
+cinsiyetine göre.
+167. Yanıt: l'avion [lavjɔ̃ ] — uçak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 21
+bağlamında özne, artikel ve fiili denetle. Kural: Réserver + isim; aller à/en/au/aux hedefin türüne ve
+ülke cinsiyetine göre.
+168. Yanıt: l'aéroport [laeʁopɔʁ] — havaalanı Çözüm: Türkçe karşılık havaalanı; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 21 kuralı: Réserver + isim; aller à/en/au/aux hedefin
+türüne ve ülke cinsiyetine göre.
+169. Yanıt: la période d’essai [la peʁjɔd desɛ] — deneme süresi Çözüm: Anlamı taşıyan Fransızca öbeği
+aynen kur; modül 20 bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être
+sonrasında genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+170. Yanıt: le recrutement [lə ʁəkʁytmɑ̃ ] — işe alım Çözüm: Türkçe karşılık işe alım; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği olarak être
+sonrasında genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+171. Yanıt: l’embauche [lɑ̃ boʃ] — işe alma Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 20
+bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être sonrasında genellikle
+artikelsiz; nitelendirilen bir isimde artikel olabilir.
+172. Yanıt: travailler [tʁavaje] — çalışmak Çözüm: Türkçe karşılık çalışmak; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 13 kuralı: Özne + avoir şimdiki zaman + participe
+passé; düzenli -er→-é, -ir→-i, -re→-u.
+173. Yanıt: le collègue [lə kɔlɛɡ] — iş arkadaşı Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+20 bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être sonrasında
+genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+174. Yanıt: l'entreprise [lɑ̃ tʁəpʁiz] — şirket Çözüm: Türkçe karşılık şirket; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği olarak être sonrasında genellikle
+artikelsiz; nitelendirilen bir isimde artikel olabilir.
+175. Yanıt: la candidature [la kɑ̃ didatyʁ] — başvuru Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 20 bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être sonrasında
+genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+176. Yanıt: le CV [lə seve] — özgeçmiş Çözüm: Türkçe karşılık özgeçmiş; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği olarak être sonrasında genellikle
+artikelsiz; nitelendirilen bir isimde artikel olabilir.
+177. Yanıt: le CDD [lə sedede] — süreli iş sözleşmesi Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 20 bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être sonrasında
+genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+178. Yanıt: le CDI [lə sedei] — süresiz iş sözleşmesi Çözüm: Türkçe karşılık süresiz iş sözleşmesi;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği
+olarak être sonrasında genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+
+32
+
+179. Yanıt: le contrat [lə kɔ̃ tʁa] — sözleşme Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 20
+bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être sonrasında genellikle
+artikelsiz; nitelendirilen bir isimde artikel olabilir.
+180. Yanıt: la qualification [la kalifikasjɔ̃ ] — nitelik Çözüm: Türkçe karşılık nitelik; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği olarak être sonrasında
+genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+181. Yanıt: la compétence [la kɔ̃ petɑ̃ s] — beceri Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+20 bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être sonrasında
+genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+182. Yanıt: l'expérience [lɛkspeʁjɑ̃ s] — deneyim Çözüm: Türkçe karşılık deneyim; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği olarak être
+sonrasında genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+183. Yanıt: le salaire [lə salɛʁ] — maaş Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 20
+bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être sonrasında genellikle
+artikelsiz; nitelendirilen bir isimde artikel olabilir.
+184. Yanıt: l'entretien [lɑ̃ tʁətjɛ̃] — iş görüşmesi Çözüm: Türkçe karşılık iş görüşmesi; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği olarak être
+sonrasında genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+185. Yanıt: le poste [lə pɔst] — pozisyon Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 20
+bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être sonrasında genellikle
+artikelsiz; nitelendirilen bir isimde artikel olabilir.
+186. Yanıt: l'emploi [lɑ̃ plwa] — iş Çözüm: Türkçe karşılık iş; Fransızca parçayı sözcük sözcük değil, bütün
+olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği olarak être sonrasında genellikle artikelsiz;
+nitelendirilen bir isimde artikel olabilir.
+187. Yanıt: la banque [la bɑ̃ k] — banka Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 20
+bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être sonrasında genellikle
+artikelsiz; nitelendirilen bir isimde artikel olabilir.
+188. Yanıt: l'école [lekɔl] — okul Çözüm: Türkçe karşılık okul; Fransızca parçayı sözcük sözcük değil, bütün
+olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği olarak être sonrasında genellikle artikelsiz;
+nitelendirilen bir isimde artikel olabilir.
+189. Yanıt: l'usine [lyzin] — fabrika Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 20
+bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être sonrasında genellikle
+artikelsiz; nitelendirilen bir isimde artikel olabilir.
+190. Yanıt: le bureau [lə byʁo] — ofis Çözüm: Türkçe karşılık ofis; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği olarak être sonrasında genellikle
+artikelsiz; nitelendirilen bir isimde artikel olabilir.
+191. Yanıt: la secrétaire [la səkʁetɛʁ] — sekreter (kadın) Çözüm: Anlamı taşıyan Fransızca öbeği aynen
+kur; modül 20 bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être
+sonrasında genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+192. Yanıt: le secrétaire [lə səkʁetɛʁ] — sekreter (erkek) Çözüm: Türkçe karşılık sekreter (erkek);
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği
+olarak être sonrasında genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+193. Yanıt: le comptable [lə kɔ̃ tabl] — muhasebeci Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 20 bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être sonrasında
+genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+194. Yanıt: l'avocate [lavɔkat] — avukat (kadın) Çözüm: Türkçe karşılık avukat (kadın); Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği olarak être
+sonrasında genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+195. Yanıt: l'avocat [lavɔka] — avukat (erkek) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+20 bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être sonrasında
+genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+
+33
+
+196. Yanıt: la musicienne [la myzisjɛn] — müzisyen (kadın) Çözüm: Türkçe karşılık müzisyen (kadın);
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği
+olarak être sonrasında genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+197. Yanıt: le musicien [lə myzisjɛ̃] — müzisyen (erkek) Çözüm: Anlamı taşıyan Fransızca öbeği aynen
+kur; modül 20 bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être
+sonrasında genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+198. Yanıt: l'artiste [laʁtist] — sanatçı Çözüm: Türkçe karşılık sanatçı; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği olarak être sonrasında genellikle
+artikelsiz; nitelendirilen bir isimde artikel olabilir.
+199. Yanıt: le journaliste [lə ʒuʁnalist] — gazeteci Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 20 bağlamında özne, artikel ve fiili denetle. Kural: Meslek özne niteliği olarak être sonrasında
+genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+200. Yanıt: la policière [la pɔlisjɛʁ] — polis (kadın) Çözüm: Türkçe karşılık polis (kadın); Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 20 kuralı: Meslek özne niteliği olarak être
+sonrasında genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+
+B1 — 200 çözümlü soru
+1. Fransızcaya çevir: ancak
+2. Türkçeye çevir ve dilbilgisi işlevini söyle: pourtant
+3. Fransızcaya çevir: Buna karşılık
+4. Türkçeye çevir ve dilbilgisi işlevini söyle: d'un autre côté
+5. Fransızcaya çevir: doğru ama
+6. Türkçeye çevir ve dilbilgisi işlevini söyle: je comprends mais
+7. Fransızcaya çevir: açık ki
+8. Türkçeye çevir ve dilbilgisi işlevini söyle: je suis convaincu que
+9. Fransızcaya çevir: bana öyle geliyor ki
+10. Türkçeye çevir ve dilbilgisi işlevini söyle: de mon point de vue
+11. Fransızcaya çevir: Bence
+12. Türkçeye çevir ve dilbilgisi işlevini söyle: À mon avis
+13. Fransızcaya çevir: abonelik
+14. Türkçeye çevir ve dilbilgisi işlevini söyle: l'archive
+15. Fransızcaya çevir: tanık
+16. Türkçeye çevir ve dilbilgisi işlevini söyle: la vérification des faits
+17. Fransızcaya çevir: yanlış bilgi yayma
+18. Türkçeye çevir ve dilbilgisi işlevini söyle: le différé
+19. Fransızcaya çevir: canlı yayın
+20. Türkçeye çevir ve dilbilgisi işlevini söyle: la couverture médiatique
+21. Fransızcaya çevir: köşe/bölüm
+22. Türkçeye çevir ve dilbilgisi işlevini söyle: le correspondant
+23. Fransızcaya çevir: yazı işleri
+24. Türkçeye çevir ve dilbilgisi işlevini söyle: le communiqué
+25. Fransızcaya çevir: ajans haberi
+26. Türkçeye çevir ve dilbilgisi işlevini söyle: le bulletin
+27. Fransızcaya çevir: manşet
+
+34
+
+28. Türkçeye çevir ve dilbilgisi işlevini söyle: d'après
+29. Fransızcaya çevir: ...e göre
+30. Türkçeye çevir ve dilbilgisi işlevini söyle: baisser
+31. Fransızcaya çevir: artmak/artırmak
+32. Türkçeye çevir ve dilbilgisi işlevini söyle: vérifier
+33. Fransızcaya çevir: doğrulamak
+34. Türkçeye çevir ve dilbilgisi işlevini söyle: publier
+35. Fransızcaya çevir: duyurmak
+36. Türkçeye çevir ve dilbilgisi işlevini söyle: l'éducation
+37. Fransızcaya çevir: sağlık
+38. Türkçeye çevir ve dilbilgisi işlevini söyle: l'environnement
+39. Fransızcaya çevir: toplum
+40. Türkçeye çevir ve dilbilgisi işlevini söyle: l'économie
+41. Fransızcaya çevir: seçim
+42. Türkçeye çevir ve dilbilgisi işlevini söyle: le président
+43. Fransızcaya çevir: bakan
+44. Türkçeye çevir ve dilbilgisi işlevini söyle: le gouvernement
+45. Fransızcaya çevir: istatistik
+46. Türkçeye çevir ve dilbilgisi işlevini söyle: le chiffre
+47. Fransızcaya çevir: anket
+48. Türkçeye çevir ve dilbilgisi işlevini söyle: l'enquête
+49. Fransızcaya çevir: röportaj
+50. Türkçeye çevir ve dilbilgisi işlevini söyle: l'émission
+51. Fransızcaya çevir: kanal
+52. Türkçeye çevir ve dilbilgisi işlevini söyle: les réseaux sociaux
+53. Fransızcaya çevir: internet sitesi
+54. Türkçeye çevir ve dilbilgisi işlevini söyle: la télévision
+55. Fransızcaya çevir: podcast
+56. Türkçeye çevir ve dilbilgisi işlevini söyle: la radio
+57. Fransızcaya çevir: olgu
+58. Türkçeye çevir ve dilbilgisi işlevini söyle: la rumeur
+59. Fransızcaya çevir: bilgi
+60. Türkçeye çevir ve dilbilgisi işlevini söyle: la source
+61. Fransızcaya çevir: başlık
+62. Türkçeye çevir ve dilbilgisi işlevini söyle: l'article
+63. Fransızcaya çevir: haber dosyası
+64. Türkçeye çevir ve dilbilgisi işlevini söyle: le journaliste
+65. Fransızcaya çevir: gazete
+66. Türkçeye çevir ve dilbilgisi işlevini söyle: l'actualité
+67. Fransızcaya çevir: haber
+68. Türkçeye çevir ve dilbilgisi işlevini söyle: le musée d'art
+
+35
+
+69. Fransızcaya çevir: aile yemeği
+70. Türkçeye çevir ve dilbilgisi işlevini söyle: la pâtisserie
+71. Fransızcaya çevir: ekşi mayalı ekmek
+72. Türkçeye çevir ve dilbilgisi işlevini söyle: le fromage de chèvre
+73. Fransızcaya çevir: kutlama
+74. Türkçeye çevir ve dilbilgisi işlevini söyle: la tradition
+75. Fransızcaya çevir: görgü kuralı
+76. Türkçeye çevir ve dilbilgisi işlevini söyle: le terroir
+77. Fransızcaya çevir: miras
+78. Türkçeye çevir ve dilbilgisi işlevini söyle: la diversité
+79. Fransızcaya çevir: laiklik
+80. Türkçeye çevir ve dilbilgisi işlevini söyle: la convivialité
+81. Fransızcaya çevir: mutfak kültürü
+82. Türkçeye çevir ve dilbilgisi işlevini söyle: Bon appétit
+83. Fransızcaya çevir: lütfen
+84. Türkçeye çevir ve dilbilgisi işlevini söyle: merci
+85. Fransızcaya çevir: merhaba
+86. Türkçeye çevir ve dilbilgisi işlevini söyle: la France
+87. Fransızcaya çevir: Fas
+88. Türkçeye çevir ve dilbilgisi işlevini söyle: le Sénégal
+89. Fransızcaya çevir: İsviçre
+90. Türkçeye çevir ve dilbilgisi işlevini söyle: la Belgique
+91. Fransızcaya çevir: Québec
+92. Türkçeye çevir ve dilbilgisi işlevini söyle: la francophonie
+93. Fransızcaya çevir: lehçe
+94. Türkçeye çevir ve dilbilgisi işlevini söyle: l'accent
+95. Fransızcaya çevir: dil
+96. Türkçeye çevir ve dilbilgisi işlevini söyle: le village
+97. Fransızcaya çevir: şehir
+98. Türkçeye çevir ve dilbilgisi işlevini söyle: la province
+99. Fransızcaya çevir: bölge
+100. Türkçeye çevir ve dilbilgisi işlevini söyle: la coutume
+101. Fransızcaya çevir: alışkanlık
+102. Türkçeye çevir ve dilbilgisi işlevini söyle: la politesse
+103. Fransızcaya çevir: senli hitap
+104. Türkçeye çevir ve dilbilgisi işlevini söyle: le vouvoiement
+105. Fransızcaya çevir: Yanaktan öperek selamlaşma
+106. Türkçeye çevir ve dilbilgisi işlevini söyle: la Chandeleur
+107. Fransızcaya çevir: Emek Bayramı
+108. Türkçeye çevir ve dilbilgisi işlevini söyle: Le quatorze juillet
+109. Fransızcaya çevir: ulusal bayram
+
+36
+
+110. Türkçeye çevir ve dilbilgisi işlevini söyle: Pâques
+111. Fransızcaya çevir: yılbaşı günü
+112. Türkçeye çevir ve dilbilgisi işlevini söyle: Noël
+113. Fransızcaya çevir: bayram/kutlama
+114. Türkçeye çevir ve dilbilgisi işlevini söyle: la voisine
+115. Fransızcaya çevir: komşu (erkek)
+116. Türkçeye çevir ve dilbilgisi işlevini söyle: la famille
+117. Fransızcaya çevir: tatlı
+118. Türkçeye çevir ve dilbilgisi işlevini söyle: l'apéritif
+119. Fransızcaya çevir: akşam yemeği
+120. Türkçeye çevir ve dilbilgisi işlevini söyle: le déjeuner
+121. Fransızcaya çevir: şarap
+122. Türkçeye çevir ve dilbilgisi işlevini söyle: le fromage
+123. Fransızcaya çevir: baget ekmek
+124. Türkçeye çevir ve dilbilgisi işlevini söyle: Le marché
+125. Fransızcaya çevir: Açık hava oturma alanı
+126. Türkçeye çevir ve dilbilgisi işlevini söyle: le café
+127. Fransızcaya çevir: ortaç uyumu
+128. Türkçeye çevir ve dilbilgisi işlevini söyle: la proposition explicative
+129. Fransızcaya çevir: ayırt edici ilgi cümlesi
+130. Türkçeye çevir ve dilbilgisi işlevini söyle: l’omission
+131. Fransızcaya çevir: bağlamak
+132. Türkçeye çevir ve dilbilgisi işlevini söyle: préciser
+133. Fransızcaya çevir: nitelendirmek
+134. Türkçeye çevir ve dilbilgisi işlevini söyle: l'objet indirect
+135. Fransızcaya çevir: doğrudan nesne
+136. Türkçeye çevir ve dilbilgisi işlevini söyle: le complément prépositionnel
+137. Fransızcaya çevir: bağlam
+138. Türkçeye çevir ve dilbilgisi işlevini söyle: la catégorie
+139. Fransızcaya çevir: tanımlama
+140. Türkçeye çevir ve dilbilgisi işlevini söyle: le détail
+141. Fransızcaya çevir: tanım
+142. Türkçeye çevir ve dilbilgisi işlevini söyle: l'explication
+143. Fransızcaya çevir: yeniden anma
+144. Türkçeye çevir ve dilbilgisi işlevini söyle: la référence
+145. Fransızcaya çevir: bağ
+146. Türkçeye çevir ve dilbilgisi işlevini söyle: l'enchaînement
+147. Fransızcaya çevir: bağlılık
+148. Türkçeye çevir ve dilbilgisi işlevini söyle: l'élision
+149. Fransızcaya çevir: gönderilen varlık
+150. Türkçeye çevir ve dilbilgisi işlevini söyle: la fonction grammaticale
+
+37
+
+151. Fransızcaya çevir: ilgi yan cümlesi
+152. Türkçeye çevir ve dilbilgisi işlevini söyle: l'antécédent
+153. Fransızcaya çevir: betimlemek
+154. Türkçeye çevir ve dilbilgisi işlevini söyle: trouver
+155. Fransızcaya çevir: aramak
+156. Türkçeye çevir ve dilbilgisi işlevini söyle: aimer
+157. Fransızcaya çevir: yardım etmek
+158. Türkçeye çevir ve dilbilgisi işlevini söyle: connaître
+159. Fransızcaya çevir: görmek
+160. Türkçeye çevir ve dilbilgisi işlevini söyle: lire
+161. Fransızcaya çevir: yaşamak
+162. Türkçeye çevir ve dilbilgisi işlevini söyle: avoir besoin de
+163. Fransızcaya çevir: ...den bahsetmek
+164. Türkçeye çevir ve dilbilgisi işlevini söyle: le complément
+165. Fransızcaya çevir: öneri
+166. Türkçeye çevir ve dilbilgisi işlevini söyle: le temps
+167. Fransızcaya çevir: yer
+168. Türkçeye çevir ve dilbilgisi işlevini söyle: l'objet
+169. Fransızcaya çevir: kişi
+170. Türkçeye çevir ve dilbilgisi işlevini söyle: la raison
+171. Fransızcaya çevir: ihtiyaç
+172. Türkçeye çevir ve dilbilgisi işlevini söyle: l'idée
+173. Fransızcaya çevir: çözüm
+174. Türkçeye çevir ve dilbilgisi işlevini söyle: le problème
+175. Fransızcaya çevir: ev
+176. Türkçeye çevir ve dilbilgisi işlevini söyle: le moment
+177. Fransızcaya çevir: gün
+178. Türkçeye çevir ve dilbilgisi işlevini söyle: l'ami
+179. Fransızcaya çevir: kadın
+180. Türkçeye çevir ve dilbilgisi işlevini söyle: l'homme
+181. Fransızcaya çevir: film
+182. Türkçeye çevir ve dilbilgisi işlevini söyle: le livre
+183. Fransızcaya çevir: hangileri (dişil)
+184. Türkçeye çevir ve dilbilgisi işlevini söyle: lesquels
+185. Fransızcaya çevir: hangisi (dişil)
+186. Türkçeye çevir ve dilbilgisi işlevini söyle: lequel
+187. Fransızcaya çevir: ...diğim/de gerektiren şey
+188. Türkçeye çevir ve dilbilgisi işlevini söyle: ce que
+189. Fransızcaya çevir: ...en şey
+190. Türkçeye çevir ve dilbilgisi işlevini söyle: dont
+191. Fransızcaya çevir: yer/zaman olan ki
+
+38
+
+192. Türkçeye çevir ve dilbilgisi işlevini söyle: que
+193. Fransızcaya çevir: özne olan ki
+194. Türkçeye çevir ve dilbilgisi işlevini söyle: plausible
+195. Fransızcaya çevir: belirsiz
+196. Türkçeye çevir ve dilbilgisi işlevini söyle: contestable
+197. Fransızcaya çevir: olası/güvenilir görünen
+198. Türkçeye çevir ve dilbilgisi işlevini söyle: la perplexité
+199. Fransızcaya çevir: memnuniyet
+200. Türkçeye çevir ve dilbilgisi işlevini söyle: la déception
+
+Ayrıntılı cevap anahtarı
+1. Yanıt: cependant [səpɑ̃ dɑ̃ ] — ancak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+2. Yanıt: pourtant [puʁtɑ̃ ] — bununla birlikte Çözüm: Türkçe karşılık bununla birlikte; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+3. Yanıt: En revanche [an rıvanş] — Buna karşılık Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 35 bağlamında özne, artikel ve fiili denetle. Kural: Görüş + gerekçe + örnek + karşı görüş +
+sonuç düzeni, B1 düzeyinde bağlı konuşma sağlar.
+4. Yanıt: d'un autre côté [dœ̃n otʁ kote] — diğer taraftan Çözüm: Türkçe karşılık diğer taraftan;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 35 kuralı: Görüş + gerekçe +
+örnek + karşı görüş + sonuç düzeni, B1 düzeyinde bağlı konuşma sağlar.
+5. Yanıt: c'est vrai mais [sɛ vʁɛ mɛ] — doğru ama Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 35 bağlamında özne, artikel ve fiili denetle. Kural: Görüş + gerekçe + örnek + karşı görüş +
+sonuç düzeni, B1 düzeyinde bağlı konuşma sağlar.
+6. Yanıt: je comprends mais [ʒə kɔ̃ pʁɑ̃ mɛ] — anlıyorum ama Çözüm: Türkçe karşılık anlıyorum ama;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 35 kuralı: Görüş + gerekçe +
+örnek + karşı görüş + sonuç düzeni, B1 düzeyinde bağlı konuşma sağlar.
+7. Yanıt: il est évident que [il ɛt evidɑ̃ kə] — açık ki Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 35 bağlamında özne, artikel ve fiili denetle. Kural: Görüş + gerekçe + örnek + karşı görüş +
+sonuç düzeni, B1 düzeyinde bağlı konuşma sağlar.
+8. Yanıt: je suis convaincu que [ʒə sɥiz kɔ̃ vɛ̃ky kə] — ikna oldum ki Çözüm: Türkçe karşılık ikna oldum
+ki; Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 35 kuralı: Görüş + gerekçe
++ örnek + karşı görüş + sonuç düzeni, B1 düzeyinde bağlı konuşma sağlar.
+9. Yanıt: il me semble que [il mə sɑ̃ bl kə] — bana öyle geliyor ki Çözüm: Anlamı taşıyan Fransızca öbeği
+aynen kur; modül 35 bağlamında özne, artikel ve fiili denetle. Kural: Görüş + gerekçe + örnek + karşı
+görüş + sonuç düzeni, B1 düzeyinde bağlı konuşma sağlar.
+10. Yanıt: de mon point de vue [də mɔ̃ n pwɛ̃ də vy] — bakış açıma göre Çözüm: Türkçe karşılık bakış
+açıma göre; Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 35 kuralı: Görüş +
+gerekçe + örnek + karşı görüş + sonuç düzeni, B1 düzeyinde bağlı konuşma sağlar.
+11. Yanıt: Selon moi [sılon mwa] — Bence Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 35
+bağlamında özne, artikel ve fiili denetle. Kural: Görüş + gerekçe + örnek + karşı görüş + sonuç
+düzeni, B1 düzeyinde bağlı konuşma sağlar.
+12. Yanıt: À mon avis [a mon avi] — Bana göre Çözüm: Türkçe karşılık Bana göre; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 35 kuralı: Görüş + gerekçe + örnek + karşı
+görüş + sonuç düzeni, B1 düzeyinde bağlı konuşma sağlar.
+
+39
+
+13. Yanıt: l'abonnement [labɔnəmɑ̃ ] — abonelik Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 34 bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+14. Yanıt: l'archive [laʁʃiv] — arşiv Çözüm: Türkçe karşılık arşiv; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+15. Yanıt: le témoin [lə temwɛ̃] — tanık Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+16. Yanıt: la vérification des faits [la veʁifikasjɔ̃ de fɛ] — olgu doğrulama Çözüm: Türkçe karşılık olgu
+doğrulama; Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar
+bazen artikel ve fiili düşürür; haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+17. Yanıt: la désinformation [la dezɛ̃fɔʁmasjɔ̃ ] — yanlış bilgi yayma Çözüm: Anlamı taşıyan Fransızca
+öbeği aynen kur; modül 34 bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve
+fiili düşürür; haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+18. Yanıt: le différé [lə difeʁe] — kayıttan yayın Çözüm: Türkçe karşılık kayıttan yayın; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+19. Yanıt: le direct [lə diʁɛkt] — canlı yayın Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+20. Yanıt: la couverture médiatique [la kuvɛʁtyʁ medjatik] — medya kapsamı Çözüm: Türkçe karşılık
+medya kapsamı; Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 34 kuralı:
+Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+21. Yanıt: la rubrique [la ʁybʁik] — köşe/bölüm Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+34 bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/
+ne/nerede/ne zaman kaynak sorularını ayır.
+22. Yanıt: le correspondant [lə kɔʁɛspɔ̃ dɑ̃ ] — muhabir Çözüm: Türkçe karşılık muhabir; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+23. Yanıt: la rédaction [la ʁedaksjɔ̃ ] — yazı işleri Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 34 bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+24. Yanıt: le communiqué [lə kɔmynike] — basın açıklaması Çözüm: Türkçe karşılık basın açıklaması;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen
+artikel ve fiili düşürür; haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+25. Yanıt: la dépêche [la depɛʃ] — ajans haberi Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+34 bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/
+ne/nerede/ne zaman kaynak sorularını ayır.
+26. Yanıt: le bulletin [lə byltɛ̃] — haber bülteni Çözüm: Türkçe karşılık haber bülteni; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+27. Yanıt: la une [la yn] — manşet Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+28. Yanıt: d'après [dapʁɛ] — ...e göre Çözüm: Türkçe karşılık ...e göre; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür; haberde kim/
+ne/nerede/ne zaman kaynak sorularını ayır.
+29. Yanıt: selon [səlɔ̃ ] — ...e göre Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+
+40
+
+30. Yanıt: baisser [bese] — düşmek/azalmak Çözüm: Türkçe karşılık düşmek/azalmak; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+31. Yanıt: augmenter [oɡmɑ̃ te] — artmak/artırmak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 34 bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+32. Yanıt: vérifier [veʁifje] — doğrulamak Çözüm: Türkçe karşılık doğrulamak; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+33. Yanıt: confirmer [kɔ̃ fiʁme] — doğrulamak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+34 bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/
+ne/nerede/ne zaman kaynak sorularını ayır.
+34. Yanıt: publier [pyblije] — yayımlamak Çözüm: Türkçe karşılık yayımlamak; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+35. Yanıt: annoncer [anɔ̃ se] — duyurmak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 27
+bağlamında özne, artikel ve fiili denetle. Kural: Mastar (son -re için e çıkar) + ai/as/a/ons/ez/ont;
+düzensiz kökleri ayrıca öğren.
+36. Yanıt: l'éducation [ledykasjɔ̃ ] — eğitim Çözüm: Türkçe karşılık eğitim; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+37. Yanıt: la santé [la sɑ̃ te] — sağlık Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+38. Yanıt: l'environnement [lɑ̃ viʁɔnmɑ̃ ] — çevre Çözüm: Türkçe karşılık çevre; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+39. Yanıt: la société [la sɔsjete] — toplum Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+40. Yanıt: l'économie [lekɔnɔmi] — ekonomi Çözüm: Türkçe karşılık ekonomi; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+41. Yanıt: l'élection [lelɛksjɔ̃ ] — seçim Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+42. Yanıt: le président [lə pʁezidɑ̃ ] — cumhurbaşkanı/başkan Çözüm: Türkçe karşılık cumhurbaşkanı/
+başkan; Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar
+bazen artikel ve fiili düşürür; haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+43. Yanıt: le ministre [lə ministʁ] — bakan Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+44. Yanıt: le gouvernement [lə ɡuvɛʁnəmɑ̃ ] — hükümet Çözüm: Türkçe karşılık hükümet; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili
+düşürür; haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+45. Yanıt: la statistique [la statistik] — istatistik Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 34 bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+46. Yanıt: le chiffre [lə ʃifʁ] — rakam Çözüm: Türkçe karşılık rakam; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür; haberde kim/
+ne/nerede/ne zaman kaynak sorularını ayır.
+
+41
+
+47. Yanıt: le sondage [lə sɔ̃ daʒ] — anket Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+48. Yanıt: l'enquête [lɑ̃ kɛt] — araştırma Çözüm: Türkçe karşılık araştırma; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+49. Yanıt: l'interview [lɛ̃tɛʁvju] — röportaj Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+50. Yanıt: l'émission [lemisjɔ̃ ] — program Çözüm: Türkçe karşılık program; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+51. Yanıt: la chaîne [la ʃɛn] — kanal Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+52. Yanıt: les réseaux sociaux [lez ʁezo sɔsjo] — sosyal ağlar Çözüm: Türkçe karşılık sosyal ağlar;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen
+artikel ve fiili düşürür; haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+53. Yanıt: le site web [lə sit wɛb] — internet sitesi Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 34 bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+54. Yanıt: la télévision [la televizjɔ̃ ] — televizyon Çözüm: Türkçe karşılık televizyon; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+55. Yanıt: le podcast [lə pɔdkast] — podcast Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+34 bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/
+ne/nerede/ne zaman kaynak sorularını ayır.
+56. Yanıt: la radio [la ʁadjo] — radyo Çözüm: Türkçe karşılık radyo; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür; haberde kim/
+ne/nerede/ne zaman kaynak sorularını ayır.
+57. Yanıt: le fait [lə fɛ] — olgu Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34 bağlamında
+özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/nerede/ne
+zaman kaynak sorularını ayır.
+58. Yanıt: la rumeur [la ʁymœʁ] — söylenti Çözüm: Türkçe karşılık söylenti; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+59. Yanıt: l'information [lɛ̃fɔʁmasjɔ̃ ] — bilgi Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+60. Yanıt: la source [la suʁs] — kaynak Çözüm: Türkçe karşılık kaynak; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür; haberde kim/
+ne/nerede/ne zaman kaynak sorularını ayır.
+61. Yanıt: le titre [lə titʁ] — başlık Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+62. Yanıt: l'article [laʁtikl] — makale Çözüm: Türkçe karşılık makale; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür; haberde kim/
+ne/nerede/ne zaman kaynak sorularını ayır.
+63. Yanıt: le reportage [lə ʁəpɔʁtaʒ] — haber dosyası Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 34 bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+
+42
+
+64. Yanıt: le journaliste [lə ʒuʁnalist] — gazeteci Çözüm: Türkçe karşılık gazeteci; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+65. Yanıt: le journal [lə ʒuʁnal] — gazete Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+66. Yanıt: l'actualité [laktɥalite] — gündem Çözüm: Türkçe karşılık gündem; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 34 kuralı: Başlıklar bazen artikel ve fiili düşürür;
+haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+67. Yanıt: la nouvelle [la nuvɛl] — haber Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 34
+bağlamında özne, artikel ve fiili denetle. Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/
+nerede/ne zaman kaynak sorularını ayır.
+68. Yanıt: le musée d'art [lə myze daʁ] — sanat müzesi Çözüm: Türkçe karşılık sanat müzesi; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden,
+kişiden ve durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+69. Yanıt: le repas de famille [lə ʁəpa də famij] — aile yemeği Çözüm: Anlamı taşıyan Fransızca öbeği
+aynen kur; modül 33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden,
+kişiden ve durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+70. Yanıt: la pâtisserie [la patisʁi] — hamur işi/pastane Çözüm: Türkçe karşılık hamur işi/pastane;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım
+bölgeden, kişiden ve durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+71. Yanıt: le pain au levain [lə pɛ̃ o ləvɛ̃] — ekşi mayalı ekmek Çözüm: Anlamı taşıyan Fransızca öbeği
+aynen kur; modül 33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden,
+kişiden ve durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+72. Yanıt: le fromage de chèvre [lə fʁɔmaʒ də ʃɛvʁ] — keçi peyniri Çözüm: Türkçe karşılık keçi peyniri;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım
+bölgeden, kişiden ve durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+73. Yanıt: la célébration [la selebʁasjɔ̃ ] — kutlama Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+74. Yanıt: la tradition [la tʁadisjɔ̃ ] — gelenek Çözüm: Türkçe karşılık gelenek; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+75. Yanıt: l'étiquette [letikɛt] — görgü kuralı Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+76. Yanıt: le terroir [lə teʁwaʁ] — yöresel üretim/kültür Çözüm: Türkçe karşılık yöresel üretim/kültür;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım
+bölgeden, kişiden ve durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+77. Yanıt: le patrimoine [lə patʁimwan] — miras Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+78. Yanıt: la diversité [la divɛʁsite] — çeşitlilik Çözüm: Türkçe karşılık çeşitlilik; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+79. Yanıt: la laïcité [la laisite] — laiklik Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 33
+bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+80. Yanıt: la convivialité [la kɔ̃ vivjalite] — dostane birliktelik Çözüm: Türkçe karşılık dostane birliktelik;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım
+bölgeden, kişiden ve durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+
+43
+
+81. Yanıt: la gastronomie [la ɡastʁɔnɔmi] — mutfak kültürü Çözüm: Anlamı taşıyan Fransızca öbeği
+aynen kur; modül 33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden,
+kişiden ve durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+82. Yanıt: Bon appétit [bon apeti] — Afiyet olsun Çözüm: Türkçe karşılık Afiyet olsun; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+83. Yanıt: s'il vous plaît [sil vuz plɛ] — lütfen Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+84. Yanıt: merci [mɛʁsi] — teşekkürler Çözüm: Türkçe karşılık teşekkürler; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+85. Yanıt: bonjour [bɔ̃ ʒuʁ] — merhaba Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 33
+bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+86. Yanıt: la France [la fʁɑ̃ s] — Fransa Çözüm: Türkçe karşılık Fransa; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 29 kuralı: Futur kökü + imparfait ekleri ais/ais/ait/ions/iez/aient;
+kibar rica, tavsiye, varsayım.
+87. Yanıt: le Maroc [lə maʁɔk] — Fas Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 33
+bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+88. Yanıt: le Sénégal [lə seneɡal] — Senegal Çözüm: Türkçe karşılık Senegal; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+89. Yanıt: la Suisse [la sɥis] — İsviçre Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 33
+bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+90. Yanıt: la Belgique [la bɛlʒik] — Belçika Çözüm: Türkçe karşılık Belçika; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+91. Yanıt: le Québec [lə kebɛk] — Québec Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 33
+bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+92. Yanıt: la francophonie [la fʁɑ̃ kɔfɔni] — Frankofoni Çözüm: Türkçe karşılık Frankofoni; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden,
+kişiden ve durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+93. Yanıt: le dialecte [lə djalɛkt] — lehçe Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 33
+bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+94. Yanıt: l'accent [laksɑ̃ ] — aksan Çözüm: Türkçe karşılık aksan; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve durumdan etkilenir;
+selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+95. Yanıt: la langue [la lɑ̃ ɡ] — dil Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 33
+bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+96. Yanıt: le village [lə vilaʒ] — köy Çözüm: Türkçe karşılık köy; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 25 kuralı: Nous şimdiki zaman kökü -ons çıkar + ais/ais/ait/ions/iez/
+aient; être kökü ét-.
+97. Yanıt: la ville [la vil] — şehir Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+
+44
+
+98. Yanıt: la province [la pʁɔvɛ̃s] — taşra/bölge Çözüm: Türkçe karşılık taşra/bölge; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+99. Yanıt: la région [la ʁeʒjɔ̃ ] — bölge Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 33
+bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+100. Yanıt: la coutume [la kutym] — âdet Çözüm: Türkçe karşılık âdet; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+101. Yanıt: l'habitude [labityd] — alışkanlık Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 25
+bağlamında özne, artikel ve fiili denetle. Kural: Nous şimdiki zaman kökü -ons çıkar + ais/ais/ait/ions/
+iez/aient; être kökü ét-.
+102. Yanıt: la politesse [la pɔlitɛs] — kibarlık Çözüm: Türkçe karşılık kibarlık; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 29 kuralı: Futur kökü + imparfait ekleri ais/ais/ait/ions/
+iez/aient; kibar rica, tavsiye, varsayım.
+103. Yanıt: le tutoiement [lə tytwamɑ̃ ] — senli hitap Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+104. Yanıt: le vouvoiement [lə vuvwamɑ̃ ] — sizli hitap Çözüm: Türkçe karşılık sizli hitap; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+105. Yanıt: La bise [la biz] — Yanaktan öperek selamlaşma Çözüm: Anlamı taşıyan Fransızca öbeği aynen
+kur; modül 33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+106. Yanıt: la Chandeleur [la ʃɑ̃ dɛlœʁ] — Krep Günü Çözüm: Türkçe karşılık Krep Günü; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+107. Yanıt: la fête du Travail [la fɛt dy tʁavaj] — Emek Bayramı Çözüm: Anlamı taşıyan Fransızca öbeği
+aynen kur; modül 33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden,
+kişiden ve durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+108. Yanıt: Le quatorze juillet [lı katorz jüiye] — On dört Temmuz Çözüm: Türkçe karşılık On dört Temmuz;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım
+bölgeden, kişiden ve durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+109. Yanıt: la fête nationale [la fɛt nasjɔnal] — ulusal bayram Çözüm: Anlamı taşıyan Fransızca öbeği
+aynen kur; modül 33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden,
+kişiden ve durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+110. Yanıt: Pâques [pak] — Paskalya Çözüm: Türkçe karşılık Paskalya; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+111. Yanıt: le jour de l'An [lə ʒuʁ də lɑ̃ ] — yılbaşı günü Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+112. Yanıt: Noël [nɔɛl] — Noel Çözüm: Türkçe karşılık Noel; Fransızca parçayı sözcük sözcük değil, bütün
+olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve durumdan etkilenir;
+selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+113. Yanıt: la fête [la fɛt] — bayram/kutlama Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 33
+bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+114. Yanıt: la voisine [la vwazin] — komşu (kadın) Çözüm: Türkçe karşılık komşu (kadın); Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden,
+kişiden ve durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+
+45
+
+115. Yanıt: le voisin [lə vwazɛ̃] — komşu (erkek) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+116. Yanıt: la famille [la famij] — aile Çözüm: Türkçe karşılık aile; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve durumdan etkilenir;
+selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+117. Yanıt: le dessert [lə desɛʁ] — tatlı Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 33
+bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+118. Yanıt: l'apéritif [lapeʁitif] — yemek öncesi içecek Çözüm: Türkçe karşılık yemek öncesi içecek;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım
+bölgeden, kişiden ve durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+119. Yanıt: le dîner [lə dine] — akşam yemeği Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+120. Yanıt: le déjeuner [lə deʒœne] — öğle yemeği Çözüm: Türkçe karşılık öğle yemeği; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+121. Yanıt: le vin [lə vɛ̃] — şarap Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 33 bağlamında
+özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve durumdan etkilenir;
+selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+122. Yanıt: le fromage [lə fʁɔmaʒ] — peynir Çözüm: Türkçe karşılık peynir; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+123. Yanıt: la baguette [la baɡɛt] — baget ekmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+124. Yanıt: Le marché [lı marşe] — Pazar Çözüm: Türkçe karşılık Pazar; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 33 kuralı: Kültürel kullanım bölgeden, kişiden ve durumdan
+etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+125. Yanıt: La terrasse [la teras] — Açık hava oturma alanı Çözüm: Anlamı taşıyan Fransızca öbeği aynen
+kur; modül 33 bağlamında özne, artikel ve fiili denetle. Kural: Kültürel kullanım bölgeden, kişiden ve
+durumdan etkilenir; selamlaşmada önce bonjour demek yaygın nezaket kuralıdır.
+126. Yanıt: le café [lə kafe] — kahve Çözüm: Türkçe karşılık kahve; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 29 kuralı: Futur kökü + imparfait ekleri ais/ais/ait/ions/iez/aient; kibar
+rica, tavsiye, varsayım.
+127. Yanıt: l’accord du participe [lakɔʁ dy paʁtisip] — ortaç uyumu Çözüm: Anlamı taşıyan Fransızca
+öbeği aynen kur; modül 32 bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où
+yer/zaman; dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+128. Yanıt: la proposition explicative [la pʁɔpɔzisjɔ̃ ɛksplikativ] — açıklayıcı ilgi cümlesi Çözüm: Türkçe
+karşılık açıklayıcı ilgi cümlesi; Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül
+32 kuralı: qui özne; que nesne; où yer/zaman; dont de ile kurulan bağlantı. Zamirin işlevini yan
+cümledeki boşluktan belirle.
+129. Yanıt: la proposition déterminative [la pʁɔpɔzisjɔ̃ detɛʁminativ] — ayırt edici ilgi cümlesi Çözüm:
+Anlamı taşıyan Fransızca öbeği aynen kur; modül 32 bağlamında özne, artikel ve fiili denetle. Kural:
+qui özne; que nesne; où yer/zaman; dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki
+boşluktan belirle.
+130. Yanıt: l’omission [lɔmisjɔ̃ ] — atlama Çözüm: Türkçe karşılık atlama; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de ile
+kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+
+46
+
+131. Yanıt: rattacher [ʁataʃe] — bağlamak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+132. Yanıt: préciser [pʁesize] — netleştirmek Çözüm: Türkçe karşılık netleştirmek; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman;
+dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+133. Yanıt: qualifier [kalifje] — nitelendirmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+134. Yanıt: l'objet indirect [lɔbʒɛ ɛ̃diʁɛkt] — dolaylı nesne Çözüm: Türkçe karşılık dolaylı nesne; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/
+zaman; dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+135. Yanıt: l'objet direct [lɔbʒɛ diʁɛkt] — doğrudan nesne Çözüm: Anlamı taşıyan Fransızca öbeği aynen
+kur; modül 32 bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman;
+dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+136. Yanıt: le complément prépositionnel [lə kɔ̃ plemɑ̃ pʁepozisjɔnɛl] — edatlı tümleç Çözüm: Türkçe
+karşılık edatlı tümleç; Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 32
+kuralı: qui özne; que nesne; où yer/zaman; dont de ile kurulan bağlantı. Zamirin işlevini yan
+cümledeki boşluktan belirle.
+137. Yanıt: le contexte [lə kɔ̃ tɛkst] — bağlam Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 25
+bağlamında özne, artikel ve fiili denetle. Kural: Nous şimdiki zaman kökü -ons çıkar + ais/ais/ait/ions/
+iez/aient; être kökü ét-.
+138. Yanıt: la catégorie [la kateɡɔʁi] — kategori Çözüm: Türkçe karşılık kategori; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de
+ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+139. Yanıt: l'identification [lidɑ̃ tifikasjɔ̃ ] — tanımlama Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 32 bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de
+ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+140. Yanıt: le détail [lə detaj] — ayrıntı Çözüm: Türkçe karşılık ayrıntı; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de ile
+kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+141. Yanıt: la définition [la definisjɔ̃ ] — tanım Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+32 bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile
+kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+142. Yanıt: l'explication [lɛksplikasjɔ̃ ] — açıklama Çözüm: Türkçe karşılık açıklama; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman;
+dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+143. Yanıt: la reprise [la ʁəpʁiz] — yeniden anma Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 32 bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de
+ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+144. Yanıt: la référence [la ʁefeʁɑ̃ s] — gönderim Çözüm: Türkçe karşılık gönderim; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman;
+dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+145. Yanıt: le lien [lə ljɛ̃] — bağ Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32 bağlamında
+özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan bağlantı.
+Zamirin işlevini yan cümledeki boşluktan belirle.
+146. Yanıt: l'enchaînement [lɑ̃ ʃɛnmɑ̃ ] — ses kaynaştırma Çözüm: Türkçe karşılık ses kaynaştırma;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne;
+où yer/zaman; dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+
+47
+
+147. Yanıt: la dépendance [la depɑ̃ dɑ̃ s] — bağlılık Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 32 bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de
+ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+148. Yanıt: l'élision [lelizjɔ̃ ] — ünlü düşmesi Çözüm: Türkçe karşılık ünlü düşmesi; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman;
+dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+149. Yanıt: le référent [lə ʁefeʁɑ̃ ] — gönderilen varlık Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 32 bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de
+ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+150. Yanıt: la fonction grammaticale [la fɔ̃ ksjɔ̃ ɡʁamatikal] — dilbilgisel görev Çözüm: Türkçe karşılık
+dilbilgisel görev; Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui
+özne; que nesne; où yer/zaman; dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan
+belirle.
+151. Yanıt: la relative [la ʁəlativ] — ilgi yan cümlesi Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 32 bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de
+ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+152. Yanıt: l'antécédent [lɑ̃ tesedɑ̃ ] — ilgi zamirinin bağlandığı sözcük Çözüm: Türkçe karşılık ilgi zamirinin
+bağlandığı sözcük; Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 32 kuralı:
+qui özne; que nesne; où yer/zaman; dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki
+boşluktan belirle.
+153. Yanıt: décrire [dekʁiʁ] — betimlemek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+154. Yanıt: trouver [tʁuve] — bulmak Çözüm: Türkçe karşılık bulmak; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de ile
+kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+155. Yanıt: chercher [ʃɛʁʃe] — aramak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+156. Yanıt: aimer [eme] — sevmek Çözüm: Türkçe karşılık sevmek; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 25 kuralı: Nous şimdiki zaman kökü -ons çıkar + ais/ais/ait/ions/iez/
+aient; être kökü ét-.
+157. Yanıt: aider [ede] — yardım etmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 28
+bağlamında özne, artikel ve fiili denetle. Kural: si + présent → futur/présent; si + imparfait →
+conditionnel présent; si + plus-que-parfait → conditionnel passé. Si yan cümlesinde bu örüntülerde
+futur/conditionnel kullanılmaz.
+158. Yanıt: connaître [kɔnɛtʁ] — tanımak Çözüm: Türkçe karşılık tanımak; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de
+ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+159. Yanıt: voir [vwaʁ] — görmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 26
+bağlamında özne, artikel ve fiili denetle. Kural: Özne + avoir/être imparfait + geçmiş ortaç; önceki
+geçmiş olay.
+160. Yanıt: lire [liʁ] — okumak Çözüm: Türkçe karşılık okumak; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 25 kuralı: Nous şimdiki zaman kökü -ons çıkar + ais/ais/ait/ions/iez/
+aient; être kökü ét-.
+161. Yanıt: vivre [vivʁ] — yaşamak Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+162. Yanıt: avoir besoin de [avwaʁ bəzwɛ̃ də] — ...e ihtiyaç duymak Çözüm: Türkçe karşılık ...e ihtiyaç
+duymak; Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne;
+
+48
+
+que nesne; où yer/zaman; dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan
+belirle.
+163. Yanıt: parler de [paʁle də] — ...den bahsetmek Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur;
+modül 32 bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de
+ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+164. Yanıt: le complément [lə kɔ̃ plemɑ̃ ] — tümleç Çözüm: Türkçe karşılık tümleç; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de
+ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+165. Yanıt: la proposition [la pʁɔpɔzisjɔ̃ ] — öneri Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+29 bağlamında özne, artikel ve fiili denetle. Kural: Futur kökü + imparfait ekleri ais/ais/ait/ions/iez/
+aient; kibar rica, tavsiye, varsayım.
+166. Yanıt: le temps [lə tɑ̃ ] — zaman Çözüm: Türkçe karşılık zaman; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 28 kuralı: si + présent → futur/présent; si + imparfait →
+conditionnel présent; si + plus-que-parfait → conditionnel passé. Si yan cümlesinde bu örüntülerde
+futur/conditionnel kullanılmaz.
+167. Yanıt: le lieu [lə ljø] — yer Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32 bağlamında
+özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan bağlantı.
+Zamirin işlevini yan cümledeki boşluktan belirle.
+168. Yanıt: l'objet [lɔbʒɛ] — nesne Çözüm: Türkçe karşılık nesne; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+169. Yanıt: la personne [la pɛʁsɔn] — kişi Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+170. Yanıt: la raison [la ʁɛzɔ̃ ] — neden Çözüm: Türkçe karşılık neden; Fransızca parçayı sözcük sözcük
+değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de ile
+kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+171. Yanıt: le besoin [lə bəzwɛ̃] — ihtiyaç Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+172. Yanıt: l'idée [lide] — fikir Çözüm: Türkçe karşılık fikir; Fransızca parçayı sözcük sözcük değil, bütün
+olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de ile kurulan bağlantı.
+Zamirin işlevini yan cümledeki boşluktan belirle.
+173. Yanıt: la solution [la solysjɔ̃ ] — çözüm Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+174. Yanıt: le problème [lə pʁɔblɛm] — sorun Çözüm: Türkçe karşılık sorun; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de
+ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+175. Yanıt: la maison [la mezɔ̃ ] — ev Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 25
+bağlamında özne, artikel ve fiili denetle. Kural: Nous şimdiki zaman kökü -ons çıkar + ais/ais/ait/ions/
+iez/aient; être kökü ét-.
+176. Yanıt: le moment [lə mɔmɑ̃ ] — an Çözüm: Türkçe karşılık an; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 25 kuralı: Nous şimdiki zaman kökü -ons çıkar + ais/ais/ait/ions/iez/
+aient; être kökü ét-.
+177. Yanıt: le jour [lə ʒuʁ] — gün Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+178. Yanıt: l'ami [lami] — arkadaş Çözüm: Türkçe karşılık arkadaş; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+
+49
+
+179. Yanıt: la femme [la fam] — kadın Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+180. Yanıt: l'homme [lɔm] — adam Çözüm: Türkçe karşılık adam; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+181. Yanıt: le film [lə film] — film Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+182. Yanıt: le livre [lə livʁ] — kitap Çözüm: Türkçe karşılık kitap; Fransızca parçayı sözcük sözcük değil,
+bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+183. Yanıt: lesquelles [lekɛl] — hangileri (dişil) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül
+32 bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile
+kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+184. Yanıt: lesquels [lekɛl] — hangileri (eril) Çözüm: Türkçe karşılık hangileri (eril); Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman;
+dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+185. Yanıt: laquelle [lakɛl] — hangisi (dişil) Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+186. Yanıt: lequel [ləkɛl] — hangisi (eril) Çözüm: Türkçe karşılık hangisi (eril); Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de
+ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+187. Yanıt: ce dont [seə dɔ̃ ] — ...diğim/de gerektiren şey Çözüm: Anlamı taşıyan Fransızca öbeği aynen
+kur; modül 32 bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman;
+dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+188. Yanıt: ce que [seə kə] — ...diğim şey Çözüm: Türkçe karşılık ...diğim şey; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de
+ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+189. Yanıt: ce qui [seə ki] — ...en şey Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+190. Yanıt: dont [dɔ̃ ] — de ile bağlı ki Çözüm: Türkçe karşılık de ile bağlı ki; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de
+ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+191. Yanıt: où [u] — yer/zaman olan ki Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+192. Yanıt: que [kə] — nesne olan ki Çözüm: Türkçe karşılık nesne olan ki; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 32 kuralı: qui özne; que nesne; où yer/zaman; dont de
+ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+193. Yanıt: qui [ki] — özne olan ki Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 32
+bağlamında özne, artikel ve fiili denetle. Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan
+bağlantı. Zamirin işlevini yan cümledeki boşluktan belirle.
+194. Yanıt: plausible [plozibl] — makul/olası Çözüm: Türkçe karşılık makul/olası; Fransızca parçayı sözcük
+sözcük değil, bütün olarak değerlendir. Modül 31 kuralı: Şüphe, imkânsızlık ve öznel olasılık + que +
+subjonctif; olumlu kesinlik bildiren penser/croire genellikle indicatif alır.
+195. Yanıt: incertain [ɛ̃sɛʁtɛ̃] — belirsiz Çözüm: Anlamı taşıyan Fransızca öbeği aynen kur; modül 31
+bağlamında özne, artikel ve fiili denetle. Kural: Şüphe, imkânsızlık ve öznel olasılık + que + subjonctif;
+olumlu kesinlik bildiren penser/croire genellikle indicatif alır.
+
+50
+
+196. Yanıt: contestable [kɔ̃ tɛstabl] — tartışılabilir Çözüm: Türkçe karşılık tartışılabilir; Fransızca parçayı
+sözcük sözcük değil, bütün olarak değerlendir. Modül 31 kuralı: Şüphe, imkânsızlık ve öznel olasılık +
+que + subjonctif; olumlu kesinlik bildiren penser/croire genellikle indicatif alır.
+197. Yanıt: vraisemblable [vʁɛsɑ̃ blabl] — olası/güvenilir görünen Çözüm: Anlamı taşıyan Fransızca öbeği
+aynen kur; modül 31 bağlamında özne, artikel ve fiili denetle. Kural: Şüphe, imkânsızlık ve öznel
+olasılık + que + subjonctif; olumlu kesinlik bildiren penser/croire genellikle indicatif alır.
+198. Yanıt: la perplexité [la pɛʁplɛksite] — şaşkınlık/kararsızlık Çözüm: Türkçe karşılık şaşkınlık/kararsızlık;
+Fransızca parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 31 kuralı: Şüphe, imkânsızlık
+ve öznel olasılık + que + subjonctif; olumlu kesinlik bildiren penser/croire genellikle indicatif alır.
+199. Yanıt: la satisfaction [la satisfaksjɔ̃ ] — memnuniyet Çözüm: Anlamı taşıyan Fransızca öbeği aynen
+kur; modül 31 bağlamında özne, artikel ve fiili denetle. Kural: Şüphe, imkânsızlık ve öznel olasılık +
+que + subjonctif; olumlu kesinlik bildiren penser/croire genellikle indicatif alır.
+200. Yanıt: la déception [la desɛpsjɔ̃ ] — hayal kırıklığı Çözüm: Türkçe karşılık hayal kırıklığı; Fransızca
+parçayı sözcük sözcük değil, bütün olarak değerlendir. Modül 31 kuralı: Şüphe, imkânsızlık ve öznel
+olasılık + que + subjonctif; olumlu kesinlik bildiren penser/croire genellikle indicatif alır.
+
+51
+

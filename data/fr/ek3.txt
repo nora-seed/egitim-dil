@@ -1,0 +1,201 @@
+Ek 3 — Dilbilgisi hızlı başvuru
+Modül 2: Selamlaşma ve Tanışma
+Kural: Samimi hitapta tu, resmî veya çoğul hitapta vous kullanılır.
+Türkçe farkı: Türkçedeki sen/siz ayrımına benzer; tanımadığın yetişkinle vous güvenlidir.
+Örnek: Bonjour [bonjur] — Merhaba
+
+Modül 3: Sayılar Tarihler ve Saatler
+Kural: Tarih le + gün + ay; saat il est + sayı + heure(s). 70=60+10, 80=4×20, 90=4×20+10.
+Türkçe farkı: Türkçede sayı bileşimi daha düzenlidir; saat kalıbında özne il zorunludur.
+Örnek: zéro [zero] — sıfır
+
+Modül 4: Zamirler ve Être
+Kural: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont.
+Türkçe farkı: Türkçede kişi eki fiile eklenir; Fransızcada özne çoğu kez yazılır.
+Örnek: Je suis étudiant [jı süi etüdyan] — Öğrenciyim
+
+Modül 5: Avoir ve Sahiplik
+Kural: j'ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont; sahiplik belirteci isimle uyumlanır.
+Türkçe farkı: Yaş ve açlık être ile değil avoir ile anlatılır.
+Örnek: J'ai un livre [je en livr] — Bir kitabım var
+
+Modül 6: Aile ve Kişisel Bilgiler
+Kural: İsimleri artikel ile öğren: le père, la mère; soru sözcüğü cümlenin başında veya konuşmada sonunda
+olabilir.
+Türkçe farkı: Türkçede isimlerin eril/dişil dilbilgisel türü yoktur.
+Örnek: Voici ma mère [vwasi ma mer] — İşte annem
+
+Modül 7: Renkler Sıfatlar ve -ER Fiilleri
+Kural: parler → je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent; sıfat isimle uyumlanır.
+Türkçe farkı: Fransızcada çoğu sıfat isimden sonra gelir; bazı yaygınları önce gelir.
+Örnek: Je parle français [jı parl franse] — Fransızca konuşuyorum
+
+Modül 8: Ev ve Yaşam Alanları
+Kural: Il y a + isim = var; yer edatı + artikel + isim.
+Türkçe farkı: Türkçe bulunma eki yerine ayrı edatlar kullanılır.
+Örnek: Il y a une table [il ya ün tabl] — Bir masa var
+
+Modül 9: Yemek İçecek ve Restoran
+Kural: Belirsiz miktarda du/de la/de l'; kibar istek je voudrais + isim.
+
+1
+
+Türkçe farkı: Türkçedeki yalın yiyecek adı Fransızcada çoğu kez artikel ister.
+Örnek: Je voudrais du pain [jı vudre dü pen] — Ekmek istiyorum
+
+Modül 10: Alışveriş ve Mağazalar
+Kural: Fiyat için Ça coûte combien?; nesneyi tanımlamak için renk ve beden sıfatı kullan.
+Türkçe farkı: Türkçedeki “kaç para” sorusu birden fazla doğal Fransızca kalıpla söylenir.
+Örnek: Ça coûte combien ? [sa kut kombiyen] — Bu ne kadar?
+
+Modül 11: Şehirde Yön Bulma
+Kural: Emir: tournez, allez, traversez; hedefe à/au/à la/à l'/aux ile gidilir.
+Türkçe farkı: Türkçe yönelme eki çoğu kez à ile karşılanır, ama yerin artikeli birleşir.
+Örnek: Où est la gare ? [u e la gar] — Gar nerede?
+
+Modül 12: A1 Genel Tekrar ve Sınav
+Kural: A1 çekirdekleri: özne + şimdiki zaman; isim + artikel; temel soru ve olumsuzluk.
+Türkçe farkı: Türkçe özne düşebilir, Fransızcada çoğu zaman düşmez.
+Örnek: Je suis turc [jı süi türk] — Türküm
+
+Modül 13: Passé Composé Avoir
+Kural: Özne + avoir şimdiki zaman + participe passé; düzenli -er→-é, -ir→-i, -re→-u.
+Türkçe farkı: Türkçede tek fiile gelen geçmiş eki Fransızcada iki parçalı olabilir.
+Örnek: J'ai parlé [je parle] — Konuştum
+
+Modül 14: Passé Composé Être
+Kural: Özne + être şimdiki zaman + geçmiş ortaç; özneyle cinsiyet/sayı uyumu. Bazı yer değiştirme fiilleri
+ve dönüşlü fiiller être alır.
+Türkçe farkı: Türkçede ortaç biçimi öznenin cinsiyetine göre değişmez.
+Örnek: Je suis allé [jı süi zale] — Gittim (erkek)
+
+Modül 15: -IR -RE ve Dönüşlü Fiiller
+Kural: finir→finis/finis/finit/finissons/finissez/finissent; attendre→attends/attends/attend/attendons/attendez/
+attendent; dönüşlü: me/te/se/nous/vous/se.
+Türkçe farkı: Türkçedeki “-in/-n” dönüşlülük eki Fransızcada çoğu kez ayrı zamirdir.
+Örnek: Je finis à six heures [jı fini a siz ör] — Altıda bitiriyorum
+
+Modül 16: Artikeller ve Çoğul
+Kural: Belirli le/la/l'/les; belirsiz un/une/des; partitif du/de la/de l'/des; olumsuz miktar çoğu kez de/d'.
+Türkçe farkı: Türkçede artikel zorunlu değildir; Fransızcada isimle beraber öğrenmek gerekir.
+Örnek: Le livre est ici [lı livr e isi] — Kitap burada
+
+2
+
+Modül 17: COD COI En ve Y
+Kural: Doğrudan nesne le/la/les; à + kişi dolaylı nesne lui/leur; en çoğunlukla de öbeğini, y çoğunlukla à
+veya yer öbeğini karşılar.
+Türkçe farkı: Türkçedeki -i/-e durumu fiile göre Fransızcada farklı zamire dönüşür.
+Örnek: Je la vois [jı la vwa] — Onu görüyorum (kadın)
+
+Modül 18: Karşılaştırma ve Üstünlük
+Kural: plus/moins/aussi + sıfat + que; le/la/les plus + sıfat; bon→meilleur, bien→mieux.
+Türkçe farkı: Türkçede -den daha ve en sözcüğüyle kurulur; Fransızca sıfat uyumu sürer.
+Örnek: Je suis plus grand que lui [jı süi plü gran kı lüi] — Ondan daha uzunum
+
+Modül 19: Sağlık ve Vücut
+Kural: Ağrı: avoir mal à + le/la/les → au/à la/aux; semptom: avoir de la fièvre.
+Türkçe farkı: Türkçede “başım ağrıyor” özne beden parçasıdır; Fransızca j'ai mal à la tête yaygındır.
+Örnek: J'ai mal à la tête [je mal a la tet] — Başım ağrıyor
+
+Modül 20: İş Meslek ve Ofis
+Kural: Meslek özne niteliği olarak être sonrasında genellikle artikelsiz; nitelendirilen bir isimde artikel
+olabilir.
+Türkçe farkı: Türkçede meslek belirtirken artikel yoktur; Fransızcada bağlama göre değişir.
+Örnek: Je suis développeur [jı süi developör] — Yazılımcıyım
+
+Modül 21: Seyahat ve Konaklama
+Kural: Réserver + isim; aller à/en/au/aux hedefin türüne ve ülke cinsiyetine göre.
+Türkçe farkı: Türkçe -e yönelmesi Fransızcada yer adının türüne göre değişir.
+Örnek: Je réserve une chambre [jı rezerv ün şanbr] — Oda ayırtıyorum
+
+Modül 22: Hobiler ve Boş Zaman
+Kural: aimer/adorer/détester + belirli artikel veya mastar; yakın gelecek aller + mastar.
+Türkçe farkı: Türkçede isim veya fiile gelen ekler Fransızcada ayrı artikel/mastar yapılarıyla karşılanır.
+Örnek: J'aime la musique [jem la müzik] — Müziği severim
+
+Modül 23: Duygular Görüşler ve Rica
+Kural: Je pense que + bildirme kipi; je voudrais + isim/mastar kibar istek; avoir peur.
+Türkçe farkı: Türkçedeki “bence” Fransızcada farklı kesinlik derecelerine sahip kalıplarla söylenir.
+Örnek: Je suis content [jı süi kontan] — Mutluyum (erkek)
+
+Modül 24: A2 Genel Tekrar ve Sınav
+Kural: Geçmiş olay: passé composé; rutin ve durum: présent; nesne ve miktarı zamir veya artikel ile belirt.
+Türkçe farkı: Türkçede birden çok geçmiş biçimi vardır; Fransızca yardımcı fiil ve uyuma dikkat edilir.
+Örnek: Hier, j'ai travaillé [yer je travayé] — Dün çalıştım
+
+3
+
+Modül 25: Imparfait
+Kural: Nous şimdiki zaman kökü -ons çıkar + ais/ais/ait/ions/iez/aient; être kökü ét-.
+Türkçe farkı: Türkçede -yordu ve -ardı çoğu bağlamda karşılık olabilir; olay sıralamasını bağlama göre seç.
+Örnek: Je parlais [jı parle] — Konuşuyordum
+
+Modül 26: Plus-que-parfait
+Kural: Özne + avoir/être imparfait + geçmiş ortaç; önceki geçmiş olay.
+Türkçe farkı: Türkçedeki -mıştı/-mişti ile çoğu zaman örtüşür.
+Örnek: J'avais parlé [jave parle] — Konuşmuştum
+
+Modül 27: Futur Simple
+Kural: Mastar (son -re için e çıkar) + ai/as/a/ons/ez/ont; düzensiz kökleri ayrıca öğren.
+Türkçe farkı: Türkçedeki -ecek/-acak çoğu bağlamda karşılık verir.
+Örnek: Je parlerai [jı parlöre] — Konuşacağım
+
+Modül 28: Si ile Koşul Cümleleri
+Kural: si + présent → futur/présent; si + imparfait → conditionnel présent; si + plus-que-parfait →
+conditionnel passé. Si yan cümlesinde bu örüntülerde futur/conditionnel kullanılmaz.
+Türkçe farkı: Türkçedeki -sa/-se olasılık derecesine göre farklı Fransızca zamanlar ister.
+Örnek: S'il pleut, je resterai [sil plö jı restöre] — Yağmur yağarsa kalacağım
+
+Modül 29: Conditionnel Présent
+Kural: Futur kökü + imparfait ekleri ais/ais/ait/ions/iez/aient; kibar rica, tavsiye, varsayım.
+Türkçe farkı: Türkçe -rdi, -ebilirdi veya kibar “isterim” karşılığı bağlama bağlıdır.
+Örnek: Je voudrais un café [jı vudre en kafe] — Bir kahve isterim
+
+Modül 30: Subjonctif Gereklilik ve Duygu
+Kural: İki farklı özne + gereklilik/istek/duygu + que + subjonctif; düzenli çekim çoğunlukla ils kökü + e/es/e/
+ions/iez/ent.
+Türkçe farkı: Türkçe dilek ve gereklilik ekleri Fransızcada yan cümle kipini tetikleyebilir.
+Örnek: Il faut que tu partes [il fo kı tü part] — Gitmen gerekiyor
+
+Modül 31: Subjonctif Şüphe ve Olasılık
+Kural: Şüphe, imkânsızlık ve öznel olasılık + que + subjonctif; olumlu kesinlik bildiren penser/croire
+genellikle indicatif alır.
+Türkçe farkı: Türkçe “sanmıyorum” anlamı kip seçimini değiştirir.
+Örnek: Je pense qu'il vient [jı pans kil vyen] — Sanırım geliyor
+
+Modül 32: İlgi Zamirleri
+Kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki
+boşluktan belirle.
+Türkçe farkı: Türkçedeki -en/-an, -diğim ve -deki yapıları Fransızcada ayrı ilgi sözcükleriyle ifade edilir.
+
+4
+
+Örnek: L'homme qui parle est mon père [lom ki parl e mon per] — Konuşan adam babam
+
+Modül 33: Fransız Kültürü ve Toplumu
+Kural: Kültürel kullanım bölgeden, kişiden ve durumdan etkilenir; selamlaşmada önce bonjour demek
+yaygın nezaket kuralıdır.
+Türkçe farkı: Türkiye ve Fransa'daki temas, yemek saati ve resmiyet alışkanlıkları tek bir kalıba
+indirgenemez.
+Örnek: Bonjour, madame [bonjur madam] — Merhaba hanımefendi
+
+Modül 34: Haberler ve Medya
+Kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+Türkçe farkı: Türkçede haber başlıklarında da eksiltme vardır, fakat Fransızca zaman ve dolaylı aktarma
+farklıdır.
+Örnek: Selon le journal [sılon lı jurnal] — Gazeteye göre
+
+Modül 35: Görüş Tartışma ve Sunum
+Kural: Görüş + gerekçe + örnek + karşı görüş + sonuç düzeni, B1 düzeyinde bağlı konuşma sağlar.
+Türkçe farkı: Türkçedeki bağlaçlar Fransızcada farklı vurgu ve söz dizimiyle kullanılır.
+Örnek: À mon avis [a mon avi] — Bana göre
+
+Modül 36: B1 Genel Tekrar ve Sınav
+Kural: Geçmiş arka plan imparfait, bitmiş olay passé composé, daha önceki olay plus-que-parfait; gelecek
+ve varsayımı uygun kiplerle anlat.
+Türkçe farkı: Türkçe çeviri tek başına zaman seçtirmez; olayın anlatıdaki işlevine bak.
+Örnek: Je lisais quand tu as appelé [jı lize kan tü a aple] — Aradığında okuyordum
+
+5
+

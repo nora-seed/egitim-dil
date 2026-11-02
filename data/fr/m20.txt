@@ -1,0 +1,557 @@
+Modül 20 — İş Meslek ve Ofis
+Seviye: A2. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+İş Meslek ve Ofis konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt etmeye
+yardım eder.
+
+Konunun mantığı
+Meslek özne niteliği olarak être sonrasında genellikle artikelsiz; nitelendirilen bir isimde artikel olabilir.
+
+Türkçe ile karşılaştırma
+Türkçede meslek belirtirken artikel yoktur; Fransızcada bağlama göre değişir.
+
+Formül / Kural
+Temel şema: Meslek özne niteliği olarak être sonrasında genellikle artikelsiz; nitelendirilen bir isimde artikel
+olabilir.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+Je suis développeur [jı süi developör] — Yazılımcıyım
+
+2. örüntü
+
+bağlam
+
+Elle est médecin [el e medsen] — Doktor
+
+3. örüntü
+
+telaffuz
+
+C'est un bon médecin [se ten bon medsen] — İyi bir doktor
+
+Ayrıntılı konu anlatımı
+Meslek tanıtımı ve özgeçmiş
+Je suis développeur [ʒə sɥi devlɔpœʁ] — Yazılımcıyım; c'est un développeur expérimenté [sɛtœ̃
+devlɔpœʁ ɛkspeʁimɑ̃ te] — O deneyimli bir yazılımcı. Meslek nitelik olarak être ile kullanıldığında artikel
+çoğunlukla düşer, isim grubu tanımında korunur. Je travaille dans une entreprise [ʒə tʁavaj
+dɑ̃ zynɑ̃ tʁəpʁiz] — Bir şirkette çalışıyorum.
+CV'de deneyim için J'ai deux ans d'expérience [ʒe døzɑ̃ dɛkspeʁjɑ̃ s] — İki yıl deneyimim var. Görüşmede
+Je peux vous donner un exemple [ʒə pø vu dɔne œ̃nɛɡzɑ̃ pl] — Size bir örnek verebilirim diyerek iddiayı
+kanıtla. CDI [se de i] — süresiz iş sözleşmesi ve CDD [se de de] — süreli iş sözleşmesi Fransa bağlamına
+özgü terimlerdir.
+
+On örnek
+1. Je suis développeur [jı süi developör] — Yazılımcıyım
+2. Elle est médecin [el e medsen] — Doktor
+3. C'est un bon médecin [se ten bon medsen] — İyi bir doktor
+4. Je cherche un emploi [jı şerş en anplwa] — İş arıyorum
+5. Je travaille au bureau [jı travay o büro] — Ofiste çalışıyorum
+
+1
+
+6. J'ai un entretien demain [je en antırtien dımen] — Yarın görüşmem var
+7. Parlez-moi de vous [parle mwa dı vu] — Kendinizden bahsedin
+8. J'ai deux ans d'expérience [je dö zan deksperyans] — İki yıl deneyimim var
+9. Quel est le salaire ? [kel e lı saler] — Maaş ne kadar?
+10. Le contrat est signé [lı kontra e siyné] — Sözleşme imzalandı.
+
+Yaygın hatalar
+Je suis un médecin biçimini her durumda yanlış sayma; özne niteliği ile c'est tanımı ayrı tut.
+
+Ezber tekniği
+İki dakikalık iş görüşmesi kaydı yap; her deneyimini somut bir örnekle destekle.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 42. Spiral tekrar: 6. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+l'infirmier [lɛ̃fiʁmje]
+
+hemşire (erkek)
+
+le professeur [lə pʁɔfɛsœʁ]
+
+öğretmen
+
+l'ingénieur [lɛ̃ʒenjœʁ]
+
+mühendis
+
+le développeur [lə devlɔpœʁ]
+
+yazılımcı (erkek)
+
+la développeuse [la devlɔpøz]
+
+yazılımcı (kadın)
+
+le directeur [lə diʁɛktœʁ]
+
+müdür (erkek)
+
+la directrice [la diʁɛktʁis]
+
+müdür (kadın)
+
+le vendeur [lə vɑ̃ dœʁ]
+
+satıcı (erkek)
+
+la vendeuse [la vɑ̃ døz]
+
+satıcı (kadın)
+
+le chauffeur [lə ʃofœʁ]
+
+şoför
+
+le cuisinier [lə kɥizinje]
+
+aşçı (erkek)
+
+le policier [lə pɔlisje]
+
+polis (erkek)
+
+la policière [la pɔlisjɛʁ]
+
+polis (kadın)
+
+le journaliste [lə ʒuʁnalist]
+
+gazeteci
+
+l'artiste [laʁtist]
+
+sanatçı
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+le musicien [lə myzisjɛ̃]
+
+müzisyen (erkek)
+
+la musicienne [la myzisjɛn]
+
+müzisyen (kadın)
+
+l'avocat [lavɔka]
+
+avukat (erkek)
+
+l'avocate [lavɔkat]
+
+avukat (kadın)
+
+le comptable [lə kɔ̃ tabl]
+
+muhasebeci
+
+le secrétaire [lə səkʁetɛʁ]
+
+sekreter (erkek)
+
+la secrétaire [la səkʁetɛʁ]
+
+sekreter (kadın)
+
+le bureau [lə byʁo]
+
+ofis
+
+l'usine [lyzin]
+
+fabrika
+
+l'emploi [lɑ̃ plwa]
+
+iş
+
+le poste [lə pɔst]
+
+pozisyon
+
+l'entretien [lɑ̃ tʁətjɛ̃]
+
+iş görüşmesi
+
+le salaire [lə salɛʁ]
+
+maaş
+
+l'expérience [lɛkspeʁjɑ̃ s]
+
+deneyim
+
+la compétence [la kɔ̃ petɑ̃ s]
+
+beceri
+
+la qualification [la kalifikasjɔ̃ ]
+
+nitelik
+
+le contrat [lə kɔ̃ tʁa]
+
+sözleşme
+
+le CDI [lə sedei]
+
+süresiz iş sözleşmesi
+
+le CDD [lə sedede]
+
+süreli iş sözleşmesi
+
+le CV [lə seve]
+
+özgeçmiş
+
+la candidature [la kɑ̃ didatyʁ]
+
+başvuru
+
+l'entreprise [lɑ̃ tʁəpʁiz]
+
+şirket
+
+le collègue [lə kɔlɛɡ]
+
+iş arkadaşı
+
+l'horaire [lɔʁɛʁ]
+
+çalışma saati
+
+l’embauche [lɑ̃ boʃ]
+
+işe alma
+
+le recrutement [lə ʁəkʁytmɑ̃ ]
+
+işe alım
+
+la période d’essai [la peʁjɔd desɛ]
+
+deneme süresi
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+le médecin [lə medsɛ̃]
+
+doktor
+
+l'infirmière [lɛ̃fiʁmjɛʁ]
+
+hemşire (kadın)
+
+la cuisinière [la kɥizinjɛʁ]
+
+aşçı (kadın)
+
+l'école [lekɔl]
+
+okul
+
+la banque [la bɑ̃ k]
+
+banka
+
+travailler [tʁavaje]
+
+çalışmak
+
+Mini alıştırma — 10 soru
+1. Yazılımcıyım anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+3
+
+2. Doktor anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. İyi bir doktor anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. İş arıyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Ofiste çalışıyorum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Yarın görüşmem var anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Kendinizden bahsedin anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. İki yıl deneyimim var anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Maaş ne kadar? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Sözleşme imzalandı. anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: Meslek özne niteliği olarak être sonrasında genellikle artikelsiz; nitelendirilen bir isimde
+artikel olabilir.
+• Türkçe karşılaştırması: Türkçede meslek belirtirken artikel yoktur; Fransızcada bağlama göre değişir.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. Je suis développeur
+2. Elle est médecin
+3. C'est un bon médecin
+4. Je cherche un emploi
+5. Je travaille au bureau
+6. J'ai un entretien demain
+7. Parlez-moi de vous
+8. J'ai deux ans d'expérience
+9. Quel est le salaire ?
+10. Le contrat est signé
+11. Yazılımcıyım
+12. Doktor
+13. İyi bir doktor
+14. İş arıyorum
+15. Ofiste çalışıyorum
+16. Yarın görüşmem var
+17. Kendinizden bahsedin
+18. İki yıl deneyimim var
+19. Maaş ne kadar?
+20. Sözleşme imzalandı.
+21. Je suis développeur: A) Yazılımcıyım B) İş arıyorum C) Kendinizden bahsedin
+22. Elle est médecin: A) Ofiste çalışıyorum B) İki yıl deneyimim var C) Doktor
+23. C'est un bon médecin: A) Maaş ne kadar? B) İyi bir doktor C) Yarın görüşmem var
+
+4
+
+24. Je cherche un emploi: A) İş arıyorum B) Kendinizden bahsedin C) Sözleşme imzalandı.
+25. Je travaille au bureau: A) İki yıl deneyimim var B) Yazılımcıyım C) Ofiste çalışıyorum
+
+25 alıştırmanın çözümleri
+1. Yazılımcıyım — Fransızca kaynak ifade: Je suis développeur [jı süi developör] — Yazılımcıyım
+2. Doktor — Fransızca kaynak ifade: Elle est médecin [el e medsen] — Doktor
+3. İyi bir doktor — Fransızca kaynak ifade: C'est un bon médecin [se ten bon medsen] — İyi bir doktor
+4. İş arıyorum — Fransızca kaynak ifade: Je cherche un emploi [jı şerş en anplwa] — İş arıyorum
+5. Ofiste çalışıyorum — Fransızca kaynak ifade: Je travaille au bureau [jı travay o büro] — Ofiste
+çalışıyorum
+6. Yarın görüşmem var — Fransızca kaynak ifade: J'ai un entretien demain [je en antırtien dımen] — Yarın
+görüşmem var
+7. Kendinizden bahsedin — Fransızca kaynak ifade: Parlez-moi de vous [parle mwa dı vu] — Kendinizden
+bahsedin
+8. İki yıl deneyimim var — Fransızca kaynak ifade: J'ai deux ans d'expérience [je dö zan deksperyans] —
+İki yıl deneyimim var
+9. Maaş ne kadar? — Fransızca kaynak ifade: Quel est le salaire ? [kel e lı saler] — Maaş ne kadar?
+10. Sözleşme imzalandı. — Fransızca kaynak ifade: Le contrat est signé [lı kontra e siyné] — Sözleşme
+imzalandı.
+11. Je suis développeur [jı süi developör] — Yazılımcıyım — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+12. Elle est médecin [el e medsen] — Doktor — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+13. C'est un bon médecin [se ten bon medsen] — İyi bir doktor — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+14. Je cherche un emploi [jı şerş en anplwa] — İş arıyorum — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+15. Je travaille au bureau [jı travay o büro] — Ofiste çalışıyorum — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+16. J'ai un entretien demain [je en antırtien dımen] — Yarın görüşmem var — Bu çeviride sözcük sırası ve
+varsa artikel örnekteki gibidir.
+17. Parlez-moi de vous [parle mwa dı vu] — Kendinizden bahsedin — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+18. J'ai deux ans d'expérience [je dö zan deksperyans] — İki yıl deneyimim var — Bu çeviride sözcük
+sırası ve varsa artikel örnekteki gibidir.
+19. Quel est le salaire ? [kel e lı saler] — Maaş ne kadar? — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+20. Le contrat est signé [lı kontra e siyné] — Sözleşme imzalandı. — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+21. A — Je suis développeur [jı süi developör] — Yazılımcıyım
+22. C — Elle est médecin [el e medsen] — Doktor
+23. B — C'est un bon médecin [se ten bon medsen] — İyi bir doktor
+24. A — Je cherche un emploi [jı şerş en anplwa] — İş arıyorum
+25. C — Je travaille au bureau [jı travay o büro] — Ofiste çalışıyorum
+
+5
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. Je suis développeur ne anlama gelir? A) Yazılımcıyım B) İyi bir doktor C) Yarın görüşmem var
+2. Elle est médecin ne anlama gelir? A) İş arıyorum B) Kendinizden bahsedin C) Doktor
+3. C'est un bon médecin ne anlama gelir? A) İki yıl deneyimim var B) İyi bir doktor C) Ofiste çalışıyorum
+4. Je cherche un emploi ne anlama gelir? A) İş arıyorum B) Yarın görüşmem var C) Maaş ne kadar?
+5. Je travaille au bureau ne anlama gelir? A) Kendinizden bahsedin B) Sözleşme imzalandı. C) Ofiste
+çalışıyorum
+6. Boşluğu doldur: J'ai un ____ demain — Yarın görüşmem var
+7. Boşluğu doldur: Parlez-moi ____ vous — Kendinizden bahsedin
+8. Boşluğu doldur: J'ai deux ____ d'expérience — İki yıl deneyimim var
+9. Boşluğu doldur: Quel est ____ salaire ? — Maaş ne kadar?
+10. Boşluğu doldur: Le contrat ____ signé — Sözleşme imzalandı.
+11. Fransızcaya çevir: Yazılımcıyım
+12. Fransızcaya çevir: Doktor
+13. Fransızcaya çevir: İyi bir doktor
+14. Şu anlam için verilen bozuk sıralamayı düzelt: emploi / un / cherche / Je — İş arıyorum
+15. Şu anlam için verilen bozuk sıralamayı düzelt: bureau / au / travaille / Je — Ofiste çalışıyorum
+
+Test cevap anahtarı
+1. A — Je suis développeur [jı süi developör] — Yazılımcıyım
+2. C — Elle est médecin [el e medsen] — Doktor
+3. B — C'est un bon médecin [se ten bon medsen] — İyi bir doktor
+4. A — Je cherche un emploi [jı şerş en anplwa] — İş arıyorum
+5. C — Je travaille au bureau [jı travay o büro] — Ofiste çalışıyorum
+6. entretien — J'ai un entretien demain [je en antırtien dımen] — Yarın görüşmem var
+7. de — Parlez-moi de vous [parle mwa dı vu] — Kendinizden bahsedin
+8. ans — J'ai deux ans d'expérience [je dö zan deksperyans] — İki yıl deneyimim var
+9. le — Quel est le salaire ? [kel e lı saler] — Maaş ne kadar?
+10. est — Le contrat est signé [lı kontra e siyné] — Sözleşme imzalandı.
+11. Je suis développeur [jı süi developör] — Yazılımcıyım
+12. Elle est médecin [el e medsen] — Doktor
+13. C'est un bon médecin [se ten bon medsen] — İyi bir doktor
+14. Je cherche un emploi [jı şerş en anplwa] — İş arıyorum
+15. Je travaille au bureau [jı travay o büro] — Ofiste çalışıyorum
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: Je suis développeur [jı süi developör] — Yazılımcıyım
+
+6
+
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: Elle est médecin [el e medsen] — Doktor
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: C'est un bon médecin [se ten bon medsen] — İyi bir doktor
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Je cherche un emploi [jı şerş en anplwa] — İş arıyorum
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+Ara sınav — 30 soru + iki görev
+1. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Je suis développeur [jı süi developör] —
+Yazılımcıyım
+2. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Elle est médecin [el e medsen] — Doktor
+3. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: C'est un bon médecin [se ten bon medsen]
+— İyi bir doktor
+4. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Je cherche un emploi [jı şerş en anplwa] —
+İş arıyorum
+5. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Je travaille au bureau [jı travay o büro] —
+Ofiste çalışıyorum
+6. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: J'ai un entretien demain [je en antırtien
+dımen] — Yarın görüşmem var
+7. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Parlez-moi de vous [parle mwa dı vu] —
+Kendinizden bahsedin
+8. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: J'ai deux ans d'expérience [je dö zan
+deksperyans] — İki yıl deneyimim var
+9. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Quel est le salaire ? [kel e lı saler] — Maaş
+ne kadar?
+10. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le contrat est signé [lı kontra e siyné] —
+Sözleşme imzalandı.
+11. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Je suis développeur [jı süi developör] —
+Yazılımcıyım
+12. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Elle est médecin [el e medsen] — Doktor
+13. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: C'est un bon médecin [se ten bon medsen]
+— İyi bir doktor
+
+7
+
+14. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Je cherche un emploi [jı şerş en anplwa] —
+İş arıyorum
+15. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Je travaille au bureau [jı travay o büro] —
+Ofiste çalışıyorum
+16. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: J'ai un entretien demain [je en antırtien
+dımen] — Yarın görüşmem var
+17. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Parlez-moi de vous [parle mwa dı vu] —
+Kendinizden bahsedin
+18. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: J'ai deux ans d'expérience [je dö zan
+deksperyans] — İki yıl deneyimim var
+19. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Quel est le salaire ? [kel e lı saler] — Maaş
+ne kadar?
+20. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le contrat est signé [lı kontra e siyné] —
+Sözleşme imzalandı.
+21. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Je suis développeur [jı süi developör] —
+Yazılımcıyım
+22. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Elle est médecin [el e medsen] — Doktor
+23. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: C'est un bon médecin [se ten bon medsen]
+— İyi bir doktor
+24. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Je cherche un emploi [jı şerş en anplwa] —
+İş arıyorum
+25. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Je travaille au bureau [jı travay o büro] —
+Ofiste çalışıyorum
+26. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: J'ai un entretien demain [je en antırtien
+dımen] — Yarın görüşmem var
+27. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Parlez-moi de vous [parle mwa dı vu] —
+Kendinizden bahsedin
+28. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: J'ai deux ans d'expérience [je dö zan
+deksperyans] — İki yıl deneyimim var
+29. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Quel est le salaire ? [kel e lı saler] — Maaş
+ne kadar?
+30. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le contrat est signé [lı kontra e siyné] —
+Sözleşme imzalandı.
+Yazma: Son üç modülden beş yapı kullanarak kısa paragraf yaz. Konuşma: Aynı konuyu iki dakika sesli
+anlat. Yanıtları örnek cümlelerle karşılaştır.
+
+8
+

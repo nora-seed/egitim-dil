@@ -1,0 +1,529 @@
+Modül 22 — Hobiler ve Boş Zaman
+Seviye: A2. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+Hobiler ve Boş Zaman konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt
+etmeye yardım eder.
+
+Konunun mantığı
+aimer/adorer/détester + belirli artikel veya mastar; yakın gelecek aller + mastar.
+
+Türkçe ile karşılaştırma
+Türkçede isim veya fiile gelen ekler Fransızcada ayrı artikel/mastar yapılarıyla karşılanır.
+
+Formül / Kural
+Temel şema: aimer/adorer/détester + belirli artikel veya mastar; yakın gelecek aller + mastar.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+J'aime la musique [jem la müzik] — Müziği severim
+
+2. örüntü
+
+bağlam
+
+J'adore nager [jador naje] — Yüzmeye bayılırım
+
+3. örüntü
+
+telaffuz
+
+Je déteste attendre [jı detest atandr] — Beklemekten nefret ederim
+
+Ayrıntılı konu anlatımı
+Sevme ve plan yapma
+J'aime la musique [ʒɛm la myzik] — Müziği severim: bir türü genel olarak sevdiğinde belirli artikel gelir.
+J'aime lire [ʒɛm liʁ] — Okumayı severim: ikinci fiil mastardır. Je joue au football [ʒə ʒu o futbol] — Futbol
+oynuyorum; je joue de la guitare [ʒə ʒu də la ɡitaʁ] — Gitar çalıyorum: oyun/spor ile müzik aleti edatları
+farklıdır.
+Yakın gelecek aller + mastar: Je vais nager demain [ʒə vɛ naʒe dəmɛ̃] — Yarın yüzeceğim. Davet Tu
+veux venir ? [ty vø vəniʁ] — Gelmek ister misin?; kabul Avec plaisir [avɛk pleziʁ] — Memnuniyetle; nazik
+ret Désolé, je ne peux pas [dezole ʒə nə pø pa] — Üzgünüm, gelemem.
+
+On örnek
+1. J'aime la musique [jem la müzik] — Müziği severim
+2. J'adore nager [jador naje] — Yüzmeye bayılırım
+3. Je déteste attendre [jı detest atandr] — Beklemekten nefret ederim
+4. Je joue au football [jı ju o futbol] — Futbol oynarım
+5. Je fais du vélo [jı fe dü velo] — Bisiklet sürerim
+6. On va au cinéma [on va o sinema] — Sinemaya gidiyoruz
+7. Je vais lire [jı ve lir] — Okuyacağım
+
+1
+
+8. Tu veux venir ? [tü vö vınir] — Gelmek ister misin?
+9. Avec plaisir [avek plezir] — Memnuniyetle
+10. Peut-être demain [pötet dımen] — Belki yarın.
+
+Yaygın hatalar
+Jouer au football ile jouer de la guitare edatlarını karıştırma.
+
+Ezber tekniği
+Hafta sonuna iki davet hazırla, birini kabul edip diğerini nazikçe reddet.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 43. Spiral tekrar: 14. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+le sport [lə spɔʁ]
+
+spor
+
+le football [lə futbol]
+
+futbol
+
+le basket [lə baskɛt]
+
+basketbol
+
+la natation [la natasjɔ̃ ]
+
+yüzme
+
+la course [la kuʁs]
+
+koşu
+
+le yoga [lə jɔɡa]
+
+yoga
+
+la danse [la dɑ̃ s]
+
+dans
+
+la musique [la myzik]
+
+müzik
+
+le chant [lə ʃɑ̃ ]
+
+şarkı söyleme
+
+la guitare [la ɡitaʁ]
+
+gitar
+
+le piano [lə pjano]
+
+piyano
+
+le dessin [lə desɛ̃]
+
+çizim
+
+la photographie [la fɔtɔɡʁafi]
+
+fotoğrafçılık
+
+la lecture [la lɛktyʁ]
+
+okuma
+
+les voyages [lez vwajaʒ]
+
+seyahatler
+
+les jeux vidéo [lez ʒø video]
+
+video oyunları
+
+le jardinage [lə ʒaʁdinaʒ]
+
+bahçıvanlık
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+la pêche [la pɛʃ]
+
+balık tutma
+
+le vélo [lə velo]
+
+bisiklet
+
+la randonnée [la ʁɑ̃ dɔne]
+
+doğa yürüyüşü
+
+le concert [lə kɔ̃ sɛʁ]
+
+konser
+
+la série [la seʁi]
+
+dizi
+
+le film [lə film]
+
+film
+
+le week-end [lə wikɛnd]
+
+hafta sonu
+
+les vacances [lez vakɑ̃ s]
+
+tatil
+
+accepter [aksɛpte]
+
+kabul etmek
+
+refuser [ʁəfyze]
+
+reddetmek
+
+proposer [pʁɔpoze]
+
+önermek
+
+nager [naʒe]
+
+yüzmek
+
+courir [kuʁiʁ]
+
+koşmak
+
+dessiner [desine]
+
+çizmek
+
+l'escalade [lɛskalad]
+
+tırmanış
+
+le bricolage [lə bʁikɔlaʒ]
+
+ev işleri/hobi tamirat
+
+la poterie [la pɔtʁi]
+
+seramikçilik
+
+la couture [la kutyʁ]
+
+dikiş
+
+la collection [la kɔlɛksjɔ̃ ]
+
+koleksiyon
+
+le bénévolat [lə benevɔla]
+
+gönüllülük
+
+les échecs [lez eʃɛk]
+
+satranç
+
+le ping-pong [lə piŋpɔ̃ ɡ]
+
+masa tenisi
+
+le camping [lə kɑ̃ piŋɡ]
+
+kampçılık
+
+le patinage [lə patinaʒ]
+
+paten kayma
+
+le tricot [lə tʁiko]
+
+örgü
+
+le jardinier [lə ʒaʁdinje]
+
+bahçıvan
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+le cinéma [lə sinema]
+
+sinema
+
+le théâtre [lə teatʁ]
+
+tiyatro
+
+la cuisine [la kɥizin]
+
+yemek yapma
+
+le musée [lə myze]
+
+müze
+
+le livre [lə livʁ]
+
+kitap
+
+inviter [ɛ̃vite]
+
+davet etmek
+
+venir [vəniʁ]
+
+gelmek
+
+sortir [sɔʁtiʁ]
+
+dışarı çıkmak
+
+lire [liʁ]
+
+okumak
+
+jouer [ʒwe]
+
+oynamak
+
+3
+
+Fransızca [IPA]
+
+Türkçe
+
+chanter [ʃɑ̃ te]
+
+şarkı söylemek
+
+danser [dɑ̃ se]
+
+dans etmek
+
+cuisiner [kɥizine]
+
+yemek pişirmek
+
+se promener [sə pʁɔməne]
+
+gezmek
+
+Mini alıştırma — 10 soru
+1. Müziği severim anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Yüzmeye bayılırım anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Beklemekten nefret ederim anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Futbol oynarım anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Bisiklet sürerim anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Sinemaya gidiyoruz anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Okuyacağım anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. Gelmek ister misin? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Memnuniyetle anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Belki yarın. anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: aimer/adorer/détester + belirli artikel veya mastar; yakın gelecek aller + mastar.
+• Türkçe karşılaştırması: Türkçede isim veya fiile gelen ekler Fransızcada ayrı artikel/mastar yapılarıyla
+karşılanır.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. J'aime la musique
+2. J'adore nager
+3. Je déteste attendre
+4. Je joue au football
+5. Je fais du vélo
+6. On va au cinéma
+7. Je vais lire
+8. Tu veux venir ?
+9. Avec plaisir
+10. Peut-être demain
+11. Müziği severim
+12. Yüzmeye bayılırım
+13. Beklemekten nefret ederim
+14. Futbol oynarım
+
+4
+
+15. Bisiklet sürerim
+16. Sinemaya gidiyoruz
+17. Okuyacağım
+18. Gelmek ister misin?
+19. Memnuniyetle
+20. Belki yarın.
+21. J'aime la musique: A) Müziği severim B) Futbol oynarım C) Okuyacağım
+22. J'adore nager: A) Bisiklet sürerim B) Gelmek ister misin? C) Yüzmeye bayılırım
+23. Je déteste attendre: A) Memnuniyetle B) Beklemekten nefret ederim C) Sinemaya gidiyoruz
+24. Je joue au football: A) Futbol oynarım B) Okuyacağım C) Belki yarın.
+25. Je fais du vélo: A) Gelmek ister misin? B) Müziği severim C) Bisiklet sürerim
+
+25 alıştırmanın çözümleri
+1. Müziği severim — Fransızca kaynak ifade: J'aime la musique [jem la müzik] — Müziği severim
+2. Yüzmeye bayılırım — Fransızca kaynak ifade: J'adore nager [jador naje] — Yüzmeye bayılırım
+3. Beklemekten nefret ederim — Fransızca kaynak ifade: Je déteste attendre [jı detest atandr] —
+Beklemekten nefret ederim
+4. Futbol oynarım — Fransızca kaynak ifade: Je joue au football [jı ju o futbol] — Futbol oynarım
+5. Bisiklet sürerim — Fransızca kaynak ifade: Je fais du vélo [jı fe dü velo] — Bisiklet sürerim
+6. Sinemaya gidiyoruz — Fransızca kaynak ifade: On va au cinéma [on va o sinema] — Sinemaya
+gidiyoruz
+7. Okuyacağım — Fransızca kaynak ifade: Je vais lire [jı ve lir] — Okuyacağım
+8. Gelmek ister misin? — Fransızca kaynak ifade: Tu veux venir ? [tü vö vınir] — Gelmek ister misin?
+9. Memnuniyetle — Fransızca kaynak ifade: Avec plaisir [avek plezir] — Memnuniyetle
+10. Belki yarın. — Fransızca kaynak ifade: Peut-être demain [pötet dımen] — Belki yarın.
+11. J'aime la musique [jem la müzik] — Müziği severim — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+12. J'adore nager [jador naje] — Yüzmeye bayılırım — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+13. Je déteste attendre [jı detest atandr] — Beklemekten nefret ederim — Bu çeviride sözcük sırası ve
+varsa artikel örnekteki gibidir.
+14. Je joue au football [jı ju o futbol] — Futbol oynarım — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+15. Je fais du vélo [jı fe dü velo] — Bisiklet sürerim — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+16. On va au cinéma [on va o sinema] — Sinemaya gidiyoruz — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+17. Je vais lire [jı ve lir] — Okuyacağım — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+18. Tu veux venir ? [tü vö vınir] — Gelmek ister misin? — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+19. Avec plaisir [avek plezir] — Memnuniyetle — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+20. Peut-être demain [pötet dımen] — Belki yarın. — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+
+5
+
+21. A — J'aime la musique [jem la müzik] — Müziği severim
+22. C — J'adore nager [jador naje] — Yüzmeye bayılırım
+23. B — Je déteste attendre [jı detest atandr] — Beklemekten nefret ederim
+24. A — Je joue au football [jı ju o futbol] — Futbol oynarım
+25. C — Je fais du vélo [jı fe dü velo] — Bisiklet sürerim
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. J'aime la musique ne anlama gelir? A) Müziği severim B) Beklemekten nefret ederim C) Sinemaya
+gidiyoruz
+2. J'adore nager ne anlama gelir? A) Futbol oynarım B) Okuyacağım C) Yüzmeye bayılırım
+3. Je déteste attendre ne anlama gelir? A) Gelmek ister misin? B) Beklemekten nefret ederim C) Bisiklet
+sürerim
+4. Je joue au football ne anlama gelir? A) Futbol oynarım B) Sinemaya gidiyoruz C) Memnuniyetle
+5. Je fais du vélo ne anlama gelir? A) Okuyacağım B) Belki yarın. C) Bisiklet sürerim
+6. Boşluğu doldur: On va ____ cinéma — Sinemaya gidiyoruz
+7. Boşluğu doldur: Je ____ lire — Okuyacağım
+8. Boşluğu doldur: Tu veux ____ ? — Gelmek ister misin?
+9. Boşluğu doldur: Avec ____ — Memnuniyetle
+10. Boşluğu doldur: Peut-être ____ — Belki yarın.
+11. Fransızcaya çevir: Müziği severim
+12. Fransızcaya çevir: Yüzmeye bayılırım
+13. Fransızcaya çevir: Beklemekten nefret ederim
+14. Şu anlam için verilen bozuk sıralamayı düzelt: football / au / joue / Je — Futbol oynarım
+15. Şu anlam için verilen bozuk sıralamayı düzelt: vélo / du / fais / Je — Bisiklet sürerim
+
+Test cevap anahtarı
+1. A — J'aime la musique [jem la müzik] — Müziği severim
+2. C — J'adore nager [jador naje] — Yüzmeye bayılırım
+3. B — Je déteste attendre [jı detest atandr] — Beklemekten nefret ederim
+4. A — Je joue au football [jı ju o futbol] — Futbol oynarım
+5. C — Je fais du vélo [jı fe dü velo] — Bisiklet sürerim
+6. au — On va au cinéma [on va o sinema] — Sinemaya gidiyoruz
+7. vais — Je vais lire [jı ve lir] — Okuyacağım
+8. venir — Tu veux venir ? [tü vö vınir] — Gelmek ister misin?
+9. plaisir — Avec plaisir [avek plezir] — Memnuniyetle
+10. demain — Peut-être demain [pötet dımen] — Belki yarın.
+11. J'aime la musique [jem la müzik] — Müziği severim
+12. J'adore nager [jador naje] — Yüzmeye bayılırım
+13. Je déteste attendre [jı detest atandr] — Beklemekten nefret ederim
+14. Je joue au football [jı ju o futbol] — Futbol oynarım
+
+6
+
+15. Je fais du vélo [jı fe dü velo] — Bisiklet sürerim
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: J'aime la musique [jem la müzik] — Müziği severim
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: J'adore nager [jador naje] — Yüzmeye bayılırım
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: Je déteste attendre [jı detest atandr] — Beklemekten nefret ederim
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Je joue au football [jı ju o futbol] — Futbol oynarım
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+7
+

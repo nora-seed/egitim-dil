@@ -1,0 +1,668 @@
+Modül 32 — İlgi Zamirleri
+Seviye: B1. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+İlgi Zamirleri konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt etmeye yardım
+eder.
+
+Konunun mantığı
+qui özne; que nesne; où yer/zaman; dont de ile kurulan bağlantı. Zamirin işlevini yan cümledeki boşluktan
+belirle.
+
+Türkçe ile karşılaştırma
+Türkçedeki -en/-an, -diğim ve -deki yapıları Fransızcada ayrı ilgi sözcükleriyle ifade edilir.
+
+Formül / Kural
+Temel şema: qui özne; que nesne; où yer/zaman; dont de ile kurulan bağlantı. Zamirin işlevini yan
+cümledeki boşluktan belirle.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+L'homme qui parle est mon père [lom ki parl e mon per] — Konuşan adam babam
+
+2. örüntü
+
+bağlam
+
+Le livre que je lis est long [lı livr kı jı li e lon] — Okuduğum kitap uzun
+
+3. örüntü
+
+telaffuz
+
+La ville où je vis est belle [la vil u jı vi e bel] — Yaşadığım şehir güzel
+
+Ayrıntılı konu anlatımı
+Yan cümlede boşluğu bul
+L'homme qui parle [lɔm ki paʁl] — konuşan adam: qui yan cümlenin öznesidir. Le livre que je lis [lə livʁ
+kə ʒə li] — okuduğum kitap: que nesnedir; sesli önünde qu' olur. La ville où je vis [la vil u ʒə vi] —
+yaşadığım şehir: yer. Le livre dont je parle [lə livʁ dɔ̃ ʒə paʁl] — bahsettiğim kitap: parler de [paʁle də]
+— ...den bahsetmek, de bağlantısını ister.
+Ce qui [sə ki] — ...en şey özne; ce que [sə kə] — ...diğim şey nesne; ce dont [sə dɔ̃ ] — de gerektiren şey.
+“qui sadece insan için” yanlıştır: Le livre qui est ici [lə livʁ ki ɛtisi] — Buradaki kitap da doğrudur.
+
+On örnek
+1. L'homme qui parle est mon père [lom ki parl e mon per] — Konuşan adam babam
+2. Le livre que je lis est long [lı livr kı jı li e lon] — Okuduğum kitap uzun
+3. La ville où je vis est belle [la vil u jı vi e bel] — Yaşadığım şehir güzel
+4. Le jour où je suis né [lı jur u jı süi ne] — Doğduğum gün
+5. Le film dont je parle [lı film don jı parl] — Bahsettiğim film
+6. L'ami dont j'ai besoin [lami don je bızwen] — İhtiyacım olan arkadaş
+
+1
+
+7. Ce qui m'intéresse [sı ki menteres] — İlgimi çeken şey
+8. Ce que je veux [sı kı jı vö] — İstediğim şey
+9. Ce dont j'ai besoin [sı don je bızwen] — İhtiyacım olan şey
+10. Voici la femme qui m'a aidé [vwasi la fam ki ma ede] — İşte bana yardım eden kadın.
+
+Yaygın hatalar
+Qui yalnız insan içindir diye ezberleme; özne görevi asıl ölçüttür.
+
+Ezber tekniği
+İki kısa cümleyi birleştirirken yan cümlede eksik olan görevi işaretle.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 41. Spiral tekrar: 32. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+dont [dɔ̃ ]
+
+de ile bağlı ki
+
+ce qui [seə ki]
+
+...en şey
+
+ce que [seə kə]
+
+...diğim şey
+
+ce dont [seə dɔ̃ ]
+
+...diğim/de gerektiren şey
+
+lequel [ləkɛl]
+
+hangisi (eril)
+
+laquelle [lakɛl]
+
+hangisi (dişil)
+
+lesquels [lekɛl]
+
+hangileri (eril)
+
+lesquelles [lekɛl]
+
+hangileri (dişil)
+
+le problème [lə pʁɔblɛm]
+
+sorun
+
+la solution [la solysjɔ̃ ]
+
+çözüm
+
+le sujet [lə syʒɛ]
+
+konu
+
+le besoin [lə bəzwɛ̃]
+
+ihtiyaç
+
+la raison [la ʁɛzɔ̃ ]
+
+neden
+
+parler de [paʁle də]
+
+...den bahsetmek
+
+vivre [vivʁ]
+
+yaşamak
+
+l'antécédent [lɑ̃ tesedɑ̃ ]
+
+ilgi zamirinin bağlandığı sözcük
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+la relative [la ʁəlativ]
+
+ilgi yan cümlesi
+
+la fonction grammaticale [la fɔ̃ ksjɔ̃ ɡʁamatikal]
+
+dilbilgisel görev
+
+le référent [lə ʁefeʁɑ̃ ]
+
+gönderilen varlık
+
+l'élision [lelizjɔ̃ ]
+
+ünlü düşmesi
+
+la dépendance [la depɑ̃ dɑ̃ s]
+
+bağlılık
+
+l'enchaînement [lɑ̃ ʃɛnmɑ̃ ]
+
+ses kaynaştırma
+
+le lien [lə ljɛ̃]
+
+bağ
+
+la référence [la ʁefeʁɑ̃ s]
+
+gönderim
+
+la reprise [la ʁəpʁiz]
+
+yeniden anma
+
+l'explication [lɛksplikasjɔ̃ ]
+
+açıklama
+
+la définition [la definisjɔ̃ ]
+
+tanım
+
+le détail [lə detaj]
+
+ayrıntı
+
+la précision [la pʁesizjɔ̃ ]
+
+açıklık/kesinlik
+
+l'identification [lidɑ̃ tifikasjɔ̃ ]
+
+tanımlama
+
+la catégorie [la kateɡɔʁi]
+
+kategori
+
+le complément prépositionnel [lə kɔ̃ plemɑ̃ pʁepozisjɔnɛl]
+
+edatlı tümleç
+
+l'objet direct [lɔbʒɛ diʁɛkt]
+
+doğrudan nesne
+
+l'objet indirect [lɔbʒɛ ɛ̃diʁɛkt]
+
+dolaylı nesne
+
+qualifier [kalifje]
+
+nitelendirmek
+
+préciser [pʁesize]
+
+netleştirmek
+
+rattacher [ʁataʃe]
+
+bağlamak
+
+l’omission [lɔmisjɔ̃ ]
+
+atlama
+
+la proposition déterminative [la pʁɔpɔzisjɔ̃ detɛʁminativ]
+
+ayırt edici ilgi cümlesi
+
+la proposition explicative [la pʁɔpɔzisjɔ̃ ɛksplikativ]
+
+açıklayıcı ilgi cümlesi
+
+l’accord du participe [lakɔʁ dy paʁtisip]
+
+ortaç uyumu
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+qui [ki]
+
+özne olan ki
+
+que [kə]
+
+nesne olan ki
+
+où [u]
+
+yer/zaman olan ki
+
+le livre [lə livʁ]
+
+kitap
+
+le film [lə film]
+
+film
+
+l'homme [lɔm]
+
+adam
+
+la femme [la fam]
+
+kadın
+
+l'ami [lami]
+
+arkadaş
+
+la ville [la vil]
+
+şehir
+
+le jour [lə ʒuʁ]
+
+gün
+
+le moment [lə mɔmɑ̃ ]
+
+an
+
+3
+
+Fransızca [IPA]
+
+Türkçe
+
+la maison [la mezɔ̃ ]
+
+ev
+
+l'idée [lide]
+
+fikir
+
+la personne [la pɛʁsɔn]
+
+kişi
+
+l'objet [lɔbʒɛ]
+
+nesne
+
+le lieu [lə ljø]
+
+yer
+
+le temps [lə tɑ̃ ]
+
+zaman
+
+la proposition [la pʁɔpɔzisjɔ̃ ]
+
+yan cümle/öneri
+
+le sujet [lə syʒɛ]
+
+özne/konu
+
+le complément [lə kɔ̃ plemɑ̃ ]
+
+tümleç
+
+avoir besoin de [avwaʁ bəzwɛ̃ də]
+
+...e ihtiyaç duymak
+
+lire [liʁ]
+
+okumak
+
+voir [vwaʁ]
+
+görmek
+
+connaître [kɔnɛtʁ]
+
+tanımak
+
+aider [ede]
+
+yardım etmek
+
+aimer [eme]
+
+sevmek
+
+chercher [ʃɛʁʃe]
+
+aramak
+
+trouver [tʁuve]
+
+bulmak
+
+expliquer [ɛksplike]
+
+açıklamak
+
+raconter [ʁakɔ̃ te]
+
+anlatmak
+
+décrire [dekʁiʁ]
+
+betimlemek
+
+le contexte [lə kɔ̃ tɛkst]
+
+bağlam
+
+Mini alıştırma — 10 soru
+1. Konuşan adam babam anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Okuduğum kitap uzun anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Yaşadığım şehir güzel anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Doğduğum gün anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Bahsettiğim film anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. İhtiyacım olan arkadaş anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. İlgimi çeken şey anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. İstediğim şey anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. İhtiyacım olan şey anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. İşte bana yardım eden kadın. anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: qui özne; que nesne; où yer/zaman; dont de ile kurulan bağlantı. Zamirin işlevini yan
+cümledeki boşluktan belirle.
+• Türkçe karşılaştırması: Türkçedeki -en/-an, -diğim ve -deki yapıları Fransızcada ayrı ilgi sözcükleriyle
+ifade edilir.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+4
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. L'homme qui parle est mon père
+2. Le livre que je lis est long
+3. La ville où je vis est belle
+4. Le jour où je suis né
+5. Le film dont je parle
+6. L'ami dont j'ai besoin
+7. Ce qui m'intéresse
+8. Ce que je veux
+9. Ce dont j'ai besoin
+10. Voici la femme qui m'a aidé
+11. Konuşan adam babam
+12. Okuduğum kitap uzun
+13. Yaşadığım şehir güzel
+14. Doğduğum gün
+15. Bahsettiğim film
+16. İhtiyacım olan arkadaş
+17. İlgimi çeken şey
+18. İstediğim şey
+19. İhtiyacım olan şey
+20. İşte bana yardım eden kadın.
+21. L'homme qui parle est mon père: A) Konuşan adam babam B) Doğduğum gün C) İlgimi çeken şey
+22. Le livre que je lis est long: A) Bahsettiğim film B) İstediğim şey C) Okuduğum kitap uzun
+23. La ville où je vis est belle: A) İhtiyacım olan şey B) Yaşadığım şehir güzel C) İhtiyacım olan arkadaş
+24. Le jour où je suis né: A) Doğduğum gün B) İlgimi çeken şey C) İşte bana yardım eden kadın.
+25. Le film dont je parle: A) İstediğim şey B) Konuşan adam babam C) Bahsettiğim film
+
+25 alıştırmanın çözümleri
+1. Konuşan adam babam — Fransızca kaynak ifade: L'homme qui parle est mon père [lom ki parl e mon
+per] — Konuşan adam babam
+2. Okuduğum kitap uzun — Fransızca kaynak ifade: Le livre que je lis est long [lı livr kı jı li e lon] —
+Okuduğum kitap uzun
+3. Yaşadığım şehir güzel — Fransızca kaynak ifade: La ville où je vis est belle [la vil u jı vi e bel] —
+Yaşadığım şehir güzel
+4. Doğduğum gün — Fransızca kaynak ifade: Le jour où je suis né [lı jur u jı süi ne] — Doğduğum gün
+5. Bahsettiğim film — Fransızca kaynak ifade: Le film dont je parle [lı film don jı parl] — Bahsettiğim film
+6. İhtiyacım olan arkadaş — Fransızca kaynak ifade: L'ami dont j'ai besoin [lami don je bızwen] —
+İhtiyacım olan arkadaş
+7. İlgimi çeken şey — Fransızca kaynak ifade: Ce qui m'intéresse [sı ki menteres] — İlgimi çeken şey
+8. İstediğim şey — Fransızca kaynak ifade: Ce que je veux [sı kı jı vö] — İstediğim şey
+
+5
+
+9. İhtiyacım olan şey — Fransızca kaynak ifade: Ce dont j'ai besoin [sı don je bızwen] — İhtiyacım olan
+şey
+10. İşte bana yardım eden kadın. — Fransızca kaynak ifade: Voici la femme qui m'a aidé [vwasi la fam ki
+ma ede] — İşte bana yardım eden kadın.
+11. L'homme qui parle est mon père [lom ki parl e mon per] — Konuşan adam babam — Bu çeviride
+sözcük sırası ve varsa artikel örnekteki gibidir.
+12. Le livre que je lis est long [lı livr kı jı li e lon] — Okuduğum kitap uzun — Bu çeviride sözcük sırası ve
+varsa artikel örnekteki gibidir.
+13. La ville où je vis est belle [la vil u jı vi e bel] — Yaşadığım şehir güzel — Bu çeviride sözcük sırası ve
+varsa artikel örnekteki gibidir.
+14. Le jour où je suis né [lı jur u jı süi ne] — Doğduğum gün — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+15. Le film dont je parle [lı film don jı parl] — Bahsettiğim film — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+16. L'ami dont j'ai besoin [lami don je bızwen] — İhtiyacım olan arkadaş — Bu çeviride sözcük sırası ve
+varsa artikel örnekteki gibidir.
+17. Ce qui m'intéresse [sı ki menteres] — İlgimi çeken şey — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+18. Ce que je veux [sı kı jı vö] — İstediğim şey — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+19. Ce dont j'ai besoin [sı don je bızwen] — İhtiyacım olan şey — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+20. Voici la femme qui m'a aidé [vwasi la fam ki ma ede] — İşte bana yardım eden kadın. — Bu çeviride
+sözcük sırası ve varsa artikel örnekteki gibidir.
+21. A — L'homme qui parle est mon père [lom ki parl e mon per] — Konuşan adam babam
+22. C — Le livre que je lis est long [lı livr kı jı li e lon] — Okuduğum kitap uzun
+23. B — La ville où je vis est belle [la vil u jı vi e bel] — Yaşadığım şehir güzel
+24. A — Le jour où je suis né [lı jur u jı süi ne] — Doğduğum gün
+25. C — Le film dont je parle [lı film don jı parl] — Bahsettiğim film
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. L'homme qui parle est mon père ne anlama gelir? A) Konuşan adam babam B) Yaşadığım şehir güzel
+C) İhtiyacım olan arkadaş
+2. Le livre que je lis est long ne anlama gelir? A) Doğduğum gün B) İlgimi çeken şey C) Okuduğum kitap
+uzun
+3. La ville où je vis est belle ne anlama gelir? A) İstediğim şey B) Yaşadığım şehir güzel C) Bahsettiğim
+film
+4. Le jour où je suis né ne anlama gelir? A) Doğduğum gün B) İhtiyacım olan arkadaş C) İhtiyacım olan
+şey
+5. Le film dont je parle ne anlama gelir? A) İlgimi çeken şey B) İşte bana yardım eden kadın. C)
+Bahsettiğim film
+6. Boşluğu doldur: L'ami dont ____ besoin — İhtiyacım olan arkadaş
+7. Boşluğu doldur: Ce ____ m'intéresse — İlgimi çeken şey
+8. Boşluğu doldur: Ce que ____ veux — İstediğim şey
+
+6
+
+9. Boşluğu doldur: Ce dont ____ besoin — İhtiyacım olan şey
+10. Boşluğu doldur: Voici la femme ____ m'a aidé — İşte bana yardım eden kadın.
+11. Fransızcaya çevir: Konuşan adam babam
+12. Fransızcaya çevir: Okuduğum kitap uzun
+13. Fransızcaya çevir: Yaşadığım şehir güzel
+14. Şu anlam için verilen bozuk sıralamayı düzelt: né / suis / je / où / jour / Le — Doğduğum gün
+15. Şu anlam için verilen bozuk sıralamayı düzelt: parle / je / dont / film / Le — Bahsettiğim film
+
+Test cevap anahtarı
+1. A — L'homme qui parle est mon père [lom ki parl e mon per] — Konuşan adam babam
+2. C — Le livre que je lis est long [lı livr kı jı li e lon] — Okuduğum kitap uzun
+3. B — La ville où je vis est belle [la vil u jı vi e bel] — Yaşadığım şehir güzel
+4. A — Le jour où je suis né [lı jur u jı süi ne] — Doğduğum gün
+5. C — Le film dont je parle [lı film don jı parl] — Bahsettiğim film
+6. j'ai — L'ami dont j'ai besoin [lami don je bızwen] — İhtiyacım olan arkadaş
+7. qui — Ce qui m'intéresse [sı ki menteres] — İlgimi çeken şey
+8. je — Ce que je veux [sı kı jı vö] — İstediğim şey
+9. j'ai — Ce dont j'ai besoin [sı don je bızwen] — İhtiyacım olan şey
+10. qui — Voici la femme qui m'a aidé [vwasi la fam ki ma ede] — İşte bana yardım eden kadın.
+11. L'homme qui parle est mon père [lom ki parl e mon per] — Konuşan adam babam
+12. Le livre que je lis est long [lı livr kı jı li e lon] — Okuduğum kitap uzun
+13. La ville où je vis est belle [la vil u jı vi e bel] — Yaşadığım şehir güzel
+14. Le jour où je suis né [lı jur u jı süi ne] — Doğduğum gün
+15. Le film dont je parle [lı film don jı parl] — Bahsettiğim film
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: L'homme qui parle est mon père [lom ki parl e mon per] — Konuşan adam babam
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: Le livre que je lis est long [lı livr kı jı li e lon] — Okuduğum kitap uzun
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: La ville où je vis est belle [la vil u jı vi e bel] — Yaşadığım şehir güzel
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Le jour où je suis né [lı jur u jı süi ne] — Doğduğum gün
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+7
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+Ara sınav — 30 soru + iki görev
+1. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: L'homme qui parle est mon père [lom ki
+parl e mon per] — Konuşan adam babam
+2. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le livre que je lis est long [lı livr kı jı li e
+lon] — Okuduğum kitap uzun
+3. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: La ville où je vis est belle [la vil u jı vi e
+bel] — Yaşadığım şehir güzel
+4. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le jour où je suis né [lı jur u jı süi ne] —
+Doğduğum gün
+5. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le film dont je parle [lı film don jı parl] —
+Bahsettiğim film
+6. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: L'ami dont j'ai besoin [lami don je bızwen]
+— İhtiyacım olan arkadaş
+7. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Ce qui m'intéresse [sı ki menteres] —
+İlgimi çeken şey
+8. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Ce que je veux [sı kı jı vö] — İstediğim şey
+9. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Ce dont j'ai besoin [sı don je bızwen] —
+İhtiyacım olan şey
+10. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Voici la femme qui m'a aidé [vwasi la fam
+ki ma ede] — İşte bana yardım eden kadın.
+11. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: L'homme qui parle est mon père [lom ki
+parl e mon per] — Konuşan adam babam
+12. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le livre que je lis est long [lı livr kı jı li e
+lon] — Okuduğum kitap uzun
+13. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: La ville où je vis est belle [la vil u jı vi e
+bel] — Yaşadığım şehir güzel
+14. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le jour où je suis né [lı jur u jı süi ne] —
+Doğduğum gün
+15. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le film dont je parle [lı film don jı parl] —
+Bahsettiğim film
+16. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: L'ami dont j'ai besoin [lami don je bızwen]
+— İhtiyacım olan arkadaş
+17. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Ce qui m'intéresse [sı ki menteres] —
+İlgimi çeken şey
+18. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Ce que je veux [sı kı jı vö] — İstediğim şey
+19. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Ce dont j'ai besoin [sı don je bızwen] —
+İhtiyacım olan şey
+20. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Voici la femme qui m'a aidé [vwasi la fam
+ki ma ede] — İşte bana yardım eden kadın.
+
+8
+
+21. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: L'homme qui parle est mon père [lom ki
+parl e mon per] — Konuşan adam babam
+22. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le livre que je lis est long [lı livr kı jı li e
+lon] — Okuduğum kitap uzun
+23. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: La ville où je vis est belle [la vil u jı vi e
+bel] — Yaşadığım şehir güzel
+24. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le jour où je suis né [lı jur u jı süi ne] —
+Doğduğum gün
+25. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le film dont je parle [lı film don jı parl] —
+Bahsettiğim film
+26. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: L'ami dont j'ai besoin [lami don je bızwen]
+— İhtiyacım olan arkadaş
+27. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Ce qui m'intéresse [sı ki menteres] —
+İlgimi çeken şey
+28. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Ce que je veux [sı kı jı vö] — İstediğim şey
+29. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Ce dont j'ai besoin [sı don je bızwen] —
+İhtiyacım olan şey
+30. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Voici la femme qui m'a aidé [vwasi la fam
+ki ma ede] — İşte bana yardım eden kadın.
+Yazma: Son üç modülden beş yapı kullanarak kısa paragraf yaz. Konuşma: Aynı konuyu iki dakika sesli
+anlat. Yanıtları örnek cümlelerle karşılaştır.
+
+9
+

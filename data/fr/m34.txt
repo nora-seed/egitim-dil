@@ -1,0 +1,546 @@
+Modül 34 — Haberler ve Medya
+Seviye: B1. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+Haberler ve Medya konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt etmeye
+yardım eder.
+
+Konunun mantığı
+Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/nerede/ne zaman kaynak sorularını ayır.
+
+Türkçe ile karşılaştırma
+Türkçede haber başlıklarında da eksiltme vardır, fakat Fransızca zaman ve dolaylı aktarma farklıdır.
+
+Formül / Kural
+Temel şema: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/nerede/ne zaman kaynak sorularını
+ayır.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+Selon le journal [sılon lı jurnal] — Gazeteye göre
+
+2. örüntü
+
+bağlam
+
+Une enquête [ün anket] — Bir araştırma
+
+3. örüntü
+
+telaffuz
+
+Le gouvernement annonce [lı guvernıman anons] — Hükümet duyuruyor
+
+Ayrıntılı konu anlatımı
+Haber okuma yöntemi
+Başlığı okurken önce kim/ne, sonra ne yaptı, nerede/ne zaman, kaynak kim sorularını cevapla. Selon le
+journal [səlɔ̃ lə ʒuʁnal] — gazeteye göre ile le journal confirme [lə ʒuʁnal kɔ̃ fiʁm] — gazete doğruluyor
+farklı güven düzeyleri belirtir. Rakam ve iddiayı kaynağıyla karşılaştır.
+Başlıklarda fiil veya artikel düşürülebilir; bunu gündelik tam cümle kalıbı olarak taklit etme. Kısa bir haber
+için üç cümlelik Türkçe özet, ardından iki cümlelik Fransızca özet yaz.
+
+On örnek
+1. Selon le journal [sılon lı jurnal] — Gazeteye göre
+2. Une enquête [ün anket] — Bir araştırma
+3. Le gouvernement annonce [lı guvernıman anons] — Hükümet duyuruyor
+4. La ville ouvre une école [la vil uvr ün ekol] — Şehir bir okul açıyor
+5. Le reportage commence [lı röportaj komans] — Haber dosyası başlıyor
+6. La source est fiable [la surs e fiyabl] — Kaynak güvenilir
+7. Il s'agit d'un débat [il sajit den deba] — Bir tartışma söz konusu
+8. Les chiffres augmentent [le şifr ogmant] — Rakamlar artıyor
+
+1
+
+9. Les résultats baissent [le rezülta bes] — Sonuçlar düşüyor
+10. D'après ce rapport [dapre sı rapor] — Bu rapora göre.
+
+Yaygın hatalar
+Başlıktaki kısaltılmış yapıyı tam cümle sanma; kaynaksız iddiayı olgu gibi aktarma.
+
+Ezber tekniği
+Bir haberin kim, ne, nerede, ne zaman ve kaynak sorularını ayrı renkle işaretle.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 51. Spiral tekrar: 9. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+la nouvelle [la nuvɛl]
+
+haber
+
+l'actualité [laktɥalite]
+
+gündem
+
+le reportage [lə ʁəpɔʁtaʒ]
+
+haber dosyası
+
+le titre [lə titʁ]
+
+başlık
+
+la source [la suʁs]
+
+kaynak
+
+l'information [lɛ̃fɔʁmasjɔ̃ ]
+
+bilgi
+
+la rumeur [la ʁymœʁ]
+
+söylenti
+
+le fait [lə fɛ]
+
+olgu
+
+le débat [lə deba]
+
+tartışma
+
+la radio [la ʁadjo]
+
+radyo
+
+le podcast [lə pɔdkast]
+
+podcast
+
+le site web [lə sit wɛb]
+
+internet sitesi
+
+les réseaux sociaux [lez ʁezo sɔsjo]
+
+sosyal ağlar
+
+la chaîne [la ʃɛn]
+
+kanal
+
+l'émission [lemisjɔ̃ ]
+
+program
+
+l'interview [lɛ̃tɛʁvju]
+
+röportaj
+
+l'enquête [lɑ̃ kɛt]
+
+araştırma
+
+le sondage [lə sɔ̃ daʒ]
+
+anket
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+le chiffre [lə ʃifʁ]
+
+rakam
+
+la statistique [la statistik]
+
+istatistik
+
+le gouvernement [lə ɡuvɛʁnəmɑ̃ ]
+
+hükümet
+
+le ministre [lə ministʁ]
+
+bakan
+
+le président [lə pʁezidɑ̃ ]
+
+cumhurbaşkanı/başkan
+
+l'élection [lelɛksjɔ̃ ]
+
+seçim
+
+l'économie [lekɔnɔmi]
+
+ekonomi
+
+la société [la sɔsjete]
+
+toplum
+
+l'environnement [lɑ̃ viʁɔnmɑ̃ ]
+
+çevre
+
+l'éducation [ledykasjɔ̃ ]
+
+eğitim
+
+publier [pyblije]
+
+yayımlamak
+
+confirmer [kɔ̃ fiʁme]
+
+doğrulamak
+
+augmenter [oɡmɑ̃ te]
+
+artmak/artırmak
+
+baisser [bese]
+
+düşmek/azalmak
+
+selon [səlɔ̃ ]
+
+...e göre
+
+d'après [dapʁɛ]
+
+...e göre
+
+pourtant [puʁtɑ̃ ]
+
+bununla birlikte
+
+cependant [səpɑ̃ dɑ̃ ]
+
+ancak
+
+la une [la yn]
+
+manşet
+
+le bulletin [lə byltɛ̃]
+
+haber bülteni
+
+la dépêche [la depɛʃ]
+
+ajans haberi
+
+le communiqué [lə kɔmynike]
+
+basın açıklaması
+
+la rédaction [la ʁedaksjɔ̃ ]
+
+yazı işleri
+
+le correspondant [lə kɔʁɛspɔ̃ dɑ̃ ]
+
+muhabir
+
+la rubrique [la ʁybʁik]
+
+köşe/bölüm
+
+la couverture médiatique [la kuvɛʁtyʁ medjatik]
+
+medya kapsamı
+
+le direct [lə diʁɛkt]
+
+canlı yayın
+
+le différé [lə difeʁe]
+
+kayıttan yayın
+
+la désinformation [la dezɛ̃fɔʁmasjɔ̃ ]
+
+yanlış bilgi yayma
+
+la vérification des faits [la veʁifikasjɔ̃ de fɛ]
+
+olgu doğrulama
+
+le témoin [lə temwɛ̃]
+
+tanık
+
+l'archive [laʁʃiv]
+
+arşiv
+
+l'abonnement [labɔnəmɑ̃ ]
+
+abonelik
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+le journal [lə ʒuʁnal]
+
+gazete
+
+le journaliste [lə ʒuʁnalist]
+
+gazeteci
+
+l'article [laʁtikl]
+
+makale
+
+3
+
+Fransızca [IPA]
+
+Türkçe
+
+la preuve [la pʁœv]
+
+kanıt
+
+l'opinion [lɔpinjɔ̃ ]
+
+görüş
+
+la télévision [la televizjɔ̃ ]
+
+televizyon
+
+la santé [la sɑ̃ te]
+
+sağlık
+
+annoncer [anɔ̃ se]
+
+duyurmak
+
+vérifier [veʁifje]
+
+doğrulamak
+
+Mini alıştırma — 10 soru
+1. Gazeteye göre anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Bir araştırma anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Hükümet duyuruyor anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Şehir bir okul açıyor anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Haber dosyası başlıyor anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Kaynak güvenilir anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Bir tartışma söz konusu anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. Rakamlar artıyor anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Sonuçlar düşüyor anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Bu rapora göre. anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: Başlıklar bazen artikel ve fiili düşürür; haberde kim/ne/nerede/ne zaman kaynak
+sorularını ayır.
+• Türkçe karşılaştırması: Türkçede haber başlıklarında da eksiltme vardır, fakat Fransızca zaman ve
+dolaylı aktarma farklıdır.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. Selon le journal
+2. Une enquête
+3. Le gouvernement annonce
+4. La ville ouvre une école
+5. Le reportage commence
+6. La source est fiable
+7. Il s'agit d'un débat
+8. Les chiffres augmentent
+9. Les résultats baissent
+10. D'après ce rapport
+11. Gazeteye göre
+
+4
+
+12. Bir araştırma
+13. Hükümet duyuruyor
+14. Şehir bir okul açıyor
+15. Haber dosyası başlıyor
+16. Kaynak güvenilir
+17. Bir tartışma söz konusu
+18. Rakamlar artıyor
+19. Sonuçlar düşüyor
+20. Bu rapora göre.
+21. Selon le journal: A) Gazeteye göre B) Şehir bir okul açıyor C) Bir tartışma söz konusu
+22. Une enquête: A) Haber dosyası başlıyor B) Rakamlar artıyor C) Bir araştırma
+23. Le gouvernement annonce: A) Sonuçlar düşüyor B) Hükümet duyuruyor C) Kaynak güvenilir
+24. La ville ouvre une école: A) Şehir bir okul açıyor B) Bir tartışma söz konusu C) Bu rapora göre.
+25. Le reportage commence: A) Rakamlar artıyor B) Gazeteye göre C) Haber dosyası başlıyor
+
+25 alıştırmanın çözümleri
+1. Gazeteye göre — Fransızca kaynak ifade: Selon le journal [sılon lı jurnal] — Gazeteye göre
+2. Bir araştırma — Fransızca kaynak ifade: Une enquête [ün anket] — Bir araştırma
+3. Hükümet duyuruyor — Fransızca kaynak ifade: Le gouvernement annonce [lı guvernıman anons] —
+Hükümet duyuruyor
+4. Şehir bir okul açıyor — Fransızca kaynak ifade: La ville ouvre une école [la vil uvr ün ekol] — Şehir bir
+okul açıyor
+5. Haber dosyası başlıyor — Fransızca kaynak ifade: Le reportage commence [lı röportaj komans] —
+Haber dosyası başlıyor
+6. Kaynak güvenilir — Fransızca kaynak ifade: La source est fiable [la surs e fiyabl] — Kaynak güvenilir
+7. Bir tartışma söz konusu — Fransızca kaynak ifade: Il s'agit d'un débat [il sajit den deba] — Bir tartışma
+söz konusu
+8. Rakamlar artıyor — Fransızca kaynak ifade: Les chiffres augmentent [le şifr ogmant] — Rakamlar
+artıyor
+9. Sonuçlar düşüyor — Fransızca kaynak ifade: Les résultats baissent [le rezülta bes] — Sonuçlar
+düşüyor
+10. Bu rapora göre. — Fransızca kaynak ifade: D'après ce rapport [dapre sı rapor] — Bu rapora göre.
+11. Selon le journal [sılon lı jurnal] — Gazeteye göre — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+12. Une enquête [ün anket] — Bir araştırma — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+13. Le gouvernement annonce [lı guvernıman anons] — Hükümet duyuruyor — Bu çeviride sözcük sırası
+ve varsa artikel örnekteki gibidir.
+14. La ville ouvre une école [la vil uvr ün ekol] — Şehir bir okul açıyor — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+15. Le reportage commence [lı röportaj komans] — Haber dosyası başlıyor — Bu çeviride sözcük sırası ve
+varsa artikel örnekteki gibidir.
+16. La source est fiable [la surs e fiyabl] — Kaynak güvenilir — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+17. Il s'agit d'un débat [il sajit den deba] — Bir tartışma söz konusu — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+
+5
+
+18. Les chiffres augmentent [le şifr ogmant] — Rakamlar artıyor — Bu çeviride sözcük sırası ve varsa
+artikel örnekteki gibidir.
+19. Les résultats baissent [le rezülta bes] — Sonuçlar düşüyor — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+20. D'après ce rapport [dapre sı rapor] — Bu rapora göre. — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+21. A — Selon le journal [sılon lı jurnal] — Gazeteye göre
+22. C — Une enquête [ün anket] — Bir araştırma
+23. B — Le gouvernement annonce [lı guvernıman anons] — Hükümet duyuruyor
+24. A — La ville ouvre une école [la vil uvr ün ekol] — Şehir bir okul açıyor
+25. C — Le reportage commence [lı röportaj komans] — Haber dosyası başlıyor
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. Selon le journal ne anlama gelir? A) Gazeteye göre B) Hükümet duyuruyor C) Kaynak güvenilir
+2. Une enquête ne anlama gelir? A) Şehir bir okul açıyor B) Bir tartışma söz konusu C) Bir araştırma
+3. Le gouvernement annonce ne anlama gelir? A) Rakamlar artıyor B) Hükümet duyuruyor C) Haber
+dosyası başlıyor
+4. La ville ouvre une école ne anlama gelir? A) Şehir bir okul açıyor B) Kaynak güvenilir C) Sonuçlar
+düşüyor
+5. Le reportage commence ne anlama gelir? A) Bir tartışma söz konusu B) Bu rapora göre. C) Haber
+dosyası başlıyor
+6. Boşluğu doldur: La source ____ fiable — Kaynak güvenilir
+7. Boşluğu doldur: Il s'agit ____ débat — Bir tartışma söz konusu
+8. Boşluğu doldur: Les ____ augmentent — Rakamlar artıyor
+9. Boşluğu doldur: Les ____ baissent — Sonuçlar düşüyor
+10. Boşluğu doldur: D'après ____ rapport — Bu rapora göre.
+11. Fransızcaya çevir: Gazeteye göre
+12. Fransızcaya çevir: Bir araştırma
+13. Fransızcaya çevir: Hükümet duyuruyor
+14. Şu anlam için verilen bozuk sıralamayı düzelt: école / une / ouvre / ville / La — Şehir bir okul açıyor
+15. Şu anlam için verilen bozuk sıralamayı düzelt: commence / reportage / Le — Haber dosyası başlıyor
+
+Test cevap anahtarı
+1. A — Selon le journal [sılon lı jurnal] — Gazeteye göre
+2. C — Une enquête [ün anket] — Bir araştırma
+3. B — Le gouvernement annonce [lı guvernıman anons] — Hükümet duyuruyor
+4. A — La ville ouvre une école [la vil uvr ün ekol] — Şehir bir okul açıyor
+5. C — Le reportage commence [lı röportaj komans] — Haber dosyası başlıyor
+6. est — La source est fiable [la surs e fiyabl] — Kaynak güvenilir
+7. d'un — Il s'agit d'un débat [il sajit den deba] — Bir tartışma söz konusu
+8. chiffres — Les chiffres augmentent [le şifr ogmant] — Rakamlar artıyor
+
+6
+
+9. résultats — Les résultats baissent [le rezülta bes] — Sonuçlar düşüyor
+10. ce — D'après ce rapport [dapre sı rapor] — Bu rapora göre.
+11. Selon le journal [sılon lı jurnal] — Gazeteye göre
+12. Une enquête [ün anket] — Bir araştırma
+13. Le gouvernement annonce [lı guvernıman anons] — Hükümet duyuruyor
+14. La ville ouvre une école [la vil uvr ün ekol] — Şehir bir okul açıyor
+15. Le reportage commence [lı röportaj komans] — Haber dosyası başlıyor
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: Selon le journal [sılon lı jurnal] — Gazeteye göre
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: Une enquête [ün anket] — Bir araştırma
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: Le gouvernement annonce [lı guvernıman anons] — Hükümet duyuruyor
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: La ville ouvre une école [la vil uvr ün ekol] — Şehir bir okul açıyor
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+7
+

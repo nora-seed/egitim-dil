@@ -1,0 +1,565 @@
+Modül 16 — Artikeller ve Çoğul
+Seviye: A2. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+Artikeller ve Çoğul konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt etmeye
+yardım eder.
+
+Konunun mantığı
+Belirli le/la/l'/les; belirsiz un/une/des; partitif du/de la/de l'/des; olumsuz miktar çoğu kez de/d'.
+
+Türkçe ile karşılaştırma
+Türkçede artikel zorunlu değildir; Fransızcada isimle beraber öğrenmek gerekir.
+
+Formül / Kural
+Temel şema: Belirli le/la/l'/les; belirsiz un/une/des; partitif du/de la/de l'/des; olumsuz miktar çoğu kez de/d'.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+Le livre est ici [lı livr e isi] — Kitap burada
+
+2. örüntü
+
+bağlam
+
+La porte est ouverte [la port e uvert] — Kapı açık
+
+3. örüntü
+
+telaffuz
+
+L'ami arrive [lami ariv] — Arkadaş geliyor
+
+Ayrıntılı konu anlatımı
+Üç artikel türü
+Le pain [lə pɛ̃] — ekmek, belirli veya genel tür; un pain [œ̃ pɛ̃] — bir ekmek; du pain [dy pɛ̃] — bir miktar
+ekmek. Je n'ai pas de pain [ʒə ne pa də pɛ̃] — Ekmeğim yok. Fakat Ce n'est pas un médecin [sə nɛ pa
+œ̃ medsɛ̃] — Bu bir doktor değil gibi être ile isim yüklemlerinde belirsiz artikel kalabilir. Çoğulda çoğu son -s
+okunmaz; artikelin sesi sayıyı ayırt eder: le livre [lə livʁ] — kitap, les livres [le livʁ] — kitaplar.
+Birleşme: à + le = au [o] — -e/-a, de + le = du [dy] — -den/-in; à + les = aux [o] — çoğula yönelme, de
++ les = des [de] — çoğulun/-den. Sesli önündeki l' ile birleşme yoktur: à l'école [a lekɔl] — okula.
+
+On örnek
+1. Le livre est ici [lı livr e isi] — Kitap burada
+2. La porte est ouverte [la port e uvert] — Kapı açık
+3. L'ami arrive [lami ariv] — Arkadaş geliyor
+4. Les enfants jouent [lezanfan ju] — Çocuklar oynuyor
+5. Un café [en kafe] — Bir kahve
+6. Une pomme [ün pom] — Bir elma
+7. Des amis [dezami] — Arkadaşlar
+8. Du pain [dü pen] — Biraz ekmek
+
+1
+
+9. De l'eau [dı lo] — Biraz su
+10. Je n'ai pas de pain [jı ne pa dı pen] — Ekmeğim yok.
+
+Yaygın hatalar
+Olumsuzdaki de kuralını être ile bütün isim cümlelerine körlemesine uygulama.
+
+Ezber tekniği
+Mutfaktaki beş yiyeceği belirli, belirsiz ve miktar anlamıyla üçer kez söyle.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 41. Spiral tekrar: 16. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+le [lə]
+
+belirli eril artikel
+
+la [la]
+
+belirli dişil artikel
+
+l' [l]
+
+sesli öncesi belirli artikel
+
+les [lez]
+
+belirli çoğul artikel
+
+une [yn]
+
+belirsiz dişil artikel
+
+des [de]
+
+belirsiz çoğul artikel
+
+du [dy]
+
+bir miktar (eril)
+
+de la [də la]
+
+bir miktar (dişil)
+
+de l' [də l]
+
+sesli öncesi bir miktar
+
+de [də]
+
+bir miktar/edat
+
+au [o]
+
+-e/-a (à+le)
+
+aux [o]
+
+-e/-a (à+les)
+
+le singulier [lə sɛ̃ɡylje]
+
+tekil
+
+le pluriel [lə plyʁjɛl]
+
+çoğul
+
+masculin [maskylɛ̃]
+
+eril
+
+féminin [feminɛ̃]
+
+dişil
+
+défini [defini]
+
+belirli
+
+indéfini [ɛ̃defini]
+
+belirsiz
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+partitif [paʁtitif]
+
+belirsiz miktar bildiren
+
+la quantité [la kɑ̃ tite]
+
+miktar
+
+la soupe [la sup]
+
+çorba
+
+la farine [la faʁin]
+
+un
+
+le journal [lə ʒuʁnal]
+
+gazete
+
+le château [lə ʃato]
+
+şato
+
+l'animal [lanimal]
+
+hayvan
+
+la fleur [la flœʁ]
+
+çiçek
+
+beaucoup de [boku də]
+
+çok miktarda
+
+peu de [pø də]
+
+az miktarda
+
+assez de [ase də]
+
+yeterince
+
+pas de [pa də]
+
+hiç/yok
+
+l'exception [lɛksɛpsjɔ̃ ]
+
+istisna
+
+la voyelle [la vwajɛl]
+
+ünlü
+
+la consonne [la kɔ̃ sɔn]
+
+ünsüz
+
+le genre [lə ʒɑ̃ ʁ]
+
+dilbilgisel cinsiyet
+
+le déterminant [lə detɛʁminɑ̃ ]
+
+belirteç
+
+le morceau [lə mɔʁso]
+
+parça
+
+une tasse [yn tas]
+
+bir fincan
+
+une tranche [yn tʁɑ̃ ʃ]
+
+bir dilim
+
+une bouteille [yn butɛj]
+
+bir şişe
+
+un kilo [œ̃n kilɔ]
+
+bir kilo
+
+un peu de [œ̃n pø də]
+
+biraz
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+un [œ̃n]
+
+belirsiz eril artikel
+
+l'article [laʁtikl]
+
+artikel
+
+le pain [lə pɛ̃]
+
+ekmek
+
+l'eau [lo]
+
+su
+
+le lait [lə lɛ]
+
+süt
+
+le beurre [lə bœʁ]
+
+tereyağı
+
+le fromage [lə fʁɔmaʒ]
+
+peynir
+
+le riz [lə ʁi]
+
+pirinç
+
+le sucre [lə sykʁ]
+
+şeker
+
+le sel [lə sɛl]
+
+tuz
+
+le café [lə kafe]
+
+kahve
+
+le thé [lə te]
+
+çay
+
+le livre [lə livʁ]
+
+kitap
+
+3
+
+Fransızca [IPA]
+
+Türkçe
+
+la pomme [la pɔm]
+
+elma
+
+la banane [la banan]
+
+muz
+
+la négation [la neɡasjɔ̃ ]
+
+olumsuzluk
+
+Mini alıştırma — 10 soru
+1. Kitap burada anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Kapı açık anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Arkadaş geliyor anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Çocuklar oynuyor anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Bir kahve anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Bir elma anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Arkadaşlar anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. Biraz ekmek anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Biraz su anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Ekmeğim yok. anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: Belirli le/la/l'/les; belirsiz un/une/des; partitif du/de la/de l'/des; olumsuz miktar çoğu kez
+de/d'.
+• Türkçe karşılaştırması: Türkçede artikel zorunlu değildir; Fransızcada isimle beraber öğrenmek gerekir.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. Le livre est ici
+2. La porte est ouverte
+3. L'ami arrive
+4. Les enfants jouent
+5. Un café
+6. Une pomme
+7. Des amis
+8. Du pain
+9. De l'eau
+10. Je n'ai pas de pain
+11. Kitap burada
+12. Kapı açık
+13. Arkadaş geliyor
+14. Çocuklar oynuyor
+15. Bir kahve
+
+4
+
+16. Bir elma
+17. Arkadaşlar
+18. Biraz ekmek
+19. Biraz su
+20. Ekmeğim yok.
+21. Le livre est ici: A) Kitap burada B) Çocuklar oynuyor C) Arkadaşlar
+22. La porte est ouverte: A) Bir kahve B) Biraz ekmek C) Kapı açık
+23. L'ami arrive: A) Biraz su B) Arkadaş geliyor C) Bir elma
+24. Les enfants jouent: A) Çocuklar oynuyor B) Arkadaşlar C) Ekmeğim yok.
+25. Un café: A) Biraz ekmek B) Kitap burada C) Bir kahve
+
+25 alıştırmanın çözümleri
+1. Kitap burada — Fransızca kaynak ifade: Le livre est ici [lı livr e isi] — Kitap burada
+2. Kapı açık — Fransızca kaynak ifade: La porte est ouverte [la port e uvert] — Kapı açık
+3. Arkadaş geliyor — Fransızca kaynak ifade: L'ami arrive [lami ariv] — Arkadaş geliyor
+4. Çocuklar oynuyor — Fransızca kaynak ifade: Les enfants jouent [lezanfan ju] — Çocuklar oynuyor
+5. Bir kahve — Fransızca kaynak ifade: Un café [en kafe] — Bir kahve
+6. Bir elma — Fransızca kaynak ifade: Une pomme [ün pom] — Bir elma
+7. Arkadaşlar — Fransızca kaynak ifade: Des amis [dezami] — Arkadaşlar
+8. Biraz ekmek — Fransızca kaynak ifade: Du pain [dü pen] — Biraz ekmek
+9. Biraz su — Fransızca kaynak ifade: De l'eau [dı lo] — Biraz su
+10. Ekmeğim yok. — Fransızca kaynak ifade: Je n'ai pas de pain [jı ne pa dı pen] — Ekmeğim yok.
+11. Le livre est ici [lı livr e isi] — Kitap burada — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+12. La porte est ouverte [la port e uvert] — Kapı açık — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+13. L'ami arrive [lami ariv] — Arkadaş geliyor — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+14. Les enfants jouent [lezanfan ju] — Çocuklar oynuyor — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+15. Un café [en kafe] — Bir kahve — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+16. Une pomme [ün pom] — Bir elma — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+17. Des amis [dezami] — Arkadaşlar — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+18. Du pain [dü pen] — Biraz ekmek — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+19. De l'eau [dı lo] — Biraz su — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+20. Je n'ai pas de pain [jı ne pa dı pen] — Ekmeğim yok. — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+21. A — Le livre est ici [lı livr e isi] — Kitap burada
+22. C — La porte est ouverte [la port e uvert] — Kapı açık
+23. B — L'ami arrive [lami ariv] — Arkadaş geliyor
+24. A — Les enfants jouent [lezanfan ju] — Çocuklar oynuyor
+25. C — Un café [en kafe] — Bir kahve
+
+5
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. Le livre est ici ne anlama gelir? A) Kitap burada B) Arkadaş geliyor C) Bir elma
+2. La porte est ouverte ne anlama gelir? A) Çocuklar oynuyor B) Arkadaşlar C) Kapı açık
+3. L'ami arrive ne anlama gelir? A) Biraz ekmek B) Arkadaş geliyor C) Bir kahve
+4. Les enfants jouent ne anlama gelir? A) Çocuklar oynuyor B) Bir elma C) Biraz su
+5. Un café ne anlama gelir? A) Arkadaşlar B) Ekmeğim yok. C) Bir kahve
+6. Boşluğu doldur: Une ____ — Bir elma
+7. Boşluğu doldur: Des ____ — Arkadaşlar
+8. Boşluğu doldur: Du ____ — Biraz ekmek
+9. Boşluğu doldur: De ____ — Biraz su
+10. Boşluğu doldur: Je n'ai ____ de pain — Ekmeğim yok.
+11. Fransızcaya çevir: Kitap burada
+12. Fransızcaya çevir: Kapı açık
+13. Fransızcaya çevir: Arkadaş geliyor
+14. Şu anlam için verilen bozuk sıralamayı düzelt: jouent / enfants / Les — Çocuklar oynuyor
+15. Şu anlam için verilen bozuk sıralamayı düzelt: café / Un — Bir kahve
+
+Test cevap anahtarı
+1. A — Le livre est ici [lı livr e isi] — Kitap burada
+2. C — La porte est ouverte [la port e uvert] — Kapı açık
+3. B — L'ami arrive [lami ariv] — Arkadaş geliyor
+4. A — Les enfants jouent [lezanfan ju] — Çocuklar oynuyor
+5. C — Un café [en kafe] — Bir kahve
+6. pomme — Une pomme [ün pom] — Bir elma
+7. amis — Des amis [dezami] — Arkadaşlar
+8. pain — Du pain [dü pen] — Biraz ekmek
+9. l'eau — De l'eau [dı lo] — Biraz su
+10. pas — Je n'ai pas de pain [jı ne pa dı pen] — Ekmeğim yok.
+11. Le livre est ici [lı livr e isi] — Kitap burada
+12. La porte est ouverte [la port e uvert] — Kapı açık
+13. L'ami arrive [lami ariv] — Arkadaş geliyor
+14. Les enfants jouent [lezanfan ju] — Çocuklar oynuyor
+15. Un café [en kafe] — Bir kahve
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: Le livre est ici [lı livr e isi] — Kitap burada
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+
+6
+
+• B: La porte est ouverte [la port e uvert] — Kapı açık
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: L'ami arrive [lami ariv] — Arkadaş geliyor
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Les enfants jouent [lezanfan ju] — Çocuklar oynuyor
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+Ara sınav — 30 soru + iki görev
+1. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le livre est ici [lı livr e isi] — Kitap burada
+2. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: La porte est ouverte [la port e uvert] —
+Kapı açık
+3. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: L'ami arrive [lami ariv] — Arkadaş geliyor
+4. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Les enfants jouent [lezanfan ju] —
+Çocuklar oynuyor
+5. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Un café [en kafe] — Bir kahve
+6. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Une pomme [ün pom] — Bir elma
+7. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Des amis [dezami] — Arkadaşlar
+8. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Du pain [dü pen] — Biraz ekmek
+9. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: De l'eau [dı lo] — Biraz su
+10. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Je n'ai pas de pain [jı ne pa dı pen] —
+Ekmeğim yok.
+11. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le livre est ici [lı livr e isi] — Kitap burada
+12. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: La porte est ouverte [la port e uvert] —
+Kapı açık
+13. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: L'ami arrive [lami ariv] — Arkadaş geliyor
+14. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Les enfants jouent [lezanfan ju] —
+Çocuklar oynuyor
+15. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Un café [en kafe] — Bir kahve
+16. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Une pomme [ün pom] — Bir elma
+17. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Des amis [dezami] — Arkadaşlar
+18. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Du pain [dü pen] — Biraz ekmek
+19. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: De l'eau [dı lo] — Biraz su
+20. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Je n'ai pas de pain [jı ne pa dı pen] —
+Ekmeğim yok.
+
+7
+
+21. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Le livre est ici [lı livr e isi] — Kitap burada
+22. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: La porte est ouverte [la port e uvert] —
+Kapı açık
+23. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: L'ami arrive [lami ariv] — Arkadaş geliyor
+24. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Les enfants jouent [lezanfan ju] —
+Çocuklar oynuyor
+25. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Un café [en kafe] — Bir kahve
+26. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Une pomme [ün pom] — Bir elma
+27. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Des amis [dezami] — Arkadaşlar
+28. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Du pain [dü pen] — Biraz ekmek
+29. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: De l'eau [dı lo] — Biraz su
+30. Fransızca cümleyi oku, Türkçeye çevir ve ana yapıyı açıkla: Je n'ai pas de pain [jı ne pa dı pen] —
+Ekmeğim yok.
+Yazma: Son üç modülden beş yapı kullanarak kısa paragraf yaz. Konuşma: Aynı konuyu iki dakika sesli
+anlat. Yanıtları örnek cümlelerle karşılaştır.
+
+8
+

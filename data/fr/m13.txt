@@ -1,0 +1,549 @@
+Modül 13 — Passé Composé Avoir
+Seviye: A2. Ön koşul: Önceki modüllerdeki temel sözcükler.
+
+Bu modülün önemi
+Passé Composé Avoir konusu, gündelik konuşmada anlamı doğru kurmaya ve duyulan cümleleri ayırt
+etmeye yardım eder.
+
+Konunun mantığı
+Özne + avoir şimdiki zaman + participe passé; düzenli -er→-é, -ir→-i, -re→-u.
+
+Türkçe ile karşılaştırma
+Türkçede tek fiile gelen geçmiş eki Fransızcada iki parçalı olabilir.
+
+Formül / Kural
+Temel şema: Özne + avoir şimdiki zaman + participe passé; düzenli -er→-é, -ir→-i, -re→-u.
+
+Tablo
+Öğrenilecek bağlantı
+
+İşlev
+
+Örnek
+
+1. örüntü
+
+kuruluş
+
+J'ai parlé [je parle] — Konuştum
+
+2. örüntü
+
+bağlam
+
+Tu as fini [tü a fini] — Bitirdin
+
+3. örüntü
+
+telaffuz
+
+Il a vendu [il a vandü] — Sattı
+
+parler — konuşmak: passé composé
+Fransızca [IPA]
+
+Türkçe
+
+j’ai parlé [ʒe paʁle]
+
+konuştum
+
+tu as parlé [ty a paʁle]
+
+konuştun
+
+il a parlé [il a paʁle]
+
+konuştu
+
+nous avons parlé [nuz avɔ̃ paʁle]
+
+konuştuk
+
+vous avez parlé [vuz ave paʁle]
+
+konuştunuz
+
+ils ont parlé [ilz ɔ̃ paʁle]
+
+konuştular
+
+Ayrıntılı konu anlatımı
+Yardımcı fiil ve ortaç
+J'ai parlé [ʒe paʁle] — Konuştum = avoir [avwaʁ] — sahip olmak şimdiki çekimi + geçmiş ortaç. Çoğu fiil
+avoir alır. -er → -é, düzenli -ir → -i, birçok -re → -u; prendre → pris [pʁɑ̃ dʁ → pʁi] — almak → alınmış, boire
+→ bu [bwaʁ → by] — içmek → içilmiş, faire → fait [fɛʁ → fɛ] — yapmak → yapılmış düzensizdir. “Her -ir/-re
+aynı biçimde dönüşür” ezberi doğru değildir.
+Olumsuzluk yardımcı fiili çevreler: Je n'ai pas parlé [ʒə ne pa paʁle] — Konuşmadım. Soru: Est-ce que tu
+as parlé ? [ɛskə ty a paʁle] — Konuştun mu? Avoir ile kullanılan geçmiş ortaç, basit temel dizilişte özneyle
+otomatik cinsiyet uyumu almaz; önden gelen doğrudan nesne gibi ileri bağlamlarda uyum gündeme gelir.
+
+1
+
+On örnek
+1. J'ai parlé [je parle] — Konuştum
+2. Tu as fini [tü a fini] — Bitirdin
+3. Il a vendu [il a vandü] — Sattı
+4. Nous avons mangé [nu zavon manje] — Yedik
+5. Vous avez vu [vu zave vü] — Gördünüz
+6. Elles ont fait du sport [el zon fe dü spor] — Spor yaptılar
+7. J'ai été malade [je ete malad] — Hastaydım
+8. J'ai eu peur [je ü pör] — Korktum
+9. Je n'ai pas compris [jı ne pa kompri] — Anlamadım
+10. Est-ce que tu as travaillé hier ? [es kı tü a travayé yer] — Dün çalıştın mı?
+
+Yaygın hatalar
+Bütün -ir ve -re fiillerinin geçmiş ortacını otomatik türetme; düzensizleri ayrı kontrol et.
+
+Ezber tekniği
+Dün yaptığın beş gerçek eylemi zaman sırasına koyup sesli anlat.
+
+Öğrenme tavsiyeleri
+Örnekleri kendi yaşamından isim, yer ve sayı değiştirerek ses kaydına al. Gerçek konuşur kaydını dinleyerek
+ses ve ritmi karşılaştır.
+
+Telaffuz durağı
+Bir cümlede nazal sesleri (an/en/in/on), liaison olasılığını ve yazıda olup duyulmayan son harfleri işaretle.
+Liaison her yerde otomatik yapılmaz.
+
+Tematik sözcük ve kalıplar
+Yeni öğe: 41. Spiral tekrar: 16. Sayım, 1. modül ve önceki listelerdeki aynı yazılı ifadeleri dışlar. Köşeli
+ayraç içi IPA standart Fransa Fransızcasına yaklaşık sesletimdir; liaison ve aksan farklılıkları gerçek kayıtla
+doğrulanmalıdır.
+
+Yeni sözcükler
+Fransızca [IPA]
+
+Türkçe
+
+avant-hier [avɑ̃ tjɛʁ]
+
+önceki gün
+
+récemment [ʁesamɑ̃ ]
+
+son zamanlarda
+
+déjà [deʒa]
+
+çoktan
+
+enfin [ɑ̃ fɛ̃]
+
+sonunda
+
+d'abord [dabɔʁ]
+
+önce
+
+ensuite [ɑ̃ sɥit]
+
+sonra
+
+après [apʁɛ]
+
+sonra
+
+avant [avɑ̃ ]
+
+önce
+
+la semaine dernière [la səmɛn dɛʁnjɛʁ]
+
+geçen hafta
+
+2
+
+Fransızca [IPA]
+
+Türkçe
+
+le mois dernier [lə mwa dɛʁnje]
+
+geçen ay
+
+l'année dernière [lane dɛʁnjɛʁ]
+
+geçen yıl
+
+il y a deux jours [il i a dø ʒuʁ]
+
+iki gün önce
+
+finir [finiʁ]
+
+bitirmek
+
+attendre [atɑ̃ dʁ]
+
+beklemek
+
+faire [fɛʁ]
+
+yapmak
+
+dire [diʁ]
+
+söylemek
+
+voir [vwaʁ]
+
+görmek
+
+vouloir [vulwaʁ]
+
+istemek
+
+pouvoir [puvwaʁ]
+
+yapabilmek
+
+mettre [mɛtʁ]
+
+koymak
+
+boire [bwaʁ]
+
+içmek
+
+apprendre [apʁɑ̃ dʁ]
+
+öğrenmek
+
+recevoir [ʁəsəvwaʁ]
+
+almak/teslim almak
+
+ouvrir [uvʁiʁ]
+
+açmak
+
+découvrir [dekuvʁiʁ]
+
+keşfetmek
+
+connaître [kɔnɛtʁ]
+
+tanımak
+
+croire [kʁwaʁ]
+
+inanmak
+
+savoir [savwaʁ]
+
+bilmek
+
+perdre [pɛʁdʁ]
+
+kaybetmek
+
+raconter [ʁakɔ̃ te]
+
+anlatmak
+
+discuter [diskyte]
+
+tartışmak
+
+visiter [vizite]
+
+ziyaret etmek
+
+préparer [pʁepaʁe]
+
+hazırlamak
+
+nettoyer [netwaje]
+
+temizlemek
+
+cuisiner [kɥizine]
+
+yemek pişirmek
+
+téléphoner [telefɔne]
+
+telefon etmek
+
+oublier [ublije]
+
+unutmak
+
+envoyer [ɑ̃ vwaje]
+
+göndermek
+
+répondre à [ʁepɔ̃ dʁ a]
+
+birine yanıt vermek
+
+une action [yn aksjɔ̃ ]
+
+bir eylem
+
+un souvenir [œ̃n suvəniʁ]
+
+bir anı
+
+Önceki modüllerden tekrar
+Fransızca [IPA]
+
+Türkçe
+
+hier [ijɛʁ]
+
+dün
+
+jamais [ʒamɛ]
+
+hiç/asla
+
+parler [paʁle]
+
+konuşmak
+
+manger [mɑ̃ ʒe]
+
+yemek
+
+3
+
+Fransızca [IPA]
+
+Türkçe
+
+habiter [abite]
+
+oturmak
+
+travailler [tʁavaje]
+
+çalışmak
+
+écouter [ekute]
+
+dinlemek
+
+regarder [ʁəɡaʁde]
+
+izlemek
+
+choisir [ʃwaziʁ]
+
+seçmek
+
+vendre [vɑ̃ dʁ]
+
+satmak
+
+être [ɛtʁ]
+
+olmak
+
+avoir [avwaʁ]
+
+sahip olmak
+
+prendre [pʁɑ̃ dʁ]
+
+almak
+
+lire [liʁ]
+
+okumak
+
+écrire [ekʁiʁ]
+
+yazmak
+
+comprendre [kɔ̃ pʁɑ̃ dʁ]
+
+anlamak
+
+Mini alıştırma — 10 soru
+1. Konuştum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+2. Bitirdin anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+3. Sattı anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+4. Yedik anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+5. Gördünüz anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+6. Spor yaptılar anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+7. Hastaydım anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+8. Korktum anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+9. Anlamadım anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+10. Dün çalıştın mı? anlamına gelen Fransızca ifadeyi bakmadan söyle ve yaz.
+
+Modül sonu özeti (Cheat Sheet)
+• Temel kural: Özne + avoir şimdiki zaman + participe passé; düzenli -er→-é, -ir→-i, -re→-u.
+• Türkçe karşılaştırması: Türkçede tek fiile gelen geçmiş eki Fransızcada iki parçalı olabilir.
+• Cümleyi önce sesli üret, sonra yazımını doğrula.
+
+Modül sonu 25 alıştırma
+1–10: Türkçeye çevir. 11–20: Fransızcaya çevir. 21–25: Üç seçenekten doğru anlamı seç. Cevapları
+tamamlamadan aşağıdaki anahtara bakma.
+1. J'ai parlé
+2. Tu as fini
+3. Il a vendu
+4. Nous avons mangé
+5. Vous avez vu
+6. Elles ont fait du sport
+7. J'ai été malade
+
+4
+
+8. J'ai eu peur
+9. Je n'ai pas compris
+10. Est-ce que tu as travaillé hier ?
+11. Konuştum
+12. Bitirdin
+13. Sattı
+14. Yedik
+15. Gördünüz
+16. Spor yaptılar
+17. Hastaydım
+18. Korktum
+19. Anlamadım
+20. Dün çalıştın mı?
+21. J'ai parlé: A) Konuştum B) Yedik C) Hastaydım
+22. Tu as fini: A) Gördünüz B) Korktum C) Bitirdin
+23. Il a vendu: A) Anlamadım B) Sattı C) Spor yaptılar
+24. Nous avons mangé: A) Yedik B) Hastaydım C) Dün çalıştın mı?
+25. Vous avez vu: A) Korktum B) Konuştum C) Gördünüz
+
+25 alıştırmanın çözümleri
+1. Konuştum — Fransızca kaynak ifade: J'ai parlé [je parle] — Konuştum
+2. Bitirdin — Fransızca kaynak ifade: Tu as fini [tü a fini] — Bitirdin
+3. Sattı — Fransızca kaynak ifade: Il a vendu [il a vandü] — Sattı
+4. Yedik — Fransızca kaynak ifade: Nous avons mangé [nu zavon manje] — Yedik
+5. Gördünüz — Fransızca kaynak ifade: Vous avez vu [vu zave vü] — Gördünüz
+6. Spor yaptılar — Fransızca kaynak ifade: Elles ont fait du sport [el zon fe dü spor] — Spor yaptılar
+7. Hastaydım — Fransızca kaynak ifade: J'ai été malade [je ete malad] — Hastaydım
+8. Korktum — Fransızca kaynak ifade: J'ai eu peur [je ü pör] — Korktum
+9. Anlamadım — Fransızca kaynak ifade: Je n'ai pas compris [jı ne pa kompri] — Anlamadım
+10. Dün çalıştın mı? — Fransızca kaynak ifade: Est-ce que tu as travaillé hier ? [es kı tü a travayé yer] —
+Dün çalıştın mı?
+11. J'ai parlé [je parle] — Konuştum — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+12. Tu as fini [tü a fini] — Bitirdin — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+13. Il a vendu [il a vandü] — Sattı — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+14. Nous avons mangé [nu zavon manje] — Yedik — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+15. Vous avez vu [vu zave vü] — Gördünüz — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+16. Elles ont fait du sport [el zon fe dü spor] — Spor yaptılar — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+17. J'ai été malade [je ete malad] — Hastaydım — Bu çeviride sözcük sırası ve varsa artikel örnekteki
+gibidir.
+18. J'ai eu peur [je ü pör] — Korktum — Bu çeviride sözcük sırası ve varsa artikel örnekteki gibidir.
+
+5
+
+19. Je n'ai pas compris [jı ne pa kompri] — Anlamadım — Bu çeviride sözcük sırası ve varsa artikel
+örnekteki gibidir.
+20. Est-ce que tu as travaillé hier ? [es kı tü a travayé yer] — Dün çalıştın mı? — Bu çeviride sözcük sırası
+ve varsa artikel örnekteki gibidir.
+21. A — J'ai parlé [je parle] — Konuştum
+22. C — Tu as fini [tü a fini] — Bitirdin
+23. B — Il a vendu [il a vandü] — Sattı
+24. A — Nous avons mangé [nu zavon manje] — Yedik
+25. C — Vous avez vu [vu zave vü] — Gördünüz
+
+Modül testi — 15 soru
+1–5 çoktan seçmeli; 6–10 boşluk doldurma; 11–13 çeviri; 14–15 cümle düzeltme. Son iki soru tek biçimli
+cevap vermez; örnek doğru cümle cevap anahtarındadır.
+1. J'ai parlé ne anlama gelir? A) Konuştum B) Sattı C) Spor yaptılar
+2. Tu as fini ne anlama gelir? A) Yedik B) Hastaydım C) Bitirdin
+3. Il a vendu ne anlama gelir? A) Korktum B) Sattı C) Gördünüz
+4. Nous avons mangé ne anlama gelir? A) Yedik B) Spor yaptılar C) Anlamadım
+5. Vous avez vu ne anlama gelir? A) Hastaydım B) Dün çalıştın mı? C) Gördünüz
+6. Boşluğu doldur: Elles ont ____ du sport — Spor yaptılar
+7. Boşluğu doldur: J'ai ____ malade — Hastaydım
+8. Boşluğu doldur: J'ai ____ peur — Korktum
+9. Boşluğu doldur: Je n'ai ____ compris — Anlamadım
+10. Boşluğu doldur: Est-ce que tu ____ travaillé hier ? — Dün çalıştın mı?
+11. Fransızcaya çevir: Konuştum
+12. Fransızcaya çevir: Bitirdin
+13. Fransızcaya çevir: Sattı
+14. Şu anlam için verilen bozuk sıralamayı düzelt: mangé / avons / Nous — Yedik
+15. Şu anlam için verilen bozuk sıralamayı düzelt: vu / avez / Vous — Gördünüz
+
+Test cevap anahtarı
+1. A — J'ai parlé [je parle] — Konuştum
+2. C — Tu as fini [tü a fini] — Bitirdin
+3. B — Il a vendu [il a vandü] — Sattı
+4. A — Nous avons mangé [nu zavon manje] — Yedik
+5. C — Vous avez vu [vu zave vü] — Gördünüz
+6. fait — Elles ont fait du sport [el zon fe dü spor] — Spor yaptılar
+7. été — J'ai été malade [je ete malad] — Hastaydım
+8. eu — J'ai eu peur [je ü pör] — Korktum
+9. pas — Je n'ai pas compris [jı ne pa kompri] — Anlamadım
+10. as — Est-ce que tu as travaillé hier ? [es kı tü a travayé yer] — Dün çalıştın mı?
+11. J'ai parlé [je parle] — Konuştum
+12. Tu as fini [tü a fini] — Bitirdin
+
+6
+
+13. Il a vendu [il a vandü] — Sattı
+14. Nous avons mangé [nu zavon manje] — Yedik
+15. Vous avez vu [vu zave vü] — Gördünüz
+
+Dinleme metni — iki kısa öğretici diyalog
+Diyalog 1
+• A: Tu peux donner un exemple ? [ty pø dɔne œ̃nɛɡzɑ̃ pl] — Bir örnek verebilir misin?
+• B: J'ai parlé [je parle] — Konuştum
+• A: Et un autre ? [e œ̃nɔtʁ] — Ya bir başka örnek?
+• B: Tu as fini [tü a fini] — Bitirdin
+Diyalog 2
+• A: Je peux écouter encore une fois ? [ʒə pø ekute ɑ̃ kɔʁ yn fwa] — Bir kez daha dinleyebilir miyim?
+• B: Il a vendu [il a vandü] — Sattı
+• A: Merci, je comprends mieux. [mɛʁsi ʒə kɔ̃ pʁɑ̃ mjø] — Teşekkürler, şimdi daha iyi anlıyorum.
+• B: Nous avons mangé [nu zavon manje] — Yedik
+Seslendirme için metni bir Fransızca konuşura veya doğal TTS sistemine ver. İlk dinleyişte metni kapat; ikinci
+dinleyişte ana sözcükleri not et; son dinleyişte kalıbı gölgele. Öğretici diyaloglar özgün doğal konuşma
+kaydının yerini tutmaz.
+
+Konuşma pratiği
+ChatGPT sesli görüşmede muhatap rolünü oynasın. İlk turda listedeki üç kalıbı kullan; ikinci turda kişi, yer
+veya zamanı değiştir; üçüncü turda metne bakmadan iki dakika konuş.
+
+Kendini değerlendirme
+Ölçüt
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+Kuralı Türkçe anlatıyorum
+
+□
+
+□
+
+□
+
+On örneği duyunca anlıyorum
+
+□
+
+□
+
+□
+
+Üç yeni cümle kuruyorum
+
+□
+
+□
+
+□
+
+Kaydımda sesleri düzeltiyorum
+
+□
+
+□
+
+□
+
+7
+

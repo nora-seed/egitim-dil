@@ -1,0 +1,888 @@
+Sıfırdan Fransızca: Giriş ve Modül 1
+Türkçe konuşan, kendi kendine öğrenenler için A1 başlangıcı
+Sürüm: 29 Eylül 2026
+
+Okunuş anahtarı
+Köşeli ayraç içindeki Türkçe okunuşlar yaklaşıktır; özellikle burun ünlüleri ve Fransızca u sesi Türkçeyle tam
+karşılanmaz. ̃işareti sesin burundan çıktığını, ʁ Fransızca boğaz r sesini gösterir. Örneğin pain [pɛ̃; yaklaşık
+pen] — ekmek. Sesli örnekleri dinleyip kaydetmeden yalnızca yazılı okunuşa güvenme. Birden fazla aksan
+vardır; burada standart Fransa Fransızcası esas alınmıştır.
+
+Bölüm 0 — Bu kitap nasıl kullanılır?
+Hedef ve yöntem
+Her gün önce anlamı kavra, sonra duyduğunu tekrar et, ardından bakmadan söyle. A1'de kısa ve doğru
+cümle; A2'de geçmiş deneyim ve günlük sorun; B1'de gerekçeli görüş ve bağlı anlatı hedeflenir. Seviyeler
+yalnızca bir kitabı bitirmekle kazanılmaz: gerçek ses kaydıyla dinleme ve bir konuşma ortağıyla veya
+ChatGPT sesli sohbetiyle düzenli üretim gerekir.
+
+60 dakikalık gün
+Süre
+
+İş
+
+10 dk
+
+Önceki günün kelimelerini bakmadan söyle; yanlışları kartlara al.
+
+15 dk
+
+Yeni konunun kuralını ve örneklerini sesli çalış.
+
+15 dk
+
+Kısa özgün ses kaydını dinle, metni kontrol et, tekrar dinle.
+
+10 dk
+
+Alıştırmaları çöz ve cevapları gerekçelendir.
+
+10 dk
+
+Kendi hayatın hakkında beş cümle söyle; sesini kaydet.
+
+120 dakika için buna 20 dakika ek dinleme, 20 dakika konuşma, 10 dakika okuma ve 10 dakika hata
+düzeltme ekle. Uzun çalışma günlerinin ertesi günü kısa tekrar yap.
+
+Haftalık şablon
+Gün
+
+Odak
+
+1
+
+Yeni kural + 10 kelime + ses
+
+2
+
+Aynı kural + 10 kelime + beş yeni cümle
+
+3
+
+Yeni alt konu + diyalog
+
+4
+
+Aktif hatırlama + telaffuz kaydı
+
+5
+
+Alıştırma + rol yapma
+
+6
+
+Kısa sınav + yanlış analizi
+
+7
+
+Hafif tekrar ve serbest dinleme
+
+Aralıklı tekrar: Kelimeyi ilk gün, ertesi gün, yaklaşık 3, 7 ve 14 gün sonra yeniden hatırla; takvim bir
+araçtır, zorlandığın kartı daha sık gör. Aktif hatırlama: Önce Türkçe anlamdan Fransızcasını söyle, sonra
+kontrol et. Gölgeleme: Beş ila on saniyelik özgün ses parçasını ritim ve vurguya uyarak bir iki saniye
+
+1
+
+geriden tekrarla. Öbekleme: Tek kelime yerine kullanıma hazır kısa kalıp öğren: s'il vous plaît [sil vu plɛ] —
+lütfen. Bunlar çalışma stratejileridir; tek başına konuşma yeterliği garantisi değildir.
+Öğrenme günlüğü: Tarih, dakika, duyup anlayabildiğin üç ifade, ürettiğin üç cümle ve bir hata yaz. Haftalık
+ses kayıtlarını karşılaştır. Hedefini ölçülebilir kur: “Dört hafta içinde adımı, yaşımı ve yaşadığım şehri iki
+dakikalık konuşmada söyleyeceğim.” Hataları başarısızlık diye değil, gelecek tekrarın malzemesi diye
+kaydet.
+
+Bölüm 0.1 — Fransızca hakkında
+Uluslararası Frankofoni Örgütü'nün 2026 raporu yaklaşık 396 milyon Fransızca konuşuru bildirir. “Resmî dil
+olduğu ülke sayısı” kaynakların bağımsız devletleri, eş resmî statüyü ve bölgeleri sayma biçimine göre
+değişir; tek bir sabit rakamı ezberlemek yerine hangi tanımın kullanıldığına bak. Kaynak: https://
+www.francophonie.org/lancement-du-rapport-la-langue-francaise-dans-le-monde-2026-8426
+Türkçede isimlerin dilbilgisel cinsiyeti ve İngilizcedeki türden zorunlu belirli artikel yoktur; Fransızcada le livre
+[lə livʁ] — kitap, la table [la tabl] — masa gibi isimleri artikelle öğren. Türkçede ekler çoğunlukla sözcüğün
+sonuna gelir; Fransızcada özne zamiri, yardımcı fiil ve artikel çok önemlidir. Yazım ile söyleyiş her zaman
+örtüşmez. Fransızca Fransa, Belçika, İsviçre, Québec ve Afrika'da farklı ses, ritim ve sözcük tercihleriyle
+konuşulur; hiçbirini “yanlış Fransızca” diye sınıflandırma.
+
+Modül 1 — Alfabe ve telaffuz
+Bu modülün önemi
+Yazıda gördüğün bir sözcüğü güvenli biçimde sözlükte arayabilmek, adını hecelemek, konuşulan sözcükleri
+ayırt etmek ve sonraki bütün modüllerdeki sesleri doğru öğrenmek için temel oluşturur.
+
+1. Alfabe ve harf adları
+Mantık: Harf adı ile sözcük içindeki ses aynı şey değildir. c harfinin adı [se], fakat café [kafe] — kahve içinde
+[k] çıkar. Türkçede yazı sesle daha düzenli eşleşir.
+Kural: Harfi hecelerken harf adını söyle; sözcüğü okurken yanındaki harflere ve son konumuna bak.
+Harf
+
+Adı (yaklaşık)
+
+Örnek — okunuş — anlam
+
+A
+
+[a]
+
+ami [ami] — arkadaş
+
+B
+
+[be]
+
+bon [bɔ̃ ] — iyi
+
+C
+
+[se]
+
+café [kafe] — kahve
+
+D
+
+[de]
+
+date [dat] — tarih
+
+E
+
+[ö]
+
+école [ekɔl] — okul
+
+F
+
+[ef]
+
+femme [fam] — kadın
+
+G
+
+[je]
+
+gare [gaʁ] — gar
+
+H
+
+[aş]
+
+hôtel [otɛl] — otel
+
+I
+
+[i]
+
+ici [isi] — burada
+
+J
+
+[ji]
+
+jour [ʒuʁ] — gün
+
+K
+
+[ka]
+
+kilo [kilo] — kilogram
+
+L
+
+[el]
+
+livre [livʁ] — kitap
+
+M
+
+[em]
+
+merci [mɛʁsi] — teşekkürler
+
+N
+
+[en]
+
+nuit [nɥi] — gece
+
+2
+
+Harf
+
+Adı (yaklaşık)
+
+Örnek — okunuş — anlam
+
+O
+
+[o]
+
+orange [ɔʁɑ̃ ʒ] — portakal
+
+P
+
+[pe]
+
+pain [pɛ̃] — ekmek
+
+Q
+
+[kü]
+
+qui [ki] — kim
+
+R
+
+[ɛʁ]
+
+rue [ʁy] — sokak
+
+S
+
+[es]
+
+salut [saly] — selam
+
+T
+
+[te]
+
+table [tabl] — masa
+
+U
+
+[ü; ön dudaklı]
+
+une [yn] — bir (dişil)
+
+V
+
+[ve]
+
+ville [vil] — şehir
+
+W
+
+[dubl ve]
+
+wagon [vagɔ̃ ] — vagon
+
+X
+
+[iks]
+
+taxi [taksi] — taksi
+
+Y
+
+[igrek]
+
+yoga [jɔga] — yoga
+
+Z
+
+[zed]
+
+zéro [zeʁo] — sıfır
+
+On örnek: ami [ami] — arkadaş; bon [bɔ̃ ] — iyi; café [kafe] — kahve; école [ekɔl] — okul; femme [fam] —
+kadın; gare [gaʁ] — gar; hôtel [otɛl] — otel; jour [ʒuʁ] — gün; pain [pɛ̃] — ekmek; rue [ʁy] — sokak.
+Yaygın hata: Harfin adını sözcükteki sesi sanmak; son sessizi daima okumak. İpucu: Her yeni sözcüğü
+“yazım + ses + anlam” üçlüsü olarak kaydet. Mini alıştırma (5): 1 C harfinin adı nedir? 2 café sözcüğünde
+C hangi ses? 3 hôtel başındaki H duyulur mu? 4 rue içindeki U, Türkçe U mudur? 5 femme nasıl okunur?
+Yanıtlar: [se], [k], hayır, hayır, [fam].
+
+2. Aksanlar ve yazıdaki işaretler
+Mantık: İşaretler bazen ünlünün niteliğini, bazen iki sesin ayrılığını, bazen sözcüğün tarihî yazımını gösterir.
+Her şapkalı ünlünün “uzun” okunacağı kuralı yoktur; Türkçedeki uzunlukla açıklamak yanıltıcıdır.
+Türkçe karşılaştırması: Türkçede ç ayrı harftir; Fransızcada ç, c üzerine işaretle [s] verir. Fransızcada é ile
+è çoğunlukla kapalı [e] ve açık [ɛ] ayrımını gösterir.
+Kural/formül: é → [e]; è/ê → çoğunlukla [ɛ]; ë/ï/ü → komşu ünlüden ayrı heceyi gösterebilir; ç
++ a/o/u → [s]. Bölgesel ve sözcüksel istisnalar vardır.
+İşaret
+
+İşlev
+
+Örnek — okunuş — anlam
+
+é
+
+kapalı e
+
+été [ete] — yaz
+
+è
+
+açık e
+
+mère [mɛʁ] — anne
+
+ê
+
+çoğunlukla açık e; tarihî yazım
+
+fête [fɛt] — bayram/şenlik
+
+ë
+
+ayrı ses
+
+Noël [nɔɛl] — Noel
+
+à
+
+ayırt edici yazım
+
+à [a] — -e/-a yönelme edatı
+
+â
+
+sese etkisi aksana göre değişir
+
+pâte [pat] — hamur
+
+î
+
+çoğu zaman uzunluk üretmez
+
+île [il] — ada
+
+ï
+
+ayrı ses
+
+maïs [ma.is] — mısır
+
+ô
+
+çoğunlukla kapalı o
+
+hôtel [otɛl] — otel
+
+ù
+
+yazım ayrımı
+
+où [u] — nerede
+
+û
+
+çoğu zaman uzunluk üretmez
+
+sûr [syʁ] — emin
+
+ü
+
+ayrı ses gösterebilir
+
+aiguë [egy] — keskin (dişil)
+
+ç
+
+c'yi [s] yapar
+
+garçon [gaʁsɔ̃ ] — erkek çocuk
+
+3
+
+On örnek: été [ete] — yaz; mère [mɛʁ] — anne; fête [fɛt] — bayram; Noël [nɔɛl] — Noel; à [a] — -e/-a; pâte
+[pat] — hamur; île [il] — ada; maïs [ma.is] — mısır; où [u] — nerede; garçon [gaʁsɔ̃ ] — erkek çocuk.
+Yaygın hata: où [u] — nerede ile ou [u] — veya sözcüklerini yazıda karıştırmak. Ezber: Aksanı yalnız ses
+için değil, anlam ayrımı için de işaretle. Mini alıştırma (5): 1 garçon içindeki ç hangi ses? 2 Noël kaç
+belirgin ünlü bölümü içerir? 3 “Nerede” için hangisi: ou/où? 4 mère içindeki è yaklaşık açık mı kapalı mı? 5 île
+içindeki î zorunlu uzun i mi? Yanıt: [s], iki, où, açık, hayır.
+
+3. Nazal ünlüler
+Mantık: Ünlüyü çıkarırken havanın bir kısmı burundan geçer. Türkçedeki “an” gibi önce A sonra belirgin N
+söylemek doğru değildir. Kapanıştaki n/m çoğunlukla bağımsız duyulmaz.
+Türkçe karşılaştırması: Türkçede nazal ünlü sesbirimi yoktur. Burnu hafifçe tutup sesi çıkarırken tını
+değişimini fark et; nefesi zorla burundan verme.
+Kural/formül: ünlü + n/m + sessiz veya sözcük sonu → çoğunlukla nazal ünlü; ardından başka
+ünlü gelirse çoğunlukla normal ünlü + duyulan n/m: bon [bɔ̃ ] — iyi, bonne [bɔn] — iyi (dişil).
+Yazım
+
+IPA
+
+Türkçe yaklaşık
+
+Örnek — anlam
+
+an/en
+
+[ɑ̃ ]
+
+nazal açık a
+
+sans [sɑ̃ ] — olmadan
+
+in/ain/ein
+
+[ɛ̃]
+
+nazal açık e
+
+pain [pɛ̃] — ekmek
+
+on
+
+[ɔ̃ ]
+
+nazal o
+
+bon [bɔ̃ ] — iyi
+
+un
+
+[œ̃] ya da birçok bölgede [ɛ̃]
+
+nazal ö/e
+
+un [œ̃] — bir (eril)
+
+On örnek: sans [sɑ̃ ] — olmadan; enfant [ɑ̃ fɑ̃ ] — çocuk; temps [tɑ̃ ] — zaman; pain [pɛ̃] — ekmek; main [mɛ̃]
+— el; plein [plɛ̃] — dolu; bon [bɔ̃ ] — iyi; nom [nɔ̃ ] — ad; un [œ̃] — bir; lundi [lœ̃di; birçok konuşurda lɛ̃di] —
+pazartesi.
+Yaygın hata: pain sözcüğünü [pan] okumak; bonne sözcüğünü de nazal sanmak. İpucu: bon/bonne [bɔ̃ /
+bɔn] — iyi eril/dişil çiftini art arda kaydet. Mini alıştırma (5): 1 pain hangi nazal? 2 bon sonundaki n belirgin
+mi? 3 bonne nazal mı? 4 lundi bölgesel farklılık gösterebilir mi? 5 enfant kaç nazal içerir? Yanıt: [ɛ̃], hayır,
+hayır, evet, iki.
+
+4. Liaison, enchaînement ve H
+Mantık: Konuşma tek tek yazılmış sözcüklerden değil, akıcı ses öbeklerinden oluşur. Normalde okunmayan
+son sessiz bazen sonraki ünlü önünde ortaya çıkar: bu liaison. Zaten okunan sessizin sonraki heceye
+bağlanması ise enchaînement.
+Türkçe karşılaştırması: Türkçede Fransızcadaki gibi “yazılı ama normalde suskun son sessizin belirli
+bağlamda canlanması” sistemli değildir.
+Kural/formül: normalde suskun son sessiz + sonraki sesli → uygun bağlamda liaison; zaten
+okunan son sessiz + sonraki sesli → enchaînement. Liaison her iki kelime arasında otomatik yapılmaz.
+Durum
+
+Örnek — okunuş — anlam
+
+Not
+
+Zorunlu: artikel + isim
+
+les amis [lezami] — arkadaşlar
+
+s → [z]
+
+Zorunlu: zamir + fiil
+
+nous avons [nuzavɔ̃ ] — sahibiz
+
+s → [z]
+
+Zorunlu: sıfat + isim
+
+petit enfant [pətitɑ̃ fɑ̃ ] — küçük çocuk
+
+t duyulur
+
+Yasak: et sonrası
+
+et elle [e ɛl] — ve o (kadın)
+
+araya [t] koyma
+
+Yasak: tekil isimden sonra
+
+un enfant intelligent [œ̃nɑ̃ fɑ̃ ɛ̃teliʒɑ̃ ] — zeki bir çocuk
+
+enfant sonrası t bağlanmaz
+
+Yasak: h aspiré başlangıcı
+
+les héros [le eʁo] — kahramanlar
+
+h sesi yok ama bağlantıyı engeller
+
+İsteğe bağlı, resmî üslup
+
+pas encore [pa(z)ɑ̃ kɔʁ] — henüz değil
+
+gündelik dilde genellikle yapılmaz
+
+Enchaînement
+
+avec elle [avɛkɛl] — onunla
+
+k zaten okunur
+
+4
+
+H muet [a müɛ] — bağlantıya açık sessiz h: l'homme [lɔm] — adam; les hommes [lezɔm] — adamlar. H
+aspiré [a aspiʁe] — kendisi telaffuz edilmeyen ama kesme ve liaison'ı engelleyen h: le héros [lə eʁo] —
+kahraman; les héros [le eʁo] — kahramanlar. Sözcüğün h türünü sözlükten kontrol et.
+On örnek: les amis [lezami] — arkadaşlar; des enfants [dezɑ̃ fɑ̃ ] — çocuklar; un ami [œ̃nami] — bir arkadaş;
+deux amis [døzami] — iki arkadaş; vous avez [vuzave] — sahipsiniz; ils ont [ilzɔ̃ ] — sahipler; petit ami
+[pətitami] — erkek arkadaş; grand homme [gʁɑ̃ tɔm] — büyük adam; avec elle [avɛkɛl] — onunla; les héros
+[le eʁo] — kahramanlar.
+Yaygın hata: et elle [e ɛl] — ve o için liaison yapmak; her H öncesi bağlanmak. İpucu: Bağlanmaya izin
+veren öbekleri kart olarak öğren. Mini alıştırma (5): 1 les amis içindeki s duyulur mu? 2 et elle içinde t
+eklenir mi? 3 avec elle hangi olay? 4 les héros liaison alır mı? 5 l'homme içinde kesme olur mu? Yanıt: evet
+[z], hayır, enchaînement, hayır, evet.
+
+5. Sesli ünsüzler, sessiz sonlar ve ilk okuma
+Fransızca u [y], dudaklar yuvarlakken Türkçe i üretmeye benzer: tu [ty] — sen. ou [u] Türkçe u'ya yaklaşır:
+tout [tu] — her şey. r [ʁ] boğazın gerisinde yapılır: rue [ʁy] — sokak. oi çoğunlukla [wa]: moi [mwa] — ben/
+bana. ch çoğunlukla [ʃ]: chat [ʃa] — kedi. gn [ɲ]: montagne [mɔ̃ taɲ] — dağ. Son -ent üçüncü çoğul fiilde
+çoğunlukla sessizdir: ils parlent [il paʁl] — konuşuyorlar.
+İlk okuma 1: Bonjour. Je m'appelle Lila. [bɔ̃ ʒuʁ. ʒə mapɛl lila] — Merhaba. Adım Lila.
+İlk okuma 2: Un ami arrive à Paris. [œ̃nami aʁiv a paʁi] — Bir arkadaş Paris'e geliyor.
+İlk okuma 3: Les enfants sont ici. [lezɑ̃ fɑ̃ sɔ̃ tisi] — Çocuklar burada.
+Önce metni dinle; ardından işaretlediğin liaison ve burun ünlülerini belirterek oku.
+
+İlk 50 sözcük ve kalıp
+#
+
+Fransızca [ses] — Türkçe
+
+#
+
+Fransızca [ses] — Türkçe
+
+1
+
+bonjour [bɔ̃ ʒuʁ] — merhaba
+
+26
+
+l'école [lekɔl] — okul
+
+2
+
+bonsoir [bɔ̃ swaʁ] — iyi akşamlar
+
+27
+
+le livre [lə livʁ] — kitap
+
+3
+
+salut [saly] — selam
+
+28
+
+la table [la tabl] — masa
+
+4
+
+au revoir [o ʁəvwaʁ] — hoşça kal
+
+29
+
+la chaise [la ʃɛz] — sandalye
+
+5
+
+merci [mɛʁsi] — teşekkürler
+
+30
+
+la maison [la mɛzɔ̃ ] — ev
+
+6
+
+oui [wi] — evet
+
+31
+
+la rue [la ʁy] — sokak
+
+7
+
+non [nɔ̃ ] — hayır
+
+32
+
+la ville [la vil] — şehir
+
+8
+
+s'il vous plaît [sil vu plɛ] — lütfen
+
+33
+
+le café [lə kafe] — kahve
+
+9
+
+pardon [paʁdɔ̃ ] — afedersiniz
+
+34
+
+le thé [lə te] — çay
+
+10
+
+excusez-moi [ɛkskyze mwa] — affedersiniz
+
+35
+
+l'eau [lo] — su
+
+11
+
+d'accord [dakɔʁ] — tamam
+
+36
+
+le pain [lə pɛ̃] — ekmek
+
+12
+
+très bien [tʁɛ bjɛ̃] — çok iyi
+
+37
+
+le chat [lə ʃa] — kedi
+
+13
+
+ça va [sa va] — iyi gidiyor/nasılsın
+
+38
+
+le chien [lə ʃjɛ̃] — köpek
+
+14
+
+à bientôt [a bjɛ̃to] — yakında görüşürüz
+
+39
+
+l'ami [lami] — arkadaş (eril)
+
+15
+
+bonne nuit [bɔn nɥi] — iyi geceler
+
+40
+
+l'amie [lami] — arkadaş (dişil)
+
+16
+
+je [ʒə] — ben
+
+41
+
+la femme [la fam] — kadın
+
+17
+
+tu [ty] — sen
+
+42
+
+l'homme [lɔm] — adam
+
+18
+
+vous [vu] — siz
+
+43
+
+l'enfant [lɑ̃ fɑ̃ ] — çocuk
+
+19
+
+il [il] — o (erkek)
+
+44
+
+la mère [la mɛʁ] — anne
+
+20
+
+elle [ɛl] — o (kadın)
+
+45
+
+le père [lə pɛʁ] — baba
+
+5
+
+#
+
+Fransızca [ses] — Türkçe
+
+#
+
+Fransızca [ses] — Türkçe
+
+21
+
+ici [isi] — burada
+
+46
+
+le jour [lə ʒuʁ] — gün
+
+22
+
+là [la] — orada
+
+47
+
+la nuit [la nɥi] — gece
+
+23
+
+où [u] — nerede
+
+48
+
+le temps [lə tɑ̃ ] — zaman/hava
+
+24
+
+et [e] — ve
+
+49
+
+le nom [lə nɔ̃ ] — ad
+
+25
+
+ou [u] — veya
+
+50
+
+la date [la dat] — tarih
+
+Öğrenme tavsiyeleri ve hata listesi
+Her gün beş dakikalık üç kayıt yap: [y]/[u] karşılaştırması, nazal çiftler ve kısa diyalog. Ayna karşısında u için
+dudakları yuvarla; söylenmeyen sessizi ağızda ayrıca kapatma. Kaydı özgün konuşmayla karşılaştır. Kaynak
+ses olmadan Türkçe yazım tek başına yeterli değildir. Hata günlüğüne özellikle ou/où [u/u] — veya/nerede;
+bon/bonne [bɔ̃ /bɔn] — iyi eril/dişil; le héros/l'homme [lə eʁo/lɔm] — kahraman/adam çiftlerini yaz.
+
+Modül özeti (Cheat Sheet)
+Konu
+
+Kısa kural
+
+é, è
+
+[e] ve [ɛ] karşıtlığı çoğu sözcükte önemlidir.
+
+Nazal
+
+Ünlü + n/m her zaman ayrı n/m değildir; sonraki harfi kontrol et.
+
+Liaison
+
+Bağlam izin veriyorsa normalde suskun son sessiz duyulur.
+
+Enchaînement
+
+Zaten duyulan sessiz sonraki ünlüye akar.
+
+H aspiré
+
+H duyulmaz, ancak elision ve liaison'ı engeller.
+
+u/ou
+
+[y] / [u] ayrı seslerdir.
+
+Modül alıştırmaları — 25 soru
+1. pain [pɛ̃] — ekmek sözcüğündeki nazal hangisi? 2. bon [bɔ̃ ] — iyi ile bonne [bɔn] — iyi (dişil)
+arasındaki ses farkı ne? 3. tu [ty] — sen ile tout [tu] — her şey hangi sesle ayrılır? 4. “Nerede”
+anlamındaki sözcüğü yaz. 5. “Veya” anlamındaki sözcüğü yaz. 6. les amis [lezami] — arkadaşlar
+içinde liaison harfi neye dönüşür? 7. et elle [e ɛl] — ve o arasında [t] söylenir mi? 8. avec elle [avɛkɛl]
+— onunla hangi ses olayına örnektir? 9. le héros [lə eʁo] — kahraman elision alır mı? 10. l'homme
+[lɔm] — adam alır mı? 11. garçon [gaʁsɔ̃ ] — erkek çocuk içindeki ç sesini yaz. 12. femme [fam] —
+kadın nasıl telaffuz edilir? 13. Noël [nɔɛl] — Noel içindeki ë işlevi nedir? 14. mère [mɛʁ] — anne
+içindeki è hangi ünlüye yaklaşır? 15. été [ete] — yaz içindeki é? 16. sans [sɑ̃ ] — olmadan hangi
+nazaldir? 17. main [mɛ̃] — el hangi nazaldir? 18. nom [nɔ̃ ] — ad hangi nazaldir? 19. un [œ̃] — bir (eril)
+bütün bölgelerde ayrı [œ̃] olarak mı korunur? 20. ils parlent [il paʁl] — onlar konuşuyorlar içindeki -ent
+duyulur mu? 21. chat [ʃa] — kedi içindeki ch? 22. moi [mwa] — ben/bana içindeki oi? 23.
+“Teşekkürler” sözcüğünü yaz. 24. “Hoşça kal” kalıbını yaz. 25. “Bir arkadaş” anlamındaki un ami
+[œ̃nami] örneğinde liaison olur mu?
+Yanıtlar: 1 [ɛ̃]; 2 ilkinde nazal [ɔ̃ ], ikincide [ɔn]; 3 [y]/[u]; 4 où [u] — nerede; 5 ou [u] — veya; 6 [z]; 7 hayır;
+8 enchaînement; 9 hayır; 10 evet; 11 [s]; 12 [fam]; 13 ünlüleri ayırır; 14 [ɛ]; 15 [e]; 16 [ɑ̃ ]; 17 [ɛ̃]; 18 [ɔ̃ ]; 19
+hayır; 20 hayır; 21 [ʃ]; 22 [wa]; 23 merci [mɛʁsi] — teşekkürler; 24 au revoir [o ʁəvwaʁ] — hoşça kal; 25
+evet, [n].
+
+Modül testi — 15 soru
+Her soru 1 puan. 1-5 çoktan seçmeli; 6-9 boşluk; 10-12 çeviri; 13-15 düzeltme.
+1. pain [pɛ̃] — ekmek: A [ɑ̃ ] B [ɛ̃] C [ɔ̃ ]. 2. bon [bɔ̃ ] — iyi: A [ɔ̃ ] B [u] C [ɛ]. 3. les amis [lezami] —
+arkadaşlar: A [s] B [z] C sessiz. 4. et elle [e ɛl] — ve o: A [t] var B [z] var C liaison yok. 5. rue [ʁy] —
+sokak: A [u] B [y] C [i]. 6. “Nerede” = . 7. “Veya” = . 8. l'___ [lɔm] — adam. 9. le ___ [lə eʁo] —
+
+6
+
+kahraman. 10. “Teşekkürler” yaz. 11. “İyi akşamlar” yaz. 12. “Bir arkadaş” yaz. 13. Yanlış
+seslendirmeyi düzelt: bonne [bɔ̃ ] — iyi (dişil). 14. Yanlış bağlamayı düzelt: et elle [etɛl] — ve o. 15.
+Yanlış yazımı düzelt: la homme — adam.
+Yanıt anahtarı: 1 B, 2 A, 3 B, 4 C, 5 B; 6 où [u] — nerede; 7 ou [u] — veya; 8 homme [ɔm] — adam; 9 héros
+[eʁo] — kahraman; 10 merci [mɛʁsi] — teşekkürler; 11 bonsoir [bɔ̃ swaʁ] — iyi akşamlar; 12 un ami [œ̃nami]
+— bir arkadaş; 13 bonne [bɔn] — iyi (dişil); 14 et elle [e ɛl] — ve o; 15 l'homme [lɔm] — adam.
+
+Dinleme metni — iki diyalog
+Diyalog A:
+— Bonjour ! [bɔ̃ ʒuʁ] — Merhaba!
+— Bonjour ! Ça va ? [bɔ̃ ʒuʁ. sa va] — Merhaba! Nasılsın?
+— Très bien, merci. Et vous ? [tʁɛ bjɛ̃ mɛʁsi. e vu] — Çok iyiyim, teşekkürler. Ya siz?
+— Très bien. [tʁɛ bjɛ̃] — Çok iyi.
+Diyalog B:
+— Un café ou un thé ? [œ̃ kafe u œ̃ te] — Bir kahve mi, bir çay mı?
+— Un thé, s'il vous plaît. [œ̃ te sil vu plɛ] — Bir çay, lütfen.
+— D'accord. Merci ! [dakɔʁ mɛʁsi] — Tamam. Teşekkürler!
+Dinleme yöntemi: Bir seslendirme aracında Fransızca sesi dinle; iki kez metne bakmadan “kahve mi çay
+mı” ve “resmî hitap var mı” sorularını cevapla. Yazılı metin gerçek ses kaydının yerini tutmaz. ChatGPT'den
+diyalogları sırayla doğal hızda ve yavaşça seslendirmesini iste; sonra özgün Fransızca konuşur sesiyle
+karşılaştır.
+
+Konuşma rolü
+Sen müşteri, yapay zekâ garson olsun. Önce bonjour [bɔ̃ ʒuʁ] — merhaba de; un thé, s'il vous plaît [œ̃ te sil
+vu plɛ] — bir çay, lütfen iste; merci [mɛʁsi] — teşekkürler ve au revoir [o ʁəvwaʁ] — hoşça kal ile bitir. Üç tur
+sesli tekrar yap; son turda metne bakma.
+Kendini değerlendirme
+
+Henüz
+
+Yardımla
+
+Bağımsız
+
+26 harfi söyleyip adımı heceleyebiliyorum
+
+□
+
+□
+
+□
+
+[y] ile [u] seslerini ayırt edebiliyorum
+
+□
+
+□
+
+□
+
+Dört nazal örüntüyü örnekle tanıyorum
+
+□
+
+□
+
+□
+
+Zorunlu ve yasak liaison örneği verebiliyorum
+
+□
+
+□
+
+□
+
+50 kelimeden en az 40'ını bakmadan tanıyorum
+
+□
+
+□
+
+□
+
+Sonraki tekrar: Modül 2'de selamlaşmalar ve resmî hitap yeniden kullanılacaktır.
+
+7
+
